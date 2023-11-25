@@ -5,11 +5,11 @@ Este README ofrece una lista de aplicaciones útiles para proyectos de programac
 ## Links
 
 #### Help
-- **Link**: [Help!](https://github.com/Kibzai/Programs/HELP.md)
+- **Link**: [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
 - **Description**: Searching for Help?
 
 #### Kibza
-- **Link**: [Kibza](https://github.com/Kibzai/Programs/KIBZA.md)
+- **Link**: [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md)
 - **Description**: Kibza's Programs Server.
 
 ## Apps

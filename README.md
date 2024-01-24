@@ -19,10 +19,17 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 
 ## WWW
 
-- [Chat GPT](https://chat.openai.com): Machine Learning Language Model.
-- [Wikipedia](https://www.wikipedia.org): Wikipedia is a valuable resource for understanding programming concepts, history, and terminology. It's a great starting point to explore various aspects of computer science.
-- [Google](https://www.google.com): Google is an essential tool for any programmer. Beginners can use it to search for programming tutorials, resources, forums, and answers to specific coding problems.
-- [Fontra](https://fontra.xyz): The browser-based Font Editor.
+- [GitHub](https://github.com): Plataforma de desarrollo colaborativo para alojar y revisar código, gestionar proyectos y construir software junto a otros desarrolladores.
+- [Wikipedia](https://www.wikipedia.org): Wikipedia es un recurso valioso para comprender conceptos, historia y terminología de programación. Es un excelente punto de partida para explorar varios aspectos de la ciencia de la computación.
+- [Internet Archive](https://archive.org): Una biblioteca digital de sitios web, música, libros y más. El "Wayback Machine" permite ver cómo eran los sitios web en el pasado.
+- [Google](https://www.google.com): Google es una herramienta esencial para cualquier programador. Los principiantes pueden usarlo para buscar tutoriales de programación, recursos, foros y respuestas a problemas de codificación específicos.
+- [DuckDuckGo](https://www.duckduckgo.com): Un motor de búsqueda que prioriza la privacidad de los usuarios, no rastrea ni almacena información personal de las búsquedas.
+- [Stack Overflow](https://stackoverflow.com): Una comunidad de programadores donde puedes hacer preguntas y encontrar respuestas a problemas de codificación.
+- [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
+- [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.
+- [CodePen](https://codepen.io): Un entorno de desarrollo social para desarrolladores front-end, útil para probar fragmentos de código y ver cómo funcionan.
+- [Chat GPT](https://chat.openai.com): Modelo de Lenguaje de Aprendizaje Automático.
+- [Fontra](https://fontra.xyz): Editor de Fuentes basado en navegador.
 
 ## Programas
 

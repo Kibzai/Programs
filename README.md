@@ -29,6 +29,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 ### Windows
 
+#### Conectar
+
 - [Telegram](https://telegram.org): Telegram is a messaging app with numerous programming groups and channels. Beginners can join these to seek advice, collaborate, and stay updated with the latest programming trends.
 - [Whatsapp](https://www.whatsapp.com/): Aplicación de mensajería popular, útil para comunicarse con equipos de desarrollo y mantener el contacto con otros programadores.
 - [Discord](https://discord.com/): Plataforma de comunicación por voz, texto y video, ampliamente utilizada por comunidades de desarrolladores y jugadores.
@@ -36,14 +38,23 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Slack](https://slack.com/): Plataforma de comunicación para equipos de trabajo, que facilita la organización de proyectos y la colaboración en tiempo real.
 - [Zoom](https://zoom.us/): Aplicación para videollamadas y reuniones en línea, esencial para equipos de trabajo remotos y presentaciones en línea.
 - [Webex](https://www.webex.com/): Herramienta de videoconferencia para colaboración empresarial, útil para reuniones en línea y trabajo remoto.
+
+#### Buscadores, Exploradores
+
 - [Opera GX](https://www.opera.com/es/gx): Navegador web orientado a jugadores, con características únicas como limitadores de CPU y RAM.
 - [Tor Browser](https://www.torproject.org/): Navegador enfocado en la privacidad y el anonimato, ideal para desarrolladores preocupados por la seguridad en línea.
 - [Firefox](https://www.mozilla.org/es-ES/firefox/new/): Navegador web rápido y personalizable, con una fuerte enfoque en la privacidad y seguridad del usuario.
 - [Chrome](https://www.google.com/intl/es/chrome/): Navegador de Google, conocido por su rapidez y eficiencia, ampliamente utilizado para desarrollo web.
 - [Edge](https://www.microsoft.com/es-es/edge): El navegador de Microsoft, integrado en Windows, con características para una navegación rápida y segura.
+
+#### Control Remoto
+
 - [Parsec](https://parsec.app/): Software para acceso remoto y juegos en la nube, permite a los desarrolladores colaborar y compartir su escritorio de manera eficiente.
 - [Chrome Remote Desktop](https://remotedesktop.google.com/): Solución de acceso remoto de Google, facilita la colaboración y el acceso a computadoras de forma remota.
 - [TeamViewer](https://www.teamviewer.com/es/): Software de control remoto y reuniones en línea, útil para soporte técnico y colaboración a distancia.: Herramientas esenciales para desarrolladores, permiten interactuar con el sistema operativo y ejecutar comandos.
+
+#### Lenguajes o Tecnologías
+
 - [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
 - [Node.js](https://nodejs.org/es/), [nvm](https://github.com/nvm-sh/nvm): Node.js es un entorno de ejecución para JavaScript en el servidor. nvm permite gestionar múltiples versiones de Node.js.
 - [Python](https://www.python.org/): Lenguaje de programación versátil y fácil de aprender, muy utilizado en desarrollo web, ciencia de datos y automatización.
@@ -56,6 +67,9 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Webpack](https://webpack.js.org/): Empaquetador de módulos para aplicaciones JavaScript, optimiza el código y mejora el tiempo de carga.
 - [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
 - [Docker Desktop](https://www.docker.com/products/docker-desktop): Interfaz de usuario para Docker, facilita la gestión de contenedores y aplicaciones Docker en escritorios.
+
+#### Desarrollo
+
 - [Obsidian](https://obsidian.md/): Aplicación de toma de notas y gestión de conocimiento, basada en archivos markdown y enlaces internos.
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de código fuente desarrollado por Microsoft, con soporte para múltiples lenguajes y extensiones.
 - [Notepad++](https://notepad-plus-plus.org/): Editor de texto y código fuente con características como resaltado de sintaxis y plegado de código.
@@ -79,18 +93,6 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Utilidad para overclocking de tarjetas gráficas, permitiendo mejorar el rendimiento de los juegos y aplicaciones gráficas.
 - [ClamAV](https://www.clamav.net/): Antivirus de código abierto diseñado para detectar troyanos, virus, malware y otras amenazas maliciosas.
 - [qBittorrent](https://www.qbittorrent.org/): Cliente de torrent de código abierto, ligero y fácil de usar.
-- [Voicemeter Banana](https://vb-audio.com/Voicemeeter/banana.htm): Mezclador de audio virtual para Windows, permite gestionar entradas y salidas de audio con efectos y mezclas avanzadas.
-- [OBS](https://obsproject.com/es): Software para grabación y transmisión en vivo, ampliamente utilizado para streaming de juegos y creación de contenido.
-- [Handbrake](https://handbrake.fr/): Herramienta para convertir video de casi cualquier formato a una selección de códecs modernos y ampliamente compatibles.
-- [4k VideoDownloader](https://www.4kdownload.com/products/product-videodownloader): Programa para descargar videos, listas de reproducción, canales y subtítulos de YouTube, Facebook, Vimeo y otros sitios de video en alta calidad.
-- [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
-- [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
-- [Office](https://www.microsoft.com/es-es/microsoft-365/get-started-with-office-2019): Suite de productividad de Microsoft, incluye Word, Excel, PowerPoint, entre otros.
-- [Notion](https://www.notion.so/): Herramienta para la organización de proyectos, notas y bases de datos, útil para la gestión del conocimiento y la colaboración en equipo.
-- [Trello](https://trello.com/): Aplicación de gestión de proyectos basada en el sistema Kanban, facilita la organización de tareas y proyectos.
-- [GN MIDI](https://www.gnmidi.com/): GNMIDI 3 Professional (MIDI Tools for Windows) is a Karaoke MIDI song player, batch converter and editor. It inserts and synchronises lyrics into MIDI and mp3 songs.
-- [ASIO4ALL](http://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
-- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
 - [Windows Subsystem for Linux Update](https://docs.microsoft.com/en-us/windows/wsl/install): Actualización para ejecutar un subsistema de Linux en Windows, permitiendo usar herramientas de Linux en el entorno de Windows.
 - [Steam](https://store.steampowered.com/?l=spanish): Plataforma de distribución digital de videojuegos, ofrece una amplia biblioteca de juegos y herramientas para desarrolladores.
 - [Blender](https://www.blender.org/): Software de código abierto para modelado, animación, renderizado y creación de gráficos en 3D.
@@ -110,6 +112,21 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [PINN: OS installer for Raspberry Pi](https://github.com/procount/pinn): Herramienta para instalar múltiples sistemas operativos en una Raspberry Pi.
 - [Raspberry Pi Imager](https://www.raspberrypi.com/software/): Herramienta oficial para instalar sistemas operativos en tarjetas SD para Raspberry Pi.
 - [Terminal](https://docs.microsoft.com/es-es/windows/terminal/): La nueva terminal de Windows, que combina Command Prompt, PowerShell, y WSL en una sola aplicación con pestañas.
+- [Voicemeter Banana](https://vb-audio.com/Voicemeeter/banana.htm): Mezclador de audio virtual para Windows, permite gestionar entradas y salidas de audio con efectos y mezclas avanzadas.
+- [OBS](https://obsproject.com/es): Software para grabación y transmisión en vivo, ampliamente utilizado para streaming de juegos y creación de contenido.
+- [Handbrake](https://handbrake.fr/): Herramienta para convertir video de casi cualquier formato a una selección de códecs modernos y ampliamente compatibles.
+- [4k VideoDownloader](https://www.4kdownload.com/products/product-videodownloader): Programa para descargar videos, listas de reproducción, canales y subtítulos de YouTube, Facebook, Vimeo y otros sitios de video en alta calidad.
+- [Office](https://www.microsoft.com/es-es/microsoft-365/get-started-with-office-2019): Suite de productividad de Microsoft, incluye Word, Excel, PowerPoint, entre otros.
+- [Notion](https://www.notion.so/): Herramienta para la organización de proyectos, notas y bases de datos, útil para la gestión del conocimiento y la colaboración en equipo.
+- [Trello](https://trello.com/): Aplicación de gestión de proyectos basada en el sistema Kanban, facilita la organización de tareas y proyectos.
+
+#### Studio
+
+- [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
+- [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
+- [GN MIDI](https://www.gnmidi.com/): GNMIDI 3 Professional (MIDI Tools for Windows) is a Karaoke MIDI song player, batch converter and editor. It inserts and synchronises lyrics into MIDI and mp3 songs.
+- [ASIO4ALL](http://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
+- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
 
 ### Linux
 

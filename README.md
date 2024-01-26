@@ -31,6 +31,19 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [Chat GPT](https://chat.openai.com): Modelo de Lenguaje de Aprendizaje Automático.
 - [Fontra](https://fontra.xyz): Editor de Fuentes basado en navegador.
 
+### HTML
+
+### CSS
+- [CSSGradient](https://cssgradient.io/): A tool for creating CSS gradient backgrounds, with a user-friendly interface that allows for the customization of colors and gradient styles.
+- [Coolors](https://coolors.co/): 
+  - [Color Palette Generator](https://coolors.co/fcf7f8-ced3dc-aba9c3-275dad-5b616a): A feature to generate color palettes, providing a convenient way to create harmonious color schemes.
+  - [Trending Palettes](https://coolors.co/palettes/trending): Explore and get inspiration from trending color palettes, useful for design projects.
+  - [Image Palette Picker](https://coolors.co/image-picker): Allows users to upload a photo and automatically extract a color palette from it, useful for matching colors to images.
+- [CSS Matic Box Shadow Editor](https://www.cssmatic.com/box-shadow): A simple and intuitive tool for creating and customizing CSS box shadows, with live previews and code snippets.
+- [CSS Tricks](https://css-tricks.com/): A website full of CSS tips, tricks, and techniques, along with articles and tutorials for learning CSS.
+- [Flexbox Froggy](https://flexboxfroggy.com/): An interactive game that teaches CSS Flexbox in a fun and engaging way.
+- [Grid Garden](https://cssgridgarden.com/): A similar game to Flexbox Froggy but focused on teaching CSS Grid layout through interactive challenges.
+
 ## Programas
 
 Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se recomienda instalar en el disco del sistema operativo.

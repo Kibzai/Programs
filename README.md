@@ -1,9 +1,10 @@
 # Programas & Herramientas
 
 ``` bash
-# Internet: "http(s)://\\ `%20` para escribir espacios en direcciones."
+# Internet: "@http(s)://\\ `%20` para escribir espacios en direcciones."
 # [(< Obsidian: [[Link]] >)]
 # [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
+# [ROUTER?](http://192.168.0.1/) || [LOCAL](http://localhost:3000?)
 ```
 
 ## Inicio
@@ -25,13 +26,19 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [Google](https://www.google.com): Google es una herramienta esencial para cualquier programador. Los principiantes pueden usarlo para buscar tutoriales de programación, recursos, foros y respuestas a problemas de codificación específicos.
 - [DuckDuckGo](https://www.duckduckgo.com): Un motor de búsqueda que prioriza la privacidad de los usuarios, no rastrea ni almacena información personal de las búsquedas.
 - [Stack Overflow](https://stackoverflow.com): Una comunidad de programadores donde puedes hacer preguntas y encontrar respuestas a problemas de codificación.
-- [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
-- [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.
-- [CodePen](https://codepen.io): Un entorno de desarrollo social para desarrolladores front-end, útil para probar fragmentos de código y ver cómo funcionan.
 - [Chat GPT](https://chat.openai.com): Modelo de Lenguaje de Aprendizaje Automático.
-- [Fontra](https://fontra.xyz): Editor de Fuentes basado en navegador.
+- [Bahia](https://1337x.to/): Piratas.
 
 ### HTML
+- [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.
+- [HTML Validator](https://validator.w3.org/): Una herramienta que permite validar el marcado de HTML, asegurándose de que cumple con los estándares y es compatible con diversos navegadores.
+- [Postman](https://www.postman.com/): Una plataforma colaborativa para el desarrollo de APIs que facilita la construcción, prueba y documentación de APIs. Postman ofrece una interfaz de usuario intuitiva para enviar peticiones HTTP, ver respuestas y automatizar pruebas.
+- [Bootstrap](https://getbootstrap.com/): Un framework de diseño web para HTML, CSS y JS que facilita el diseño de sitios web responsivos y móviles primero, con una amplia gama de componentes y plantillas.
+- [Emmet](https://emmet.io/): Un plugin para varios editores de texto que proporciona atajos de teclado y herramientas para escribir HTML y CSS más rápido y eficientemente.
+- [CodePen](https://codepen.io/): Una plataforma de desarrollo social para front-end donde puedes escribir código en el navegador y ver los resultados en tiempo real, ideal para experimentar con HTML, CSS y JavaScript.
+- [HTML5 Boilerplate](https://html5boilerplate.com/): Una plantilla de inicio que incluye lo esencial para ayudarte a construir sitios web rápidos, robustos y adaptables. 
+- [Sublime Text](https://www.sublimetext.com/): Un editor de texto sofisticado para código, marcado y prosa, con múltiples características para mejorar la productividad en HTML y otros lenguajes.
+- [Fontra](https://fontra.xyz): Editor de Fuentes basado en navegador.
 
 ### CSS
 - [CSSGradient](https://cssgradient.io/): A tool for creating CSS gradient backgrounds, with a user-friendly interface that allows for the customization of colors and gradient styles.
@@ -43,6 +50,72 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [CSS Tricks](https://css-tricks.com/): A website full of CSS tips, tricks, and techniques, along with articles and tutorials for learning CSS.
 - [Flexbox Froggy](https://flexboxfroggy.com/): An interactive game that teaches CSS Flexbox in a fun and engaging way.
 - [Grid Garden](https://cssgridgarden.com/): A similar game to Flexbox Froggy but focused on teaching CSS Grid layout through interactive challenges.
+
+### JAVASCRIPT
+
+- [Node.js](https://nodejs.org/es/), [nvm](https://github.com/nvm-sh/nvm): Node.js es un entorno de ejecución para JavaScript en el servidor, ideal para construir aplicaciones escalables. nvm es un gestor de versiones que permite instalar y utilizar diferentes versiones de Node.js fácilmente.
+- [Vue.js](https://vuejs.org/): Un marco progresivo de JavaScript para construir interfaces de usuario y aplicaciones de una sola página.
+- [React](https://es.reactjs.org/): Una biblioteca de JavaScript para construir interfaces de usuario, creada por Facebook, que permite desarrollar aplicaciones web de una manera eficiente y sencilla.
+- [Angular](https://angular.io/): Un framework de desarrollo para construir aplicaciones web dinámicas, mantenido por Google, que utiliza TypeScript como lenguaje principal.
+- [Webpack](https://webpack.js.org/): Un empaquetador de módulos estáticos para aplicaciones JavaScript modernas que ayuda a manejar activos y dependencias de manera eficiente.
+- [p5.js](https://p5js.org/): Una biblioteca de JavaScript que simplifica la programación creativa en la web. Está basada en Processing y es excelente para el arte digital, visualizaciones interactivas y proyectos educativos, facilitando el dibujo en el canvas de HTML5 y la interacción con el DOM.
+- [Svelte](https://svelte.dev/): Un innovador framework de JavaScript que permite crear interfaces de usuario rápidas. La particularidad de Svelte es que compila los componentes a código altamente eficiente en tiempo de compilación, en lugar de interpretarlos en tiempo de ejecución, lo que resulta en aplicaciones más ligeras y rápidas.
+- [SvelteKit](https://kit.svelte.dev/): Una plataforma de construcción de aplicaciones para Svelte, diseñada para desarrollar aplicaciones web más complejas y robustas. Ofrece renderizado del lado del servidor, generación de sitios estáticos y una experiencia de desarrollo optimizada, todo integrado de manera nativa con Svelte.
+- [Vite](https://vitejs.dev/): Un moderno frontend build tool que proporciona una experiencia de desarrollo más rápida y eficiente. Utiliza Rollup para el empaquetado de producción y aprovecha las importaciones de módulos ES nativos para un reinicio rápido del servidor y actualizaciones en caliente.
+- [Electron](https://www.electronjs.org/): Una plataforma que permite desarrollar aplicaciones de escritorio nativas con tecnologías web como JavaScript, HTML y CSS. Es utilizada en aplicaciones populares como Slack, Visual Studio Code y Discord.
+- [TypeScript](https://www.typescriptlang.org/): Un superset de JavaScript que añade tipos estáticos opcionales. TypeScript facilita el desarrollo de aplicaciones grandes y complejas, proporcionando una mejor herramienta de autocompletado, comprensión de código y prevención de errores comunes.
+- [Puppeteer](https://pptr.dev/): Una biblioteca de Node.js que proporciona una API de alto nivel para controlar Chrome o Chromium sobre el Protocolo DevTools. Es ampliamente utilizada para automatización de pruebas de navegadores, generación de capturas de pantalla y páginas web en PDF, y scraping de contenido web.
+- [Cypress](https://www.cypress.io/): Un framework de pruebas de extremo a extremo totalmente en JavaScript, diseñado para facilitar la escritura, ejecución y depuración de pruebas para aplicaciones web.
+- [Yarn](https://yarnpkg.com/): Un gestor de paquetes rápido, confiable y seguro para Node.js que ayuda a automatizar la instalación, actualización, configuración y eliminación de paquetes npm.
+- [Next.js](https://nextjs.org/): Un framework para aplicaciones de React que permite renderizado del lado del servidor y generación de sitios estáticos, facilitando la creación de aplicaciones web rápidas y optimizadas para SEO.
+- [Gatsby](https://www.gatsbyjs.com/): Un framework basado en React para construir sitios web y aplicaciones que son rápidos por defecto. Utiliza GraphQL para manejar datos y viene con una serie de plugins para extender su funcionalidad.
+- [Three.js](https://threejs.org/): Una biblioteca de JavaScript para crear y mostrar gráficos 3D animados en un navegador web, utilizando WebGL. Es ideal para desarrollar visualizaciones de datos en 3D, juegos, y efectos visuales interactivos.
+- [Express.js](https://expressjs.com/es/): Un framework minimalista y flexible para Node.js que proporciona un conjunto robusto de características para desarrollar aplicaciones web y móviles, y APIs de una manera rápida y sencilla.
+- [RxJS](https://rxjs.dev/): Una biblioteca para programación reactiva utilizando Observables, que facilita la composición de código asíncrono y basado en eventos, común en aplicaciones web modernas.
+- [Bun](https://bun.sh/docs/quickstart): Bun es un runtime y paquete de herramientas de JavaScript que promete ser más rápido que Node.js y Deno, optimizado para un arranque rápido y un rendimiento eficiente.
+- [ngrok](https://ngrok.com/): Herramienta que permite exponer localmente servidores a través de túneles seguros a internet, facilitando pruebas y demostraciones de aplicaciones locales.
+- [Localtunnel](https://theboroer.github.io/localtunnel-www/): Similar a ngrok, Localtunnel permite exponer tu servidor local a la web, lo que resulta útil para compartir tu trabajo con clientes o colaboradores.
+- [MongoDB Atlas Sample Dataset](https://www.mongodb.com/docs/atlas/sample-data/sample-mflix/): Conjunto de datos de ejemplo para MongoDB Atlas que se puede usar para experimentar con datos reales y aprender a manejar bases de datos NoSQL.
+- [Summernote](https://github.com/summernote/summernote): Un editor WYSIWYG simple y poderoso para la web, que se implementa fácilmente y ofrece muchas opciones de personalización.
+- [D3.js](https://d3js.org/): Una biblioteca de JavaScript para manipular documentos basados en datos, que permite producir gráficos y visualizaciones de datos dinámicos y atractivos.
+
+### JAVA
+
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/): Un potente IDE para Java con soporte para frameworks modernos y tecnologías, proporcionando una experiencia de desarrollo inteligente y eficiente.
+- [Eclipse](https://www.eclipse.org/): Uno de los IDE más populares para Java, conocido por su flexibilidad y extensibilidad, con un amplio ecosistema de plugins y herramientas.
+- [Spring Framework](https://spring.io/): Un framework de aplicación y contenedor de inversión de control para la plataforma Java, ampliamente utilizado para construir aplicaciones empresariales.
+- [Maven](https://maven.apache.org/): Una herramienta de gestión y comprensión de proyectos de software que facilita la construcción y manejo de dependencias de proyectos Java.
+- [JUnit](https://junit.org/junit5/): Un framework simple para escribir y ejecutar pruebas repetibles en Java, esencial para el desarrollo impulsado por pruebas (TDD).
+- [Apache Tomcat](http://tomcat.apache.org/): Un contenedor de servlets de código abierto que implementa las especificaciones de Java Servlet, JavaServer Pages (JSP) y Java WebSocket, utilizado para desplegar aplicaciones web Java.
+- [VisualVM](https://visualvm.github.io/): Una herramienta de monitoreo, troubleshooting y profiling integral para la máquina virtual de Java (JVM).
+- [OpenJDK](https://openjdk.java.net/): Una implementación de código abierto de la plataforma Java Standard Edition. Es una de las implementaciones más populares de Java y es la base para muchas distribuciones de JDK, como AdoptOpenJDK.
+- [Java Development Kit (JDK)](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html): El kit de desarrollo de software oficial para Java, proporcionado por Oracle. Incluye el entorno de ejecución de Java (JRE) y herramientas para desarrollar, depurar y monitorear aplicaciones Java.
+- [Apache NetBeans](https://netbeans.apache.org/): Un IDE gratuito y de código abierto para desarrolladores de Java que soporta una amplia gama de lenguajes de programación y marcos, con énfasis en aplicaciones web.
+- [Gradle](https://gradle.org/): Una herramienta de automatización de construcción que utiliza un lenguaje basado en Groovy o Kotlin. Es especialmente útil para proyectos Java, Scala, Android, y C/C++.
+- [SonarQube](https://www.sonarqube.org/): Una plataforma para evaluar la calidad del código, que analiza y reporta sobre duplicaciones, estándares de codificación, pruebas unitarias, cobertura de código, bugs y vulnerabilidades de seguridad.
+- [Java VisualVM](https://visualvm.github.io/): Una herramienta de monitoreo, troubleshooting y profiling todo-en-uno para la máquina virtual Java (JVM) que integra varias herramientas de línea de comando JDK en una interfaz gráfica de usuario.
+- [Mockito](https://site.mockito.org/): Un popular framework de mocking para pruebas unitarias en aplicaciones Java, que permite crear y configurar objetos mock de manera sencilla y legible.
+
+### Lenguajes o Tecnologías
+
+- [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
+- [Python](https://www.python.org/): Lenguaje de programación versátil y fácil de aprender, muy utilizado en desarrollo web, ciencia de datos y automatización.
+- [Google Cloud SDK](https://cloud.google.com/sdk): Conjunto de herramientas para administrar recursos y aplicaciones hospedadas en Google Cloud Platform.
+- [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores, facilitando la portabilidad y escalabilidad.
+- [Docker Desktop](https://www.docker.com/products/docker-desktop): Interfaz de usuario para Docker, facilita la gestión de contenedores y aplicaciones Docker en escritorios.
+- [Kubernetes](https://kubernetes.io/es/): Sistema de orquestación de contenedores, ayuda a gestionar aplicaciones basadas en contenedores a gran escala.
+- [PostgreSQL](https://www.postgresql.org/): Sistema de gestión de bases de datos objeto-relacional, conocido por su robustez y cumplimiento de estándares.
+- [MySQL](https://www.mysql.com/): Sistema de gestión de bases de datos relacional, muy utilizado en aplicaciones web y como componente de LAMP.
+- [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
+
+---
+
+#### FUNS
+
+- https://theuselessweb.com/
+- [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
+
+---
 
 ## Programas
 
@@ -73,21 +146,6 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Parsec](https://parsec.app/): Software para acceso remoto y juegos en la nube, permite a los desarrolladores colaborar y compartir su escritorio de manera eficiente.
 - [Chrome Remote Desktop](https://remotedesktop.google.com/): Solución de acceso remoto de Google, facilita la colaboración y el acceso a computadoras de forma remota.
 - [TeamViewer](https://www.teamviewer.com/es/): Software de control remoto y reuniones en línea, útil para soporte técnico y colaboración a distancia.: Herramientas esenciales para desarrolladores, permiten interactuar con el sistema operativo y ejecutar comandos.
-
-#### Lenguajes o Tecnologías
-
-- [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
-- [Node.js](https://nodejs.org/es/), [nvm](https://github.com/nvm-sh/nvm): Node.js es un entorno de ejecución para JavaScript en el servidor. nvm permite gestionar múltiples versiones de Node.js.
-- [Python](https://www.python.org/): Lenguaje de programación versátil y fácil de aprender, muy utilizado en desarrollo web, ciencia de datos y automatización.
-- [JDK](https://www.oracle.com/java/technologies/javase-jdk11-downloads.html): Kit de desarrollo para Java, necesario para desarrollar aplicaciones en este lenguaje.
-- [Google Cloud SDK](https://cloud.google.com/sdk): Conjunto de herramientas para administrar recursos y aplicaciones hospedadas en Google Cloud Platform.
-- [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores, facilitando la portabilidad y escalabilidad.
-- [Kubernetes](https://kubernetes.io/es/): Sistema de orquestación de contenedores, ayuda a gestionar aplicaciones basadas en contenedores a gran escala.
-- [PostgreSQL](https://www.postgresql.org/): Sistema de gestión de bases de datos objeto-relacional, conocido por su robustez y cumplimiento de estándares.
-- [MySQL](https://www.mysql.com/): Sistema de gestión de bases de datos relacional, muy utilizado en aplicaciones web y como componente de LAMP.
-- [Webpack](https://webpack.js.org/): Empaquetador de módulos para aplicaciones JavaScript, optimiza el código y mejora el tiempo de carga.
-- [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
-- [Docker Desktop](https://www.docker.com/products/docker-desktop): Interfaz de usuario para Docker, facilita la gestión de contenedores y aplicaciones Docker en escritorios.
 
 #### Desarrollo
 
@@ -140,6 +198,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Office](https://www.microsoft.com/es-es/microsoft-365/get-started-with-office-2019): Suite de productividad de Microsoft, incluye Word, Excel, PowerPoint, entre otros.
 - [Notion](https://www.notion.so/): Herramienta para la organización de proyectos, notas y bases de datos, útil para la gestión del conocimiento y la colaboración en equipo.
 - [Trello](https://trello.com/): Aplicación de gestión de proyectos basada en el sistema Kanban, facilita la organización de tareas y proyectos.
+- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck): Brainfuck.
+  - [dcode Brainfuck-language]https://www.dcode.fr/brainfuck-language: Lenguaje Brainfuck.
 
 #### Studio
 

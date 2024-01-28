@@ -16,7 +16,7 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md): Buscas ¿¡Ayuda!?
 - [Kibsaim](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Inventor, Programador & Desarrollador Web.
 - [Mafia Creativa](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Diseño & Producción.
-- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Hacking.
+- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Prompts & Hacking.
 
 ## WWW
 

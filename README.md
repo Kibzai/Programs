@@ -115,6 +115,7 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 
 - https://theuselessweb.com/
 - [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
+- skullknight.net
 
 ---
 
@@ -216,6 +217,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Gedit](https://wiki.gnome.org/Apps/Gedit): Gedit is a simple yet powerful text editor that comes pre-installed with many Linux distributions. It's user-friendly for beginners and supports syntax highlighting for various programming languages.
 - [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/): The Linux terminal is a powerful tool to learn the basics of shell scripting and command-line programming. It's essential for running scripts, installing packages, and navigating the file system.
 - [Code::Blocks](http://www.codeblocks.org/): Code::Blocks is a free C, C++, and Fortran IDE that is simple enough for beginners but powerful enough for advanced users. It supports multiple compilers and is cross-platform.
+
+---
 
 ## Contacto
 

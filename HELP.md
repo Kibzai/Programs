@@ -1,5 +1,7 @@
 # Ayuda | Help!
 
+[Sobrevivir](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+
 Si estás lidiando con situaciones de pánico o depresión, aquí tienes algunos consejos prácticos que podrían ser útiles:
 
 1. **Busca Ayuda Profesional**: Es importante buscar la ayuda de profesionales de la salud mental, como psicólogos o psiquiatras. Ellos pueden proporcionar un diagnóstico adecuado y recomendarte tratamientos efectivos, incluyendo terapia y, si es necesario, medicación.

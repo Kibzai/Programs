@@ -12,6 +12,43 @@ find /path/to/directory -type f -mtime +10 -exec rm {} \;
 # Continuously monitors system performance
 top
 
+# Displays disk usage of each file/folder in the current directory
+du -sh *
+
+# Searches for 'text_to_find' in files under the current directory
+grep -rnw '.' -e 'text_to_find'
+
+# Lists all open network ports with their associated processes
+sudo netstat -tulnp
+
+# Lists files in the current directory and all subdirectories
+find . -type f
+
+# Syncs contents from source to destination directory
+rsync -avh /path/to/source/ /path/to/destination/
+
+# Displays disk usage and available space
+df -h
+
+# Adds a new user with a home directory
+sudo adduser newusername
+
+# Creates a backup before modifying
+cp /path/to/file /path/to/file.bak
+# If needed, restore from the backup
+cp /path/to/file.bak /path/to/file
+
+# Updates the package lists and upgrades packages
+sudo apt update && sudo apt upgrade -y
+
+# Lists all listening services with their ports and protocols
+sudo lsof -i -P -n | grep LISTEN
+
+# Renames all .txt files to .bak in the current directory
+rename 's/\.txt$/.bak/' *.txt
+
+# Displays detailed hardware information
+lshw -short
 ```
 
 ## Prompts

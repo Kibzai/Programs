@@ -30,6 +30,13 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [Chat GPT](https://chat.openai.com): Modelo de Lenguaje de Aprendizaje Automático.
 - [Bahia](https://1337x.to/): Piratas.
 
+#### FUNS
+
+- https://theuselessweb.com/
+- [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
+- skullknight.net
+
+--- 
 
 ## Prompts
 
@@ -37,9 +44,20 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible
 Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners.
 IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes
-
 CODE ONLY, CODE BLOCK
 ```
+
+### Lenguajes & Tecnologías
+
+- [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
+- [Python](https://www.python.org/): Lenguaje de programación versátil y fácil de aprender, muy utilizado en desarrollo web, ciencia de datos y automatización.
+- [Google Cloud SDK](https://cloud.google.com/sdk): Conjunto de herramientas para administrar recursos y aplicaciones hospedadas en Google Cloud Platform.
+- [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores, facilitando la portabilidad y escalabilidad.
+- [Docker Desktop](https://www.docker.com/products/docker-desktop): Interfaz de usuario para Docker, facilita la gestión de contenedores y aplicaciones Docker en escritorios.
+- [Kubernetes](https://kubernetes.io/es/): Sistema de orquestación de contenedores, ayuda a gestionar aplicaciones basadas en contenedores a gran escala.
+- [PostgreSQL](https://www.postgresql.org/): Sistema de gestión de bases de datos objeto-relacional, conocido por su robustez y cumplimiento de estándares.
+- [MySQL](https://www.mysql.com/): Sistema de gestión de bases de datos relacional, muy utilizado en aplicaciones web y como componente de LAMP.
+- [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
 
 ### HTML
 - [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.
@@ -49,7 +67,6 @@ CODE ONLY, CODE BLOCK
 - [Emmet](https://emmet.io/): Un plugin para varios editores de texto que proporciona atajos de teclado y herramientas para escribir HTML y CSS más rápido y eficientemente.
 - [CodePen](https://codepen.io/): Una plataforma de desarrollo social para front-end donde puedes escribir código en el navegador y ver los resultados en tiempo real, ideal para experimentar con HTML, CSS y JavaScript.
 - [HTML5 Boilerplate](https://html5boilerplate.com/): Una plantilla de inicio que incluye lo esencial para ayudarte a construir sitios web rápidos, robustos y adaptables. 
-- [Sublime Text](https://www.sublimetext.com/): Un editor de texto sofisticado para código, marcado y prosa, con múltiples características para mejorar la productividad en HTML y otros lenguajes.
 - [Fontra](https://fontra.xyz): Editor de Fuentes basado en navegador.
 
 ### CSS
@@ -108,26 +125,6 @@ CODE ONLY, CODE BLOCK
 - [Java VisualVM](https://visualvm.github.io/): Una herramienta de monitoreo, troubleshooting y profiling todo-en-uno para la máquina virtual Java (JVM) que integra varias herramientas de línea de comando JDK en una interfaz gráfica de usuario.
 - [Mockito](https://site.mockito.org/): Un popular framework de mocking para pruebas unitarias en aplicaciones Java, que permite crear y configurar objetos mock de manera sencilla y legible.
 
-### Lenguajes o Tecnologías
-
-- [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
-- [Python](https://www.python.org/): Lenguaje de programación versátil y fácil de aprender, muy utilizado en desarrollo web, ciencia de datos y automatización.
-- [Google Cloud SDK](https://cloud.google.com/sdk): Conjunto de herramientas para administrar recursos y aplicaciones hospedadas en Google Cloud Platform.
-- [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores, facilitando la portabilidad y escalabilidad.
-- [Docker Desktop](https://www.docker.com/products/docker-desktop): Interfaz de usuario para Docker, facilita la gestión de contenedores y aplicaciones Docker en escritorios.
-- [Kubernetes](https://kubernetes.io/es/): Sistema de orquestación de contenedores, ayuda a gestionar aplicaciones basadas en contenedores a gran escala.
-- [PostgreSQL](https://www.postgresql.org/): Sistema de gestión de bases de datos objeto-relacional, conocido por su robustez y cumplimiento de estándares.
-- [MySQL](https://www.mysql.com/): Sistema de gestión de bases de datos relacional, muy utilizado en aplicaciones web y como componente de LAMP.
-- [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
-
----
-
-#### FUNS
-
-- https://theuselessweb.com/
-- [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
-- skullknight.net
-
 ---
 
 ## Programas
@@ -164,7 +161,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 - [Obsidian](https://obsidian.md/): Aplicación de toma de notas y gestión de conocimiento, basada en archivos markdown y enlaces internos.
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de código fuente desarrollado por Microsoft, con soporte para múltiples lenguajes y extensiones.
-- [Sublime Text](https://github.com/atom/atom/releases/tag/v1.60.0): Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
+- [Atom](https://github.com/atom/atom/releases/tag/v1.60.0): Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
+- [Sublime Text](https://www.sublimetext.com/): Un editor de texto sofisticado para código, marcado y prosa, con múltiples características para mejorar la productividad en HTML y otros lenguajes.
 - [Notepad++](https://notepad-plus-plus.org/): Editor de texto y código fuente con características como resaltado de sintaxis y plegado de código.
 - [VirtualBox](https://www.virtualbox.org/): Software de virtualización para ejecutar múltiples sistemas operativos de manera simultánea en un mismo hardware.
 - [GitHub Desktop](https://desktop.github.com/): Interfaz gráfica para gestionar repositorios de Git, simplifica el proceso de colaboración en proyectos de GitHub.

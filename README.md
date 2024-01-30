@@ -30,6 +30,17 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [Chat GPT](https://chat.openai.com): Modelo de Lenguaje de Aprendizaje Automático.
 - [Bahia](https://1337x.to/): Piratas.
 
+
+## Prompts
+
+```bash
+Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible
+Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners.
+IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes
+
+CODE ONLY, CODE BLOCK
+```
+
 ### HTML
 - [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.
 - [HTML Validator](https://validator.w3.org/): Una herramienta que permite validar el marcado de HTML, asegurándose de que cumple con los estándares y es compatible con diversos navegadores.

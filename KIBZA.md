@@ -51,12 +51,10 @@ rename 's/\.txt$/.bak/' *.txt
 lshw -short
 ```
 
-## Prompts
+## Hardware
 
-```bash
-Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible
-Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners.
-IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes
-
-CODE ONLY, CODE BLOCK
+```duckscript
+# List system
+ls 
+sudo
 ```

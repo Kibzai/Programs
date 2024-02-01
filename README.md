@@ -15,13 +15,14 @@ Code Block:
 Este README ofrece una lista de programas útiles para proyectos de programación. Estas herramientas han sido seleccionadas en base a su facilidad de uso, valor educativo y experiencia general del usuario.
 
 - [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md): Buscas ¿¡Ayuda!?
+- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Hacking.
 
 #### FUN'S
 
-- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Hacking.
+- [The Useless Web](https://theuselessweb.com/): The Useless Web.
 - [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
-- https://theuselessweb.com/
-- skullknight.net
+- [Skullknight.net](https://skullknight.net): Skullknight, the Berserk Forum.
+- 
 
 ---
 

@@ -23,7 +23,6 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
 - [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
 - [Skullknight.net](https://skullknight.net): Skullknight, the Berserk Forum.
-- 
 
 ---
 
@@ -84,6 +83,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 #### Desarrollo
 
 - [SDI](https://sdi-tool.org/download/): Install missing drivers and update old drivers.
+- [KMS](https://kmspico.io/): KMS Pico.
 - [Obsidian](https://obsidian.md/): Aplicación de toma de notas y gestión de conocimiento, basada en archivos markdown y enlaces internos.
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de código fuente desarrollado por Microsoft, con soporte para múltiples lenguajes y extensiones.
 - [Atom](https://github.com/atom/atom/releases/tag/v1.60.0): Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.

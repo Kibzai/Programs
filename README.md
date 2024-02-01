@@ -23,6 +23,8 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
 - [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
 - [Skullknight.net](https://skullknight.net): Skullknight, the Berserk Forum.
+- https://multistre.am
+- https://www.speechchat.com/
 
 ---
 
@@ -31,6 +33,7 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [GitHub](https://github.com): Plataforma de desarrollo colaborativo para alojar y revisar código, gestionar proyectos y construir software junto a otros desarrolladores.
 - [Wikipedia](https://www.wikipedia.org): Wikipedia es un recurso valioso para comprender conceptos, historia y terminología de programación. Es un excelente punto de partida para explorar varios aspectos de la ciencia de la computación.
 - [Internet Archive](https://archive.org): Una biblioteca digital de sitios web, música, libros y más. El "Wayback Machine" permite ver cómo eran los sitios web en el pasado.
+- [Protonmail](https://mail.proton.me): Mail
 - [Google](https://www.google.com): Google es una herramienta esencial para cualquier programador. Los principiantes pueden usarlo para buscar tutoriales de programación, recursos, foros y respuestas a problemas de codificación específicos.
 - [DuckDuckGo](https://www.duckduckgo.com): Un motor de búsqueda que prioriza la privacidad de los usuarios, no rastrea ni almacena información personal de las búsquedas.
 - [Stack Overflow](https://stackoverflow.com): Una comunidad de programadores donde puedes hacer preguntas y encontrar respuestas a problemas de codificación. 
@@ -63,6 +66,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Telegram](https://telegram.org): Telegram is a messaging app with numerous programming groups and channels. Beginners can join these to seek advice, collaborate, and stay updated with the latest programming trends.
 - [Whatsapp](https://www.whatsapp.com/): Aplicación de mensajería popular, útil para comunicarse con equipos de desarrollo y mantener el contacto con otros programadores.
 - [Discord](https://discord.com/): Plataforma de comunicación por voz, texto y video, ampliamente utilizada por comunidades de desarrolladores y jugadores.
+ - https://support.discord.com/hc/en-us/articles/228383668-Intro-to-Webhooks
 - [Messenger](https://www.messenger.com/): Herramienta de mensajería de Facebook, conveniente para coordinar proyectos en grupos y mantenerse en contacto con colegas.
 - [Slack](https://slack.com/): Plataforma de comunicación para equipos de trabajo, que facilita la organización de proyectos y la colaboración en tiempo real.
 - [Zoom](https://zoom.us/): Aplicación para videollamadas y reuniones en línea, esencial para equipos de trabajo remotos y presentaciones en línea.
@@ -141,13 +145,12 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
   - [dcode Brainfuck-language]https://www.dcode.fr/brainfuck-language: Lenguaje Brainfuck.
 
 #### Studio
-
+- [ASIO Tip](https://www.reddit.com/r/ableton/comments/pxvm79/asio_prevents_youtube_spotify_from_working_noob/): Reddit Post about listen to Ableton AND youtube with ASIO.
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
 - [GN MIDI](https://www.gnmidi.com/): GNMIDI 3 Professional (MIDI Tools for Windows) is a Karaoke MIDI song player, batch converter and editor. It inserts and synchronises lyrics into MIDI and mp3 songs.
 - [ASIO4ALL](http://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
 - [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
-
 
 ### Linux
 

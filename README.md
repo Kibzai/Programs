@@ -15,7 +15,7 @@ Code Block:
 
 Este README ofrece una lista de programas útiles para proyectos de programación. Estas herramientas han sido seleccionadas en base a su facilidad de uso, valor educativo y experiencia general del usuario.
 
-- [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md){:target="_blank"}: Buscas ¿¡Ayuda!?
+- [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md): Buscas ¿¡Ayuda!?
 - [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Hacking.
 
 #### FUN'S

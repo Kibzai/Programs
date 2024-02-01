@@ -233,7 +233,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 ---
 
-## Contacto
+## Local
 
-- [Kibsaim](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Inventor, Programador & Desarrollador Web.
 - [Mafia Creativa](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Diseño & Producción. 
+- [Kibsaim Setup](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Kibsaim Setup.

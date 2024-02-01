@@ -8,3 +8,17 @@
 ## Powkiddy RGB 20S
 
 - [Games Repositories](http://192.168.0.107/files/n64/): Depende la consola
+
+## Tachiyomi
+
+- LectorManga
+- MangaDex
+- MangaLife
+- MangaPark
+- MangaRaw
+- Mangabat
+- Mangafreak
+- Mangakakalot
+- ReadAllComics
+- ReadComicOnline
+- TuMangaOnline

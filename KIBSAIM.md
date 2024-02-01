@@ -1,4 +1,4 @@
-# Kibsaim Mejia Setup
+# Kibsaim Setup
 
 ## Lenovo Legion Y720
 

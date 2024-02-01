@@ -145,6 +145,15 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [ASIO4ALL](http://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
 - [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
 
+
+### Linux
+
+- [Gedit](https://wiki.gnome.org/Apps/Gedit): Gedit is a simple yet powerful text editor that comes pre-installed with many Linux distributions. It's user-friendly for beginners and supports syntax highlighting for various programming languages.
+- [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/): The Linux terminal is a powerful tool to learn the basics of shell scripting and command-line programming. It's essential for running scripts, installing packages, and navigating the file system.
+- [Code::Blocks](http://www.codeblocks.org/): Code::Blocks is a free C, C++, and Fortran IDE that is simple enough for beginners but powerful enough for advanced users. It supports multiple compilers and is cross-platform.
+
+---
+
 ## Lenguajes & Tecnologías
 
 - [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
@@ -222,14 +231,6 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [SonarQube](https://www.sonarqube.org/): Una plataforma para evaluar la calidad del código, que analiza y reporta sobre duplicaciones, estándares de codificación, pruebas unitarias, cobertura de código, bugs y vulnerabilidades de seguridad.
 - [Java VisualVM](https://visualvm.github.io/): Una herramienta de monitoreo, troubleshooting y profiling todo-en-uno para la máquina virtual Java (JVM) que integra varias herramientas de línea de comando JDK en una interfaz gráfica de usuario.
 - [Mockito](https://site.mockito.org/): Un popular framework de mocking para pruebas unitarias en aplicaciones Java, que permite crear y configurar objetos mock de manera sencilla y legible.
-
----
-
-### Linux
-
-- [Gedit](https://wiki.gnome.org/Apps/Gedit): Gedit is a simple yet powerful text editor that comes pre-installed with many Linux distributions. It's user-friendly for beginners and supports syntax highlighting for various programming languages.
-- [GNOME Terminal](https://help.gnome.org/users/gnome-terminal/stable/): The Linux terminal is a powerful tool to learn the basics of shell scripting and command-line programming. It's essential for running scripts, installing packages, and navigating the file system.
-- [Code::Blocks](http://www.codeblocks.org/): Code::Blocks is a free C, C++, and Fortran IDE that is simple enough for beginners but powerful enough for advanced users. It supports multiple compilers and is cross-platform.
 
 ---
 

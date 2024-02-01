@@ -56,6 +56,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 ### Windows
 
+- [MiniOS](https://www.dprojects.org/minios): Minified Windows.
+
 #### Conectar
 
 - [Telegram](https://telegram.org): Telegram is a messaging app with numerous programming groups and channels. Beginners can join these to seek advice, collaborate, and stay updated with the latest programming trends.

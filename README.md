@@ -88,8 +88,9 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 #### Desarrollo
 
-- [SDI](https://sdi-tool.org/download/): Install missing drivers and update old drivers.
 - [KMS](https://kmspico.io/): KMS Pico.
+- [SDI](https://sdi-tool.org/download/): Install missing drivers and update old drivers.
+- [cpu-z](https://www.cpuid.com/softwares/cpu-z.html): Computer Stats
 - [Obsidian](https://obsidian.md/): Aplicación de toma de notas y gestión de conocimiento, basada en archivos markdown y enlaces internos.
 - [Visual Studio Code](https://code.visualstudio.com/): Editor de código fuente desarrollado por Microsoft, con soporte para múltiples lenguajes y extensiones.
 - [Atom](https://github.com/atom/atom/releases/tag/v1.60.0): Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.

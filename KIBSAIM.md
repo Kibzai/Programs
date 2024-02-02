@@ -10,6 +10,9 @@
 - Ableton Live 11
   -   Max
 -   Traktor Pro 3
+- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+- Rekorbox
+
 
 Vsts
 
@@ -19,6 +22,11 @@ Vsts
 - Omnisphere
 - Izotope
 - Sausage Fattener
+
+Instruments
+
+- Piano
+- Electric Pianos
 
 ## Powkiddy RGB 20S
 

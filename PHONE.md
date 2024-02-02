@@ -1,6 +1,6 @@
 ## Apps & Programas
 
-- [Cámara](www.camera.com): La cámara app incluída en tu celular.
+- Cámara: La cámara app incluída en tu celular.
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.
 - DroidScript: Desarrollo de aplicaciones móviles.
 - [Snapchat](https://www.snapchat.com/): Comparte fotos y videos efímeros.

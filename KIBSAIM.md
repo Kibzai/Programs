@@ -9,8 +9,10 @@
 
 - Ableton Live 11
   -   Max
--   Traktor Pro 3.3.0.107 incl Patch + Keygen [CrackingPatching]
+-   Traktor Pro 3
+
 Vsts
+
 - Waves
 - Komplete
 -   Kontakt

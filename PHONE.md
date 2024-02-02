@@ -1,4 +1,4 @@
-## Programas
+## Apps & Programas
 
 - [Cámara](www.camera.com): La cámara app incluída en tu celular.
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.

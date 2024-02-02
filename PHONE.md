@@ -2,543 +2,543 @@
 
 - [Cámara](www.camera.com): La cámara app incluída en tu celular.
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.
-- [DroidScript](#): Desarrollo de aplicaciones móviles.
+- DroidScript: Desarrollo de aplicaciones móviles.
 - [Snapchat](https://www.snapchat.com/): Comparte fotos y videos efímeros.
 - [Spotify](https://www.spotify.com/): Plataforma de streaming de música.
-- [Artists](#): Aplicación para artistas.
-- [Streamlabs](#): Herramientas para transmisión en vivo.
-- [Nova7](#): Aplicación de utilidades.
-- [Tether](#): Comparte la conexión a Internet.
+- Artists: Aplicación para artistas.
+- Streamlabs: Herramientas para transmisión en vivo.
+- Nova7: Aplicación de utilidades.
+- Tether: Comparte la conexión a Internet.
 - [Uber](https://www.uber.com/): Servicio de transporte.
 - [Uber Eats](https://www.ubereats.com/): Entrega de comida a domicilio.
-- [Sleep](#): Aplicación de seguimiento del sueño.
-- [WiFiAnalyzer](#): Analizador de señales Wi-Fi.
-- [AFWall+](#): Firewall para Android.
+- Sleep: Aplicación de seguimiento del sueño.
+- WiFiAnalyzer: Analizador de señales Wi-Fi.
+- AFWall+: Firewall para Android.
 - [Flipboard](https://flipboard.com/): Plataforma de noticias personalizadas.
-- [Smart Launcher](#): Launcher personalizado.
-- [Musicolet](#): Reproductor de música sin anuncios.
-- [Tasker](#): Automatización de tareas en Android.
-- [T-UI](#): Interfaz de usuario de terminal.
-- [UserLAnd](#): Emulador de Linux en Android.
+- Smart Launcher: Launcher personalizado.
+- Musicolet: Reproductor de música sin anuncios.
+- Tasker: Automatización de tareas en Android.
+- T-UI: Interfaz de usuario de terminal.
+- UserLAnd: Emulador de Linux en Android.
 - [Twitch](https://www.twitch.tv/): Plataforma de transmisión en vivo.
 - [Google](https://www.google.com/): Motor de búsqueda y aplicaciones de Google.
-- [AudioFX](#): Ecualizador de audio.
-- [Browser](#): Navegador web.
-- [Minesweeper](#): Juego de Buscaminas.
-- [Moises](#): Herramienta de edición de música.
-- [Cinépolis](#): Aplicación de cines.
-- [Sams Club MX](#): Aplicación de Sam's Club México.
-- [hocus](#): Juego de puzles.
-- [FakeStandby](#): Aplicación para simular que el teléfono está apagado.
-- [Acrylic Paint](#): Aplicación de pintura digital.
-- [Dogo](#): Aplicación para dueños de mascotas.
-- [Music Theory Companion](#): Herramienta de teoría musical.
-- [A Whip](#): Aplicación de sonidos de látigo.
-- [OMGSoundboard](#): Soundboard con sonidos graciosos.
-- [BIGVU](#): Aplicación de grabación de video.
-- [Petals](#): Juego de rompecabezas.
-- [Quantum](#): Aplicación de física cuántica.
-- [Florae](#): Aplicación de flores y plantas.
-- [#FFF Info](#): Información sobre colores.
-- [Cowsay](#): Generador de arte ASCII.
-- [Velocity Calculator](#): Calculadora de velocidad.
+- AudioFX: Ecualizador de audio.
+- Browser: Navegador web.
+- Minesweeper: Juego de Buscaminas.
+- Moises: Herramienta de edición de música.
+- Cinépolis: Aplicación de cines.
+- Sams Club MX: Aplicación de Sam's Club México.
+- hocus: Juego de puzles.
+- FakeStandby: Aplicación para simular que el teléfono está apagado.
+- Acrylic Paint: Aplicación de pintura digital.
+- Dogo: Aplicación para dueños de mascotas.
+- Music Theory Companion: Herramienta de teoría musical.
+- A Whip: Aplicación de sonidos de látigo.
+- OMGSoundboard: Soundboard con sonidos graciosos.
+- BIGVU: Aplicación de grabación de video.
+- Petals: Juego de rompecabezas.
+- Quantum: Aplicación de física cuántica.
+- Florae: Aplicación de flores y plantas.
+- #FFF Info: Información sobre colores.
+- Cowsay: Generador de arte ASCII.
+- Velocity Calculator: Calculadora de velocidad.
 - [Proton Mail](https://protonmail.com/): Servicio de correo electrónico seguro.
-- [Kanji draw](#): Aprende a escribir kanji.
-- [STEEZY](#): Clases de baile en línea.
-- [Wake On Lan](#): Enciende computadoras de forma remota.
-- [Super Charadas](#): Juego de adivinanzas.
-- [Activity Manager](#): Administra aplicaciones en ejecución.
-- [Ricochlime](#): Juego de habilidad.
-- [Adobe Photoshop Express](#): Edición de fotos.
-- [Secret Shuffle](#): Reproductor de música aleatorio.
-- [Sketchbook](#): Aplicación de dibujo.
-- [Nock Nock](#): Monitoriza servidores.
-- [DPM](#): Modo de administración de dispositivos.
-- [AIDungeon](#): Juego de aventuras de texto.
+- Kanji draw: Aprende a escribir kanji.
+- STEEZY: Clases de baile en línea.
+- Wake On Lan: Enciende computadoras de forma remota.
+- Super Charadas: Juego de adivinanzas.
+- Activity Manager: Administra aplicaciones en ejecución.
+- Ricochlime: Juego de habilidad.
+- Adobe Photoshop Express: Edición de fotos.
+- Secret Shuffle: Reproductor de música aleatorio.
+- Sketchbook: Aplicación de dibujo.
+- Nock Nock: Monitoriza servidores.
+- DPM: Modo de administración de dispositivos.
+- AIDungeon: Juego de aventuras de texto.
 - [Airbnb](https://www.airbnb.com/): Reserva de alojamiento en línea.
-- [Otter](#): Transcripción de voz a texto.
-- [Physics](#): Aplicación de física educativa.
-- [Tunnel 3D Live Wallpaper](#): Fondos de pantalla en 3D.
-- [Amaze](#): Explorador de archivos.
-- [Amaze Utilities](#): Utilidades para el explorador de archivos.
+- Otter: Transcripción de voz a texto.
+- Physics: Aplicación de física educativa.
+- Tunnel 3D Live Wallpaper: Fondos de pantalla en 3D.
+- Amaze: Explorador de archivos.
+- Amaze Utilities: Utilidades para el explorador de archivos.
 - [Prime Video](https://www.primevideo.com/): Servicio de streaming de video.
 - [Amazon Shopping](https://www.amazon.com/): Compras en línea en Amazon.
-- [Scales Practice](#): Práctica de escalas musicales.
-- [Apex Legends: Companion](#): Herramientas para el juego Apex Legends.
-- [F12](#): Emulador de teclado F12.
+- Scales Practice: Práctica de escalas musicales.
+- Apex Legends: Companion: Herramientas para el juego Apex Legends.
+- F12: Emulador de teclado F12.
 - [ASOS](https://www.asos.com/): Compras de moda en línea.
-- [Barcode Scanner](#): Escáner de códigos de barras.
-- [Mi ATT](#): Administrador de la cuenta de AT&T.
+- Barcode Scanner: Escáner de códigos de barras.
+- Mi ATT: Administrador de la cuenta de AT&T.
 - [Audible](https://www.audible.com/): Audiolibros y entretenimiento auditivo.
-- [Authy](#): Aplicación de autenticación de dos factores.
-- [Fall](#): Juego de plataformas.
+- Authy: Aplicación de autenticación de dos factores.
+- Fall: Juego de plataformas.
 - [Behance](https://www.behance.net/): Plataforma de portafolios de creativos.
-- [BibleProject](#): Recursos bíblicos y videos.
-- [Flow Free](#): Juego de puzles.
-- [BitTorrent](#): Cliente de torrent.
-- [Battle.net](#): Aplicación de Blizzard Entertainment.
-- [DaTuner](#): Afinador de instrumentos musicales.
-- [iPuke](#): Simulador de vómito.
-- [URLazy](#): Encurtador de URL.
-- [Smart AutoClicker](#): Herramienta de clic automático.
-- [InShot](#): Editor de video y foto.
-- [YouCut - Video Editor](#): Editor de video.
-- [Hexpress](#): Calculadora hexadecimal.
-- [Octopus](#): Mapeador de botones para juegos.
-- [Ground News](#): Noticias de diferentes fuentes.
-- [ChemistryLab](#): Laboratorio de química virtual.
-- [Chess](#): Juego de ajedrez.
-- [Chess Clock](#): Reloj de ajedrez.
-- [MultiVNC](#): Cliente VNC.
-- [Cornershop](#): Compras de supermercado en línea.
-- [Costco](#): Compras en línea en Costco.
-- [Cuidado Con el Perro](#): Compras en línea de moda.
-- [Cx File Explorer](#): Explorador de archivos avanzado.
-- [Cyberpuerta](#): Compras en línea de tecnología.
-- [Hammer](#): Juego de habilidad con martillo.
-- [Character Sheet](#): Hoja de personaje para juegos de rol.
-- [Lunescope](#): Calendario lunar.
-- [Easter Eggs](#): Descubre los huevos de Pascua en Android.
-- [Thumb-Key](#): Asistente de texto personalizado.
+- BibleProject: Recursos bíblicos y videos.
+- Flow Free: Juego de puzles.
+- BitTorrent: Cliente de torrent.
+- Battle.net: Aplicación de Blizzard Entertainment.
+- DaTuner: Afinador de instrumentos musicales.
+- iPuke: Simulador de vómito.
+- URLazy: Encurtador de URL.
+- Smart AutoClicker: Herramienta de clic automático.
+- InShot: Editor de video y foto.
+- YouCut - Video Editor: Editor de video.
+- Hexpress: Calculadora hexadecimal.
+- Octopus: Mapeador de botones para juegos.
+- Ground News: Noticias de diferentes fuentes.
+- ChemistryLab: Laboratorio de química virtual.
+- Chess: Juego de ajedrez.
+- Chess Clock: Reloj de ajedrez.
+- MultiVNC: Cliente VNC.
+- Cornershop: Compras de supermercado en línea.
+- Costco: Compras en línea en Costco.
+- Cuidado Con el Perro: Compras en línea de moda.
+- Cx File Explorer: Explorador de archivos avanzado.
+- Cyberpuerta: Compras en línea de tecnología.
+- Hammer: Juego de habilidad con martillo.
+- Character Sheet: Hoja de personaje para juegos de rol.
+- Lunescope: Calendario lunar.
+- Easter Eggs: Descubre los huevos de Pascua en Android.
+- Thumb-Key: Asistente de texto personalizado.
 - [DeviantArt](https://www.deviantart.com/): Comunidad de arte en línea.
-- [DiDi](#): Servicio de transporte.
-- [Wa-Tor](#): Simulador de ecosistema.
+- DiDi: Servicio de transporte.
+- Wa-Tor: Simulador de ecosistema.
 - [Discord](https://discord.com/): Plataforma de comunicación para gamers.
-- [Color Reference](#): Referencia de colores.
-- [AsciiCam](#): Convierte fotos en arte ASCII.
-- [Wallet](#): Monedero digital.
+- Color Reference: Referencia de colores.
+- AsciiCam: Convierte fotos en arte ASCII.
+- Wallet: Monedero digital.
 - [DuckDuckGo](https://duckduckgo.com/): Motor de búsqueda privado.
-- [PvZ 2](#): Plants vs. Zombies 2.
-- [Electric Circuit Studio](#): Simulador de circuitos eléctricos.
-- [Kaomoji](#): Generador de emoticonos japoneses.
-- [Perfect Ear](#): Entrenador auditivo.
-- [eWiseHome](#): Control de dispositivos domésticos.
-- [Poleidoscope](#): Caleidoscopio interactivo.
+- PvZ 2: Plants vs. Zombies 2.
+- Electric Circuit Studio: Simulador de circuitos eléctricos.
+- Kaomoji: Generador de emoticonos japoneses.
+- Perfect Ear: Entrenador auditivo.
+- eWiseHome: Control de dispositivos domésticos.
+- Poleidoscope: Caleidoscopio interactivo.
 - [ExpressVPN](https://www.expressvpn.com/): VPN para privacidad en línea.
-- [LogFox](#): Herramienta de registro de eventos.
-- [Local](#): Descubre eventos locales.
+- LogFox: Herramienta de registro de eventos.
+- Local: Descubre eventos locales.
 - [Facebook](https://www.facebook.com/): Red social.
-- [Messenger](#): Aplicación de mensajería de Facebook.
-- [Business Suite](#): Administración de negocios en Facebook.
-- [Finch](#): Aplicación de Twitter.
-- [Antikythera Simulation](#): Simulador astronómico.
+- Messenger: Aplicación de mensajería de Facebook.
+- Business Suite: Administración de negocios en Facebook.
+- Finch: Aplicación de Twitter.
+- Antikythera Simulation: Simulador astronómico.
 - [Fiverr](https://www.fiverr.com/): Plataforma de freelancers.
-- [Broccoli](#): Calculadora de nutrición.
-- [Flipper](#): Juego de puzles.
-- [Swarm](#): Aplicación de check-in de Foursquare.
-- [ZENONIA4](#): Juego de rol.
-- [OpenSongApp](#): Aplicación para músicos.
-- [Blindscape](#): Juego de aventuras.
+- Broccoli: Calculadora de nutrición.
+- Flipper: Juego de puzles.
+- Swarm: Aplicación de check-in de Foursquare.
+- ZENONIA4: Juego de rol.
+- OpenSongApp: Aplicación para músicos.
+- Blindscape: Juego de aventuras.
 - [Genius](https://genius.com/): Plataforma de letras de canciones.
 - [Headspace](https://www.headspace.com/): Meditación y mindfulness.
 - [GIPHY](https://giphy.com/): Plataforma de GIFs animados.
 - [GitHub](https://github.com/): Plataforma de desarrollo de software.
-- [Binaural Beats](#): Sonidos binaurales para la relajación.
-- [Endless Sky](#): Juego de exploración espacial.
-- [Reroll](#): Generador de personajes para juegos de rol.
-- [NightLight light](#): Luz nocturna.
-- [Circle Of Fifths](#): Herramienta musical.
-- [Super Toss The Turtle](#): Juego de lanzamiento de tortugas.
+- Binaural Beats: Sonidos binaurales para la relajación.
+- Endless Sky: Juego de exploración espacial.
+- Reroll: Generador de personajes para juegos de rol.
+- NightLight light: Luz nocturna.
+- Circle Of Fifths: Herramienta musical.
+- Super Toss The Turtle: Juego de lanzamiento de tortugas.
 - [Goodreads](https://www.goodreads.com/): Comunidad de lectores.
-- [Sound Amplifier](#): Amplificador de sonido.
-- [Find Device](#): Encuentra tu dispositivo Android.
-- [Authenticator](#): Aplicación de autenticación.
-- [Home](#): Launcher de Android.
-- [Classroom](#): Google Classroom.
-- [Google Cloud](#): Servicios en la nube de Google.
-- [Arts & Culture](#): Explora el arte y la cultura.
-- [Admin](#): Herramientas de administración de Android.
-- [Fit](#): Aplicación de seguimiento de actividad física.
-- [Assistant](#): Asistente virtual de Google.
-- [Rewards](#): Programa de recompensas de Google.
-- [PhotoScan](#): Escanea fotos antiguas.
-- [Google One](#): Almacenamiento en la nube de Google.
-- [Translate](#): Traductor de Google.
-- [Lens](#): Búsqueda visual de Google.
-- [Remote Desktop](#): Controla tu PC desde Android.
-- [GoPro Quik](#): Edición de videos de GoPro.
-- [Gosund](#): Control de dispositivos inteligentes.
-- [ARuler](#): Regla de medición en realidad aumentada.
-- [Fruit Ninja Classic](#): Juego de corte de frutas.
-- [Fruit Ninja](#): Juego de corte de frutas.
-- [JJ Classic](#): Juego clásico.
-- [Jetpack](#): Juego de plataformas.
-- [Hyperforma](#): Juego de puzles.
-- [devRant](#): Comunidad de desarrolladores.
-- [Cats&Soup](#): Juego de gatos y sopa.
-- [Euclidea](#): Juego de geometría.
-- [H&M](#): Compras de moda en línea.
-- [Headwind Remote](#): Control remoto del viento.
-- [Remote Mouse](#): Ratón y teclado remoto.
-- [AnkiDroid](#): Tarjetas de memoria y repaso.
+- Sound Amplifier: Amplificador de sonido.
+- Find Device: Encuentra tu dispositivo Android.
+- Authenticator: Aplicación de autenticación.
+- Home: Launcher de Android.
+- Classroom: Google Classroom.
+- Google Cloud: Servicios en la nube de Google.
+- Arts & Culture: Explora el arte y la cultura.
+- Admin: Herramientas de administración de Android.
+- Fit: Aplicación de seguimiento de actividad física.
+- Assistant: Asistente virtual de Google.
+- Rewards: Programa de recompensas de Google.
+- PhotoScan: Escanea fotos antiguas.
+- Google One: Almacenamiento en la nube de Google.
+- Translate: Traductor de Google.
+- Lens: Búsqueda visual de Google.
+- Remote Desktop: Controla tu PC desde Android.
+- GoPro Quik: Edición de videos de GoPro.
+- Gosund: Control de dispositivos inteligentes.
+- ARuler: Regla de medición en realidad aumentada.
+- Fruit Ninja Classic: Juego de corte de frutas.
+- Fruit Ninja: Juego de corte de frutas.
+- JJ Classic: Juego clásico.
+- Jetpack: Juego de plataformas.
+- Hyperforma: Juego de puzles.
+- devRant: Comunidad de desarrolladores.
+- Cats&Soup: Juego de gatos y sopa.
+- Euclidea: Juego de geometría.
+- H&M: Compras de moda en línea.
+- Headwind Remote: Control remoto del viento.
+- Remote Mouse: Ratón y teclado remoto.
+- AnkiDroid: Tarjetas de memoria y repaso.
 - [Pocket](https://getpocket.com/): Guarda artículos para leer después.
-- [Tu Tag PASE](#): Control de acceso.
+- Tu Tag PASE: Control de acceso.
 - [IFTTT](https://ifttt.com/): Automatización de tareas en línea.
-- [8Bit Photo Lab](#): Efectos de fotografía retro.
-- [Glitch Lab](#): Efectos de fotografía glitch.
-- [FL Studio Mobile](#): Estudio de música móvil.
+- 8Bit Photo Lab: Efectos de fotografía retro.
+- Glitch Lab: Efectos de fotografía glitch.
+- FL Studio Mobile: Estudio de música móvil.
 - [IMDb](https://www.imdb.com/): Base de datos de películas y series.
-- [3D Wallpapers](#): Fondos de pantalla en 3D.
-- [Pull&Bear](#): Compras de moda en línea.
-- [Mongo Explorer](#): Herramienta de base de datos.
-- [Linux Command Library](#): Biblioteca de comandos de Linux.
+- 3D Wallpapers: Fondos de pantalla en 3D.
+- Pull&Bear: Compras de moda en línea.
+- Mongo Explorer: Herramienta de base de datos.
+- Linux Command Library: Biblioteca de comandos de Linux.
 - [Instagram](https://www.instagram.com/): Red social de fotos y videos.
-- [Iron Marines](#): Juego de estrategia.
-- [Kingdom Rush](#): Juego de defensa de torres.
-- [Frontiers](#): Juego de estrategia.
-- [Texpand](#): Expansión de texto.
-- [Motion Eye](#): Cámara de seguridad.
-- [Safe Headphones](#): Protege tus oídos.
-- [Balance the Ball](#): Juego de equilibrio.
-- [Infinite Japanese](#): Aprende japonés.
-- [Brethap](#): Ejercicios de respiración.
-- [Tone Generator](#): Generador de tonos.
-- [Chibe](#): Juego relajante.
-- [AutoApps](#): Automatización para Android.
-- [AutoInput](#): Automatización para Android.
-- [AutoLocation](#): Automatización para Android.
-- [AutoNotification](#): Automatización para Android.
-- [AutoShare](#): Automatización para Android.
-- [AutoTools](#): Automatización para Android.
+- Iron Marines: Juego de estrategia.
+- Kingdom Rush: Juego de defensa de torres.
+- Frontiers: Juego de estrategia.
+- Texpand: Expansión de texto.
+- Motion Eye: Cámara de seguridad.
+- Safe Headphones: Protege tus oídos.
+- Balance the Ball: Juego de equilibrio.
+- Infinite Japanese: Aprende japonés.
+- Brethap: Ejercicios de respiración.
+- Tone Generator: Generador de tonos.
+- Chibe: Juego relajante.
+- AutoApps: Automatización para Android.
+- AutoInput: Automatización para Android.
+- AutoLocation: Automatización para Android.
+- AutoNotification: Automatización para Android.
+- AutoShare: Automatización para Android.
+- AutoTools: Automatización para Android.
 - [Foursquare](https://foursquare.com/): Red social de ubicaciones.
-- [Root Checker Basic](#): Verifica el acceso root.
-- [Joom](#): Compras en línea a precios bajos.
-- [Root Browser](#): Explorador de archivos con acceso root.
-- [System App Safe Remover](#): Remueve aplicaciones del sistema.
-- [Titanium Backup](#): Copias de seguridad avanzadas.
-- [Don't Touch The Spikes](#): Juego adictivo.
-- [OBS Blade](#): Herramienta de retransmisión en vivo.
-- [Vysor](#): Controla tu Android desde la PC.
-- [Trail Sense](#): Navegación en exteriores.
+- Root Checker Basic: Verifica el acceso root.
+- Joom: Compras en línea a precios bajos.
+- Root Browser: Explorador de archivos con acceso root.
+- System App Safe Remover: Remueve aplicaciones del sistema.
+- Titanium Backup: Copias de seguridad avanzadas.
+- Don't Touch The Spikes: Juego adictivo.
+- OBS Blade: Herramienta de retransmisión en vivo.
+- Vysor: Controla tu Android desde la PC.
+- Trail Sense: Navegación en exteriores.
 - [LastPass](https://www.lastpass.com/): Gestor de contraseñas.
-- [Signal Detector](#): Detecta señales inalámbricas.
-- [LEGO® Builder](#): Construye con bloques virtuales.
-- [CapCut](#): Editor de video y foto.
+- Signal Detector: Detecta señales inalámbricas.
+- LEGO® Builder: Construye con bloques virtuales.
+- CapCut: Editor de video y foto.
 - [Letterboxd](https://letterboxd.com/): Comunidad de cine.
-- [Life360](#): Rastreo familiar y de amigos.
+- Life360: Rastreo familiar y de amigos.
 - [LinkedIn](https://www.linkedin.com/): Red profesional.
-- [Little Caesars](#): Ordena comida en línea.
-- [Automate](#): Automatización de tareas en Android.
-- [Zello](#): Comunicación por voz en tiempo real.
-- [Awoken](#): Control de sueño y sueños lúcidos.
-- [Vibrator](#): Control de la vibración del teléfono.
-- [Eternium](#): Juego de rol de acción.
-- [Hibi](#): Diario de gratitud.
-- [Sticker Maker](#): Crea tus propios stickers.
-- [Digital LED Signboard](#): Letrero digital.
-- [Poweramp](#): Reproductor de música avanzado.
-- [Smash Hit](#): Juego de lanzamiento de bolas.
+- Little Caesars: Ordena comida en línea.
+- Automate: Automatización de tareas en Android.
+- Zello: Comunicación por voz en tiempo real.
+- Awoken: Control de sueño y sueños lúcidos.
+- Vibrator: Control de la vibración del teléfono.
+- Eternium: Juego de rol de acción.
+- Hibi: Diario de gratitud.
+- Sticker Maker: Crea tus propios stickers.
+- Digital LED Signboard: Letrero digital.
+- Poweramp: Reproductor de música avanzado.
+- Smash Hit: Juego de lanzamiento de bolas.
 - [Medium](https://medium.com/): Plataforma de escritura y lectura.
-- [Meetup](#): Encuentra y construye comunidades.
+- Meetup: Encuentra y construye comunidades.
 - [SoundHound](https://www.soundhound.com/): Identifica música.
 - [Memrise](https://www.memrise.com/): Aprende idiomas y más.
-- [AnySoftKeyboard](#): Teclado personalizable.
-- [Envíos Extra](#): Envíos de paquetería.
+- AnySoftKeyboard: Teclado personalizable.
+- Envíos Extra: Envíos de paquetería.
 - [Mercado Libre](https://www.mercadolibre.com/): Compras en línea.
 - [Mercado Pago](https://www.mercadopago.com/): Pagos en línea.
 - [Photomath](https://photomath.app/): Resuelve ecuaciones con la cámara.
 - [Bing](https://www.bing.com/): Motor de búsqueda de Microsoft.
-- [Birday](#): Recordatorio de cumpleaños.
-- [Remixlive](#): Estación de creación musical.
-- [Knots 3D Animated](#): Aprende a hacer nudos.
-- [Zombie Smasher](#): Juego de aplastar zombies.
+- Birday: Recordatorio de cumpleaños.
+- Remixlive: Estación de creación musical.
+- Knots 3D Animated: Aprende a hacer nudos.
+- Zombie Smasher: Juego de aplastar zombies.
 - [Minecraft](https://www.minecraft.net/): Juego de construcción.
 - [Domino's](https://www.dominos.com/): Pedido de pizza en línea.
 - [Musixmatch](https://www.musixmatch.com/): Letras de canciones.
-- [Cayenne](#): Automatización del Internet de las cosas (IoT).
-- [Prisma](#): Editor de fotos artísticas.
-- [New Life 2](#): Juego de simulación de vida.
-- [Pikmin Bloom](#): Juego de realidad aumentada.
+- Cayenne: Automatización del Internet de las cosas (IoT).
+- Prisma: Editor de fotos artísticas.
+- New Life 2: Juego de simulación de vida.
+- Pikmin Bloom: Juego de realidad aumentada.
 - [Pokémon GO](https://www.pokemongo.com/): Caza Pokémon en el mundo real.
 - [Snapseed](https://snapseed.online/): Editor de fotos de Google.
-- [GuessThatPokemon](#): Adivina el Pokémon.
-- [Feeder](#): Lector de noticias RSS.
-- [Burger King](#): Ordena comida en línea.
-- [GeForce NOW](#): Juega a juegos de PC en la nube.
-- [Cofi](#): Calculadora financiera.
-- [OpenAthena™ for Android](#): Herramienta de análisis de energía.
-- [Fing](#): Escáner de red.
-- [Solar Smash](#): Simulador de destrucción planetaria.
-- [Parco](#): Calculadora de aparcamiento.
-- [IP Webcam](#): Convierte tu dispositivo en una cámara web.
+- GuessThatPokemon: Adivina el Pokémon.
+- Feeder: Lector de noticias RSS.
+- Burger King: Ordena comida en línea.
+- GeForce NOW: Juega a juegos de PC en la nube.
+- Cofi: Calculadora financiera.
+- OpenAthena™ for Android: Herramienta de análisis de energía.
+- Fing: Escáner de red.
+- Solar Smash: Simulador de destrucción planetaria.
+- Parco: Calculadora de aparcamiento.
+- IP Webcam: Convierte tu dispositivo en una cámara web.
 - [Patreon](https://www.patreon.com/): Plataforma de apoyo a creadores.
 - [PayPal Business](https://www.paypal.com/): Pagos y transacciones en línea.
-- [MD5 Checker](#): Verifica sumas de comprobación MD5.
-- [Electronics Toolbox](#): Herramientas electrónicas.
-- [Constellations](#): Explora las constelaciones.
-- [Picsart](#): Editor de fotos y creador de collages.
-- [Chedraui - Tienda en línea](#): Compras en línea en Chedraui.
+- MD5 Checker: Verifica sumas de comprobación MD5.
+- Electronics Toolbox: Herramientas electrónicas.
+- Constellations: Explora las constelaciones.
+- Picsart: Editor de fotos y creador de collages.
+- Chedraui - Tienda en línea: Compras en línea en Chedraui.
 - [Platzi](https://platzi.com/): Educación en línea.
 - [Plex](https://www.plex.tv/): Servidor multimedia y transmisión.
-- [Pocket Optics](#): Lupa y lente de aumento.
-- [Pomodoro](#): Técnica de gestión del tiempo.
-- [My Calendar](#): Calendario personalizado.
-- [eReader Prestigio](#): Lector de libros electrónicos.
-- [Pagan Music Sequencer](#): Secuenciador musical pagano.
-- [AudioMeter](#): Medidor de sonido.
+- Pocket Optics: Lupa y lente de aumento.
+- Pomodoro: Técnica de gestión del tiempo.
+- My Calendar: Calendario personalizado.
+- eReader Prestigio: Lector de libros electrónicos.
+- Pagan Music Sequencer: Secuenciador musical pagano.
+- AudioMeter: Medidor de sonido.
 - [Quora](https://www.quora.com/): Plataforma de preguntas y respuestas.
-- [Rarevision](#): Edición de video.
-- [RAR](#): Aplicación para archivos RAR y ZIP.
+- Rarevision: Edición de video.
+- RAR: Aplicación para archivos RAR y ZIP.
 - [Reddit](https://www.reddit.com/): Comunidad en línea.
-- [Japanese](#): Aprende japonés.
-- [QuickEdit](#): Editor de texto y código.
-- [TFT](#): Teamfight Tactics Companion.
-- [Himnario Bautista](#): Himnario cristiano.
-- [Roku](#): Controla tu dispositivo Roku.
-- [Sound Manager](#): Administrador de sonido.
-- [MyCurrency](#): Conversor de moneda.
-- [Track & Graph](#): Herramienta de seguimiento y gráficos.
-- [AirDroid](#): Control remoto de Android.
-- [AirMirror](#): Refleja la pantalla de Android en la PC.
-- [Sangaku Maths](#): Resuelve problemas matemáticos.
-- [markdownr](#): Editor de Markdown.
-- [Pegboard](#): Organizador de notas y tareas.
-- [Termius](#): Cliente SSH y Telnet.
-- [Share Notification](#): Comparte notificaciones en otros dispositivos.
-- [SDAI](#): Aplicación de inteligencia artificial.
+- Japanese: Aprende japonés.
+- QuickEdit: Editor de texto y código.
+- TFT: Teamfight Tactics Companion.
+- Himnario Bautista: Himnario cristiano.
+- Roku: Controla tu dispositivo Roku.
+- Sound Manager: Administrador de sonido.
+- MyCurrency: Conversor de moneda.
+- Track & Graph: Herramienta de seguimiento y gráficos.
+- AirDroid: Control remoto de Android.
+- AirMirror: Refleja la pantalla de Android en la PC.
+- Sangaku Maths: Resuelve problemas matemáticos.
+- markdownr: Editor de Markdown.
+- Pegboard: Organizador de notas y tareas.
+- Termius: Cliente SSH y Telnet.
+- Share Notification: Comparte notificaciones en otros dispositivos.
+- SDAI: Aplicación de inteligencia artificial.
 - [Shopify](https://www.shopify.com/): Plataforma de comercio electrónico.
-- [Bible](#): Biblia en línea.
-- [Traffic Rider](#): Juego de carreras de motos.
-- [SCANN3D](#): Escanea objetos en 3D con la cámara.
-- [Sticker.ly](#): Creador de stickers personalizados.
-- [PUNTADA](#): Aplicación de costura.
-- [Headphones](#): Ecualizador de auriculares.
-- [Soundbrenner](#): Metrónomo y sintonizador.
+- Bible: Biblia en línea.
+- Traffic Rider: Juego de carreras de motos.
+- SCANN3D: Escanea objetos en 3D con la cámara.
+- Sticker.ly: Creador de stickers personalizados.
+- PUNTADA: Aplicación de costura.
+- Headphones: Ecualizador de auriculares.
+- Soundbrenner: Metrónomo y sintonizador.
 - [SoundCloud](https://soundcloud.com/): Plataforma de música y audio.
-- [Pulse](#): Aplicación de noticias.
-- [Progressbar95](#): Juego estilo retro.
-- [Squarespace](#): Creación de sitios web.
-- [Myne](#): Herramienta de organización personal.
-- [Stereo](#): Reproductor de música.
-- [Tuner - Pitched](#): Afinador musical.
-- [Streamlabs Controller](#): Controla las transmisiones en vivo.
-- [Pixel Station](#): Editor de píxeles.
-- [Tuner](#): Afinador de instrumentos.
-- [SynprezFM](#): Sintetizador FM.
-- [VocalPitchMonitor](#): Monitor de tono vocal.
-- [QR Scanner](#): Escáner de códigos QR.
+- Pulse: Aplicación de noticias.
+- Progressbar95: Juego estilo retro.
+- Squarespace: Creación de sitios web.
+- Myne: Herramienta de organización personal.
+- Stereo: Reproductor de música.
+- Tuner - Pitched: Afinador musical.
+- Streamlabs Controller: Controla las transmisiones en vivo.
+- Pixel Station: Editor de píxeles.
+- Tuner: Afinador de instrumentos.
+- SynprezFM: Sintetizador FM.
+- VocalPitchMonitor: Monitor de tono vocal.
+- QR Scanner: Escáner de códigos QR.
 - [TED](https://www.ted.com/): Charlas inspiradoras en video.
-- [Temp Mail](#): Correo temporal.
-- [WeChat](#): Aplicación de mensajería y redes sociales.
-- [Termux](#): Terminal de Linux en Android.
-- [Termux:Boot](#): Ejecución de comandos al inicio.
-- [Nix](#): Intérprete de lenguaje Nix.
-- [Termux:Tasker](#): Integración con Tasker.
-- [Termux:Widget](#): Widgets para Tasker.
-- [Termux:Float](#): Aplicación flotante para Termux.
-- [PixaPencil](#): Dibujo y animación.
-- [Cielito Querido](#): Pedidos de café en línea.
-- [OpenHub](#): Cliente de GitHub.
-- [Logo Maker](#): Crea logotipos personalizados.
-- [Promodescuentos](#): Comunidad de ofertas y descuentos.
-- [KitchenOwl](#): Recetas de cocina.
-- [NetX](#): Información de redes.
-- [Magisk](#): Herramienta de modificación de Android.
-- [Marvel](#): Creador de cómics.
-- [Swordigo](#): Juego de aventuras.
-- [Microsoft SwiftKey Keyboard](#): Teclado predictivo.
-- [2048](#): Juego de rompecabezas numérico.
+- Temp Mail: Correo temporal.
+- WeChat: Aplicación de mensajería y redes sociales.
+- Termux: Terminal de Linux en Android.
+- Termux:Boot: Ejecución de comandos al inicio.
+- Nix: Intérprete de lenguaje Nix.
+- Termux:Tasker: Integración con Tasker.
+- Termux:Widget: Widgets para Tasker.
+- Termux:Float: Aplicación flotante para Termux.
+- PixaPencil: Dibujo y animación.
+- Cielito Querido: Pedidos de café en línea.
+- OpenHub: Cliente de GitHub.
+- Logo Maker: Crea logotipos personalizados.
+- Promodescuentos: Comunidad de ofertas y descuentos.
+- KitchenOwl: Recetas de cocina.
+- NetX: Información de redes.
+- Magisk: Herramienta de modificación de Android.
+- Marvel: Creador de cómics.
+- Swordigo: Juego de aventuras.
+- Microsoft SwiftKey Keyboard: Teclado predictivo.
+- 2048: Juego de rompecabezas numérico.
 - [Trello](https://trello.com/): Gestión de proyectos en línea.
-- [Make AI Art](#): Crea arte generativo con IA.
-- [ParticleSim](#): Simulador de partículas.
+- Make AI Art: Crea arte generativo con IA.
+- ParticleSim: Simulador de partículas.
 - [Tumblr](https://www.tumblr.com/): Plataforma de blogs y redes sociales.
-- [Flat](#): Editor de partituras musicales.
-- [X](#): Calculadora científica.
-- [Just Dance Now](#): Juego de baile en línea.
-- [JD Controller](#): Controlador de Just Dance Now.
+- Flat: Editor de partituras musicales.
+- X: Calculadora científica.
+- Just Dance Now: Juego de baile en línea.
+- JD Controller: Controlador de Just Dance Now.
 - [Udemy](https://www.udemy.com/): Plataforma de cursos en línea.
-- [Unciv](#): Juego de estrategia tipo Civilization.
-- [Mindroid](#): Generador de sonidos relajantes.
-- [Beer Simulator - iBeer](#): Simulador de cerveza.
-- [Prime Number Counter](#): Contador de números primos.
+- Unciv: Juego de estrategia tipo Civilization.
+- Mindroid: Generador de sonidos relajantes.
+- Beer Simulator - iBeer: Simulador de cerveza.
+- Prime Number Counter: Contador de números primos.
 - [Steam](https://store.steampowered.com/): Plataforma de juegos de PC.
-- [VivaCut](#): Editor de video profesional.
-- [Star Walk 2](#): Astronomía y observación de estrellas.
-- [NFC Tasks](#): Automatización NFC.
-- [NFC Tools](#): Herramientas NFC.
-- [Petco](#): Compras en línea para mascotas.
+- VivaCut: Editor de video profesional.
+- Star Walk 2: Astronomía y observación de estrellas.
+- NFC Tasks: Automatización NFC.
+- NFC Tools: Herramientas NFC.
+- Petco: Compras en línea para mascotas.
 - [Waze](https://www.waze.com/): Navegación y tráfico en tiempo real.
-- [Sensors Multitool](#): Información de sensores del dispositivo.
-- [Fifth Edition Character Sheet](#): Hoja de personaje D&D 5E.
+- Sensors Multitool: Información de sensores del dispositivo.
+- Fifth Edition Character Sheet: Hoja de personaje D&D 5E.
 - [WhatsApp](https://www.whatsapp.com/): Aplicación de mensajería.
-- [WhoSampled](#): Descubre samples de música.
-- [Countdown Timer](#): Temporizador de cuenta regresiva.
-- [Wix Owner](#): Gestión de sitios web de Wix.
-- [WooCommerce](#): Comercio electrónico con WooCommerce.
-- [Zombie Roadkill](#): Juego de supervivencia zombie.
-- [DiDi Food](#): Entrega de comida a domicilio.
-- [Hypocam](#): Fotografía en blanco y negro.
-- [Crossy Road](#): Cruza la carretera en este juego.
-- [Piano](#): Simulador de piano.
-- [Yummly](#): Recetas y planificación de comidas.
-- [Cut the Rope Free](#): Juego de puzles.
-- [TickTock Video Wallpaper by TikTok](#): Fondos de pantalla en video.
+- WhoSampled: Descubre samples de música.
+- Countdown Timer: Temporizador de cuenta regresiva.
+- Wix Owner: Gestión de sitios web de Wix.
+- WooCommerce: Comercio electrónico con WooCommerce.
+- Zombie Roadkill: Juego de supervivencia zombie.
+- DiDi Food: Entrega de comida a domicilio.
+- Hypocam: Fotografía en blanco y negro.
+- Crossy Road: Cruza la carretera en este juego.
+- Piano: Simulador de piano.
+- Yummly: Recetas y planificación de comidas.
+- Cut the Rope Free: Juego de puzles.
+- TickTock Video Wallpaper by TikTok: Fondos de pantalla en video.
 - [TikTok](https://www.tiktok.com/): Red social de videos cortos.
-- [Complete Linux Installer](#): Instalador de Linux en Android.
-- [SHEIN](#): Compras de moda en línea.
-- [NetMonster](#): Información de la red móvil.
-- [Binary Code Translator](#): Traductor de código binario.
-- [Snapcast](#): Sincronización de audio multihabitación.
-- [Barcodegen](#): Generador de códigos de barras.
-- [OpenTracks](#): Registra tus actividades al aire libre.
-- [Stop-o-Moto](#): Detiene el motor en tu motocicleta.
-- [SpacePeng!](#): Juego de aventuras en el espacio.
-- [Transportr](#): Planificador de transporte público.
-- [Serial USB Terminal](#): Terminal de comunicación serie.
-- [Binary Eye](#): Escáner de códigos de barras.
-- [Decisions](#): Toma decisiones al azar.
-- [Kvaesitso](#): Juego de puzles.
-- [8-Bit Wonders](#): Colección de juegos retro.
-- [Bluetooth LE Spam](#): Herramienta de prueba de BLE.
-- [Rule of Three](#): Juego de lógica.
-- [F-Droid Build Status](#): Estado de construcción de F-Droid.
-- [Clapperboard](#): Pizarra de claqueta.
-- [Aves Libre](#): Observación de aves.
+- Complete Linux Installer: Instalador de Linux en Android.
+- SHEIN: Compras de moda en línea.
+- NetMonster: Información de la red móvil.
+- Binary Code Translator: Traductor de código binario.
+- Snapcast: Sincronización de audio multihabitación.
+- Barcodegen: Generador de códigos de barras.
+- OpenTracks: Registra tus actividades al aire libre.
+- Stop-o-Moto: Detiene el motor en tu motocicleta.
+- SpacePeng!: Juego de aventuras en el espacio.
+- Transportr: Planificador de transporte público.
+- Serial USB Terminal: Terminal de comunicación serie.
+- Binary Eye: Escáner de códigos de barras.
+- Decisions: Toma decisiones al azar.
+- Kvaesitso: Juego de puzles.
+- 8-Bit Wonders: Colección de juegos retro.
+- Bluetooth LE Spam: Herramienta de prueba de BLE.
+- Rule of Three: Juego de lógica.
+- F-Droid Build Status: Estado de construcción de F-Droid.
+- Clapperboard: Pizarra de claqueta.
+- Aves Libre: Observación de aves.
 - [Deezer](https://www.deezer.com/): Streaming de música.
-- [YouTube Downloader](#): Descarga videos de YouTube.
+- YouTube Downloader: Descarga videos de YouTube.
 - [BOINC](https://boinc.berkeley.edu/): Computación distribuida.
-- [Sudoku](#): Juego de rompecabezas numérico.
-- [Minesweeper](#): Juego clásico de buscaminas.
-- [EtchDroid](#): Aplicación de grabado.
-- [AnaCam](#): Cámara de análisis científico.
-- [TachiyomiSY](#): Lector de manga.
-- [Echo](#): Grabadora de voz.
-- [MyTherapy](#): Seguimiento de medicamentos y salud.
-- [SD Maid](#): Limpieza y optimización de Android.
-- [SD Maid Pro](#): Versión pro de SD Maid.
-- [BLE Radar](#): Escaneo de dispositivos BLE.
-- [FitProSport](#): Seguimiento de actividad física.
-- [FitProSport](#): Seguimiento de actividad física.
-- [Podcasters](#): Escucha y descubre podcasts.
+- Sudoku: Juego de rompecabezas numérico.
+- Minesweeper: Juego clásico de buscaminas.
+- EtchDroid: Aplicación de grabado.
+- AnaCam: Cámara de análisis científico.
+- TachiyomiSY: Lector de manga.
+- Echo: Grabadora de voz.
+- MyTherapy: Seguimiento de medicamentos y salud.
+- SD Maid: Limpieza y optimización de Android.
+- SD Maid Pro: Versión pro de SD Maid.
+- BLE Radar: Escaneo de dispositivos BLE.
+- FitProSport: Seguimiento de actividad física.
+- FitProSport: Seguimiento de actividad física.
+- Podcasters: Escucha y descubre podcasts.
 - [Last.fm](https://www.last.fm/): Seguimiento de música y recomendaciones.
-- [Dice](#): Lanza dados virtuales.
+- Dice: Lanza dados virtuales.
 - [NASA](https://www.nasa.gov/): Aplicación oficial de la NASA.
-- [Ceno](#): Calculadora de dieta cetogénica.
-- [Checkey](#): Verifica la integridad de las aplicaciones.
-- [OrfoxRIP](#): Navegador web seguro.
-- [AAAAXY](#): Generador de contraseñas seguras.
-- [Slideshow Wallpaper](#): Fondos de pantalla de presentación.
-- [PinPoi](#): Comparte ubicación en el mapa.
-- [MemeTastic](#): Generador de memes.
-- [Router Keygen](#): Descifra claves WiFi.
-- [OCR](#): Reconocimiento óptico de caracteres.
+- Ceno: Calculadora de dieta cetogénica.
+- Checkey: Verifica la integridad de las aplicaciones.
+- OrfoxRIP: Navegador web seguro.
+- AAAAXY: Generador de contraseñas seguras.
+- Slideshow Wallpaper: Fondos de pantalla de presentación.
+- PinPoi: Comparte ubicación en el mapa.
+- MemeTastic: Generador de memes.
+- Router Keygen: Descifra claves WiFi.
+- OCR: Reconocimiento óptico de caracteres.
 - [Home Assistant](https://www.home-assistant.io/): Automatización del hogar.
 - [Home Assistant](https://www.home-assistant.io/): Automatización del hogar.
-- [Keep Alive](#): Mantén las conexiones activas.
-- [Inner Breeze](#): Meditación y relajación.
-- [TimeLimit](#): Control del tiempo de pantalla.
-- [Wallpaper Engine](#): Fondos de pantalla animados.
-- [Conceal](#): Cifrado de datos.
-- [RaspController](#): Controla tu Raspberry Pi.
-- [Chord Tracker](#): Seguimiento de acordes musicales.
-- [Pokémon Quest](#): Juego de aventuras de Pokémon.
-- [Pokémon Sleep](#): Controla tu sueño con Pokémon.
-- [Pokémon UNITE](#): Juego de batalla en equipo de Pokémon.
-- [aGrep](#): Buscador de patrones.
-- [Obsidian](#): Toma de notas y organización.
-- [Bulkshare 2](#): Comparte archivos en lote.
-- [Notify](#): Notificaciones avanzadas.
-- [Proton Calendar](#): Calendario de ProtonMail.
-- [timeto.me](#): Control de tiempo de pantalla.
-- [Official TWRP App](#): Recuperación personalizada TWRP.
-- [Periodic Table](#): Tabla periódica interactiva.
-- [Subway - Metro Metrobus - Mexico CDMX](#): Mapa del metro y autobús en Ciudad de México.
-- [OCCMundial](#): Empleos y reclutamiento.
-- [AforeMóvil Citibanamex](#): Acceso a tu Afore en línea.
-- [Sixtynite](#): Linterna nocturna.
-- [PAYBACK](#): Programa de recompensas.
-- [Nekogram X](#): Cliente de Telegram.
-- [lWS](#): Pronóstico del tiempo.
-- [Trycorder](#): Emulador de Tricorder.
-- [Tasker Secondary](#): Extensión para Tasker.
-- [μlogger](#): Seguimiento de ubicación.
-- [BombSquad](#): Juego de fiesta multijugador.
-- [BSRemote](#): Control remoto de BombSquad.
-- [MyAnimeList](#): Seguimiento de anime y manga.
+- Keep Alive: Mantén las conexiones activas.
+- Inner Breeze: Meditación y relajación.
+- TimeLimit: Control del tiempo de pantalla.
+- Wallpaper Engine: Fondos de pantalla animados.
+- Conceal: Cifrado de datos.
+- RaspController: Controla tu Raspberry Pi.
+- Chord Tracker: Seguimiento de acordes musicales.
+- Pokémon Quest: Juego de aventuras de Pokémon.
+- Pokémon Sleep: Controla tu sueño con Pokémon.
+- Pokémon UNITE: Juego de batalla en equipo de Pokémon.
+- aGrep: Buscador de patrones.
+- Obsidian: Toma de notas y organización.
+- Bulkshare 2: Comparte archivos en lote.
+- Notify: Notificaciones avanzadas.
+- Proton Calendar: Calendario de ProtonMail.
+- timeto.me: Control de tiempo de pantalla.
+- Official TWRP App: Recuperación personalizada TWRP.
+- Periodic Table: Tabla periódica interactiva.
+- Subway - Metro Metrobus - Mexico CDMX: Mapa del metro y autobús en Ciudad de México.
+- OCCMundial: Empleos y reclutamiento.
+- AforeMóvil Citibanamex: Acceso a tu Afore en línea.
+- Sixtynite: Linterna nocturna.
+- PAYBACK: Programa de recompensas.
+- Nekogram X: Cliente de Telegram.
+- lWS: Pronóstico del tiempo.
+- Trycorder: Emulador de Tricorder.
+- Tasker Secondary: Extensión para Tasker.
+- μlogger: Seguimiento de ubicación.
+- BombSquad: Juego de fiesta multijugador.
+- BSRemote: Control remoto de BombSquad.
+- MyAnimeList: Seguimiento de anime y manga.
 - [Muzei](https://muzei.co/): Fondos de pantalla en vivo cambiantes.
 - [OsmAnd~](https://osmand.net/): Mapas y navegación fuera de línea.
-- [Roll20](#): Juegos de rol en línea.
-- [Router Keygen YoloSec](#): Generador de claves WiFi.
+- Roll20: Juegos de rol en línea.
+- Router Keygen YoloSec: Generador de claves WiFi.
 - [Zedge](https://www.zedge.net/): Fondos de pantalla y tonos.
-- [Lens Launcher](#): Lanzador de aplicaciones.
+- Lens Launcher: Lanzador de aplicaciones.
 - [Notion](https://www.notion.so/): Colaboración y gestión de proyectos.
-- [Lifetime Goals 1.8](#): Metas personales.
-- [AdAway](#): Bloqueador de anuncios.
-- [3D Model Viewer](#): Visor de modelos 3D.
-- [Accordion](#): Acordeón virtual.
-- [Melodeon](#): Acordeón virtual.
-- [Oscilloscope](#): Osciloscopio virtual.
-- [Signal Generator](#): Generador de señales.
-- [Tuner](#): Afinador musical.
-- [Bulbapedia](#): Enciclopedia Pokémon.
-- [CameraFileCopy](#): Copia de seguridad de fotos.
-- [gStrings](#): Afinador de instrumentos.
-- [cSploit](#): Herramienta de seguridad informática.
+- Lifetime Goals 1.8: Metas personales.
+- AdAway: Bloqueador de anuncios.
+- 3D Model Viewer: Visor de modelos 3D.
+- Accordion: Acordeón virtual.
+- Melodeon: Acordeón virtual.
+- Oscilloscope: Osciloscopio virtual.
+- Signal Generator: Generador de señales.
+- Tuner: Afinador musical.
+- Bulbapedia: Enciclopedia Pokémon.
+- CameraFileCopy: Copia de seguridad de fotos.
+- gStrings: Afinador de instrumentos.
+- cSploit: Herramienta de seguridad informática.
 - [edX](https://www.edx.org/): Cursos en línea de las mejores universidades y empresas.
-- [Piano](#): Simulador de piano.
+- Piano: Simulador de piano.
 - [F-Droid](https://f-droid.org/): Tienda de aplicaciones de código abierto.
-- [Haven](#): Vigilancia de seguridad personal.
+- Haven: Vigilancia de seguridad personal.
 - [iNaturalist](https://www.inaturalist.org/): Ciencia ciudadana de observación de la naturaleza.
-- [Seek](#): Identificación de plantas y animales.
-- [Spectroid](#): Visualizador de espectro de audio.
-- [Frozen Bubble](#): Juego de puzles con burbujas.
-- [CameraAlign](#): Alineación de cámara.
-- [KOReader](#): Lector de libros electrónicos.
-- [Survival Manual](#): Manual de supervivencia.
-- [AppBak](#): Copia de seguridad de aplicaciones.
+- Seek: Identificación de plantas y animales.
+- Spectroid: Visualizador de espectro de audio.
+- Frozen Bubble: Juego de puzles con burbujas.
+- CameraAlign: Alineación de cámara.
+- KOReader: Lector de libros electrónicos.
+- Survival Manual: Manual de supervivencia.
+- AppBak: Copia de seguridad de aplicaciones.
 - [Firefox Nightly](https://www.mozilla.org/firefox/channel/desktop/): Navegador web nocturno de Firefox.
 - [Firefox](https://www.mozilla.org/firefox/): Navegador web Firefox.
 - [OnionShare (beta)](https://onionshare.org/): Compartir archivos de forma segura y anónima.
 - [openHAB Beta](https://www.openhab.org/): Automatización del hogar.
-- [Hacker's Keyboard](#): Teclado completo para hackers.
-- [SatDump](#): Satélite y estación espacial seguimiento.
-- [Chinese Checkers](#): Juego de damas chino.
-- [ServDroid](#): Servidor web para Android.
-- [Calculator++](#): Calculadora avanzada.
-- [Calculator++ (Window mode)](#): Calculadora avanzada en modo ventana.
+- Hacker's Keyboard: Teclado completo para hackers.
+- SatDump: Satélite y estación espacial seguimiento.
+- Chinese Checkers: Juego de damas chino.
+- ServDroid: Servidor web para Android.
+- Calculator++: Calculadora avanzada.
+- Calculator++ (Window mode): Calculadora avanzada en modo ventana.
 - [Telegram](https://telegram.org/): Mensajería segura y rápida.
-- [Geological Timescale](#): Escala de tiempo geológico.
+- Geological Timescale: Escala de tiempo geológico.
 - [Signal](https://signal.org/): Mensajería privada y segura.
-- [Taps Of Fire](#): Juego de ritmo musical.
+- Taps Of Fire: Juego de ritmo musical.
 - [Orbot](https://guardianproject.info/apps/orbot/): Proxy y enrutador anónimo.
 - [Tor Browser](https://www.torproject.org/): Navegador web seguro.
-- [OCR (Tesseract)](#): Reconocimiento óptico de caracteres.
+- OCR (Tesseract): Reconocimiento óptico de caracteres.
 - [VLC](https://www.videolan.org/vlc/): Reproductor multimedia.
 - [Wikipedia](https://www.wikipedia.org/): Enciclopedia en línea.
-- [Audio Spectrum Analyzer](#): Analizador de espectro de audio.
-- [Smart EggTimer](#): Temporizador de huevos inteligente.
-- [GoldenEye](#): Juego de disparos en primera persona.
-- [Fruity Game](#): Juego de rompecabezas.
-- [Background Eraser - Remove BG](#): Herramienta de edición de fotos.
+- Audio Spectrum Analyzer: Analizador de espectro de audio.
+- Smart EggTimer: Temporizador de huevos inteligente.
+- GoldenEye: Juego de disparos en primera persona.
+- Fruity Game: Juego de rompecabezas.
+- Background Eraser - Remove BG: Herramienta de edición de fotos.
 - [Brand24](https://brand24.com/): Monitoreo de redes sociales y reputación.
-- [PhotoTime](#): Organiza tus fotos por tiempo.
-- [Fluffyboard](#): Tablón de anuncios en línea.
-- [SUFLER.PRO](#): Reproductor de audio.
-- [LiveWallpaperIt](#): Fondos de pantalla en vivo.
-- [Ltt.rs](#): Sistema de ubicación en tiempo real.
-- [Pydroid 3](#): IDE de Python.
-- [Linux Deploy](#): Instalador de Linux en Android.
-- [Image Toolbox (Resizer)](#): Herramienta de edición de imágenes.
-- [TorrServe MatriX](#): Servidor y cliente BitTorrent.
-- [Frozen Bubble LevelEditor plus](#): Editor de niveles para Frozen Bubble.
-- [IMSS Digital](#): Servicios médicos en línea en México.
-- [BusyBox Free](#): Instala BusyBox en tu dispositivo.
-- [Andronix](#): Instalador de Linux en Android.
-- [PDF Converter](#): Convierte documentos a PDF.
-- [Clapperboard](#): Pizarra de claqueta.
-- [tower](#): Juego de estrategia.
-- [Parsec](#): Juegos en la nube.
-- [Mandelbrot Maps](#): Explora fractales.
-- [SpeedChecker](#): Prueba de velocidad de Internet.
-- [tldr](#): Documentación de comandos de terminal simplificada.
-- [All In Gold](#): Juego de puzzle de combinación.
-- [Configuraciones](#): Lista de aplicaciones de configuración.
-- [Exported by AppBak at Feb 1](#): Aplicaciones exportadas por AppBak el 1 de febrero.
-- [Camera](#): La cámara app incluída en tu celular.
-- [Music](#): Reproductor de música.
-- [Calendar](#): Calendario.
-- [Recorder](#): Grabadora de audio.
-- [Tasty](#): Recetas de cocina y alimentos.
+- PhotoTime: Organiza tus fotos por tiempo.
+- Fluffyboard: Tablón de anuncios en línea.
+- SUFLER.PRO: Reproductor de audio.
+- LiveWallpaperIt: Fondos de pantalla en vivo.
+- Ltt.rs: Sistema de ubicación en tiempo real.
+- Pydroid 3: IDE de Python.
+- Linux Deploy: Instalador de Linux en Android.
+- Image Toolbox (Resizer): Herramienta de edición de imágenes.
+- TorrServe MatriX: Servidor y cliente BitTorrent.
+- Frozen Bubble LevelEditor plus: Editor de niveles para Frozen Bubble.
+- IMSS Digital: Servicios médicos en línea en México.
+- BusyBox Free: Instala BusyBox en tu dispositivo.
+- Andronix: Instalador de Linux en Android.
+- PDF Converter: Convierte documentos a PDF.
+- Clapperboard: Pizarra de claqueta.
+- tower: Juego de estrategia.
+- Parsec: Juegos en la nube.
+- Mandelbrot Maps: Explora fractales.
+- SpeedChecker: Prueba de velocidad de Internet.
+- tldr: Documentación de comandos de terminal simplificada.
+- All In Gold: Juego de puzzle de combinación.
+- Configuraciones: Lista de aplicaciones de configuración.
+- Exported by AppBak at Feb 1: Aplicaciones exportadas por AppBak el 1 de febrero.
+- Camera: La cámara app incluída en tu celular.
+- Music: Reproductor de música.
+- Calendar: Calendario.
+- Recorder: Grabadora de audio.
+- Tasty: Recetas de cocina y alimentos.
 - [Drive](https://www.google.com/drive/): Almacenamiento en la nube de Google.
 - [Docs](https://www.google.com/docs/): Procesador de texto en línea de Google.
 - [Sheets](https://www.google.com/sheets/): Hojas de cálculo en línea de Google.
@@ -546,10 +546,10 @@
 - [Maps](https://www.google.com/maps/): Mapas y navegación de Google.
 - [Photos](https://www.google.com/photos/): Almacenamiento y gestión de fotos de Google.
 - [Meet](https://meet.google.com/): Videoconferencias de Google.
-- [Wallet](#): Cartera digital y pagos móviles.
+- Wallet: Cartera digital y pagos móviles.
 - [YT Studio](https://studio.youtube.com/): Gestión de canal de YouTube.
 - [YT Music](https://music.youtube.com/): Streaming de música de YouTube.
-- [Contacts](#): Lista de contactos.
+- Contacts: Lista de contactos.
 - [Gmail](https://mail.google.com/): Correo electrónico de Google.
 - [YouTube](https://www.youtube.com/): Plataforma de videos en línea.
 - [BandLab](https://www.bandlab.com/): Creación de música en línea.
@@ -562,6 +562,5 @@
 - [KineMaster](https://www.kinemaster.com/): Editor de video móvil.
 - [PayPal](https://www.paypal.com/): Pagos en línea.
 - [Pinterest](https://www.pinterest.com/): Red social de imágenes.
-- [brain:code](#): Juego de programación.
+- brain:code: Juego de programación.
 - [Roblox](https://www.roblox.com/): Plataforma de juegos y creación.
-- 

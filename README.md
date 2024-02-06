@@ -143,7 +143,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Notion](https://www.notion.so/): Herramienta para la organización de proyectos, notas y bases de datos, útil para la gestión del conocimiento y la colaboración en equipo.
 - [Trello](https://trello.com/): Aplicación de gestión de proyectos basada en el sistema Kanban, facilita la organización de tareas y proyectos.
 - [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck): Brainfuck.
-  - [dcode Brainfuck-language]https://www.dcode.fr/brainfuck-language: Lenguaje Brainfuck.
+  - [dcode Brainfuck-language](https://www.dcode.fr/brainfuck-language): Lenguaje Brainfuck.
 
 #### Audio & Music
 - [ASIO Tip](https://www.reddit.com/r/ableton/comments/pxvm79/asio_prevents_youtube_spotify_from_working_noob/): Reddit Post about listen to Ableton AND youtube with ASIO.

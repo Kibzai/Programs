@@ -1,6 +1,17 @@
 # Ayuda | Help!
 
-[Sobrevivir](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
+Code Block:
+
+``` bash
+# Cómo hacer links en Github:
+# [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
+
+# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
+man ls && man cd && man ping && ping -c 4 wikipedia.org && ls -l
+
+```
+
+[Manual para sobrevivir](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
 
 Si estás lidiando con situaciones de pánico o depresión, aquí tienes algunos consejos prácticos que podrían ser útiles:
 

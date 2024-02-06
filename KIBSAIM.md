@@ -1,5 +1,9 @@
 # Kibsaim Setup
 
+## Pirating
+
+- [1337](https://www.1377x.to/): Bahía Pirata.
+
 ## Lenovo Legion Y720
 
 - [Lenovo Official Software](https://pcsupport.lenovo.com/mx/es/products/laptops-and-netbooks/legion-series/legion-y720-15ikb/downloads/driver-list/): Official Software

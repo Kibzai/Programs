@@ -142,8 +142,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Office](https://www.microsoft.com/es-es/microsoft-365/get-started-with-office-2019): Suite de productividad de Microsoft, incluye Word, Excel, PowerPoint, entre otros.
 - [Notion](https://www.notion.so/): Herramienta para la organización de proyectos, notas y bases de datos, útil para la gestión del conocimiento y la colaboración en equipo.
 - [Trello](https://trello.com/): Aplicación de gestión de proyectos basada en el sistema Kanban, facilita la organización de tareas y proyectos.
-- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck): Brainfuck.
-  - [dcode Brainfuck-language](https://www.dcode.fr/brainfuck-language): Lenguaje Brainfuck.
+- [Brainfuck](https://en.wikipedia.org/wiki/Brainfuck): Lenguaje Brainfuck.
+  - [dcode Brainfuck-language](https://www.dcode.fr/brainfuck-language): Web decoder para Lenguaje Brainfuck.
 
 ### Linux
 

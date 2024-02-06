@@ -15,9 +15,9 @@
 
 - Ableton Live 11
   -   Max
--   Traktor Pro 3
-- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+- Traktor Pro 3
 - Rekorbox
+- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
 - [ASIO Tip](https://www.reddit.com/r/ableton/comments/pxvm79/asio_prevents_youtube_spotify_from_working_noob/): Reddit Post about listen to Ableton AND youtube with ASIO.
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.

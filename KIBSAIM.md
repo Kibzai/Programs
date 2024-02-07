@@ -37,6 +37,8 @@ Vsts
 - Omnisphere
 - Izotope
 - Sausage Fattener
+- FabFilter
+- 
 
 Instruments
 

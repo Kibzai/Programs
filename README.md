@@ -38,6 +38,7 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [DuckDuckGo](https://www.duckduckgo.com): Un motor de búsqueda que prioriza la privacidad de los usuarios, no rastrea ni almacena información personal de las búsquedas.
 - [Stack Overflow](https://stackoverflow.com): Una comunidad de programadores donde puedes hacer preguntas y encontrar respuestas a problemas de codificación. 
 - [Weights & Biases (wandb)](https://wandb.ai/): Meta machine learning platform designed to help AI practitioners and teams build reliable machine learning models for real-world applications.
+ - [wandb Github](https://github.com/wandb)
 
 ---
 

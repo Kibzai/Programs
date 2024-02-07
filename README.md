@@ -33,12 +33,19 @@ Este README ofrece una lista de programas útiles para proyectos de programació
 - [GitHub](https://github.com): Plataforma de desarrollo colaborativo para alojar y revisar código, gestionar proyectos y construir software junto a otros desarrolladores.
 - [Wikipedia](https://www.wikipedia.org): Wikipedia es un recurso valioso para comprender conceptos, historia y terminología de programación. Es un excelente punto de partida para explorar varios aspectos de la ciencia de la computación.
 - [Internet Archive](https://archive.org): Una biblioteca digital de sitios web, música, libros y más. El "Wayback Machine" permite ver cómo eran los sitios web en el pasado.
-- [Protonmail](https://mail.proton.me): Mail
-- [Google](https://www.google.com): Google es una herramienta esencial para cualquier programador. Los principiantes pueden usarlo para buscar tutoriales de programación, recursos, foros y respuestas a problemas de codificación específicos.
 - [DuckDuckGo](https://www.duckduckgo.com): Un motor de búsqueda que prioriza la privacidad de los usuarios, no rastrea ni almacena información personal de las búsquedas.
 - [Stack Overflow](https://stackoverflow.com): Una comunidad de programadores donde puedes hacer preguntas y encontrar respuestas a problemas de codificación. 
-- [Weights & Biases (wandb)](https://wandb.ai/): Meta machine learning platform designed to help AI practitioners and teams build reliable machine learning models for real-world applications.
- - [wandb Github](https://github.com/wandb)
+- [Google](https://www.google.com): Google es una herramienta esencial para cualquier programador. Los principiantes pueden usarlo para buscar tutoriales de programación, recursos, foros y respuestas a problemas de codificación específicos.
+
+- https://app.getpocket.com/
+- https://my.bible.com/moments
+- https://dashboard.twitch.tv/
+- https://www.speechchat.com/
+- [Protonmail](https://mail.proton.me): Mail
+- https://mail.google.com/mail/u/0/#inbox
+- https://drive.google.com/drive/my-drive
+
+<!-- - https://timeline.mex -->
 
 ---
 
@@ -161,7 +168,9 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 ## Lenguajes & Tecnologías
 
 - [Python](https://www.python.org/): Lenguaje de programación versátil y fácil de aprender, muy utilizado en desarrollo web, ciencia de datos y automatización.
-- [Google Cloud SDK](https://cloud.google.com/sdk): Conjunto de herramientas para administrar recursos y aplicaciones hospedadas en Google Cloud Platform.
+
+- [Weights & Biases (wandb)](https://wandb.ai/): Meta machine learning platform designed to help AI practitioners and teams build reliable machine learning models for real-world applications.
+ - [wandb Github](https://github.com/wandb)
 - [Docker](https://www.docker.com/): Plataforma para desarrollar, enviar y ejecutar aplicaciones en contenedores, facilitando la portabilidad y escalabilidad.
 - [Docker Desktop](https://www.docker.com/products/docker-desktop): Interfaz de usuario para Docker, facilita la gestión de contenedores y aplicaciones Docker en escritorios.
 - [Kubernetes](https://kubernetes.io/es/): Sistema de orquestación de contenedores, ayuda a gestionar aplicaciones basadas en contenedores a gran escala.
@@ -169,6 +178,8 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [MySQL](https://www.mysql.com/): Sistema de gestión de bases de datos relacional, muy utilizado en aplicaciones web y como componente de LAMP.
 - [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
 - [Systemd](https://systemd.io/):System and Service Manager, a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
+- [Google Cloud SDK](https://cloud.google.com/sdk): Conjunto de herramientas para administrar recursos y aplicaciones hospedadas en Google Cloud Platform.
+- [AWS](https://AWS): AWS
 
 ### HTML
 - [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.

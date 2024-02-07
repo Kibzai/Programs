@@ -57,6 +57,9 @@ lshw -short
 # List system
 ls 
 sudo
+
+# Windows OneLiner
+help dir && help cd && ping -n 4 wikipedia.org && dir && type example.txt
 ```
 
 ## PROMPTS

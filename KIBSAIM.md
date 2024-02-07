@@ -45,7 +45,12 @@ Instruments
 
 ## Powkiddy RGB 20S
 
-- [Games Repositories](http://192.168.0.107/files/n64/): Depende la consola
+- [Local Games Repositories](http://192.168.0.ip/files/console): Depende la consola ej: 192.168.0.101/files/n64
+- 
+- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
+- [Roms Megathread](https://r-roms.github.io/megathread/retro/): Go here Retro
+
+---
 
 ## Tachiyomi
 

@@ -69,8 +69,9 @@ lshw -short
 ## Hardware
 
 Linux | Bash | PowerShell | Flipper
+
+Essential system information and saves it to a text file. [Save as script.bat]
 ```batch
-# save as script.bat
 @echo off
 set outputFile=system_info.txt
 echo Gathering system information...

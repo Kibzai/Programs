@@ -168,7 +168,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [PostgreSQL](https://www.postgresql.org/): Sistema de gestión de bases de datos objeto-relacional, conocido por su robustez y cumplimiento de estándares.
 - [MySQL](https://www.mysql.com/): Sistema de gestión de bases de datos relacional, muy utilizado en aplicaciones web y como componente de LAMP.
 - [Redis](https://redis.io/): Almacenamiento en memoria de estructuras de datos, utilizado como base de datos, caché y broker de mensajes.
-- [Systemd](https://github.com/systemd/systemd):System and Service Manager, a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
+- [Systemd](https://systemd.io/):System and Service Manager, a suite of basic building blocks for a Linux system. It provides a system and service manager that runs as PID 1 and starts the rest of the system.
 
 ### HTML
 - [MDN Web Docs](https://developer.mozilla.org): Recursos para desarrolladores web, incluyendo documentación sobre HTML, CSS y JavaScript.

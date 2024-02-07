@@ -60,6 +60,24 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 ### Windows
 
 - [MiniOS](https://www.dprojects.org/minios): Minified Windows.
+- [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
+- [Git for Windows](https://gitforwindows.org/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
+- [GitHub Desktop](https://desktop.github.com/): Interfaz gráfica para gestionar repositorios de Git, simplifica el proceso de colaboración en proyectos de GitHub.
+- 
+- [SDI](https://sdi-tool.org/download/): Install missing drivers and update old drivers.
+- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Utilidad para overclocking de tarjetas gráficas, permitiendo mejorar el rendimiento de los juegos y aplicaciones gráficas.
+- [KMS](https://kmspico.io/): KMS Pico.
+- [7-Zip](https://www.7-zip.org/): Software de archivado de ficheros con un alto ratio de compresión, compatible con varios formatos de archivo.
+- [VirtualBox](https://www.virtualbox.org/): Software de virtualización para ejecutar múltiples sistemas operativos de manera simultánea en un mismo hardware.
+- [Visual Studio Code](https://code.visualstudio.com/): Editor de código fuente desarrollado por Microsoft, con soporte para múltiples lenguajes y extensiones.
+- [OnionShare](https://onionshare.org/): Herramienta de código abierto para compartir archivos de manera segura y anónima a través de la red Tor.
+- [qBittorrent](https://www.qbittorrent.org/): Cliente de torrent de código abierto, ligero y fácil de usar.
+- [VLC](https://www.videolan.org/vlc/index.es.html): Reproductor multimedia de código abierto, compatible con múltiples formatos de audio y video.
+- [WirelessKeyView](https://www.nirsoft.net/utils/wireless_key.html): Aplicación para recuperar las contraseñas de redes Wi-Fi almacenadas en el sistema operativo.
+- [WinDirStat](https://windirstat.net/): Herramienta para visualizar el uso del espacio en disco, mostrando los archivos y directorios que ocupan más espacio.
+- [EasyBCD](https://neosmart.net/EasyBCD/): Herramienta para modificar y gestionar el arranque de varios sistemas operativos en un mismo equipo.
+- [WinCDEmu](https://wincdemu.sysprogs.org/): Programa para montar imágenes de disco como CD/DVD virtuales en Windows.
+- [cpu-z](https://www.cpuid.com/softwares/cpu-z.html): Computer Stats
 
 #### Conectar
 
@@ -88,25 +106,6 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 #### Desarrollo
 
-- [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
-- [Git for Windows](https://gitforwindows.org/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
-- [GitHub Desktop](https://desktop.github.com/): Interfaz gráfica para gestionar repositorios de Git, simplifica el proceso de colaboración en proyectos de GitHub.
-- 
-- [SDI](https://sdi-tool.org/download/): Install missing drivers and update old drivers.
-- [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Utilidad para overclocking de tarjetas gráficas, permitiendo mejorar el rendimiento de los juegos y aplicaciones gráficas.
-- [KMS](https://kmspico.io/): KMS Pico.
-- [7-Zip](https://www.7-zip.org/): Software de archivado de ficheros con un alto ratio de compresión, compatible con varios formatos de archivo.
-- [VirtualBox](https://www.virtualbox.org/): Software de virtualización para ejecutar múltiples sistemas operativos de manera simultánea en un mismo hardware.
-- [Visual Studio Code](https://code.visualstudio.com/): Editor de código fuente desarrollado por Microsoft, con soporte para múltiples lenguajes y extensiones.
-- [OnionShare](https://onionshare.org/): Herramienta de código abierto para compartir archivos de manera segura y anónima a través de la red Tor.
-- [qBittorrent](https://www.qbittorrent.org/): Cliente de torrent de código abierto, ligero y fácil de usar.
-- [VLC](https://www.videolan.org/vlc/index.es.html): Reproductor multimedia de código abierto, compatible con múltiples formatos de audio y video.
-- [WirelessKeyView](https://www.nirsoft.net/utils/wireless_key.html): Aplicación para recuperar las contraseñas de redes Wi-Fi almacenadas en el sistema operativo.
-- [WinDirStat](https://windirstat.net/): Herramienta para visualizar el uso del espacio en disco, mostrando los archivos y directorios que ocupan más espacio.
-- [EasyBCD](https://neosmart.net/EasyBCD/): Herramienta para modificar y gestionar el arranque de varios sistemas operativos en un mismo equipo.
-- [WinCDEmu](https://wincdemu.sysprogs.org/): Programa para montar imágenes de disco como CD/DVD virtuales en Windows.
-- [cpu-z](https://www.cpuid.com/softwares/cpu-z.html): Computer Stats
-- 
 - [Obsidian](https://obsidian.md/): Aplicación de toma de notas y gestión de conocimiento, basada en archivos markdown y enlaces internos.
 - [Atom](https://github.com/atom/atom/releases/tag/v1.60.0): Atom is a hackable text editor for the 21st century, built on Electron, and based on everything we love about our favorite editors. We designed it to be deeply customizable, but still approachable using the default configuration.
 - [Sublime Text](https://www.sublimetext.com/): Un editor de texto sofisticado para código, marcado y prosa, con múltiples características para mejorar la productividad en HTML y otros lenguajes.

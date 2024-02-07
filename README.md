@@ -65,7 +65,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
 - [Git for Windows](https://gitforwindows.org/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
 - [GitHub Desktop](https://desktop.github.com/): Interfaz gráfica para gestionar repositorios de Git, simplifica el proceso de colaboración en proyectos de GitHub.
-- [ADB](https://adb.clockworkmod.com/): Windows Drivers for Android Debug Bridge
+- [Universal ADB Drivers](https://adb.clockworkmod.com/): Windows Drivers for Android Debug Bridge.
 - [SDI](https://sdi-tool.org/download/): Install missing drivers and update old drivers.
 - [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards): Utilidad para overclocking de tarjetas gráficas, permitiendo mejorar el rendimiento de los juegos y aplicaciones gráficas.
 - [KMS](https://kmspico.io/): KMS Pico.

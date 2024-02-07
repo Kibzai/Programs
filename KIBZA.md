@@ -1,5 +1,9 @@
 # Scripts & Prompts
 
+## Fuentes 
+
+- https://www.youtube.com/@TwoMinutePapers
+
 ## PROMPTS
 
 ```text

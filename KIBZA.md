@@ -69,9 +69,22 @@ lshw -short
 ## Hardware
 
 Linux | Bash | PowerShell | Flipper
-```bash
-# sudo
-sudo
+```batch
+# save as script.bat
+@echo off
+set outputFile=system_info.txt
+echo Gathering system information...
+echo Computer Name: > %outputFile%
+hostname >> %outputFile%
+echo. >> %outputFile%
+echo Operating System: >> %outputFile%
+ver >> %outputFile%
+echo. >> %outputFile%
+echo IP Configuration: >> %outputFile%
+ipconfig /all >> %outputFile%
+echo. >> %outputFile%
+echo Disk Space: >> %outputFile%
+wmic logicaldisk get name,freespace,size >> %outputFile%
 ```
 
 ```bash

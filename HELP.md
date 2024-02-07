@@ -2,15 +2,22 @@
 
 Code Block:
 
-``` bash
+```bash
 # Cómo hacer links en Github:
 # [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
 ```
 
-``` bash
+```powershell
 # Begins system scan.
 sfc /scannow
 ```
+
+```powershell
+# Begins system scan.
+Dism /Online /Cleanup-Image /RestoreHealth
+```
+
+
 
 [Manual para sobrevivir - Android App](https://play.google.com/store/apps/details?id=org.ligi.survivalmanual)
 

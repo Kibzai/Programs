@@ -68,11 +68,29 @@ lshw -short
 
 ## Hardware
 
-```duckscript
+Linux | Bash | PowerShell | Flipper
+```bash
+# sudo
+sudo
+```
+
+```bash
 # List system
 ls 
-sudo
+```
 
-# Windows OneLiner
-help dir && help cd && ping -n 4 wikipedia.org && dir && type example.txt
+---
+<!-- 
+Android
+```bash
+# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
+
+```
+ -->
+---
+
+Windows PowerShell (Admin)
+```bash
+# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
+man ls && man cd && man ping && ping -c 4 wikipedia.org && ls -l
 ```

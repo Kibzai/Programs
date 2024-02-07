@@ -28,7 +28,12 @@ Vsts
 
 - Waves
 - Komplete
--   Kontakt
+  - Kontakt 5.5
+  - Battery 4.1
+  - Guitar Rig 5
+  - Guitar Rig 6
+  - Reaktor 5
+  - Reaktor 6
 - Omnisphere
 - Izotope
 - Sausage Fattener

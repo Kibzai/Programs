@@ -62,7 +62,7 @@ Aquí tienes algunos consejos espirituales basados en los frutos del Espíritu, 
 
 Recuerda que estos frutos del Espíritu no solo son ideales a los que aspirar, sino también herramientas prácticas para navegar por los desafíos de la vida. Al centrarte en estos principios, puedes encontrar consuelo y guía en tu viaje espiritual.
 
-
+- [Teología Bíblica](https://www.youtube.com/watch?v=nHr2cnrhUsY): Graeme Goldsworthy - Biblical Theology
 ---
 
 Para pedir ayuda en situaciones de emergencia usando dispositivos móviles, hay varias aplicaciones que pueden ser útiles. Algunas de estas aplicaciones incluyen:

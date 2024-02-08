@@ -252,4 +252,4 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 ## Local
 
 - [Mafia Creativa](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Diseño & Producción. 
-- [Kibsaim Setup](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Kibsaim Setup.
+- [Kibsaim CV](https://github.com/KibsaimMejia/CV): Kibsaim CV.

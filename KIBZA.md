@@ -24,7 +24,9 @@ man ls && man cd && man ping && ping -c 4 wikipedia.org && ls -l
 ```bash
 # Creates a compressed backup of a directory
 tar -czvf backup.tar.gz /path/to/directory
+```
 
+```bash
 # Finds and deletes files older than 10 days in a specific directory
 find /path/to/directory -type f -mtime +10 -exec rm {} \;
 

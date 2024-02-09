@@ -1,5 +1,19 @@
 ## Apps & Programas
 
+Home
+
+Want to be & Learn
+
+(battery)
+Social creation edit 
+
+(weather)
+Hacking
+
+(Calendar)
+
+Games
+
 - Cámara: La cámara app incluída en tu celular.
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.
 - DroidScript: Desarrollo de aplicaciones móviles.

@@ -32,7 +32,7 @@ body.dark-mode pre{
     overflow-x: auto; /* Enables horizontal scrolling for long lines */
     white-space: pre-wrap; /* Ensures wrapping of long lines */
     word-wrap: break-word;
-    color: #f8f8f2;
+    color: green;
 }
 
 /* Code Block Styling */

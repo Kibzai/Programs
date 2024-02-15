@@ -11,9 +11,9 @@ body.dark-mode a {
     color: #5599ff;
 }
 
-body.dark-mode div {
+body.dark-mode .content {
     background-color: #222;
-    padding: 1rem;
+    padding: 5rem;
 }
 
 /* Code Block Styling with Wrap */

@@ -2,7 +2,7 @@
 
 /* Base Dark Mode Styles */
 body.dark-mode {
-    background-color: #000;
+    background-color: #222;
     font-family: 'Courier New', Courier, monospace;
     color: #ddd;
     margin: 3rem;
@@ -14,11 +14,11 @@ body.dark-mode a {
 }
 
 body.dark-mode .content {
-    background-color: #111;
+    background-color: #333;
     padding: 5rem;
 }
 
-li { background: #333; }
+li { background: #111; }
 li:nth-child(odd) { background: #222; }
 
 /* Code Block Styling with Wrap */

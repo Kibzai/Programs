@@ -27,18 +27,13 @@ body.dark-mode pre{
     white-space: pre-wrap; /* Ensures wrapping of long lines */
     word-wrap: break-word;
     color: #f8f8f2;
-    line-height: 2;
 }
 
 /* Code Block Styling */
 body.dark-mode code {
-    background-color: #2b2b2b;
-    border-radius: 5px;
-    padding: 1rem;
     overflow-x: auto; /* Enables horizontal scrolling for long lines */
     white-space: pre-wrap; /* Ensures wrapping of long lines */
     word-wrap: break-word;
-    color: #f8f8f2;
     line-height: 2;
 }
 

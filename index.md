@@ -5,8 +5,8 @@ title: Programas & Aplicaciones
 # Herramientas
 
 - [Programs](https://github.com/Kibzai/Programs/): Código Fuente | Readme.
-- [Kibza](https://github.com/Kibzai/Programs/KIBZA.md): Hacking.
-- [Mafia Creativa](https://github.com/Kibzai/Programs/MAFIA.md): Diseño & Producción.
+- [Kibza](https://kibzai.github.io/Programs/KIBZA.md): Hacking.
+- [Mafia Creativa](https://kibzai.github.io/Programs/MAFIA.md): Diseño & Producción.
 
 Code Block:
 ``` bash

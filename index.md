@@ -2,27 +2,20 @@
 layout: default
 title: Programas & Aplicaciones
 ---
-# Programas & Herramientas
+# Inicio
 
 Code Block:
 
 ``` bash
 # Internet: "@http(s)://\\ `%20` para escribir espacios en direcciones."
 # [(< Obsidian: [[Link]] >)]
-# [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
+# [Help!](https://kibzai.github.io/Programs/HELP.md)
 # [ROUTER?](http://192.168.0.1/) || [LOCAL](http://localhost:3000?)
 
 `` '' ""
 ```
 
-## Inicio
-
-Este README ofrece una lista de programas útiles para proyectos de programación. Estas herramientas han sido seleccionadas en base a su facilidad de uso, valor educativo y experiencia general del usuario.
-
-- [Help!](https://github.com/Kibzai/Programs/blob/main/HELP.md): Buscas ¿¡Ayuda!?
-- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Hacking.
-
-#### FUN'S
+### FUN'S
 
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
 - [OnThisDay](https://www.onthisday.com): Sitio web que ofrece información sobre eventos históricos, cumpleaños de personajes famosos y acontecimientos importantes que ocurrieron en una fecha específica.
@@ -253,7 +246,6 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 
 ---
 
-## Local
+## Contacto
 
-- [Mafia Creativa](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Diseño & Producción. 
-- [Kibsaim CV](https://github.com/KibsaimMejia/CV): Kibsaim CV.
+- [Kibsaim CV](https://kibsaimmejia.github.io/CV/): Kibsaim CV.

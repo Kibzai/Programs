@@ -1,10 +1,44 @@
 /* assets/css/style.css */
+
+/* Base Dark Mode Styles */
 body.dark-mode {
     background-color: #333;
     color: #ddd;
-  }
-  
-  body.dark-mode a {
+}
+
+body.dark-mode a {
     color: #5599ff;
-  }
-  
+}
+
+/* Code Block Styling with Wrap */
+body.dark-mode pre, 
+body.dark-mode code {
+    background-color: #2b2b2b;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    overflow-x: auto; /* Enables horizontal scrolling for long lines */
+    white-space: pre-wrap; /* Ensures wrapping of long lines */
+    word-wrap: break-word;
+    color: #f8f8f2;
+}
+
+/* Copy Button Styling */
+.copy-btn {
+    position: relative;
+    float: right;
+    top: -25px;
+    right: 10px;
+    background-color: #5599ff;
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-size: 0.8em;
+}
+
+/* Hover Effect for Copy Button */
+.copy-btn:hover {
+    background-color: #4a8eda;
+}

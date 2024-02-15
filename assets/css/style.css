@@ -11,6 +11,11 @@ body.dark-mode a {
     color: #5599ff;
 }
 
+body.dark-mode div {
+    background-color: #222;
+    padding: 1rem;
+}
+
 /* Code Block Styling with Wrap */
 body.dark-mode pre, 
 body.dark-mode code {

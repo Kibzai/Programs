@@ -2,7 +2,7 @@
 layout: default
 title: Programas & Aplicaciones
 ---
-# Inicio
+# Herramientas
 
 Code Block:
 

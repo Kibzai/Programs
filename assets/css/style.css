@@ -18,7 +18,7 @@ body.dark-mode .content {
     padding: 5rem;
 }
 
-li { background: #333; }
+li { background: #111; }
 li:nth-child(odd) { background: #222; }
 
 /* Code Block Styling with Wrap */

@@ -2,7 +2,7 @@
 
 # Theme settings
 theme: jekyll-theme-minimal  # Use the minimal theme
-@import "{{ site.theme }}";  # Import the theme's settings
+# @import "{{ site.theme }}";  # Import the theme's settings
 
 # Site settings
 title: Programas & Aplicaciones          # Site title

@@ -1,13 +1,27 @@
-theme: jekyll-theme-minimal
-title: Programas & Aplicaciones
-description: Configuraciones, Programas & Aplicaciones.
-lsi: false
-safe: true
-source: .
-incremental: false
-highlighter: rouge
+# _config.yml for Jekyll site with custom configurations
+
+# Theme settings
+theme: jekyll-theme-minimal  # Use the minimal theme
+@import "{{ site.theme }}";  # Import the theme's settings
+
+# Site settings
+title: Programas & Aplicaciones          # Site title
+description: Configuraciones, Programas & Aplicaciones  # Site description
+
+# Build settings
+lsi: false             # Latent Semantic Indexing for related posts, set to false for faster builds
+safe: true             # Safe mode, restricts custom plugins for GitHub Pages compatibility
+source: .              # Source directory is the root
+incremental: false     # Incremental build, set to false for full rebuilds
+highlighter: rouge     # Syntax highlighter
+
+# Gist settings
 gist:
-  noscript: false
+  noscript: false      # Allows Gists to work without JavaScript
+
+# Markdown processing with Kramdown
 kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+  math_engine: mathjax       # Use MathJax for math rendering
+  syntax_highlighter: rouge  # Syntax highlighting with Rouge
+
+# Add additional custom configurations below

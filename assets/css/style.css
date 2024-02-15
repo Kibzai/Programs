@@ -5,6 +5,8 @@ body.dark-mode {
     background-color: #333;
     font-family: 'Courier New', Courier, monospace;
     color: #ddd;
+    margin: 3rem;
+    font-size: 1.333rem;
 }
 
 body.dark-mode a {

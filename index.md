@@ -4,8 +4,11 @@ title: Programas & Aplicaciones
 ---
 # Herramientas
 
-Code Block:
+- [Programs](https://github.com/Kibzai/Programs/): Código Fuente | Readme.
+- [Kibza](https://github.com/Kibzai/Programs/KIBZA.md): Hacking.
+- [Mafia Creativa](https://github.com/Kibzai/Programs/MAFIA.md): Diseño & Producción.
 
+Code Block:
 ``` bash
 # Internet: "@http(s)://\\ `%20` para escribir espacios en direcciones."
 # [(< Obsidian: [[Link]] >)]
@@ -41,7 +44,6 @@ Code Block:
 - [Protonmail](https://mail.proton.me): Mail
 - https://mail.google.com/mail/u/0/#inbox
 - https://drive.google.com/drive/my-drive
-
 <!-- - https://timeline.mex -->
 
 ---

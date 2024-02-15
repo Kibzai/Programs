@@ -5,14 +5,20 @@ title: Programas & Aplicaciones
 # Herramientas
 
 - [Programs](https://github.com/Kibzai/Programs/): Código Fuente | Readme.
-- [Kibza](https://kibzai.github.io/Programs/KIBZA.md): Hacking.
-- [Mafia Creativa](https://kibzai.github.io/Programs/MAFIA.md): Diseño & Producción.
+- [Kibza](https://kibzai.github.io/Programs/KIBZA): Hacking.
+- [Mafia Creativa](https://kibzai.github.io/Programs/MAFIA): Diseño & Producción.
+
+---
+
+## Contacto
+
+- [Kibsaim CV](https://kibsaimmejia.github.io/CV/): Kibsaim CV.
 
 Code Block:
 ``` bash
 # Internet: "@http(s)://\\ `%20` para escribir espacios en direcciones."
 # [(< Obsidian: [[Link]] >)]
-# [Help!](https://kibzai.github.io/Programs/HELP.md)
+# [Help!](https://kibzai.github.io/Programs/HELP)
 # [ROUTER?](http://192.168.0.1/) || [LOCAL](http://localhost:3000?)
 
 `` '' ""
@@ -245,9 +251,3 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 - [SonarQube](https://www.sonarqube.org/): Una plataforma para evaluar la calidad del código, que analiza y reporta sobre duplicaciones, estándares de codificación, pruebas unitarias, cobertura de código, bugs y vulnerabilidades de seguridad.
 - [Java VisualVM](https://visualvm.github.io/): Una herramienta de monitoreo, troubleshooting y profiling todo-en-uno para la máquina virtual Java (JVM) que integra varias herramientas de línea de comando JDK en una interfaz gráfica de usuario.
 - [Mockito](https://site.mockito.org/): Un popular framework de mocking para pruebas unitarias en aplicaciones Java, que permite crear y configurar objetos mock de manera sencilla y legible.
-
----
-
-## Contacto
-
-- [Kibsaim CV](https://kibsaimmejia.github.io/CV/): Kibsaim CV.

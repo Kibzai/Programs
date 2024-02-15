@@ -21,13 +21,14 @@ body.dark-mode code {
     white-space: pre-wrap; /* Ensures wrapping of long lines */
     word-wrap: break-word;
     color: #f8f8f2;
+    line-height: 2;
 }
 
 /* Copy Button Styling */
 .copy-btn {
     position: relative;
     float: right;
-    top: -25px;
+    top: 10px;
     right: 10px;
     background-color: #5599ff;
     color: white;

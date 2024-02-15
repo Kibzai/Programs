@@ -3,7 +3,7 @@ title: Programas & Aplicaciones
 description: Configuraciones, Programas & Aplicaciones.
 lsi: false
 safe: true
-source: [your repo's top level directory]
+source: .
 incremental: false
 highlighter: rouge
 gist:

@@ -1,0 +1,10 @@
+/* assets/css/style.css */
+body.dark-mode {
+    background-color: #333;
+    color: #ddd;
+  }
+  
+  body.dark-mode a {
+    color: #5599ff;
+  }
+  

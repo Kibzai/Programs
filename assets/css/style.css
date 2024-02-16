@@ -2,7 +2,7 @@
 
 /* Base Dark Mode Styles */
 body.dark-mode {
-    background-color: #283739;
+    background-color: #000;
     font-family: 'Courier New', Courier, monospace;
     color: #e0e0e0;
     margin: 3rem;
@@ -10,7 +10,7 @@ body.dark-mode {
 }
 
 body.dark-mode a {
-    color: #5599ff;
+    color: #a7d129;
 }
 
 body.dark-mode .content {
@@ -22,7 +22,7 @@ li {
     background: #222;
     padding: 1rem;
 }
-li:nth-child(odd) { background: #283739; }
+li:nth-child(odd) { background: #1b1919; }
 
 /* Code Block Styling with Wrap */
 body.dark-mode pre{
@@ -31,7 +31,7 @@ body.dark-mode pre{
     overflow-x: auto; /* Enables horizontal scrolling for long lines */
     white-space: pre-wrap; /* Ensures wrapping of long lines */
     word-wrap: break-word;
-    color: #a2c11c;
+    color: #a7d129;
 }
 
 /* Code Block Styling */
@@ -48,7 +48,7 @@ body.dark-mode code {
     float: right;
     top: 10px;
     right: 10px;
-    background-color: #a2c11c;
+    background-color: #616f39;
     color: white;
     border: none;
     border-radius: 3px;
@@ -59,5 +59,5 @@ body.dark-mode code {
 
 /* Hover Effect for Copy Button */
 .copy-btn:hover {
-    background-color: #4a8eda;
+    background-color: #a7d129;
 }

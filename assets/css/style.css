@@ -19,10 +19,10 @@ body.dark-mode .content {
 }
 
 li {
-    background: #222;
+    background: #1b1919;
     padding: 1rem;
 }
-li:nth-child(odd) { background: #1b1919; }
+li:nth-child(odd) { background: #222; }
 
 /* Code Block Styling with Wrap */
 body.dark-mode pre{
@@ -48,7 +48,7 @@ body.dark-mode code {
     float: right;
     top: 10px;
     right: 10px;
-    background-color: #616f39;
+    background-color: #a7d129;
     color: white;
     border: none;
     border-radius: 3px;
@@ -59,5 +59,5 @@ body.dark-mode code {
 
 /* Hover Effect for Copy Button */
 .copy-btn:hover {
-    background-color: #a7d129;
+    background-color: #616f39;
 }

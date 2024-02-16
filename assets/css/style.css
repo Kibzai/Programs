@@ -27,7 +27,6 @@ li:nth-child(odd) { background: #000; }
 /* Code Block Styling with Wrap */
 body.dark-mode pre{
     background-color: #000;
-    border-radius: 5px;
     padding: 1rem;
     overflow-x: auto; /* Enables horizontal scrolling for long lines */
     white-space: pre-wrap; /* Ensures wrapping of long lines */
@@ -49,7 +48,7 @@ body.dark-mode code {
     float: right;
     top: 10px;
     right: 10px;
-    background-color: #5599ff;
+    background-color: green;
     color: white;
     border: none;
     border-radius: 3px;

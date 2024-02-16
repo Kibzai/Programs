@@ -2,9 +2,9 @@
 
 /* Base Dark Mode Styles */
 body.dark-mode {
-    background-color: #000;
+    background-color: #283739;
     font-family: 'Courier New', Courier, monospace;
-    color: #ddd;
+    color: #e0e0e0;
     margin: 3rem;
     font-size: 1.333rem;
 }
@@ -22,7 +22,7 @@ li {
     background: #222;
     padding: 1rem;
 }
-li:nth-child(odd) { background: #000; }
+li:nth-child(odd) { background: #283739; }
 
 /* Code Block Styling with Wrap */
 body.dark-mode pre{
@@ -31,7 +31,7 @@ body.dark-mode pre{
     overflow-x: auto; /* Enables horizontal scrolling for long lines */
     white-space: pre-wrap; /* Ensures wrapping of long lines */
     word-wrap: break-word;
-    color: green;
+    color: #a2c11c;
 }
 
 /* Code Block Styling */
@@ -48,7 +48,7 @@ body.dark-mode code {
     float: right;
     top: 10px;
     right: 10px;
-    background-color: green;
+    background-color: #a2c11c;
     color: white;
     border: none;
     border-radius: 3px;

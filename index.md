@@ -74,6 +74,7 @@ Están separadas en diferentes plataformas: Linux (Windows, Mac & Android), se r
 ### Windows
 
 - [MiniOS](https://www.dprojects.org/minios): Minified Windows.
+- [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 - [Git](https://git-scm.com/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
 - [Git for Windows](https://gitforwindows.org/): Sistema de control de versiones distribuido, esencial para la gestión de código fuente en proyectos de desarrollo.
 - [GitHub Desktop](https://desktop.github.com/): Interfaz gráfica para gestionar repositorios de Git, simplifica el proceso de colaboración en proyectos de GitHub.

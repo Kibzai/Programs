@@ -2,15 +2,15 @@
 
 Home
 
-Want to be & Learn
+Want to be & calendar
 
-(battery)
-Social creation edit 
+Social creation edit money 
 
-(weather)
-Hacking
+(weather) Hacking
 
-(Calendar)
+Learn (investigate
+
+sensors 
 
 Games
 

@@ -10,7 +10,7 @@ Social creation edit money
 
 Learn (investigate
 
-sensors 
+sensors music reality 
 
 Games
 

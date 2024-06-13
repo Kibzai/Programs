@@ -1,4 +1,8 @@
-# MAFIA CREATIVA
+# Diversión
+
+### FUN'S
+
+- [The Useless Web](https://theuselessweb.com/): The Useless Web.
 
 ## Assets
 
@@ -18,3 +22,26 @@
 - https://codepen.io/alexzaworski/pen/mEZvrG
 - https://codepen.io/yoksel/pen/XJbzrO
 - 
+
+## Powkiddy RGB 20S
+
+- [Local Games Repositories](http://192.168.0.ip/files/console): Depende la consola ej: 192.168.0.101/files/n64
+- 
+- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
+- [Roms Megathread](https://r-roms.github.io/megathread/retro/): Go here Retro
+
+---
+
+## Tachiyomi
+
+- LectorManga
+- MangaDex
+- MangaLife
+- MangaPark
+- MangaRaw
+- Mangabat
+- Mangafreak
+- Mangakakalot
+- ReadAllComics
+- ReadComicOnline
+- TuMangaOnline

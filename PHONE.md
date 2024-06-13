@@ -1,18 +1,56 @@
-## Apps & Programas
+# Teléfonos
 
-Home
+### Tiendas
 
-Want to be & calendar
+- **Google Play Store** - `https://play.google.com/store`
+- **F-Droid** - `https://f-droid.org/`
+- **APKMirror** (no es exactamente una tienda, pero es un repositorio popular de APKs) - `https://www.apkmirror.com/`
+- **Amazon Appstore** - `https://www.amazon.com/mobile-apps/b?node=2350149011`
 
-Social creation edit money 
 
-(weather) Hacking
+## Home's
 
-Learn (investigate
+### 1.- Hogar
 
-sensors music reality 
+Las apps más principales!
+Personalización: Lanzadores, temas, fondos de pantalla y widgets.
 
-Games
+### 2.-Want to be (Productivity)
+
+¿Dónde quieres estar?
+Productividad: Aplicaciones de calendario, tareas, notas, y gestión de proyectos.
+
+### 3.-Social creation edit calendar
+
+Comunicación: Apps de mensajería, correo electrónico, y redes sociales.
+Fotografía y Creación de Contenidos: Editores de fotos y videos, dibujo y diseño.
+
+### 4.-Hacking? money
+
+Utilidades y Herramientas: Calculadoras, linterna, y herramientas del sistema.
+Seguridad y Mantenimiento: Antivirus, limpiadores y gestores de batería. ¿Hackeando?
+Finanzas: Gestión de gastos, banca, inversiones y criptomonedas.
+Compras: Aplicaciones de tiendas, comparación de precios y listas de compras.
+
+### 5.-Learn investigate (weather)
+
+Noticias y Tiempo: Información actualizada, tiempo meteorológico y alertas.
+Educación y Aprendizaje: Aplicaciones educativas, cursos en línea, y libros electrónicos.
+
+### 6.-Sensors music Creation reality
+
+Música y Audio: Reproductores de música, podcast, y herramientas de producción musical.
+Salud y Bienestar: Monitores de actividad, yoga, meditación y dietas.
+Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
+Fitness: Seguimiento de actividad física, nutrición y entrenamientos.
+
+### 7.-Games
+
+Entretenimiento: Juegos.
+
+#### Apps
+
+Lista más completa de apps útiles!
 
 - Cámara: La cámara app incluída en tu celular.
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.

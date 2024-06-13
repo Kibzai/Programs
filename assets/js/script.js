@@ -25,7 +25,8 @@ document.addEventListener('DOMContentLoaded', () => {
             setTimeout(() => { btn.textContent = 'Copy'; }, 2000);
         });
     });
-    var links = document.querySelectorAll('a');
+
+    /* var links = document.querySelectorAll('a');
 
     // Loop through each link
     for (var i = 0; i < links.length; i++) {
@@ -34,5 +35,5 @@ document.addEventListener('DOMContentLoaded', () => {
         // Set the target attribute to '_blank' to open in a new tab
         links[i].setAttribute('target', '_blank');
       }
-    }
+    } */
 });

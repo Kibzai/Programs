@@ -1,3 +1,9 @@
+---
+layout: default
+title: Ayuda
+permalink: /help/
+---
+
 # Ayuda | Help!
 
 Code Block:

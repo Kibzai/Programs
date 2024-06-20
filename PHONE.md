@@ -32,17 +32,17 @@ Seguridad y Mantenimiento: Antivirus, limpiadores y gestores de batería. ¿Hack
 Finanzas: Gestión de gastos, banca, inversiones y criptomonedas.
 Compras: Aplicaciones de tiendas, comparación de precios y listas de compras.
 
-### 5.-Learn investigate (weather)
-
-Noticias y Tiempo: Información actualizada, tiempo meteorológico y alertas.
-Educación y Aprendizaje: Aplicaciones educativas, cursos en línea, y libros electrónicos.
-
-### 6.-Sensors music Creation reality
+### 5.-Learn investigate (weather) Music
 
 Música y Audio: Reproductores de música, podcast, y herramientas de producción musical.
+Educación y Aprendizaje: Aplicaciones educativas, cursos en línea, y libros electrónicos.
+
+### 6.-Sensors System reality & Outs, Fitness
+
 Salud y Bienestar: Monitores de actividad, yoga, meditación y dietas.
-Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
 Fitness: Seguimiento de actividad física, nutrición y entrenamientos.
+Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
+Noticias y Tiempo: Información actualizada, tiempo meteorológico y alertas.
 
 ### 7.-Games
 

@@ -32,12 +32,12 @@ Seguridad y Mantenimiento: Antivirus, limpiadores y gestores de batería. ¿Hack
 Finanzas: Gestión de gastos, banca, inversiones y criptomonedas.
 Compras: Aplicaciones de tiendas, comparación de precios y listas de compras.
 
-### 5.-Learn investigate (weather) Music
+### 5.-Learn investigate Music
 
 Música y Audio: Reproductores de música, podcast, y herramientas de producción musical.
 Educación y Aprendizaje: Aplicaciones educativas, cursos en línea, y libros electrónicos.
 
-### 6.-Sensors System reality & Outs, Fitness
+### 6.-Sensors System reality & Outs, Fitness... Weather 
 
 Salud y Bienestar: Monitores de actividad, yoga, meditación y dietas.
 Fitness: Seguimiento de actividad física, nutrición y entrenamientos.

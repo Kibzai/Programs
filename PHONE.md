@@ -25,23 +25,23 @@ Productividad: Aplicaciones de calendario, tareas, notas, y gestión de proyecto
 Comunicación: Apps de mensajería, correo electrónico, y redes sociales.
 Fotografía y Creación de Contenidos: Editores de fotos y videos, dibujo y diseño.
 
-### 4.-Hacking? money
+### 4.-Hacking? Money? Sensors, System,reality & Outs,
 
 Utilidades y Herramientas: Calculadoras, linterna, y herramientas del sistema.
 Seguridad y Mantenimiento: Antivirus, limpiadores y gestores de batería. ¿Hackeando?
 Finanzas: Gestión de gastos, banca, inversiones y criptomonedas.
 Compras: Aplicaciones de tiendas, comparación de precios y listas de compras.
+Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
 
 ### 5.-Learn investigate Music
 
 Música y Audio: Reproductores de música, podcast, y herramientas de producción musical.
 Educación y Aprendizaje: Aplicaciones educativas, cursos en línea, y libros electrónicos.
 
-### 6.-Sensors System reality & Outs, Fitness... Weather 
+### 6.- Fitness & Weather 
 
 Salud y Bienestar: Monitores de actividad, yoga, meditación y dietas.
 Fitness: Seguimiento de actividad física, nutrición y entrenamientos.
-Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
 Noticias y Tiempo: Información actualizada, tiempo meteorológico y alertas.
 
 ### 7.-Games

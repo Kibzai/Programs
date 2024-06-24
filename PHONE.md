@@ -11,9 +11,22 @@
 
 ### Profiles
 
+- Daytime
+- Nighttime
+- Autoinput(Special Button)
+- Important call
+
 #### NFCs
 
 ### Tasks
+
+- Hotspot
+- Full Brightness
+- Auto Brightness
+- Launch:
+	- Liife360
+- Volume Please
+- Autorotate Apps
 
 ## Home's - Launcher
 

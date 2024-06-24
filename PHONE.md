@@ -7,8 +7,15 @@
 - **APKMirror** (no es exactamente una tienda, pero es un repositorio popular de APKs) - `https://www.apkmirror.com/`
 - **Amazon Appstore** - `https://www.amazon.com/mobile-apps/b?node=2350149011`
 
+## Tasker
 
-## Home's
+### Profiles
+
+#### NFCs
+
+### Tasks
+
+## Home's - Launcher
 
 ### 1.- Hogar
 

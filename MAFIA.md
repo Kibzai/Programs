@@ -1,6 +1,11 @@
 # Diversión
 
-### FUN'S
+## Pirating
+
+- [1337x.to](https://www.1377x.to/): Bahía Pirata.
+- 
+
+## FUN'S
 
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
 

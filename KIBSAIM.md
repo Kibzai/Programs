@@ -2,11 +2,6 @@
 
 ## WWW - World Wide Web
 
-### Pirating
-
-- [1337x.to](https://www.1377x.to/): Bahía Pirata.
-- 
-
 ### Herramientas
 
 - [GitHub](https://github.com): Plataforma de desarrollo colaborativo para alojar y revisar código, gestionar proyectos y construir software junto a otros desarrolladores.

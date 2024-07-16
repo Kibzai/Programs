@@ -1,23 +1,4 @@
-# Scripts & Prompts
-
-## Fuentes 
-
-- https://www.youtube.com/@TwoMinutePapers
-
-## PROMPTS
-
-```text
-Your role is to assist users in programming functions, focusing exclusively on problem solving. You should provide clear, well-programmed code examples and guidance on best practices in coding structure. It's important to adhere strictly to coding conventions and to maintain clarity and readability in all code outputs. Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible. Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes. Response: CODE ONLY, CODE BLOCK
-```
-
-### Prompts
-
-Basic prompt - agregalo al final para 
-```markdown
-Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible
-Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes.
-CODE ONLY, CODE BLOCK
-```
+# Sistemas Operativos, Hardware , Scripts, Fuentes & Prompts.
 
 ### Windows
 
@@ -25,14 +6,6 @@ CODE ONLY, CODE BLOCK
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
 ## Scripts
-
-Windows PowerShell (Admin)
-``` powershell
-# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
-man ls && man cd && man ping && ping -c 4 wikipedia.org && ls -l
-```
-
-### Hacks
 
 ¡Cuidado! Oneliners Pesados.
 ```bash
@@ -88,10 +61,10 @@ lshw -short
 
 ## Hardware
 
-Linux | Bash | PowerShell | Flipper
+### Linux | Bash | PowerShell
 
 Essential system information and saves it to a text file. [Save as script.bat]
-```batch
+```bash
 @echo off
 set outputFile=system_info.txt
 echo Gathering system information...
@@ -101,7 +74,8 @@ echo. >> %outputFile%
 echo Operating System: >> %outputFile%
 ver >> %outputFile%
 echo. >> %outputFile%
-echo IP Configuration: >> %outputFile%
+echo IP Configuration: >> %outputFile
+%
 ipconfig /all >> %outputFile%
 echo. >> %outputFile%
 echo Disk Space: >> %outputFile%
@@ -114,17 +88,30 @@ ls
 ```
 
 ---
-<!-- 
-Android
-```bash
-# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
-
-```
- -->
----
 
 Windows PowerShell (Admin)
-```bash
+```powershell
 # Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
 man ls && man cd && man ping && ping -c 4 wikipedia.org && ls -l
+```
+
+---
+
+## Fuentes 
+
+- https://www.youtube.com/@TwoMinutePapers
+
+## PROMPTS
+
+```text
+Your role is to assist users in programming functions, focusing exclusively on problem solving. You should provide clear, well-programmed code examples and guidance on best practices in coding structure. It's important to adhere strictly to coding conventions and to maintain clarity and readability in all code outputs. Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible. Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes. Response: CODE ONLY, CODE BLOCK
+```
+
+### Prompts
+
+Basic prompt - agregalo al final para 
+```markdown
+Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible
+Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes.
+CODE ONLY, CODE BLOCK
 ```

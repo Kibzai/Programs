@@ -1,4 +1,4 @@
-# Teléfonos
+# Móvil
 
 ### Tiendas
 
@@ -7,28 +7,8 @@
 - **APKMirror** (no es exactamente una tienda, pero es un repositorio popular de APKs) - `https://www.apkmirror.com/`
 - **Amazon Appstore** - `https://www.amazon.com/mobile-apps/b?node=2350149011`
 
-## Tasker
 
-### Profiles
-
-- Daytime
-- Nighttime
-- Autoinput(Special Button)
-- Important call
-
-#### NFCs
-
-### Tasks
-
-- Hotspot
-- Full Brightness
-- Auto Brightness
-- Launch:
-	- Liife360
-- Volume Please
-- Autorotate Apps
-
-## Home's - Launcher
+## Home's
 
 ### 1.- Hogar
 
@@ -45,30 +25,121 @@ Productividad: Aplicaciones de calendario, tareas, notas, y gestión de proyecto
 Comunicación: Apps de mensajería, correo electrónico, y redes sociales.
 Fotografía y Creación de Contenidos: Editores de fotos y videos, dibujo y diseño.
 
-### 4.-Hacking? Money? Sensors, System,reality & Outs,
+### 4.-Hacking? money
 
 Utilidades y Herramientas: Calculadoras, linterna, y herramientas del sistema.
 Seguridad y Mantenimiento: Antivirus, limpiadores y gestores de batería. ¿Hackeando?
 Finanzas: Gestión de gastos, banca, inversiones y criptomonedas.
 Compras: Aplicaciones de tiendas, comparación de precios y listas de compras.
-Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
 
-### 5.-Learn investigate Music
+### 5.-Learn investigate (weather)
 
-Música y Audio: Reproductores de música, podcast, y herramientas de producción musical.
+Noticias y Tiempo: Información actualizada, tiempo meteorológico y alertas.
 Educación y Aprendizaje: Aplicaciones educativas, cursos en línea, y libros electrónicos.
 
-### 6.- Fitness & Weather 
+### 6.-Sensors music Creation reality
 
+Música y Audio: Reproductores de música, podcast, y herramientas de producción musical.
 Salud y Bienestar: Monitores de actividad, yoga, meditación y dietas.
+Transporte y Viajes: Mapas, reservas de viaje, transporte local y guías turísticas.
 Fitness: Seguimiento de actividad física, nutrición y entrenamientos.
-Noticias y Tiempo: Información actualizada, tiempo meteorológico y alertas.
 
 ### 7.-Games
 
 Entretenimiento: Juegos.
 
-#### Apps
+## Flipper
+
+FAVS
+```cs
+/ext/badkb/EVILInternet.txt
+/ext/badkb/wrk.txt
+/ext/badkb/The_Matrix-Wake_Up.txt
+/ext/subghz/g_trunk.sub
+/ext/subghz/g_open.sub
+/ext/subghz/g_close.sub
+/ext/subghz/remote/Tesla_Remote.txt
+/ext/apps/Bluetooth/ble_spam.fap
+/ext/apps/Bluetooth/hid_ble.fap
+/ext/apps/Games/game_2048.fap
+/ext/apps/Games/4inrow.fap
+/ext/apps/Games/chess.fap
+/ext/apps/Games/doom.fap
+/ext/apps/Games/gameoflife.fap
+/ext/apps/Games/minesweeper_redux.fap
+/ext/apps/Games/multi_dice.fap
+/ext/apps/Games/flipper_pong.fap
+/ext/apps/Games/RM_Dice.fap
+/ext/apps/Games/roots_of_life.fap
+/ext/apps/Games/slotmachine.fap
+/ext/apps/Games/tama_p1.fap
+/ext/apps/Games/tetris.fap
+/ext/apps/Games/tictactoe.fap
+/ext/apps/GPIO/unitemp.fap
+/ext/apps/GPIO/gpio.fap
+/ext/apps/Infrared/ir_remote.fap
+/ext/apps/Infrared/infrared.fap
+/ext/apps/Media/bpm_tapper.fap
+/ext/apps/Media/metronome.fap
+/ext/apps/Media/morse_code.fap
+/ext/apps/Media/text2sam.fap
+/ext/apps/Media/tuning_fork.fap
+/ext/apps/Misc/barcode_app.fap
+/ext/apps/Misc/fbs.fap
+/ext/apps/Misc/Calculator.fap
+/ext/apps/Misc/cli_gui.fap
+/ext/apps/Misc/cntdown_tim.fap
+/ext/apps/Misc/counter.fap
+/ext/apps/Misc/flipp_pomodoro.fap
+/ext/apps/Misc/fbp.fap
+/ext/apps/NFC/nfc_maker.fap
+/ext/apps/Sub-GHz/esubghz_chat.fap
+/ext/apps/Sub-GHz/protoview.fap
+/ext/apps/Sub-GHz/rolling_flaws.fap
+/ext/apps/Sub-GHz/spectrum_analyzer.fap
+/ext/apps/Sub-GHz/subghz_bruteforcer.fap
+/ext/apps/Tools/totp.fap
+/ext/apps/Tools/passgen.fap
+/ext/apps/Tools/text_viewer.fap
+/ext/apps/USB/mass_storage.fap
+/ext/apps/USB/u2f.fap
+/ext/apps/USB/usb_ccb.fap
+/ext/apps/USB/hid_usb.fap
+/ext/apps/WiFi/evil_portal.fap
+/ext/apps/WiFi/esp32_wifi_marauder.fap
+```
+---
+
+## Android
+
+Android
+```bash
+# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
+
+```
+### Tasker
+
+#### Profiles
+
+- Daytime
+- Nighttime
+- Autoinput(Special Button)
+- Important call
+
+##### NFCs
+
+#### Tasks
+
+- Hotspot
+- Full Brightness
+- Auto Brightness
+- Launch:
+	- Liife360
+- Volume Please
+- Autorotate Apps
+
+
+### Apps
 
 Lista más completa de apps útiles!
 
@@ -196,7 +267,6 @@ Lista más completa de apps útiles!
 - Antikythera Simulation: Simulador astronómico.
 - [Fiverr](https://www.fiverr.com/): Plataforma de freelancers.
 - Broccoli: Calculadora de nutrición.
-- Flipper: Juego de puzles.
 - Swarm: Aplicación de check-in de Foursquare.
 - ZENONIA4: Juego de rol.
 - OpenSongApp: Aplicación para músicos.

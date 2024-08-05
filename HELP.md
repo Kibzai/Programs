@@ -1,24 +1,30 @@
-# Help!
+# ¡Ayuda!
+### Ayuda general & espiritual.
+- [¡Ayuda!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
+```bash
+# ``` Cómo hacer links en Github (HELP.md) ```
+# [¡Ayuda!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
+# Símbolos: [(<"@http(s)://\\">)] `%20` para escribir espacios en direcciones.
+```
+### ¡Piensa?
+```typescript
+let result = (x,y) => { return x+y }
+```
 
-Code Block:
-
+## Computadoras
 ```bash
 # 
 ls
 ```
-
 ```powershell
 # Begins system scan.
 sfc /scannow
 ```
-
 ```powershell
 # Begins system scan.
 Dism /Online /Cleanup-Image /RestoreHealth
 ```
-
----
-
+## Espíritu
 Aquí tienes algunos consejos espirituales basados en los frutos del Espíritu, tal como se describen en la Biblia, que pueden ser útiles en momentos de dificultad emocional o espiritual:
 
 1. **Amor**: Cultiva un amor incondicional hacia ti mismo y hacia los demás. Recuerda que eres amado y valioso, y trata de extender ese amor a quienes te rodean.
@@ -41,4 +47,5 @@ Aquí tienes algunos consejos espirituales basados en los frutos del Espíritu, 
 
 Recuerda que estos frutos del Espíritu no solo son ideales a los que aspirar, sino también herramientas prácticas para navegar por los desafíos de la vida. Al centrarte en estos principios, puedes encontrar consuelo y guía en tu viaje espiritual.
 
+## Teología
 - [Teología Bíblica](https://www.youtube.com/watch?v=nHr2cnrhUsY): Graeme Goldsworthy - Biblical Theology

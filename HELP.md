@@ -8,20 +8,20 @@
 ```
 ### ¡Piensa?
 ```typescript
-let result = (x,y) => { return x+y }
+let yesBoth = (x,y) => { return ( x && y ) }
 ```
 
 ## Computadoras
 ```bash
-# 
+# Current Folder
 ls
 ```
 ```powershell
-# Begins system scan.
+# System scan.
 sfc /scannow
 ```
 ```powershell
-# Begins system scan.
+# System scan.
 Dism /Online /Cleanup-Image /RestoreHealth
 ```
 ## Espíritu

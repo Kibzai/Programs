@@ -1,18 +1,26 @@
-# Programs & Tools
+# Protocols, Programs & Tools
+## Navigation
+- [Protocols, Programs & Tools!](https://github.com/Kibzai/Programs/)
+- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Kib console.
+- [Kibsaim](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Devices Setup.
+- [Apps](https://github.com/Kibzai/Programs/blob/main/PHONE.md): Mobile Apps.
+- [Mafia](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Artist & Pirates.
 - [¡Ayuda!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
-- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Hacking.
-- [Kibsaim](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Setup.
-- [Apps](https://github.com/Kibzai/Programs/blob/main/PHONE.md): Mobile.
-- [Mafia](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Pirates.
-## Protocols
-Series of protocols to live human in millenia.
+# Protocols
 - Make Backup
+- ToDo
+## Backup
+Series of protocols to live human in millenia.
 ``` bash
 # Setup
 sh setup.sh
 ```
-## Programs
-### Website
+## ToDo
+``` bash
+clear
+```
+# Programs
+## Website
 - [Kibzai: Programas - Github Pages Website](https://kibzai.github.io/Programas/): Public Site.
 - [Programas: Repository - Github Source Code](https://github.com/Kibzai/Programas/): Public Repository.
 
@@ -24,17 +32,20 @@ PowerShell
 ``` powershell
 Start-Process "https://kibzai.github.io/Programas/"
 ```
-## Tools
+# Tools
 Useful tools!
-### Script
+## Scripts
+- Caution: This scripts requires administrative privileges. Always review scripts from the internet before running them with elevated permissions!
+### Script: Encrypt & Decrypt
 Script & Descript
-- Caution: This script requires administrative privileges. Always review scripts from the internet before running them with elevated permissions!
 ``` bash
 # Script
 wget -O setup.sh https://kibzai.github.io/Programas/scripts/cifrar.txt
 mv cifrar.txt cifrar.sh
 chmod +x cifrar.sh
 sh cifrar.sh
+```
+``` bash
 # Descript
 wget -O setup.sh https://kibzai.github.io/Programas/scripts/descifrar.txt
 mv descifrar.txt descifrar.sh

@@ -40,14 +40,14 @@ Useful tools!
 Script & Descript
 ``` bash
 # Script
-wget -O setup.sh https://kibzai.github.io/Programas/scripts/cifrar.txt
+wget -O setup.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/cifrado.txt
 mv cifrar.txt cifrar.sh
 chmod +x cifrar.sh
 sh cifrar.sh
 ```
 ``` bash
 # Descript
-wget -O setup.sh https://kibzai.github.io/Programas/scripts/descifrar.txt
+wget -O setup.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/descifrar.txt
 mv descifrar.txt descifrar.sh
 chmod +x descifrar.sh
 sh descifrar.sh

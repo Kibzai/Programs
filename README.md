@@ -35,33 +35,33 @@ Start-Process "https://kibzai.github.io/Programas/"
 # Tools
 Useful tools!
 ## Scripts
+Scripts in othr repositories!
+
 - Caution: This scripts requires administrative privileges. Always review scripts from the internet before running them with elevated permissions!
 ### Script: Encrypt & Decrypt
 Script & Descript
-``` bash
+``` powershell
 # Script
-wget -O setup.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/cifrado.txt
-mv cifrar.txt cifrar.sh
+wget -O cifrar.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/cifrado.txt
 chmod +x cifrar.sh
 sh cifrar.sh
 ```
-``` bash
+``` powershell
 # Descript
-wget -O setup.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/descifrar.txt
-mv descifrar.txt descifrar.sh
+wget -O descifrar.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/descifrar.txt
 chmod +x descifrar.sh
 sh descifrar.sh
 ```
-## Help
-Check?
-``` bash
+## Console Help.
+Check current riectory.
+``` powershell
 ls -l
 ```
 Ping? Internet?
-``` bash
+``` powershell
 man ping && ping -c 4 wikipedia.org && ls -l
 ```
 Command descriptions: ls, cd, ping.
-``` bash
+``` powershell
 man ls && man cd && man ping
 ```

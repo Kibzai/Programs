@@ -1,5 +1,16 @@
 # Sistemas Operativos, Hardware , Scripts, Fuentes & Prompts.
 
+
+# Raspberry
+- PINN: OS installer for Raspberry Pi
+- Raspberry Pi Imager: 
+- 
+ARKos
+
+RetroArch
+RetroPI
+
+
 ### Windows
 
 - [MiniOS](https://www.dprojects.org/minios): Minified Windows.
@@ -8,6 +19,34 @@
 ## Scripts
 
 ¡Cuidado! Oneliners Pesados.
+```
+t-ui: Hacker launcher!
+
+`battery`
+`history`
+`open -n [app_package]`
+`ip`
+`netstat`
+`ping [address]`, `ping -c 4 www.google.com`
+`tasker [task_name]`
+`rss [add/remove] [url]`
+`music [play/pause/next/previous]`
+`flash`
+`wifi`
+`uninstall [app_package]`
+`alias gm='open -n com.google.android.apps.maps'`
+`config`, `config -set font_size 10`
+File Management
+    List Files: ls
+    Copy File: cp [source] [destination]
+    Move File: mv [source] [destination]
+    Delete File: rm [file]
+    
+---
+
+Use SmartLauncher for best experience.
+```
+
 ```bash
 # Creates a compressed backup of a directory
 tar -czvf backup.tar.gz /path/to/directory

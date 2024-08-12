@@ -1,3 +1,33 @@
+# Devices
+
+## USB
+
+### Kingston: Black Sword
+```md
+- Kibza Music
+- Kibza Links
+### Setup: config files.
+- Voicemeter
+- Traktor
+- Ableton
+- Usaa
+- usbrubberducky
+- IRDB (Infrared Database)
+- Sub-GHz-Jamming
+- Sub-GHz
+- xMasterX unleashed-extra-pack main apps
+- Wallpapers
+### Programs: Install Executables
+- Ableton
+- qFlipperSetup
+- KMSpico?
+- Traktor
+### Geims
+- Undertale
+```
+
+---
+
 # Móvil
 
 ### Tiendas

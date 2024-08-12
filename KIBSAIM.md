@@ -12,8 +12,9 @@
 
 #### Audio & Music
 
-- Ableton Live 11
-  -   Max
+- [Ableton Live]([https://wiki.gnome.org/Apps/Gedit](https://www.ableton.com/en/live/what-is-live/)): Ableton Live is...
+	- Novation Components
+	- Max
 - Traktor Pro 3
 - Rekorbox
 - [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
@@ -39,6 +40,14 @@ Vsts
 - Sausage Fattener
 - FabFilter
 - 
+
+# Dispositivos
+
+- Logitech G HUB: Mouse
+- UMC Behringer
+- ZOOM U-44: Interfaz de Audio
+	- [Drivers](https://zoomcorp.com/en/us/audio-interface/audio-interfaces/u-44/u-44-support/)
+- AVerMedia RECentral: Capturadora de Video
 
 Instruments
 

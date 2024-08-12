@@ -6,32 +6,34 @@
 - [Apps](https://github.com/Kibzai/Programs/blob/main/PHONE.md): Mobile Apps.
 - [Mafia](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Artist & Pirates.
 - [¡Ayuda!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
+# Network
+## Websites
+### Github
+- [Kibzai: Programas - Github Pages Website](https://kibzai.github.io/Programas/): Public Site.
+- [Programas: Repository - Github Source Code](https://github.com/Kibzai/Programas/): Public Repository.
+- VUE BLOG DEMO - Personal
+- MAFIA CRATIVA ( Kame house)
+- Telegram BOt (Kibzabot)
+
+- [](): .
+- [](): .
+
 # Protocols
+## Instructions & Tutorials
 - Make Backup
-- ToDo
-## Backup
-Series of protocols to live human in millenia.
+- Clear Console
+### Backup
+> Series of protocols to live human in millenia.
 ``` bash
 # Setup
 sh setup.sh
 ```
-## ToDo
+### Clear
+> Clear the console view
 ``` bash
 clear
 ```
-# Programs
-## Website
-- [Kibzai: Programas - Github Pages Website](https://kibzai.github.io/Programas/): Public Site.
-- [Programas: Repository - Github Source Code](https://github.com/Kibzai/Programas/): Public Repository.
 
-Command Prompt
-``` bash
-start https://kibzai.github.io/Programas/
-``` 
-PowerShell
-``` powershell
-Start-Process "https://kibzai.github.io/Programas/"
-```
 # Tools
 Useful tools!
 ## Scripts
@@ -53,6 +55,15 @@ chmod +x descifrar.sh
 sh descifrar.sh
 ```
 ## Console Help.
+Console & Terminal TL:DR
+> Command Prompt
+``` bash
+start https://kibzai.github.io/Programas/
+``` 
+> PowerShell
+``` powershell
+Start-Process "https://kibzai.github.io/Programas/"
+```
 Check current riectory.
 ``` powershell
 ls -l

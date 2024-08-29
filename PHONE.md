@@ -1,5 +1,25 @@
 # Devices
 
+## Android
+Termux: Rooted Device
+```bash
+history # Console History!
+top # All Proccess Running
+```
+## Package manager: pkg
+```bash
+pkg # Pkg manager
+pkg search <query> # Search
+pkg install <package> # X
+# Additional Repos:
+pkg install root-repo # Root
+pkg install x11-repo # x11
+```
+Packages
+```bash
+pkg install tsu # Insuall Sudo (Rooted Devices)
+```
+
 ## USB
 
 ### Kingston: Black Sword

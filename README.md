@@ -1,3 +1,35 @@
+---
+layout: default
+title: ¡Léeme! - Protocols, Programs & Tools
+description: Tutoriales de cómo comenzar tus propios proyectos.
+longDescription: Herramientas, listas de programas, tutoriales y más ayuda de cómo comenzar tus propios proyectos
+date: 2024-08-1
+type: site-info
+permalink: /readme/
+cover: bg
+class: extra-cover
+tags: [configuraciones, herramientas, programas]
+author:
+  name: Kib
+  email: kib@kibsaim.life
+nested_data:
+  key1: value1
+  key2: value2
+array_of_hashes:
+  - name: Herramienta1
+    description: Una herramienta útil
+  - name: Herramienta2
+    description: Otra herramienta útil
+json_data: |
+  {
+    "key1": "value1",
+    "key2": "value2",
+    "array": [
+      "element1",
+      "element2"
+    ]
+  }
+---
 # Protocols, Programs & Tools
 
 ## Navigation

@@ -3,9 +3,9 @@ layout: default
 title: ¡Léeme! - Protocols, Programs & Tools
 description: Tutoriales de cómo comenzar tus propios proyectos.
 longDescription: Herramientas, listas de programas, tutoriales y más ayuda de cómo comenzar tus propios proyectos
-date: 2024-08-1
+date: 2026-01-1
 type: site-info
-permalink: /readme/
+permalink: /
 cover: bg
 class: extra-cover
 tags: [configuraciones, herramientas, programas]

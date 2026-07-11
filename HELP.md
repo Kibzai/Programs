@@ -34,6 +34,41 @@ Git is a version control system. Its like a timelined branched repository with h
 - Push: Pushes changes to a remote repository by using: `git push <name> <branch>`.
 - Pull: Pulls changes from a remote repository by using: `git pull <name> <branch>`.
 - Branch: Creates a new branch by using: `git branch <name>`.
+
+## Console Help.
+Console & Terminal TL:DR
+``` bash
+# Check current riectory.
+ls -l
+```
+``` bash
+# Command descriptions: ls, cd, ping.
+man ls && man cd && man ping
+```
+``` bash
+# Command help: ls, cd, ping.
+help ls && help cd && help ping
+```
+```bash
+# System scan.
+sfc /scannow
+```
+```bash
+# System scan.
+Dism /Online /Cleanup-Image /RestoreHealth
+```
+``` bash
+# Open Browser
+start https://kibzai.github.io/Programs/
+```
+``` bash
+# Open Browser
+Start-Process "https://kibzai.github.io/Programas/"
+```
+``` bash
+# Clear the console view
+clear
+```
 ## Github
 Cómo hacer links en Github: (HELP.md)
 ``` markdown

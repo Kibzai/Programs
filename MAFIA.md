@@ -2,10 +2,12 @@
 ![image](https://github.com/Kibzai/Programs/assets/140583553/4a9afc2b-b9f6-408d-b16d-0a104c237f46)
 ## Web
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
+---
 ## Learn
 ### Videos
 - [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
   - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+---
 ## Gaming
 ### Roms
 - [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
@@ -26,6 +28,7 @@
 - ReadAllComics
 - ReadComicOnline
 - TuMangaOnline
+---
 ## Assets
 ### Generate
 - [spacetypegenerator](https://spacetypegenerator.com/)

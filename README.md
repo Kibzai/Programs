@@ -1,4 +1,3 @@
-
 # Protocols, Programs & Tools
 ## Lets fucking go!
 This is a protocol. It should run on any device. Perfect for the internet.
@@ -9,61 +8,17 @@ This is a protocol. It should run on any device. Perfect for the internet.
 - [(Phone) Apps](https://kibzai.github.io/Programs/PHONE)
 - [Art (Fun)](https://kibzai.github.io/Programs/MAFIA)
 - [Help (¡Ayuda!)](https://kibzai.github.io/Programs/HELP)
+
 ## Installation
 ``` bash
-# Setup
-sh setup.sh
-```
-## Usage & Protocols
-Local Utils, protocols, and tools!
-### Usage
-- Caution: This scripts requires administrative privileges. Always review scripts from the internet before running them with elevated permissions!
-# Tools
-Useful tools!
-## Scripts
-### Script: Setup
-Setup & Install
-``` bash
-# Windows Install & Checks
+# Install & Checks
 chmod +x setup.sh
 sh setup.sh
 ```
 ``` bash
-# Windows Uninstall & Reset
+# Uninstall & Reset
 chmod +x uninstall.sh
 sh uninstall.sh
-```
-## Console Help.
-Console & Terminal TL:DR
-Check current riectory.
-``` bash
-ls -l
-```
-Command descriptions: ls, cd, ping.
-``` bash
-man ls && man cd && man ping
-```
-Command help: ls, cd, ping.
-``` bash
-help ls && help cd && help ping
-```
-```bash
-# System scan.
-sfc /scannow
-```
-```bash
-# System scan.
-Dism /Online /Cleanup-Image /RestoreHealth
-```
-``` bash
-start https://kibzai.github.io/Programs/
-```
-``` bash
-Start-Process "https://kibzai.github.io/Programas/"
-```
-> Clear the console view
-``` bash
-clear
 ```
 
 ### Github Links

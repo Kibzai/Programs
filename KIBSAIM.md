@@ -60,8 +60,7 @@ Vsts
 - Izotope
 - Sausage Fattener
 - FabFilter
-- 
-
+- SoundToys
 # Dispositivos
 
 - Logitech G HUB: Mouse
@@ -69,8 +68,10 @@ Vsts
 - ZOOM U-44: Interfaz de Audio
 	- [Drivers](https://zoomcorp.com/en/us/audio-interface/audio-interfaces/u-44/u-44-support/)
 - AVerMedia RECentral: Capturadora de Video
-
 Instruments
-
-- Piano
 - Electric Pianos
+- 
+## Powkiddy RGB 20S
+- [Local Games Repositories](http://192.168.0.ip/files/console)
+- Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
+-

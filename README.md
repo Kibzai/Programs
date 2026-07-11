@@ -23,48 +23,47 @@ Useful tools!
 ## Scripts
 ### Script: Setup
 Setup & Install
-``` powershell
+``` bash
 # Windows Install & Checks
 chmod +x setup.sh
 sh setup.sh
 ```
-``` powershell
+``` bash
 # Windows Uninstall & Reset
 chmod +x uninstall.sh
 sh uninstall.sh
 ```
 ## Console Help.
 Console & Terminal TL:DR
-> Command Prompt
-``` bash
-start https://kibzai.github.io/Programs/
-``` 
-> PowerShell
-``` powershell
-Start-Process "https://kibzai.github.io/Programas/"
-```
 Check current riectory.
-``` powershell
+``` bash
 ls -l
 ```
-Ping? Internet?
-``` powershell
-man ping && ping -c 4 wikipedia.org && ls -l
-```
 Command descriptions: ls, cd, ping.
-``` powershell
+``` bash
 man ls && man cd && man ping
 ```
 Command help: ls, cd, ping.
-``` powershell
+``` bash
 help ls && help cd && help ping
 ```
-
-### Clear
+```bash
+# System scan.
+sfc /scannow
+```
+```bash
+# System scan.
+Dism /Online /Cleanup-Image /RestoreHealth
+```
+``` bash
+start https://kibzai.github.io/Programs/
+```
+``` bash
+Start-Process "https://kibzai.github.io/Programas/"
+```
 > Clear the console view
 ``` bash
 clear
-ui
 ```
 
 ### Github Links

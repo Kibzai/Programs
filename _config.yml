@@ -1,2 +1,11 @@
 remote_theme: ThomasBoxall/ghp-simple-dark
-highlight: true
+highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+
+defaults:
+  - scope:
+      path: "" # Aplica a todos los archivos
+    values:
+      layout: "page"

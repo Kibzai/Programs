@@ -76,6 +76,7 @@ GEM
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.8.0)
+    wdm (0.2.0)
     webrick (1.9.2)
 
 PLATFORMS
@@ -84,6 +85,7 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 4.3)
   jekyll-remote-theme
+  wdm (>= 0.1.0)
   webrick
 
 CHECKSUMS
@@ -124,6 +126,7 @@ CHECKSUMS
   sass-embedded (1.101.0-x64-mingw-ucrt) sha256=f70af7f42130823ee7ec056eb398ac42c032bb31914317ab5fdec1f57c586864
   terminal-table (1.8.0) sha256=13371f069af18e9baa4e44d404a4ada9301899ce0530c237ac1a96c19f652294
   unicode-display_width (1.8.0) sha256=0292132d364d59fcdd83f144910c48b3c8332b28a14c5c04bb093dd165600488
+  wdm (0.2.0)
   webrick (1.9.2) sha256=beb4a15fc474defed24a3bda4ffd88a490d517c9e4e6118c3edce59e45864131
 
 BUNDLED WITH

@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /KIBSAIM
 ---
 # Setup: Hardware & Sofware

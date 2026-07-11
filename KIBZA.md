@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /KIBZA
 ---
 # Lab: Code

@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inicio
+permalink: /README/
+---
 # Protocols, Programs & Tools
 ## Lets fucking go!
 This is a protocol. It should run on any device. Perfect for the internet.

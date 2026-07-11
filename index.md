@@ -7,4 +7,4 @@ title: Inicio
 
 Aquí encontrarás mis notas y scripts.
 
-[Ver README](README.md)
+[Ver README](README)

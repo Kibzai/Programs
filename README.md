@@ -1,100 +1,43 @@
----
-layout: default
-title: ¡Léeme! - Protocols, Programs & Tools
-description: Tutoriales de cómo comenzar tus propios proyectos.
-longDescription: Herramientas, listas de programas, tutoriales y más ayuda de cómo comenzar tus propios proyectos
-date: 2026-01-1
-type: site-info
-permalink: /
-cover: bg
-class: extra-cover
-tags: [configuraciones, herramientas, programas]
-author:
-  name: Kib
-  email: kib@kibsaim.life
-nested_data:
-  key1: value1
-  key2: value2
-array_of_hashes:
-  - name: Herramienta1
-    description: Una herramienta útil
-  - name: Herramienta2
-    description: Otra herramienta útil
-json_data: |
-  {
-    "key1": "value1",
-    "key2": "value2",
-    "array": [
-      "element1",
-      "element2"
-    ]
-  }
----
+
 # Protocols, Programs & Tools
-
+## Lets fucking go!
+This is a protocol. It should run on any device. Perfect for the internet.
 ## Navigation
-- [Protocols, Programs & Tools!](https://github.com/Kibzai/Programs/)
-- 
-- [Kibza](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Kib console.
-- [Kibsaim](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Devices Setup.
-- [Apps](https://github.com/Kibzai/Programs/blob/main/PHONE.md): Mobile Apps.
-- [Mafia](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Artist & Pirates.
-- [¡Ayuda!](https://github.com/Kibzai/Programs/blob/main/HELP.md)
-# Network
-## Websites
-### Github
-- [Kibzai: Programas - Github Pages Website](https://kibzai.github.io/Programas/): Public Site.
-- [Programas: Repository - Github Source Code](https://github.com/Kibzai/Programas/): Public Repository.
-
-- VUE BLOG DEMO - Personal
-- MAFIA CRATIVA ( Kame house)
-- Telegram BOt (Kibzabot)
-
-- [](): .
-- [](): .
-
-# Protocols
-## Instructions & Tutorials
-- Make Backup
-- Clear Console
-### Backup
-> Series of protocols to live human in millenia.
+- [Protocols, Programs & Tools (Webpage)](https://kibzai.github.io/Programs/)
+- [Lab (Code, Scripts & Prompts)](https://kibzai.github.io/Programs/KIBZA)
+- [Setup (Hardware & Sofware)](https://kibzai.github.io/Programs/KIBSAIM)
+- [(Phone) Apps](https://kibzai.github.io/Programs/PHONE)
+- [Art (Fun)](https://kibzai.github.io/Programs/MAFIA)
+- [Help (¡Ayuda!)](https://kibzai.github.io/Programs/HELP)
+## Installation
 ``` bash
 # Setup
 sh setup.sh
 ```
-### Clear
-> Clear the console view
-``` bash
-clear
-ui
-```
-
+## Usage & Protocols
+Local Utils, protocols, and tools!
+### Usage
+- Caution: This scripts requires administrative privileges. Always review scripts from the internet before running them with elevated permissions!
 # Tools
 Useful tools!
 ## Scripts
-Scripts in othr repositories!
-
-- Caution: This scripts requires administrative privileges. Always review scripts from the internet before running them with elevated permissions!
-### Script: Encrypt & Decrypt
-Script & Descript
+### Script: Setup
+Setup & Install
 ``` powershell
-# Script
-wget -O cifrar.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/cifrado.txt
-chmod +x cifrar.sh
-sh cifrar.sh
+# Windows Install & Checks
+chmod +x setup.sh
+sh setup.sh
 ```
 ``` powershell
-# Descript
-wget -O descifrar.sh https://raw.githubusercontent.com/Kibzai/Programas/main/scripts/descifrar.txt
-chmod +x descifrar.sh
-sh descifrar.sh
+# Windows Uninstall & Reset
+chmod +x uninstall.sh
+sh uninstall.sh
 ```
 ## Console Help.
 Console & Terminal TL:DR
 > Command Prompt
 ``` bash
-start https://kibzai.github.io/Programas/
+start https://kibzai.github.io/Programs/
 ``` 
 > PowerShell
 ``` powershell
@@ -112,3 +55,23 @@ Command descriptions: ls, cd, ping.
 ``` powershell
 man ls && man cd && man ping
 ```
+Command help: ls, cd, ping.
+``` powershell
+help ls && help cd && help ping
+```
+
+### Clear
+> Clear the console view
+``` bash
+clear
+ui
+```
+
+### Github Links
+- [Protocols, Programs & Tools](https://github.com/Kibzai/Programs/): Github Page.
+- [Readme.md](https://github.com/Kibzai/Programs/blob/main/README.md): Programs Readme.
+- [Kibza.md](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Kibza Lab.
+- [Kibsaim.md](https://github.com/Kibzai/Programs/blob/main/KIBSAIM.md): Devices Setup.
+- [Phone.md](https://github.com/Kibzai/Programs/blob/main/PHONE.md): Phone Apps.
+- [Mafia.md](https://github.com/Kibzai/Programs/blob/main/MAFIA.md): Fun.
+- [Help.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): ¡Ayuda!

@@ -50,3 +50,6 @@
 - ReadAllComics
 - ReadComicOnline
 - TuMangaOnline
+
+
+ftp://192.168.88.81:4349

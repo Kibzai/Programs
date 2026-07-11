@@ -1,12 +1,33 @@
-# Kibsaim Setup
+# Setup: Programs
+## Hardware & Sofware
+### Networking
+## Mikrotik
+### TP-Link AC1900
+#### Wireguard
+[Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
 
-## Producción Musical
+# Raspberry
+- PINN: OS installer for Raspberry Pi
+- Raspberry Pi Imager: 
+- 
+ARKos
+
+RetroArch
+RetroPI
+
+
+### Windows
+
+- [MiniOS](https://www.dprojects.org/minios): Minified Windows.
+- [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
 ### Lenovo Legion Y720
 
 - [Lenovo Official Software](https://pcsupport.lenovo.com/mx/es/products/laptops-and-netbooks/legion-series/legion-y720-15ikb/downloads/driver-list/): Official Software
 - [Lenovo Nerve Center](https://store.rg-adguard.net/): Lights and Fans!
     - Require [Reddit Instructions](https://www.reddit.com/r/Lenovo/comments/ltq987/lenovo_nerve_center_download/) y/o [Microsoft Store Link](https://www.microsoft.com/en-us/p/lenovo-nerve-center/9n69gq0x4v00)
+
+## Producción Musical
 
 ### Studio
 

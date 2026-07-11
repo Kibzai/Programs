@@ -1,5 +1,3 @@
 #!/bin/bash
-# Protocolos: Backup, Upload, Serve
-# [ToDo]
-# Creates a compressed backup of a directory
-tar -czvf backup.tar.gz /path/to/directory
+# Protocolos: Setup & Checks
+start https://kibzai.github.io/Programs/

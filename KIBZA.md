@@ -1,27 +1,10 @@
-# Sistemas Operativos, Hardware , Scripts, Fuentes & Prompts.
-
-
-# Raspberry
-- PINN: OS installer for Raspberry Pi
-- Raspberry Pi Imager: 
-- 
-ARKos
-
-RetroArch
-RetroPI
-
-
-### Windows
-
-- [MiniOS](https://www.dprojects.org/minios): Minified Windows.
-- [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
+# Lab: Code
+## Scripts & Prompts.
 
 ## Scripts
 
 ¡Cuidado! Oneliners Pesados.
 ```
-t-ui: Hacker launcher!
-
 `battery`
 `history`
 `open -n [app_package]`

@@ -1,5 +1,5 @@
 ---
-permalink: /README/
+permalink: /README
 ---
 # Protocols, Programs & Tools
 ## Lets fucking go!

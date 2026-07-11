@@ -1,5 +1,5 @@
 ---
-permalink: /HELP/
+permalink: /HELP
 ---
 # ¡Ayuda!
 ## Code

@@ -1,5 +1,5 @@
 ---
-permalink: /KIBZA/
+permalink: /KIBZA
 ---
 # Lab: Code
 ## Scripts & Prompts.

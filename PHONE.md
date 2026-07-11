@@ -1,5 +1,5 @@
 ---
-permalink: /PHONE/
+permalink: /PHONE
 ---
 # Devices
 

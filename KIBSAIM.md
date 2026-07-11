@@ -1,5 +1,5 @@
 ---
-permalink: /KIBSAIM/
+permalink: /KIBSAIM
 ---
 # Setup: Hardware & Sofware
 ## Hardware

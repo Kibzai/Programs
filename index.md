@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Inicio
+permalink: /
 ---
 
 # Bienvenido a mis programas

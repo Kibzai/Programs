@@ -1,6 +1,4 @@
 ---
-layout: default
-title: Inicio
 permalink: /README/
 ---
 # Protocols, Programs & Tools

@@ -1,3 +1,6 @@
+---
+permalink: /KIBZA/
+---
 # Lab: Code
 ## Scripts & Prompts.
 ### Terminal & Consoles

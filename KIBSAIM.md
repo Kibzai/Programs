@@ -1,3 +1,6 @@
+---
+permalink: /KIBSAIM/
+---
 # Setup: Hardware & Sofware
 ## Hardware
 ### Computing

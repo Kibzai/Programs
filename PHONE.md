@@ -1,3 +1,6 @@
+---
+permalink: /PHONE/
+---
 # Devices
 
 ## Android

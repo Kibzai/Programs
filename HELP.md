@@ -1,3 +1,6 @@
+---
+permalink: /HELP/
+---
 # ¡Ayuda!
 ## Code
 Símbolos Útiles

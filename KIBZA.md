@@ -1,12 +1,21 @@
 # Lab: Code
 ## Scripts & Prompts.
+### Terminal & Consoles
+TL:DR
+
+``` bash
+# Clear the console view
+clear
+```
+
 File Management:
-- List Files: `ls`
+- List Files (Long): `ls -l`
 - Copy File: `cp [source] [destination]`
 - Move File: `mv [source] [destination]`
 - Delete File: `rm [file]`
 
-```
+### Scripts
+``` bash
 `battery`
 `history`
 `open -n [app_package]`
@@ -22,35 +31,26 @@ File Management:
 `alias gm='open -n com.google.android.apps.maps'`
 `config`, `config -set font_size 10`
 ```
-```bash
-Clean Old Files
-```
-### Scripts
-Checkup
-```bash
-# Mostrar ayuda de comandos comunes (ls, cd, ping)
-man ls && man cd && man ping
-# Listar archivos del directorio actual en formato largo.
-ls -l
-# Realizar un ping a wikipedia.org
-ping -c 4 wikipedia.org
-```
+
 ## PROMPTS
 Assistant
-```text
+
+```txt
 Your role is to assist users in programming functions, focusing exclusively on problem solving. You should provide clear, well-programmed code examples and guidance on best practices in coding structure. It's important to adhere strictly to coding conventions and to maintain clarity and readability in all code outputs. Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible. Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes. Response: CODE ONLY, CODE BLOCK
 ```
 
 ### Prompts
 
 Basic prompt - agregalo al final para 
-```markdown
+```txt
 Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible
 Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes.
 CODE ONLY, CODE BLOCK
 ```
+
 ## Hacks
 ¡Cuidado! Oneliners Pesados.
+
 ```bash
 # Creates a compressed backup of a directory
 tar -czvf backup.tar.gz /path/to/directory

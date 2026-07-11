@@ -28,6 +28,7 @@
 - ReadAllComics
 - ReadComicOnline
 - TuMangaOnline
+- WeebCentral
 
 ## Assets
 ### Generate

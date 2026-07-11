@@ -1,23 +1,30 @@
 # ¡Ayuda!
-## Help
-### Code
-Thinking
-```bash
-### ¡Piensa?
-```typescript
-let yesBoth = (x,y) => { return ( x && y ) }
-```
+## Code
 Símbolos Útiles
 ```bash
 {[(<@\!/#$%&^>)]}
 ´`'"
 ```
-WWW
+WWW - World Wide Web
 ```bash
-http(s)://`%20` para escribir espacios en urls.
+http(s):// # (s) para conecciones seguras
+`%20` # para escribir espacios en urls.
 ```
-## Git
-Git is a version control system. Its like a timelined branched repository with history.
+Checks
+```bash
+# Mostrar ayuda de comandos comunes (ls, cd, ping)
+man ls && man cd && man ping
+# Listar archivos del directorio actual en formato largo.
+ls -l
+# Realizar un ping a wikipedia.org
+ping -c 4 wikipedia.org
+# Ctrl+C para salir
+```
+
+## Git: Local, Github & Gitlab
+[Git](https://git-scm.com/) is a version control system. Its like a timelined branched repository with history.
+- [Install](https://git-scm.com/install/)
+
 ### Commands
 Series of protocols to use Git.
 - Init: Creates a Git repository by using: `git init`.
@@ -36,21 +43,9 @@ Series of protocols to use Git.
 - Branch: Creates a new branch by using: `git branch <name>`.
 
 ## Console Help.
-Console & Terminal TL:DR
-``` bash
-# Check current riectory.
-ls -l
-```
-``` bash
-# Command descriptions: ls, cd, ping.
-man ls && man cd && man ping
-```
-``` bash
-# Command help: ls, cd, ping.
-help ls && help cd && help ping
-```
+
 ```bash
-# System scan.
+# .
 sfc /scannow
 ```
 ```bash
@@ -65,10 +60,14 @@ start https://kibzai.github.io/Programs/
 # Open Browser
 Start-Process "https://kibzai.github.io/Programas/"
 ```
-``` bash
-# Clear the console view
-clear
-```
+
+
+### Protocols
+- Command descriptions (ls, cd, ping):
+`man ls && man cd && man ping`.
+- Command help (ls, cd, ping):
+`help ls && help cd && help ping`
+
 ## Github
 Cómo hacer links en Github: (HELP.md)
 ``` markdown
@@ -77,3 +76,12 @@ Cómo hacer links en Github: (HELP.md)
 ```
 - [¡Ayuda!](https://kibzai.github.io/Programs/HELP): Webpage.
 - [HELP.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): Github Code.
+
+---
+
+## Thinking
+```bash
+### ¡Piensa?
+```typescript
+let yesBoth = (x,y) => { return ( x && y ) }
+```

@@ -10,6 +10,11 @@
 
 #### Windows
 - [MiniOS](https://www.dprojects.org/minios): Minified Windows.
+  - MiniOS10ProV26
+  - MiniOS10LTSC (Current)
+  - MiniOS10X-21H2v26.04
+- [Fedora](http://fedoraproject.org): OS for developers.
+  - Fedora WS-Live43
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
 ##### Lenovo Legion Y720
@@ -26,7 +31,7 @@
 
 #### Powkiddy RGB 20S
 - [Local Games Repositories](http://192.168.0.ip/files/console)
-- Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
+  - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
 
 ### Networking
 #### Mikrotik

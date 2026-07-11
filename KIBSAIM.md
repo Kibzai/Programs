@@ -16,6 +16,7 @@
 - [Lenovo Official Software](https://pcsupport.lenovo.com/mx/es/products/laptops-and-netbooks/legion-series/legion-y720-15ikb/downloads/driver-list/): Official Software
 - [Lenovo Nerve Center](https://store.rg-adguard.net/): Lights and Fans!
     - Require [Reddit Instructions](https://www.reddit.com/r/Lenovo/comments/ltq987/lenovo_nerve_center_download/) y/o [Microsoft Store Link](https://www.microsoft.com/en-us/p/lenovo-nerve-center/9n69gq0x4v00)
+
 ### Dispositivos
 - Logitech G HUB: Mouse
 - UMC Behringer
@@ -26,6 +27,7 @@
 #### Powkiddy RGB 20S
 - [Local Games Repositories](http://192.168.0.ip/files/console)
 - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
+
 ### Networking
 #### Mikrotik
 TP-Link AC1900
@@ -36,6 +38,7 @@ TP-Link AC1900
 ### Audio
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
+
 ### Music
 #### Studio
 - [Ableton Live]([https://wiki.gnome.org/Apps/Gedit](https://www.ableton.com/en/live/what-is-live/)): Ableton Live is...

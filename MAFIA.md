@@ -32,6 +32,7 @@
 ## Assets
 ### Generate
 - [spacetypegenerator](https://spacetypegenerator.com/)
+
 ### Codepen
 - [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
 - [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
@@ -39,6 +40,7 @@
 - [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
 - [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
 - [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
+
 ## Pirate
 - [1337x.to](https://www.1377x.to/)
 - [PirateBay](https://thepiratebay.org/)

@@ -5,6 +5,7 @@ File Management:
 - Copy File: `cp [source] [destination]`
 - Move File: `mv [source] [destination]`
 - Delete File: `rm [file]`
+
 ```
 `battery`
 `history`

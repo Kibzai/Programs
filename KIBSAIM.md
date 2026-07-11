@@ -7,11 +7,11 @@
 - ARKos
 - RetroArch
 - RetroPI
----
+
 #### Windows
 - [MiniOS](https://www.dprojects.org/minios): Minified Windows.
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
----
+
 ##### Lenovo Legion Y720
 - [Lenovo Official Software](https://pcsupport.lenovo.com/mx/es/products/laptops-and-netbooks/legion-series/legion-y720-15ikb/downloads/driver-list/): Official Software
 - [Lenovo Nerve Center](https://store.rg-adguard.net/): Lights and Fans!
@@ -22,7 +22,7 @@
 - ZOOM U-44: Interfaz de Audio
 	- [Drivers](https://zoomcorp.com/en/us/audio-interface/audio-interfaces/u-44/u-44-support/)
 - AVerMedia RECentral: Capturadora de Video
---- 
+
 #### Powkiddy RGB 20S
 - [Local Games Repositories](http://192.168.0.ip/files/console)
 - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
@@ -31,7 +31,7 @@
 TP-Link AC1900
 ##### Wireguard
 [Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
----
+
 ## Software
 ### Audio
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
@@ -48,7 +48,7 @@ TP-Link AC1900
 - [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html): Create virtual loopback MIDI-ports to interconnect applications on Windows that want to open hardware-MIDI-ports for communication.
 - [GN MIDI](https://www.gnmidi.com/): GNMIDI 3 Professional (MIDI Tools for Windows) is a Karaoke MIDI song player, batch converter and editor. It inserts and synchronises lyrics into MIDI and mp3 songs.
 - [ASIO4ALL](http://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
----
+
 #### Vsts
 - Waves
 - Komplete

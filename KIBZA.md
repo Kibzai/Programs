@@ -5,7 +5,6 @@ File Management:
 - Copy File: `cp [source] [destination]`
 - Move File: `mv [source] [destination]`
 - Delete File: `rm [file]`
----
 ```
 `battery`
 `history`
@@ -35,9 +34,6 @@ ls -l
 # Realizar un ping a wikipedia.org
 ping -c 4 wikipedia.org
 ```
-
----
-
 ## PROMPTS
 Assistant
 ```text
@@ -52,7 +48,6 @@ Provide a sequence of Linux command-line instructions with minimal repetition. I
 Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes.
 CODE ONLY, CODE BLOCK
 ```
----
 ## Hacks
 ¡Cuidado! Oneliners Pesados.
 ```bash

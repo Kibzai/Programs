@@ -19,7 +19,7 @@ http(s)://`%20` para escribir espacios en urls.
 ## Git
 Git is a version control system. Its like a timelined branched repository with history.
 ### Commands
-> Series of protocols to use Git.
+Series of protocols to use Git.
 - Init: Creates a Git repository by using: `git init`.
 - Remote: Adds a remote repository to the Git repository by using: `git remote add <name> <url>`.
 - Status: Shows the status of the Git repository by using: `git status`.

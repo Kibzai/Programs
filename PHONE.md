@@ -51,9 +51,6 @@ cat $PREFIX/etc/ssh/sshd_config
 ### Geims
 - Undertale
 ```
-
----
-
 # Móvil
 
 ### Tiendas
@@ -164,8 +161,6 @@ FAVS
 /ext/apps/WiFi/evil_portal.fap
 /ext/apps/WiFi/esp32_wifi_marauder.fap
 ```
----
-
 ## Android
 
 Android

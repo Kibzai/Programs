@@ -24,6 +24,12 @@ ping -c 4 wikipedia.org
 ## Git: Local, Github & Gitlab
 [Git](https://git-scm.com/) is a version control system. Its like a timelined branched repository with history.
 - [Install](https://git-scm.com/install/)
+- Add credentials:
+
+```bash
+git config --global user.email "Kibsaim.Mejia@protonmail.com"
+git config --global user.name "Kibzai"
+```
 
 ### Commands
 Series of protocols to use Git.

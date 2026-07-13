@@ -29,6 +29,23 @@ Protocols
 ```bash
 cat $PREFIX/etc/ssh/sshd_config
 ```
+Scripts varios
+``` bash
+`battery`
+`history`
+`open -n [app_package]`
+`ip`
+`netstat`
+`ping [address]`, `ping -c 4 www.google.com`
+`tasker [task_name]`
+`rss [add/remove] [url]`
+`music [play/pause/next/previous]`
+`flash`
+`wifi`
+`uninstall [app_package]`
+`alias gm='open -n com.google.android.apps.maps'`
+`config`, `config -set font_size 10`
+```
 
 ## USB
 

@@ -18,23 +18,6 @@ File Management:
 - Move File: `mv [source] [destination]`
 - Delete File: `rm [file]`
 
-### Scripts
-``` bash
-`battery`
-`history`
-`open -n [app_package]`
-`ip`
-`netstat`
-`ping [address]`, `ping -c 4 www.google.com`
-`tasker [task_name]`
-`rss [add/remove] [url]`
-`music [play/pause/next/previous]`
-`flash`
-`wifi`
-`uninstall [app_package]`
-`alias gm='open -n com.google.android.apps.maps'`
-`config`, `config -set font_size 10`
-```
 
 ## PROMPTS
 Assistant
@@ -53,6 +36,7 @@ CODE ONLY, CODE BLOCK
 ```
 
 ## Hacks
+### Scripts
 ¡Cuidado! Oneliners Pesados.
 
 ```bash

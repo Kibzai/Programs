@@ -1,11 +1,9 @@
 remote_theme: ThomasBoxall/ghp-simple-dark
 highlighter: rouge
-
 plugins:
   - jekyll-remote-theme
-
 defaults:
   - scope:
-      path: "" # Aplica a todos los archivos
+      path: ""  # Aplica a todos los archivos
     values:
       layout: "page"

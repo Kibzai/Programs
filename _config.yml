@@ -1,9 +1,12 @@
 remote_theme: ThomasBoxall/ghp-simple-dark
 highlighter: rouge
+markdown: kramdown
 plugins:
   - jekyll-remote-theme
 defaults:
   - scope:
       path: ""  # Aplica a todos los archivos
     values:
-      layout: "page"
+      layout: default
+sass:
+  quiet_deps: true

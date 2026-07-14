@@ -1,6 +1,7 @@
 ---
-layout: default
+title: Phone
 permalink: /PHONE
+layout: default
 ---
 # Devices
 

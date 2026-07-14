@@ -1,28 +1,46 @@
 ---
-layout: default
+title: Readme
 permalink: /README
+layout: default
 ---
 # Protocols, Programs & Tools
 ## Lets fucking go!
 This is a protocol. It should run on any device. Perfect for the internet.
-## Navigation
-- [Protocols, Programs & Tools (Webpage)](https://kibzai.github.io/Programs/)
-- [Lab (Code, Scripts & Prompts)](https://kibzai.github.io/Programs/KIBZA)
-- [Setup (Hardware & Sofware)](https://kibzai.github.io/Programs/KIBSAIM)
-- [(Phone) Apps](https://kibzai.github.io/Programs/PHONE)
-- [Art (Fun)](https://kibzai.github.io/Programs/MAFIA)
-- [Help (¡Ayuda!)](https://kibzai.github.io/Programs/HELP)
 
 ## Installation
 ``` bash
 # Install & Checks
 chmod +x setup.sh
 sh setup.sh
-```
-``` bash
 # Uninstall & Reset
 chmod +x uninstall.sh
 sh uninstall.sh
+```
+``` bash
+# 1. Encuentra Ruby
+ls -la /c/Ruby*/bin/ruby.exe
+# 2. Añade al PATH (usa la ruta que encontraste)
+echo 'export PATH="/c/Ruby33-x64/bin:$PATH"' >> ~/.bashrc
+source ~/.bashrc
+# 2.a Path para otros rubys:
+export PATH="/c/Ruby40-x64/bin:$PATH"
+# 3. Verifica
+ruby -v
+which ruby
+# 4. Instala bundler y ejecuta
+gem install bundler
+bundle install
+
+# Remove cache and site
+rm -rf .jekyll-cache _site
+```
+
+## Usage
+``` bash
+bundle exec jekyll serve
+# Remove cache and site
+rm -rf .jekyll-cache _site
+bundle exec jekyll serve
 ```
 
 ### Github Links

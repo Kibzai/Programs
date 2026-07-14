@@ -1,9 +1,9 @@
 ---
-layout: default
+title: Arte
 permalink: /MAFIA
+layout: default
 ---
 # Diversión
-![image](https://github.com/Kibzai/Programs/assets/140583553/4a9afc2b-b9f6-408d-b16d-0a104c237f46)
 ## Web
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
 
@@ -11,6 +11,18 @@ permalink: /MAFIA
 ### Videos
 - [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
   - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+
+## Assets
+### Generate
+- [spacetypegenerator](https://spacetypegenerator.com/)
+
+### Codepen
+- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
+- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
+- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
+- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
+- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
+- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
 
 ## Gaming
 ### Roms
@@ -33,18 +45,6 @@ permalink: /MAFIA
 - ReadComicOnline
 - TuMangaOnline
 - WeebCentral
-
-## Assets
-### Generate
-- [spacetypegenerator](https://spacetypegenerator.com/)
-
-### Codepen
-- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
-- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
-- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
-- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
-- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
-- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
 
 ## Pirate
 - [1337x.to](https://www.1377x.to/)

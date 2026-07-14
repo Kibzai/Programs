@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="apple-mobile-web-app-status-bar-style"
+      content="black-translucent"
+    />
+
+    <!-- Estilos del tema -->
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/style.css' | relative_url }}"
+    />
+    <link
+      rel="stylesheet"
+      href="{{ '/assets/css/rouge.css' | relative_url }}"
+    />
+
+    <!-- Font Awesome (para iconos, si el tema los usa) -->
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
+      integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
+      crossorigin="anonymous"
+    />
+
+    <!-- Título dinámico -->
+    <title>{{ page.title | default: site.title | default: "Programs" }}</title>
+
+    <!-- Opcional: favicon si lo tienes -->
+    <!-- <link rel="icon" href="{{ '/favicon.ico' | relative_url }}" /> -->
+  </head>
+  <body>
+    <!-- Encabezado dinámico -->
+    <div class="markdown-body">
+      <a href="{{ '/' | relative_url }}">
+        <h1 class="pageHeader">{{ page.title | default: site.title }}</h1>
+      </a>
+
+      <!-- CONTENIDO DE CADA PÁGINA -->
+      {{ content }}
+    </div>
+
+    <!-- Scripts adicionales (si los necesita el tema) -->
+    <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+  </body>
+</html>

@@ -34,6 +34,7 @@ layout: default
 ### Manga
 - [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
 - [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
+
 #### Tachiyomi Repos
 - LectorManga
 - MangaDex

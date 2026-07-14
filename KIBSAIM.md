@@ -10,7 +10,7 @@ layout: default
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
 - [Proton Pass](https://proton.me/pass): Proton Pass is a password manager that encrypts your passwords and stores them securely in the cloud.
-- 
+- [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
 
 ### Webapps
 - [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
@@ -78,8 +78,10 @@ layout: default
 ## Dispositivos
 ### NFCs
 - Home: Ubication 1(Stairs)
+
 ### USB
-#### Kingston: Black Sword
+- Kingston: Black Sword
+
 ```md
 - Kibza Music
 - Kibza Links

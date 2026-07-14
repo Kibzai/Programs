@@ -30,12 +30,919 @@ layout: default
 - [Roms Megathread](https://r-roms.github.io/): Go here for Retro
 
 # Art
-## Books & Manga
-### Manga
+## Books, Manga & Comics
+<details>
+  <summary>📚 Books</summary>
+
+<div markdown="1">
+
+ - [ ] The Communist Manifesto: A Graphic... `Friedrich Engels, Karl Marx (adapt. Martin Rowson)`
+ - [ ] The Perry Bible Fellowship Almanack: ... `Nicholas Gurewitch`
+ - [ ] The Wolverton Bible `Basil Wolverton`
+ - [ ] The World of the Witcher `CD Projekt Red`
+ - [ ] Tijuana Bibles: Art and Wit in America's Forbidden Funnies, 1930s-1950s `Simon And Schuster`
+ - [ ] The Kingstone Bible `Ben Avery, Danny Bulanadi`
+ - [ ] The Book of God: How We Got the Bible... `Ben Avery, Javier Saltares`
+ - [ ] Marvel Chronicle `Tom DeFalco, Various`
+ - [ ] Official Handbook of the Marvel Universe: ... `Various`
+ - [ ] Marvel 70th Anniversary Poster Book `Various, Spring Hoteling`
+ - [ ] The Art of Hellboy `Mike Mignola, Mike Mignola`
+ - [ ] Jack Kirby: The Epic Life of the King ... `Tom Scioli`
+ - [ ] Hip Hop Family Tree (2013) `Ed Piskor, Ed Piskor`
+ - [ ] Hip Hop Family Tree (2015) `Ed Piskor, Ed Piskor`
+ - [ ] Comic Book History of Comics `Fred Van Lente, Ryan Dunlavey`
+ - [ ] Kimota!: The Miracleman Companion `Alan Moore, Various`
+ - [ ] Hellboy: 25 Years of Covers `Mike Mignola, Mike Mignola`
+ - [ ] Marvels Annotated `Kurt Busiek, Alex Ross`
+ - [ ] Marvels Epilogue `Kurt Busiek, Alex Ross`
+ - [ ] The Complete Peanuts `Charles Schulz, Charles Schulz`
+ - [ ] Avatar: The Last Airbender - The Art ... `Various, Various`
+ - [ ] Spawn Bible `Beau Smith, Greg Capullo`
+
+</div>
+
+</details>
+<details>
+  <summary>🤯 Manga</summary>
+
+<div markdown="1">
+
+- [ ] 20th Century Boys `Urasawa Naoki`
+- [ ] Akira `Otomo Katsuhiro`
+- [ ] Akira Toriyama's Lazy Manga Lab `Sakuma Akira, Toriyama Akira`
+- [ ] Akumajou Dracula: Yami no Juin `Sasakura Kou`
+- [ ] Ansatsu Kyoushitsu `Matsui Yuusei`
+- [ ] Ao no Exorcist `Katou Kazue`
+- [ ] Attack On Titan `Isayama Hajime`
+- [ ] Battle Angel Alita `Kishiro Yukito`
+- [ ] Berserk `Kentaro Miura`
+- [ ] Berserk ( 1989 ) `Various`
+- [ ] Berserk (continuación) `Kentaro Miura, Mori Kouji`
+- [ ] Berserk: The Prototype `Kentaro Miura`
+- [ ] Bishoujo Senshi: Sailormoon `Takeuchi Naoko`
+- [ ] BLAME! `NIHEI Tsutomu`
+- [ ] Blade of the Immortal `SAMURA Hiroaki`
+- [ ] Bleach `Kubo Tite`
+- [ ] Boku No Hero Academia `Horikoshi Kouhei`
+- [ ] Boku no Hero Academia (2014) `Horikoshi Kouhei`
+- [ ] Cardcaptor Sakura `Clamp, Ohkawa Ageha`
+- [ ] Chainsaw Man `Fujimoto Tatsuki`
+- [ ] Claymore `Yagi Norihiro`
+- [ ] Clannad `Key`
+- [ ] Cowboy Bebop `Nanten Yutaka`
+- [ ] Death Note `OBATA Takeshi`
+- [ ] Demon Slayer: Kimetsu no Yaiba (Official Colored) `Gotouge Koyoharu`
+- [ ] Dengeki Pikachu `Ono Toshihiro`
+- [ ] Devil May Cry 3 `Capcom, Chayamachi Suguro`
+- [ ] Devil May Cry 5 – Visions of V – `Capcom, Ogata Tomio`
+- [ ] Devilman `Nagai Go, Dynamic Pro`
+- [ ] Devilman (Mitsuru Hiruta) `Mitsuru Hiruta`
+- [ ] Devilman Lady `Nagai Go`
+- [ ] Devilman Saga `Nagai Go`
+- [ ] Diamond Wa Kudakenai `Araki Hirohiko`
+- [ ] Dororo `Release: 1967`
+- [ ] Dorohedoro `Various`
+- [ ] Dr. Stone `Inagaki Riichiro, Boichi`
+- [ ] Dragon Ball `Toriyama Akira`
+- [ ] Dragon Ball (Official Colored) `Toriyama Akira`
+- [ ] Duranki `Kentaro Miura, Studio Gaga`
+- [ ] Enen no Shouboutai (Fan Colored) `Atsushi Ookubo`
+- [ ] Fate/stay night: Heaven's Feel `Type-Moon`
+- [ ] Fire Punch `Fujimoto Tatsuki, Fujimoto Tatsuki`
+- [ ] Fist of the North Star `Buronson, Hara Tetsuo`
+- [ ] Fullmetal Alchemist `Arakawa Hiromu`
+- [ ] Futatabi `Miura Kentaro`
+- [ ] Gantz `Oku Hiroya`
+- [ ] Ghost In The Shell: Global Neural Network `Shirow Masamune`
+- [ ] Giganto Makhia `Miura Kentaro`
+- [ ] Gintama `Sorachi Hideaki`
+- [ ] Godzilla vs. Destroyah `Kazuki Omori, Sakai Takayuki`
+- [ ] Godzilla vs. Destroyah Red `Nishikawa Shinji`
+- [ ] Godzilla vs. King Ghidorah `Kazuki Omori, Sakai Takayuki`
+- [ ] Godzilla vs Mothra (CoroCoro) `Kazuki Omori, Sakai Takayuki`
+- [ ] Godzilla vs. Mothra (Kodansha) `Yasui Hisashi, Tetsuya Kawaishi`
+- [ ] GODZILLA - Planet of the Monsters `Urobuchi Gen, Kurahashi Youth`
+- [ ] Gon `Masashi Tanaka`
+- [ ] Gotoubun no Hanayome β `KosmosBeta`
+- [ ] Grappler Baki `Itagaki Keisuke`
+- [ ] Guin Saga `Kurimoto Kaoru, Sawada Hajime`
+- [ ] Haeniwa no Zigzag `Gotouge Koyoharu`
+- [ ] Hajime No Ippo `Morikawa, George`
+- [ ] Hanma Baki `Itagaki Keisuke`
+- [ ] Hellstar Remina `Itou Junji`
+- [ ] Hellsing `Hirano Kouta`
+- [ ] HUNTER x HUNTER `Togashi Yoshihiro`
+- [ ] Ichigo 100% `Kawashita Mizuki`
+- [ ] Inuyasha `Takahashi Rumiko`
+- [ ] Inuyashiki `OKU Hiroya`
+- [ ] Japan `Buronson, Kentaro Miura`
+- [ ] Jojo's Bizarre Adventure Part 1 - Phantom Blood `Araki Hirohiko, Araki Hirohiko`
+- [ ] Jojo's Bizarre Adventure Part 1 Phantom Blood `Araki Hirohiko`
+- [ ] JoJo's Bizarre Adventure Part 1: Phantom Blood (Official Colored) `Araki Hirohiko, Araki Hirohiko`
+- [ ] Jojo's Bizarre Adventure: Part 2 - Battle Tendency `Hirohiko Araki`
+- [ ] Jojo's Bizarre Adventure Part 5 - Vento Aureo `Araki Hirohiko`
+- [ ] Jojo's Bizarre Adventure Part 6 - Stone Ocean `Araki Hirohiko`
+- [ ] Jojo's Bizarre Adventure Part 8: Jojolion `Hirohiko Araki`
+- [ ] Jojo's Bizarre Adventure Part 9 - The Jojolands (Fan-Colored) `Araki Hirohiko`
+- [ ] Jujutsu Kaisen `Akutami Gege`
+- [ ] Jujutsu Kaisen 0 `Akutami Gege`
+- [ ] Jujutsu Kaisen (Fan Colored) `Akutami Gege`
+- [ ] Kakegurui `Kawamoto Homura, Naomura Tooru`
+- [ ] Kentaro Miura Memorial Manga `Mori Kouji`
+- [ ] Kimetsu No Yaiba: Rengoku Kyoujurou Gaiden `Gotouge Koyoharu, Hirano Ryouji`
+- [ ] Kimetsu no Yaiba `Gotouge Koyoharu, Hirano Ryouji`
+- [ ] Kimetsu no Yaiba: Tomioka Giyuu Gaiden `Hirano Ryouji, Gotouge Koyoharu`
+- [ ] King of Wolves `Buronson, Kentaro Miura`
+- [ ] Koukaku Kidoutai `Shirow Masamune`
+- [ ] Koukaku Kidoutai 1.5: Human-Error Processor `Shirow Masamune`
+- [ ] Koukaku Kidoutai 2 `Shirow Masamune`
+- [ ] Kuroshitsuji `Toboso Yana`
+- [ ] Made in Abyss `Tsukushi Akihito, Tsukushi Akihito`
+- [ ] Maou Dante (2002) `Nagai Go`
+- [ ] Martial Peak `Momo, Pikapi (噼咔噼)`
+- [ ] Mob Psycho 100 `One`
+- [ ] Mononoke `Ninagawa Yaeko`
+- [ ] Monster `Urasawa Naoki`
+- [ ] Nanatsu no Taizai `Suzuki Nakaba`
+- [ ] Naruto `Kishimoto Masashi`
+- [ ] Naruto - Full Color `Masashi Kishimoto`
+- [ ] Neon Genesis Evangelion
+- [ ] New Demon Lord Dante `Nagai Go`
+- [ ] New Grappler Baki `Itagaki Keisuke`
+- [ ] Noipa-Chan Wa Abunai! `Hizuki Akira`
+- [ ] Oishinbo `Tetsu Kariya, Akira Hanasaki`
+- [ ] One Piece `Oda Eiichiro`
+- [ ] ONE PIECE `Oda Eiichiro`
+- [ ] One Piece (Official Colored) `Oda Eiichiro`
+- [ ] ONE PIECE Full Color (2012) `Oda Eiichiro`
+- [ ] One Punch-Man `One, Murata Yuusuke`
+- [ ] Onepunch-Man `One, Murata Yuusuke`
+- [ ] Onepunch-Man (ONE) `One`
+- [ ] Oyasumi Punpun `Asano Inio`
+- [ ] Perfect Half `Luv P`
+- [ ] Pocket Monster Special `Kusaka Hidenori`
+- [ ] Pocket Monster Zensho `Nakamura Satomi`
+- [ ] Pocket Monsters `Anakubo Kousaku, Tajiri Satoshi`
+- [ ] Pokémon Special `Various`
+- [ ] Rakujitsu no Pathos `Tsuyatsuya`
+- [ ] Record of Ragnarok `Umemura Shinya, Fukui Takumi`
+- [ ] Saint Seiya `KURUMADA Masami`
+- [ ] Saint Seiya `Kurumada Masami`
+- [ ] Saint Seiya - Episode G `Kurumada Masami, Okada Megumu`
+- [ ] Saint Seiya - Episode G Assassin `Kurumada Masami, Okada Megumu`
+- [ ] Saint Seiya - Episode G Requiem `Kurumada Masami, Okada Megumu`
+- [ ] Saint Seiya - Next Dimension `Kurumada Masami`
+- [ ] Saint Seiya - Saintia Sho `Kurumada Masami, Kuori Chimaki`
+- [ ] Saint Seiya - The Lost Canvas `Kurumada Masami, Teshirogi Shiori`
+- [ ] Saint Seiya - The Lost Canvas - Gaiden `Kurumada Masami, Teshirogi Shiori`
+- [ ] Saint Seiya (Kanzenban Edition) `Kurumada Masami`
+- [ ] Saint Seiya Edición Kazenban (2005) `Kurumada Masami`
+- [ ] Sailor Moon `Takeuchi Naoko`
+- [ ] Shigurui `Nanjou Norio, Yamaguchi Takayuki`
+- [ ] Shin Violence Jack `Nagai Go`
+- [ ] Shingeki no Kyojin (2009) `Isayama Hajime`
+- [ ] Slam Dunk `Inoue Takehiko`
+- [ ] Solo Leveling `h-goon (현군), Chugong (추공), Gi So-Ryeong (기소령)` / `REDICE Studio (레드아이스 스튜디오), Jang Sung-Rak (장성락)`
+- [ ] Soul Eater `Atsushi Ookubo`
+- [ ] Spice and Wolf `Hasekura Isuna, Ayakura Juu, Koume Keito`
+- [ ] Spy x Family `Endou Tatsuya`
+- [ ] Steel Ball Run `Araki Hirohiko`
+- [ ] Terra Formars `Sagusa Yu, Tachibana Kenichi`
+- [ ] The Rose of Versailles `Ikeda Riyoko`
+- [ ] TRANSCEND GAME Yu-Gi-Oh! `Takahashi Kazuki`
+- [ ] Uzumaki `Itou Junji`
+- [ ] Vagabond `Inoue Takehiko, Yoshikawa Eiji`
+- [ ] Vagabond: The LAST Manga Exhibition Complete Catalogue `Inoue Takehiko, Yoshikawa Eiji`
+- [ ] Vinland Saga `Yukimura Makoto, Yukimura Makoto`
+- [ ] Violence Jack `Nagai Go, Dynamic Pro`
+- [ ] Wanted! `Oda Eiichiro, Oda Eiichiro`
+- [ ] Yakusoku No Neverland `Kaiu Shirai, Demizu Posuka`
+- [ ] Yu-Gi-Oh! `Takahashi Kazuki`
+- [ ] Yu-Gi-Oh! - Digital Colored Comics `Takahashi Kazuki`
+- [ ] Yu-Gi-Oh! GX `Kageyama Naoyuki, Takahashi Kazuki`
+- [ ] Yu☆Gi☆Oh! The Movie (Anime Comic) `Takahashi Kazuki, Toei Animation`
+- [ ] アンゴルモア 元寇合戦記　【博多編】
+- [ ] デスノート
+- [ ] ベルセルク
+- [ ] チェンソーマン 第二部
+- [ ] 生意気ギャルの家庭教師、始めます `over.J, CTY` *Learning the Hard Way / Iljinnyeo Gwaoehagi (일진녀 과외하기)*
+- [ ] 鬼滅の刃
+- [ ] 僕のヒーローアカデミア
+- [ ] ワンパンマン
+- [ ] 鋼の錬金術師 `Arakawa Hiromu`
+
+</div>
+
+</details>
+<details>
+  <summary>🍱 Comics</summary>
+
+<div markdown="1">
+
+- [ ] 100th Anniversary Special: Avengers `James Stokoe, James Stokoe`
+- [ ] 300 (1998) `Frank Miller, Frank Miller`
+- [ ] Absolute Carnage `Donny Cates, Ryan Stegman`
+- [ ] Absolute Carnage: Avengers `Zac Thompson, Alberto Jimenez Alburquerque`
+- [ ] Absolute Carnage: Captain Marvel `Emily Ryan Lerner, Andrea Broccardo`
+- [ ] Absolute Carnage: Immortal Hulk and ... `Ed Brisson, Filipe Andrade`
+- [ ] Absolute Carnage: Miles Morales `Saladin Ahmed, Federico Vincentini`
+- [ ] Absolute Carnage: Symbiote of Ven... `Ed Brisson, Juan Frigeri`
+- [ ] Absolute Carnage vs. Deadpool `Frank Tieri, Marcelo Ferreira`
+- [ ] Action Comics (1938) `Jerry Siegel, Joe Shuster`
+- [ ] Adventure Time `Aaron Renier`
+- [ ] Adventure Time Comics `Art Baltazar, Art Baltazar`
+- [ ] Age of Ultron Vs. Marvel Zombies `Brian Michael Bendis, Bryan Hitch`
+- [ ] All Star Superman (2011) `Grant Morrison, Frank Quitely`
+- [ ] Amazing Fantasy #15: Spider-Man! `Stan Lee, Steve Ditko`
+- [ ] Amazing Spider-Man: Spider-Verse Infinity... `Various`
+- [ ] Annihilation `Keith Ian Giffen, Andrea DiVito`
+- [ ] Annihilation Conquest `Marvel`
+- [ ] Aquaman: A Celebration of 75 Year ... `Geoff Johns, Jim Aparo`
+- [ ] Arkham Asylum `Grant Morrison, Dave McKean`
+- [ ] Asterix `Rene Goscinny, Albert Uderzo`
+- [ ] Avengers (2013) `Jonathan Hickman, Jerome Opeña`
+- [ ] Avengers by Jonathan Hickman: The Complete Collection `Jonathan Hickman, Steve Epting`
+- [ ] Avengers Epic Collection: Kang Wa ... `Various, Various`
+- [ ] Avengers Epic Collection: Under S ... `Steve Englehart, Mark Bright`
+- [ ] Avengers Forever (2021) `Jason Aaron, Aaron Kuder`
+- [ ] Avengers: Earth's Mightiest Heroes ... `Christopher Yost, Patrick Scherberger`
+- [ ] Avengers: The Private War of Dr. ... `Bill Mantlo, Various`
+- [ ] Avengers: The Ultron Imperative `Kurt Busiek`
+- [ ] Avengers: Time Runs Out `Jonathan Hickman, Jim Cheung`
+- [ ] Avatar: The Last Airbender - The Art ... `Various, Various`
+- [ ] Batgirl: A Celebration of 50 Year ... `Scott Beatty, Carmine Infantino`
+- [ ] Batman (1940) `Bill Finger, Bob Kane`
+- [ ] Batman: A Celebration of 75 Years `Bill Finger, Bob Kane`
+- [ ] Batman: Arkham Asylum (1989) `Grant Morrison, Dave McKean`
+- [ ] Batman: Curse of the White Knight `Sean Gordon Murphy`
+- [ ] Batman: Death of the Family `Scott Snyder, Greg Capullo`
+- [ ] Batman: Knightfall: 25th Anniversary ... `Chuck Dixon, Jim Aparo`
+- [ ] Batman: Night of the Owls `Duane Swierczynski, Ardian Syaf`
+- [ ] Batman: The Court of Owls `Scott Snyder, Greg Capullo`
+- [ ] Batman: The Dark Knight (1986) `Frank Miller, Frank Miller`
+- [ ] Batman: The Dark Knight Returns `Frank Miller`
+- [ ] Batman: The Golden Age Omnibus `Bill Finger, Bob Kane`
+- [ ] Batman: The Killing Joke `Alan Moore, Brian Bolland`
+- [ ] Batman: The Killing Joke Deluxe (New ... `Brian Bolland, Brian Bolland`
+- [ ] Batman: The Long Halloween `Jeph Loeb, Tim Sale`
+- [ ] Batman: The Long Halloween: Deluxe ... `Jeph Loeb, Tim Sale`
+- [ ] Batman: Three Jokers `Geoff Johns, Jason Fabok`
+- [ ] Batman: Under The Red Hood `Judd Winick, Eric Battle`
+- [ ] Batman: White Knight `Sean Gordon Murphy`
+- [ ] Batman/Flash: The Button Deluxe E ... `Joshua Williamson, Howard Porter`
+- [ ] Batman/Hellboy/Starman `James Robinson, Mike Mignola`
+- [ ] Big Hero 6 (2008) `Anthony Flamini, David Nakayama`
+- [ ] Bionicle `Greg Farshtey, Randy Elliott`
+- [ ] Black Clover `Various`
+- [ ] Black Hole `Charles Burns, Charles Burns`
+- [ ] Blackest Night `Geoff Johns, Ivan Reis`
+- [ ] Blade `Marvel`
+- [ ] Bomb Queen `Jimmie Robinson, Jimmie Robinson`
+- [ ] Bomb Queen II: Queen of Hearts `Jimmie Robinson, Jimmie Robinson`
+- [ ] Bomb Queen III: The Good, The Bad ... `Jimmie Robinson`
+- [ ] Bomb Queen IV: Suicide Bomber `Jimmie Robinson`
+- [ ] Bomb Queen Presents: All-Girl Com ... `Kat Cahill, Seth Damoose`
+- [ ] Bomb Queen Presents: All-Girl Special `Jimmie Robinson`
+- [ ] Bomb Queen V: The Divine Comedy `Jimmie Robinson, Jimmie Robinson`
+- [ ] Bomb Queen VI `Jimmie Robinson`
+- [ ] Bomb Queen VII `Jimmie Robinson, Jimmie Robinson`
+- [ ] Bomb Queen versus Blacklight `Scott Wherle`
+- [ ] Bomb Queen vs. Hack/Slash `Jimmie Robinson`
+- [ ] Bomb Queen: Trump Card `Jimmie Robinson`
+- [ ] Books of Doom `Ed Brubaker, Pablo Raimondi`
+- [ ] Brightest Day `Geoff Johns, Ardian Syaf`
+- [ ] Budd's Beauties & Beasts `Amryl Entertainment`
+- [ ] Cable (1993) `James Robinson, Jose Ladronn`
+- [ ] Captain America Comics `France Herron, Jack Kirby`
+- [ ] Captain Marvel Adventures `Joe Simon, C. C. Beck`
+- [ ] Captain Marvel (1968) `Roy Thomas, Gene Colan`
+- [ ] Captain Marvel Storybook `Various, Various`
+- [ ] Carnage (2016) `Gerry Conway, Mike D. Perkins`
+- [ ] Carnage Classic `Various, Various`
+- [ ] Carnage Epic Collection `Various`
+- [ ] Carnage Forever `Phillip K. Johnson, Kendrick "Kunkka" Lim`
+- [ ] Carnage: Black, White & Blood `Al Ewing, Ken Lashley`
+- [ ] Carnage: It's a Wonderful Life `David Quinn, Kyle Hotz`
+- [ ] Carnage: Mind Bomb `Warren Ellis, Kyle Hotz`
+- [ ] Cartoon Network Action Pack `Robbie Busch, Mark Chiarello`
+- [ ] Catwoman: A Celebration of 75 Yea ... `Ed Brubaker, Darwyn Cooke`
+- [ ] Cavewoman Reloaded `Amryl Entertainment`
+- [ ] Cavewoman (The Mature Version) `Budd Root, Frank Cho`
+- [ ] Civil War (2006) `Mark Millar, Steve McNiven`
+- [ ] Comic Book History of Comics `Fred Van Lente, Ryan Dunlavey`
+- [ ] Complete Fantastic Four `Various, Various`
+- [ ] Constantine `Ray Fawkes, Renato Guedes`
+- [ ] Constantine: The Hellblazer `James Tynion IV, Riley Rossmo`
+- [ ] Contest of Champions (2015) `Al Ewing, Paco Medina`
+- [ ] Cosmic Ghost Rider `Donny Cates, Dylan Burnett`
+- [ ] Cosmic Ghost Rider `Stephanie Phillips, Juann Cabal`
+- [ ] Cosmic Ghost Rider Destroys Marvel ... `Nick Giovannetti, Gerardo Sandoval`
+- [ ] Crisis on Infinite Earths (1985) `Marv Wolfman, George Pérez`
+- [ ] Crossover (2020) `Donny Cates, Dee Cunniffe`
+- [ ] Daredevil (1998) `Kevin Smith, Joe Quesada`
+- [ ] Daredevil (2019) `Chip Zdarsky, Marco Checchetto`
+- [ ] Daredevil The Man Without Fear `Frank Miller, John Romita Jr.`
+- [ ] Daredevil: Born Again `Frank Miller, David Mazzucchelli`
+- [ ] Darth Vader (2017) `Charles Soule, Giuseppe Camuncoli`
+- [ ] DC One Million (1998) `Grant Morrison, Val Semeiks`
+- [ ] DC Versus Marvel/Marvel Versus DC `Peter David, Claudio Castellini`
+- [ ] Deadpool (1997) `Various`
+- [ ] Deadpool (2008) `Various`
+- [ ] Deadpool (2013) `Brian Posehn, Tony Moore`
+- [ ] Deadpool (2016) `Gerry Duggan, Mike Hawthorne`
+- [ ] Deadpool (2018) `Various`
+- [ ] Deadpool (2019) `Various`
+- [ ] Deadpool Classic `Fabian Nicieza, Ed McGuinness`
+- [ ] Deadpool Kills Deadpool `Cullen Bunn, Salvador Espin`
+- [ ] Deadpool Kills the Marvel Universe `Cullen Bunn, Dalibor Talajic`
+- [ ] Deadpool Killustrated `Cullen Bunn, Matteo Lolli`
+- [ ] Deadpool vs. Carnage `Cullen Bunn, Salvador Espin`
+- [ ] Deadpool vs. Thanos `Tim Seeley, Elmo Bondoc`
+- [ ] Deadpool's Secret Secret Wars `Cullen Bunn, Matteo Lolli`
+- [ ] Death of Doctor Strange `Jed Mackay, Lee Garbett`
+- [ ] Death of Doctor Strange: One-Shot ... `Alex Paknadel, Ryan Bodenheim`
+- [ ] Detective Comics (1937) `Bob Kane, Bill Finger`
+- [ ] Disney Villains – Hades `Dynamite Entertainment`
+- [ ] Doctor Doom `Christopher Cantwell, Salvador Larroca`
+- [ ] Doctor Doom: The Book of Doom Omn ... `Various, Various`
+- [ ] Doctor Strange (1968) `Roy Thomas, Dan Adkins`
+- [ ] Doctor Strange (1974) `Steve Englehart, Frank Brunner`
+- [ ] Doctor Strange (2015) `Various`
+- [ ] Doctor Strange (2018) `Mark Waid, Jesus Saiz`
+- [ ] Doctor Strange & Doctor Doom: Triumph and Torment `Gerry Conway, Bill Mantlo, Roger Stern`
+- [ ] Doctor Strange and the Sorcerers ... `Robbie Thompson, Alvaro Lopez`
+- [ ] Doctor Strange vs. Dracula `Steve Englehart, Gene Colan`
+- [ ] Doctor Strange: Damnation `Donny Cates, Rod Reis`
+- [ ] Doctor Strange: From the Marvel V ... `Roger Stern, Neil Vokes`
+- [ ] Doctor Strange: Sorcerer Supreme `Peter B. Gillis, Richard Case`
+- [ ] Doctor Strange: The Oath `Brian K. Vaughan, Marcos Martín`
+- [ ] Doctor Strange: What Is It That Disturbs ... `Various, Various`
+- [ ] Doctor Strange/Punisher: Magic Bullets ... `John Barber, Andrea Broccardo`
+- [ ] Doomsday Clock `Geoff Johns, Gary Frank`
+- [ ] Dr. Strange `Mark Waid, Kev Walker`
+- [ ] DUNE: The Graphic Novel `Frank Herbert, Raul Allen`
+- [ ] East Of West `Jonathan Hickman, Nick Dragotta`
+- [ ] East of West: The World `Jonathan Hickman, Nick Dragotta`
+- [ ] Edge of Spider-Verse (2014) `David Hine, Richard Isanove`
+- [ ] Edge of Spider-Verse (2022) `Alex Segura, Caio Majado`
+- [ ] Edge of Spider-Verse (2023) `Karla Pacheco, Pere Perez`
+- [ ] Excalibur (2019) `Tini Howard, Marcus To`
+- [ ] Excalibur by Tini Howard `Tini Howard, Mahmud A. Asrar`
+- [ ] Fables `Bill Willingham, Lan Medina`
+- [ ] Fantastic Four (1961) `Stan Lee, Jack Kirby`
+- [ ] Fantastic Four (2018) `Dan Slott, Elisabetta D'Amico`
+- [ ] Fantastic Four (2022) `Ryan North, Iban Coello`
+- [ ] Fantastic Four by Jonathan Hickman: The Complete Collection `Jonathan Hickman, Sean Chen`
+- [ ] Fantastic Four By Jonathan Hickman Omnibus `Jonathan Hickman, Steve Epting`
+- [ ] Fantastic Four: Full Circle `Alex Ross, Alex Ross`
+- [ ] Fearless Dawn Meets Hellboy `Steve Mannion, Steve Mannion`
+- [ ] FF (2011) `Jonathan Hickman, Steve Epting`
+- [ ] Fire Force `Atsushi Ookubo, Atsushi Ookubo`
+- [ ] Flashpoint (2011) `Geoff Johns, Andy Kubert`
+- [ ] Flash: The Fastest Man Alive `Danny Bilson, Ken Lashley`
+- [ ] From Hell: Master Edition `Alan Moore, Eddie Campbell`
+- [ ] Futurama Comics `Bill Morrison, James Lloyd`
+- [ ] Gargoyles (2006) `Greg Weisman, David Hedgecock`
+- [ ] Ghost Rider (1973) `Gary Friedrich, Gil Kane`
+- [ ] Ghost Rider (1990) `Howard Mackie, Javier Saltares`
+- [ ] Ghost Rider (2005) `Garth Ennis, Clayton Crain`
+- [ ] Ghost Rider (2006) `Daniel Way, Javier Saltares`
+- [ ] Ghost Rider (2019) `Ed Brisson, Aaron Kuder`
+- [ ] Ghost Rider Epic Collection: Hell ... `Various, Various`
+- [ ] Ghost Rider: Danny Ketch Epic Collection: ... `Dann Thomas, Chris Marrinan`
+- [ ] Ghost Rider: The War For Heaven `Jason Aaron, Roland Boschi`
+- [ ] Ghost Rider/Blaze: Spirits of Vengeance `Howard Mackie, Adam Kubert`
+- [ ] Ghost Riders: Heaven's on Fire `Jason Aaron, Roland Boschi`
+- [ ] Ghost/Hellboy Special `Mike Mignola, Mike Mignola`
+- [ ] Giant Robot Hellboy `Mike Mignola, Duncan Fegredo`
+- [ ] Giant-Size Kung Fu Bible Stories `Erik Larsen, Art Adams`
+- [ ] God Is Dead `Jonathan Hickman, Di Amorim`
+- [ ] Godzilla (1977) `Doug Moench, Herb Trimpe`
+- [ ] Godzilla (1988) `Kazuhisa Iwata`
+- [ ] Godzilla (1995) `Kevin Maguire, Arthur Adams`
+- [ ] Godzilla (2012) `Duane Swierczynski, Simon Gane`
+- [ ] Godzilla – The War for Humanity `IDW Publishing`
+- [ ] Godzilla Color Special `Randy Stradley, Art Adams`
+- [ ] Godzilla in Hell (2015) `James Stokoe, James Stokoe`
+- [ ] Godzilla vs. Mechagodzilla II (BonBon) `Yasui Hisashi, Tetsuya Kawaishi`
+- [ ] Godzilla vs. SpaceGodzilla `Kashiwabara Hiroshi, Sakai Takayuki`
+- [ ] Godzilla: Rage Across Time `Jeremy Robinson, Matt Frank`
+- [ ] Godzilla: Rulers of Earth `Chris Mowry, Jeff Zornow`
+- [ ] Godzilla, King of the Monsters `Yasui Hisashi, Kawamoto Hiroshi`
+- [ ] Green Arrow: A Celebration of 75 ... `Mike Grell, Neal Adams`
+- [ ] Green Lantern: A Celebration of 75 ... `Various, Various`
+- [ ] Green Lantern: John Stewart: A Celebration ... `Geoff Johns, Neal Adams`
+- [ ] Green Lantern: The Sinestro Corps ... `Geoff Johns, Angel Unzueta`
+- [ ] Green Lantern/Green Arrow `Dennis O'Neil, Neal Adams`
+- [ ] Guardians of the Galaxy (1990) `Jim Valentino, Jim Valentino`
+- [ ] Guardians of the Galaxy (2008) `Dan Abnett, Paul Pelletier`
+- [ ] Guardians of the Galaxy (2013) `Brian Michael Bendis, Steve McNiven`
+- [ ] Guardians of the Galaxy (2015) `Brian Michael Bendis, Valerio Schiti`
+- [ ] Guardians of the Galaxy (2018) `Gerry Duggan, Marcus To`
+- [ ] Guardians of the Galaxy (2019) `Various`
+- [ ] Guardians Of The Galaxy (2020) `Various`
+- [ ] Guardians of the Galaxy: Best Story ... `Various, Various`
+- [ ] Harley Quinn: A Celebration of 25 ... `Amanda Conner, Amanda Conner`
+- [ ] Harley Quinn: The Animated Series: ... `Tee Franklin, Max Sarin`
+- [ ] He-Man/Thundercats `Rob David, Freddie E. Williams II`
+- [ ] Hellblazer `Jamie Delano, John Ridgway`
+- [ ] Hellblazer: Rise and Fall `Tom Taylor, Darick Robertson`
+- [ ] Hellboy 20th Anniversary Sampler `Mike Mignola, Mike Mignola`
+- [ ] Hellboy and the B.P.R.D. `John Arcudi, Alex Maleev`
+- [ ] Hellboy and the B.P.R.D. 1953: Halloween ... `Various, Various`
+- [ ] Hellboy and the B.P.R.D. 1956 `Mike Mignola, Yishan Li`
+- [ ] Hellboy and the B.P.R.D.: 1953 - Beyond ... `Mike Mignola, Paolo Rivera`
+- [ ] Hellboy and the B.P.R.D.: 1953 - The ... `Mike Mignola, Ben Stenbeck`
+- [ ] Hellboy and the B.P.R.D.: 1954 -- ... `Chris Roberson, Stephen Green`
+- [ ] Hellboy and the B.P.R.D.: 1954--Ghost ... `Chris Roberson, Brian Churilla`
+- [ ] Hellboy and the B.P.R.D.: 1954--The ... `Mike Mignola, Patric Reynolds`
+- [ ] Hellboy and the B.P.R.D.: 1955 ― Occult ... `Chris Roberson, Brian Churilla`
+- [ ] Hellboy and the B.P.R.D.: 1955 ― Secret ... `Mike Mignola, Shawn Martinbrough`
+- [ ] Hellboy and the B.P.R.D.: 1955--Burning ... `Mike Mignola, Paolo Rivera`
+- [ ] Hellboy And The B.P.R.D.: 1957 - Falling ... `Chris Roberson, Shawn Martinbrough`
+- [ ] Hellboy and the B.P.R.D.: 1957 - Family ... `Mike Mignola, Laurence Campbell`
+- [ ] Hellboy and the B.P.R.D.: 1957 - Fearful... `Chris Roberson, Alison Sampson`
+- [ ] Hellboy and the B.P.R.D.: 1957 - From... `Chris Roberson, Mike Norton`
+- [ ] Hellboy and the B.P.R.D.: 1957--Forgotten ... `Mike Mignola, Stephen Green`
+- [ ] Hellboy and the B.P.R.D.: Her Fatal ... `Mike Mignola, Tiernen Trevallion`
+- [ ] Hellboy and the B.P.R.D.: Long Night ... `Mike Mignola, Matt Smith`
+- [ ] Hellboy and the B.P.R.D.: Night of ... `Mike Mignola, Olivier Vatine`
+- [ ] Hellboy and the B.P.R.D.: Old Man ... `Mike Mignola, Gabriel Hernandez Walta`
+- [ ] Hellboy and the B.P.R.D.: Saturn ... `Scott Allie, Christopher Mitten`
+- [ ] Hellboy and the B.P.R.D.: The Beast ... `Scott Allie, Duncan Fegredo`
+- [ ] Hellboy and the B.P.R.D.: The Return... `Mike Mignola, Various`
+- [ ] Hellboy and the B.P.R.D.: The Secret ... `Christopher Golden, Shawn McManus`
+- [ ] Hellboy and the B.P.R.D.: The Seven ... `Mike Mignola, Adam Hughes`
+- [ ] Hellboy and the B.P.R.D.: Time is ... `Mike Mignola, Mark Laszlo`
+- [ ] Hellboy Christmas Special `Gary Gianni, Gary Gianni`
+- [ ] Hellboy Christmas Underground `Mike Mignola, Mike Mignola`
+- [ ] Hellboy In Hell `Mike Mignola, Mike Mignola`
+- [ ] Hellboy In Mexico (2010) `Mike Mignola, Richard Corben`
+- [ ] Hellboy In Mexico (2016) `Mike Mignola, Various`
+- [ ] Hellboy in Love `Christopher Golden, Matt Smith`
+- [ ] Hellboy Junior `Bill Wray, Various`
+- [ ] Hellboy Omnibus `John Arcudi, Mark Chiarello`
+- [ ] Hellboy The Complete Short Storie ... `Mike Mignola, Richard Corben`
+- [ ] Hellboy Universe Essentials: B.P. ... `Mike Mignola, Guy Davis`
+- [ ] Hellboy Universe Essentials: Hell ... `Mike Mignola, Mike Mignola`
+- [ ] Hellboy Universe Essentials: Lobster ... `Mike Mignola, Tonci Zonjic`
+- [ ] Hellboy Universe: The Secret Hist ... `John Arcudi, Laurence Campbell`
+- [ ] Hellboy vs. Lobster Johnson: The Ring ... `Mike Mignola, Paul Grist`
+- [ ] Hellboy Winter Special (2016) `Scott Allie, Michael Avon Oeming`
+- [ ] Hellboy Winter Special (2017) `Scott Allie, Sebastian Fiumara`
+- [ ] Hellboy Winter Special 2018 `Various, Various`
+- [ ] Hellboy Winter Special 2019 `Scott Allie, Leila del Duca`
+- [ ] Hellboy: 25 Years of Covers `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Almost Colossus `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Box Full of Evil `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Conqueror Worm `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Darkness Calls `Mike Mignola, Duncan Fegredo`
+- [ ] Hellboy: House of the Living Dead `Mike Mignola, Richard Corben`
+- [ ] Hellboy: Into the Silent Sea `Gary Gianni, Gary Gianni`
+- [ ] Hellboy: Krampusnacht `Mike Mignola, Adam Hughes`
+- [ ] Hellboy: Odder Jobs `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Oddest Jobs `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Seed of Destruction `Mike Mignola, John Byrne`
+- [ ] Hellboy: Seed of Destruction `Art Adams, Art Adams`
+- [ ] Hellboy: Strange Places `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Bones of Giants `Christopher Golden, Matt Smith`
+- [ ] Hellboy: The Bride Of Hell and O ... `Mike Mignola, Richard Corben`
+- [ ] Hellboy: The Chained Coffin and O ... `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Corpse and the Iron ... `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Crooked Man and Othe ... `Mike Mignola, Jason Alexander`
+- [ ] Hellboy: The First 20 Years `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Island `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Midnight Circus `Mike Mignola, Duncan Fegredo`
+- [ ] Hellboy: The Right Hand of Doom `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Silver Lantern Club `Mike Mignola, Ben Stenbeck`
+- [ ] Hellboy: The Storm And The Fury `Mike Mignola, Duncan Fegredo`
+- [ ] Hellboy: The Third Wish `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Troll Witch and Othe ... `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: The Wild Hunt `Mike Mignola, Duncan Fegredo`
+- [ ] Hellboy: The Wolves of Saint Augu ... `Mike Mignola, Mike Mignola`
+- [ ] Hellboy: Wake the Devil `Gary Gianni, Gary Gianni`
+- [ ] Hellboy: Weird Tales `Andi Watson, Andi Watson`
+- [ ] Hellboy/Beasts of Burden: Sacrifi ... `Evan Dorkin, Jill Thompson`
+- [ ] Hewlett and Martin's Tank Girl `Alan Martin, Jamie Hewlett`
+- [ ] Hip Hop Family Tree (2013) `Ed Piskor, Ed Piskor`
+- [ ] Hip Hop Family Tree (2015) `Ed Piskor, Ed Piskor`
+- [ ] House of M (2005) `Brian Michael Bendis, Olivier Coipel`
+- [ ] House of M (2006) `Brian Michael Bendis, Olivier Coipel`
+- [ ] House of X/Powers of X `Jonathan Hickman, Pepe Larraz`
+- [ ] Hulk: Planet Hulk Omnibus `Various, Various`
+- [ ] Hulk: World War Hulk Omnibus `Frank Tieri, Gary Frank`
+- [ ] Immortal Hulk (2018) `Al Ewing, Joe Bennett`
+- [ ] Immortal Hulk Director's Cut `Al Ewing, Joe Bennett`
+- [ ] Incredible Hulk `Marvel`
+- [ ] Infamous Iron Man `Brian Michael Bendis, Alex Maleev`
+- [ ] Infinity `Jonathan Hickman, Jim Cheung`
+- [ ] Infinity Crusade `Jim Starlin, Ron Lim`
+- [ ] Infinity Gauntlet (1991) `Jim Starlin, George Pérez`
+- [ ] Infinity War `Jim Starlin, Ron Lim`
+- [ ] Injustice: Gods Among Us: Year Four `Brian Buccellato, Bruno Redondo`
+- [ ] Injustice: Gods Among Us: Year Three `Tom Taylor, Bruno Redondo`
+- [ ] Injustice: Gods Among Us: Year Two `Tom Taylor, Bruno Redondo`
+- [ ] Injustice: Gods Among Us [I] `Tom Taylor, Jheremy Raapack`
+- [ ] Injustice: Ground Zero `Brian Buccellato, Pop Mhan`
+- [ ] Injustice: Year Zero `Tom Taylor, Roge Antonio`
+- [ ] Invader Zim `Jhonen Vasquez, Aaron Alexovich`
+- [ ] Invincible (2003) `Robert Kirkman, Cory Walker`
+- [ ] Invincible Iron Man (2008) `Matt Fraction, Salvador Larroca`
+- [ ] Invincible Universe `Phil Hester, Todd Nauck`
+- [ ] Iron Man: Extremis Director's Cut `Warren Ellis, Adi Granov`
+- [ ] Itty Bitty Hellboy `Franco, Art Baltazar`
+- [ ] Itty Bitty Hellboy: The Search for ... `Art Baltazar, Franco`
+- [ ] Jack Kirby 100th Celebration Coll ... `Various, Various`
+- [ ] Jack Kirby Masterworks `Jack Kirby, Jack Kirby`
+- [ ] Jack Kirby: The Epic Life of the King ... `Tom Scioli`
+- [ ] JLA: Tower of Babel `Various, Various`
+- [ ] John Constantine Hellblazer: All His ... `Mike Carey, Leonardo Manco`
+- [ ] John Constantine: Hellblazer `Simon Spurrier, Aaron Campbell`
+- [ ] John Wick `Greg Pak, Giovanni Valleta`
+- [ ] Journey Into Mystery (1952) `Stan Lee, Russ Heath`
+- [ ] Journey Into Mystery (1972) `Robert E. Howard, Gil Kane`
+- [ ] Journey Into Mystery (1996) `Tom DeFalco, Deodato Studios`
+- [ ] Journey into Mystery Annual `Stan Lee, Jack Kirby`
+- [ ] Justice League of America: A Celebration ... `Gerry Conway, Jim Lee`
+- [ ] Justice Society of America: A Celebration ... `Geoff Johns, Jerry Ordway`
+- [ ] Kang & Kodos! `David DeGrand, John Delaney`
+- [ ] Kang The Conqueror `Collin Kelly, Carlos Magno`
+- [ ] Kick-Ass (2008) `Mark Millar, John Romita Jr.`
+- [ ] Kick-Ass (2018) `Mark Millar, John Romita Jr.`
+- [ ] Kick-Ass 2 `Mark Millar, John Romita Jr.`
+- [ ] Kick-Ass 3 `Mark Millar, John Romita Jr.`
+- [ ] Kimota!: The Miracleman Companion `Alan Moore, Various`
+- [ ] King In Black `Donny Cates, Ryan Stegman`
+- [ ] King In Black: Avengers `Various, Various`
+- [ ] King In Black: Gwenom vs. Carnage `Seanan McGuire, Flaviano`
+- [ ] King In Black: Namor `Kurt Busiek, Ben Dewey`
+- [ ] King In Black One-Shots `Al Ewing, Aaron Kuder`
+- [ ] King In Black: Planet Of The Symb ... `Clay McLeod Chapman, Danilo Beyruth`
+- [ ] King In Black: Return Of The Valk ... `Jason Aaron, Nina Vakueva`
+- [ ] King In Black: Thunderbolts `Matthew Rosenberg, Juan E. Ferreyra`
+- [ ] King Spawn `Sean Lewis, Various`
+- [ ] Kingdom Come (1996) `Mark Waid, Alex Ross`
+- [ ] Legendary Star-Lord `Sam Humphries, Paco Medina`
+- [ ] Lex Luthor: A Celebration of 75 Y ... `Various, Various`
+- [ ] MAD `Harvey Kurtzman, Jack Davis`
+- [ ] MAD Magazine `Various, Various`
+- [ ] Man Without Fear `Jed Mackay, Danilo Beyruth`
+- [ ] Marvel (2020) `Kurt Busiek, Frank Espinosa`
+- [ ] Marvel 1602 `Neil Gaiman, Andy Kubert`
+- [ ] Marvel 1602: Fantastick Four `Peter David, Pascal Alixe`
+- [ ] Marvel 1602: New World `Greg Pak, Greg Tocchini`
+- [ ] Marvel 1602: Spider-Man `Jeff Parker, Ramon Rosanas`
+- [ ] Marvel 1985 `Mark Millar, Jim Cheung`
+- [ ] Marvel 70th Anniversary Poster Book `Various, Spring Hoteling`
+- [ ] Marvel 75th Anniversary Celebrati ... `Various, Various`
+- [ ] Marvel Age `Marvel`
+- [ ] Marvel Chronicle `Tom DeFalco, Various`
+- [ ] Marvel Cinematic Universe Guidebo ... `Various, Various`
+- [ ] Marvel Collector's Edition (1992) `Various, Alan Kupperberg`
+- [ ] Marvel Collector's Edition (1993) `Danny Fingeroth, Scott McDaniel`
+- [ ] Marvel Collectors' Item Classics `Larry Lieber, Steve Ditko`
+- [ ] Marvel Comics (1939) `Various, Various`
+- [ ] Marvel Comics (2019) `Various, Various`
+- [ ] Marvel Comics #1: 80th Anniversary ... `Various, Various`
+- [ ] Marvel Graphic Novel `Jim Starlin, Jim Starlin`
+- [ ] Marvel Masterworks: Atlas Era Strange ... `Various, Various`
+- [ ] Marvel Masterworks: Brother Voodo ... `Various, Various`
+- [ ] Marvel Masterworks: Captain America ... `Stan Lee, Gene Colan`
+- [ ] Marvel Masterworks: Captain Marve ... `Roy Thomas, Gene Colan`
+- [ ] Marvel Masterworks: Daredevil `Stan Lee, Bob Powell`
+- [ ] Marvel Masterworks: Dazzler `Chris Claremont, Alan Kupperberg`
+- [ ] Marvel Masterworks: Doctor Strang ... `Ernie Hart, Joe Sinnott`
+- [ ] Marvel Masterworks: Ghost Rider `Doug Moench, Herb Trimpe`
+- [ ] Marvel Masterworks: Golden Age All ... `Various, Alex Schomburg`
+- [ ] Marvel Masterworks: Golden Age Captain ... `France Herron, Al Avison`
+- [ ] Marvel Masterworks: Golden Age Human ... `Carl Burgos, Bill Everett`
+- [ ] Marvel Masterworks: Golden Age Marvel ... `Various, Frank R. Paul`
+- [ ] Marvel Masterworks: Iron Fist `Chris Claremont, Arvell Jones`
+- [ ] Marvel Masterworks: Luke Cage, Hero ... `Archie Goodwin, Billy Graham`
+- [ ] Marvel Masterworks: Luke Cage, Power ... `Various, Various`
+- [ ] Marvel Masterworks: Marvel Team-U ... `Gerry Conway, Ross Andru`
+- [ ] Marvel Masterworks: Marvel Two-In ... `Chris Claremont, Jim Starlin`
+- [ ] Marvel Masterworks: Ms. Marvel `Chris Claremont, John Buscema`
+- [ ] Marvel Masterworks: Spider-Woman `Archie Goodwin, Archie Goodwin`
+- [ ] Marvel Masterworks: The Amazing S ... `Stan Lee, Jack Kirby`
+- [ ] Marvel Masterworks: The Avengers `Stan Lee, Jack Kirby`
+- [ ] Marvel Masterworks: The Black Pan ... `Don F. McGregor, Gil Kane`
+- [ ] Marvel Masterworks: The Defenders `Roy Thomas, Gil Kane`
+- [ ] Marvel Masterworks: The Fantastic ... `Stan Lee, Jack Kirby`
+- [ ] Marvel Masterworks: The Incredible ... `Stan Lee, Jack Kirby`
+- [ ] Marvel Masterworks: The Inhumans `Various, Various`
+- [ ] Marvel Masterworks: The Invincible ... `Larry Lieber, Don Heck`
+- [ ] Marvel Masterworks: The Savage Sh ... `David Anthony Kraft, John Buscema`
+- [ ] Marvel Masterworks: The Silver Su ... `Stan Lee, Gene Colan`
+- [ ] Marvel Masterworks: The Spectacular ... `Archie Goodwin, Jim Mooney`
+- [ ] Marvel Masterworks: The Sub-Marin ... `Bill Everett, Gene Colan`
+- [ ] Marvel Masterworks: The Uncanny X ... `Chris Claremont, Dave Cockrum`
+- [ ] Marvel Masterworks: The X-Men `Stan Lee, Jack Kirby`
+- [ ] Marvel Masterworks: Werewolf By N ... `Gerry Conway, Mike Ploog`
+- [ ] Marvel Mystery Comics (1939) `Al Anders, Bill Everett`
+- [ ] Marvel Premiere `Roy Thomas, Gil Kane`
+- [ ] Marvel Spotlight: King in Black `Various, Various`
+- [ ] Marvel Super Heroes Secret Wars ( ... `Jim Shooter, Mike Zeck`
+- [ ] Marvel Swimsuit Special `Various, Various`
+- [ ] Marvel Tales: Venom `Peter David, Mark Bagley`
+- [ ] Marvel Zombies (2006) `Robert Kirkman, Sean Phillips`
+- [ ] Marvel Zombies (2015) `Simon Spurrier, Kevin Walker`
+- [ ] Marvel Zombies 2 `Robert Kirkman, Arthur Suydam`
+- [ ] Marvel Zombies 3 `Fred Van Lente, Greg Land`
+- [ ] Marvel Zombies 4 `Fred Van Lente, Kevin Walker`
+- [ ] Marvel Zombies 5 `Fred Van Lente, Kano`
+- [ ] Marvel Zombies Destroy! `Frank Marraffino, Mirco Pierfederici`
+- [ ] Marvel Zombies Halloween `Fred Van Lente, Alessandro Vitti`
+- [ ] Marvel Zombies Return `Fred Van Lente, Nick Dragotta`
+- [ ] Marvel Zombies Supreme `Frank Marraffino, Fernando Blanco`
+- [ ] Marvel Zombies: Dead Days `Robert Kirkman, Sean Phillips`
+- [ ] Marvel Zombies: Evil Evolution `Karl Kesel, Adam DeKraker`
+- [ ] Marvel Zombies: Resurrection (201 ... `Phillip K. Johnson, Leonard Kirk`
+- [ ] Marvel Zombies: Resurrection (202 ... `Phillip K. Johnson, Leonard Kirk`
+- [ ] Marvel Zombies: The Book of Angels, ... `Al Sjoerdsma, Bob Budiansky`
+- [ ] Marvel Zombies/Army of Darkness `John Layman, Fabiano Neves`
+- [ ] Marvel: The End `Jim Starlin, Jim Starlin`
+- [ ] Marvelman `Mick Anglo, Mick Anglo`
+- [ ] Marvelman Annual `Mick Anglo, Various`
+- [ ] Marvelman Classic `Mick Anglo, Various`
+- [ ] Marvelman Family's Finest `Mick Anglo, Don Lawrence`
+- [ ] Marvelman Special `Alan Moore, Alan Davis`
+- [ ] Marvels (1994) `Kurt Busiek, Alex Ross`
+- [ ] Marvels 25th Anniversary `Kurt Busiek, Alex Ross`
+- [ ] Marvels Annotated `Kurt Busiek, Alex Ross`
+- [ ] Marvels Epilogue `Kurt Busiek, Alex Ross`
+- [ ] Marvels X `Jim Kreuger, Well-Bee`
+- [ ] Marvel's Voices: Spider-Verse `Cody Ziglar, Jahnoy Lindsay`
+- [ ] Maximum Carnage `David Michelinie, Alex Saviuk`
+- [ ] Mega Man (2011) `Ian Flynn, Pat Spaziante`
+- [ ] Mighty Marvel Masterworks: The Amazing ... `Stan Lee, Steve Ditko`
+- [ ] Mighty Marvel Masterworks: The Fantastic ... `Stan Lee, Jack Kirby`
+- [ ] Mighty Thor (2016) `Jason Aaron, Russell Dauterman`
+- [ ] Miles Morales: Spider-Man (2019) `Saladin Ahmed, Javier Garrón`
+- [ ] Miracle Man `Various, Various`
+- [ ] Miracleman (1985) `Alan Moore, Don Lawrence`
+- [ ] Miracleman (2014) `Michael Kelleher, Digikore Studios`
+- [ ] Miracleman (2022) `Various, Various`
+- [ ] Miracleman Family `Mick Anglo, Garry Leach`
+- [ ] Miracleman Omnibus `Various, Various`
+- [ ] Miracleman: The Silver Age `Neil Gaiman, Mark Buckingham`
+- [ ] Moon Knight (1980) `Doug Moench, Bill Sienkiewicz`
+- [ ] Moon Knight (2016) `Jeff Lemire, Greg Smallwood`
+- [ ] New Avengers (2005) `Various`
+- [ ] New Avengers (2013) `Jonathan Hickman, Steve Epting`
+- [ ] New Avengers: Illuminati (2006) `Brian Michael Bendis, Alex Maleev`
+- [ ] New Avengers: Illuminati (2007) `Brian Reed, Jim Cheung`
+- [ ] New Gods (1971) `Jack Kirby, Jack Kirby`
+- [ ] New Mutants (2019) `Ed Brisson, Rod Reis`
+- [ ] New Mutants Lethal Legion `Charlie Jane Anders, Enid Balám`
+- [ ] Nickelodeon Avatar: The Last Airbender ... `Faith Erin Hicks, Peter Wartman`
+- [ ] Night of the Living Deadpool `Cullen Bunn, Ramon Rosanas`
+- [ ] Official Handbook of the Marvel Universe: ... `Various`
+- [ ] Old Man Logan (2016) `Jeff Lemire, Andrea Sorrentino`
+- [ ] One Punch-Man (Webcomic) `ONE, ONE`
+- [ ] Original Sin `Jason Aaron, Mike Deodato`
+- [ ] Painkiller Jane/Hellboy `Brian Augustyn, Rick Leonardi`
+- [ ] Planet Hulk `Greg Pak, Leonard Kirk`
+- [ ] Revenge Of The Cosmic Ghost Rider `Donny Cates, Scott Hepburn`
+- [ ] Rick and Morty (2015) `Zac Gorman, CJ Cannon`
+- [ ] Rick and Morty vs Dungeons & Drag ... `Jim Zubkavich, Troy Little`
+- [ ] Robin the Boy Wonder: A Celebration ... `Don Cameron, Bob Kane`
+- [ ] Rocko's Modern Afterlife `Anthony Burch, Mattia Di Meo`
+- [ ] Rocko's Modern Life (1994) `John Lewandowski, Various`
+- [ ] Rocko's Modern Life (2017) `Ryan Ferrier, KC Green`
+- [ ] Ruins (1995) `Warren Ellis, Cliff Nielsen`
+- [ ] Saga of the Swamp Thing `Alan Moore, Stephen Bissette`
+- [ ] Samurai Jack `Jim Zubkavich, Andy Suriano`
+- [ ] Scooby-Doo: Where Are You? `Chris Duffy, Scott Gross`
+- [ ] Scott Pilgrim `Bryan Lee O'Malley`
+- [ ] Secret Invasion (2008) `Brian Michael Bendis, Leinil Francis Yu`
+- [ ] Secret Wars `Jonathan Hickman, Esad Ribic`
+- [ ] Secret Wars (1985) `Jim Shooter, Mike Zeck`
+- [ ] Secret Wars 2099 `Peter David, Will Sliney`
+- [ ] Secret Wars II `Jim Shooter, Al Milgrom`
+- [ ] Secret Wars: Last Days of the Marvel ... `Cullen Bunn, Mike Allred`
+- [ ] Sentry (2018) `Jeff Lemire, Kim Jacinto`
+- [ ] Sex Criminals `Matt Fraction, Chip Zdarsky`
+- [ ] Shazam!: A Celebration of 75 Year ... `Bill Parker, C. C. Beck`
+- [ ] Silk (2015) `Robbie Thompson, Stacey Lee`
+- [ ] Silk (2016) `Robbie Thompson, Stacey Lee`
+- [ ] Silk (2021) `Maurene Goo, Takeshi Miyazawa`
+- [ ] Silk: Out of the Spider-Verse `Dan Slott, Veronica Fish`
+- [ ] Silver Surfer (1968) `Stan Lee, Gene Colan`
+- [ ] Simpsons Comics `Cindy Vance, Bill Morrison`
+- [ ] Sin City `Frank Miller, Frank Miller`
+- [ ] Sonic The Hedgehog (1993) `Ian Flynn, Various`
+- [ ] Sonic the Hedgehog (2018) `Ian Flynn, Tracy Yardley`
+- [ ] Spawn `Todd McFarlane`
+- [ ] Spawn Bible `Beau Smith, Greg Capullo`
+- [ ] Spawn-Batman `Frank Miller, Frank Miller`
+- [ ] Spider-Gwen: Ghost-Spider Modern Era... `Various`
+- [ ] Spider-Ham `Zeb Wells, Will Robson`
+- [ ] Spider-Man (2016) `Brian Michael Bendis, Sara Pichelli`
+- [ ] Spider-Man 2099 (1992) `Peter David, Rick Leonardi`
+- [ ] Spider-Man Noir (2020) `Margaret Stohl, Juan E. Ferreyra`
+- [ ] Spider-Man: Birth of Venom `Various, Todd McFarlane`
+- [ ] Spider-Man: Enter the Spider-Vers ... `Ralph Macchio, Flaviano`
+- [ ] Spider-Man: Fever `Brendan McCarthy, Brendan McCarthy`
+- [ ] Spider-Man: Kraven's Last Hunt `J.M. DeMatteis, Mike Zeck`
+- [ ] Spider-Man: Kraven's Last Hunt Marvel ... `J.M. DeMatteis, Mike Zeck`
+- [ ] Spider-Man: Maximum Carnage `Tom DeFalco, Mark Bagley`
+- [ ] Spider-Man: Spider-Verse `Brian Michael Bendis, Keith Pollard`
+- [ ] Spider-Man: Spider-Verse - Spider ... `Jason LaTour, Robbi Rodriguez`
+- [ ] Spider-Man: The Vengeance of Venom `David Michelinie, Various`
+- [ ] Spider-Man/Deadpool `Joe Kelly, Ed McGuinness`
+- [ ] Spider-Man/Dr. Strange: "The Way to ..." `Gerry Conway, Michael Bair`
+- [ ] Spider-Verse (2015) `Dan Slott, Humberto Ramos`
+- [ ] Spider-Verse (2019) `Jed Mackay, Various`
+- [ ] Spider-Verse [II] `Mike Costa, André Lima Araújo`
+- [ ] Spider-Verse Team-Up `Christos N. Gage, Bob McLeod`
+- [ ] SpongeBob Comics `Chris Duffy, Gregg Schigiel`
+- [ ] Strange (2022) `Jed Mackay, Björn Barends`
+- [ ] Strange Academy `Skottie Young, Humberto Ramos`
+- [ ] Strange Tales (1951) `George Tuska`
+- [ ] Street Fighter Swimsuit Special `Udon, Various`
+- [ ] Superboy: A Celebration of 75 Yea ... `Various, Various`
+- [ ] Superior Carnage `Kevin Shinick, Jay David Ramos`
+- [ ] Superman Smashes the Klan `Gene Luen Yang, Gurihiru`
+- [ ] Superman: A Celebration of 75 Yea ... `Various, Various`
+- [ ] Superman: Red Son `Mark Millar, Dave Johnson`
+- [ ] Superman/ThunderCats `Judd Winick, Jason P. Martin`
+- [ ] Swamp Thing (1982) `Alan Moore, John Totleben`
+- [ ] Symbiote Spider-Man: King In Blac ... `Peter David, Greg Land`
+- [ ] Tank Girl (1991) `Alan Martin, Jamie Hewlett`
+- [ ] Teen Titans: A Celebration of 50 ... `Geoff Johns, George Pérez`
+- [ ] Teenage Mutant Ninja Turtles (198 ... `Kevin Eastman, Kevin Eastman`
+- [ ] Teenage Mutant Ninja Turtles (2011) `Kevin Eastman, Dan Duncan`
+- [ ] Teenage Mutant Ninja Turtles `Kevin Eastman, Tom Waltz, Dan Duncan`
+- [ ] Thanos Vs. Hulk `Jim Starlin, Jim Starlin`
+- [ ] Thanos Wins by Donny Cates `Various, Katie Cook`
+- [ ] Thanos: Death Notes `Christopher Cantwell & others`
+- [ ] Thanos: The Infinity Finale `Jim Starlin, Ron Lim`
+- [ ] The Amazing Spider-Man (1963) `Tom DeFalco, Joe Bennett`
+- [ ] The Amazing Spider-Man (2015) `Dan Slott, Giuseppe Camuncoli`
+- [ ] The Amazing Spider-Man & Silk: The ... `Robbie Thompson, Todd Nauck`
+- [ ] The Amazing Spider-Man: Carnage on ... `Eric Fein, Jim Craig`
+- [ ] The Art of Hellboy `Mike Mignola, Mike Mignola`
+- [ ] The Avengers (1963) `Stan Lee, Jack Kirby`
+- [ ] The Avengers: Emperor Doom `David Michelinie, Bob Hall`
+- [ ] The Book of God: How We Got the Bible... `Ben Avery, Javier Saltares`
+- [ ] The Boys `Garth Ennis, Darick Robertson`
+- [ ] The Boys Omnibus `Garth Ennis, Darick Robertson`
+- [ ] The Communist Manifesto: A Graphic... `Friedrich Engels, Karl Marx (adapt. Martin Rowson)`
+- [ ] The Complete Peanuts `Charles Schulz, Charles Schulz`
+- [ ] The Darkhold `Steve Orlando, Cian Tormey`
+- [ ] The Defenders (1972) `Steve Englehart, Sal Buscema`
+- [ ] The Eternals `Jack Kirby, Jack Kirby`
+- [ ] The Flash (2016) `Joshua Williamson, Carmine Di Giandomenico`
+- [ ] The Flash: A Celebration of 75 Ye ... `Roger Stern, Murphy Anderson`
+- [ ] The Flash: Rebirth `Geoff Johns, Ethan Van Sciver`
+- [ ] The Incredible Hulk (1962) `Stan Lee, Jack Kirby`
+- [ ] The Joker (2021) `Sam Johns, Mirka Andolfo`
+- [ ] The Joker: A Celebration of 75 Ye ... `Bill Finger, Bob Kane`
+- [ ] The Kingstone Bible `Ben Avery, Danny Bulanadi`
+- [ ] The Last Annihilation `Anthony Oliveira, Jan Bazaldua`
+- [ ] The League of Extraordinary Gentlemen ... `Alan Moore, Kevin O'Neill`
+- [ ] The Marvels `Kurt Busiek, Yildiray Cinar`
+- [ ] The Mask Omnibus `John Arcudi, Keith Williams`
+- [ ] The Official Handbook of the Marvel ... `Mark Gruenwald, Various`
+- [ ] The Perry Bible Fellowship Almanack: ... `Nicholas Gurewitch`
+- [ ] The Powerpuff Girls `Jennifer Keating Moore, Philip Moy`
+- [ ] The Punisher: Frank Castle MAX `Duane Swierczynski, Michel Lacombe`
+- [ ] The Rise Of Ultraman `Mat Groom, Michael Cho`
+- [ ] The Sandman (1989) `Neil Gaiman, Various`
+- [ ] The Thanos Quest `Jim Starlin, Ron Lim`
+- [ ] The Transformers (1984) `Bill Mantlo, Frank Springer`
+- [ ] The Transformers (2009) `Mike Costa, Don Figueroa`
+- [ ] The Transformers: More Than Meets... `James Roberts, Nick Roche`
+- [ ] The Umbrella Academy: Hotel Oblivion `Gerard Way, Gabriel Bá`
+- [ ] The Unbelievable Gwenpool `Christopher Hastings, Danilo Beyruth`
+- [ ] The Villainous Venom Battles Spid ... `David Michelinie, Erik Larsen`
+- [ ] The Walking Dead (2003) `Robert Kirkman, Tony Moore`
+- [ ] The Witcher Omnibus `Paul Tobin, Max Bertolini`
+- [ ] The Witcher: Curse of Crows `Travis Currit, Piotr Kowalski`
+- [ ] The Wolverton Bible `Basil Wolverton`
+- [ ] The World of the Witcher `CD Projekt Red`
+- [ ] Thor (2014) `Jason Aaron, Russell Dauterman`
+- [ ] Thor: God of Thunder `Jason Aaron, Esad Ribic`
+- [ ] Thors `Jason Aaron, Chris Sprouse`
+- [ ] ThunderCats (1985) `David Michelinie, Jim Mooney`
+- [ ] ThunderCats (1987) `Simon Furman, Lee Sullivan`
+- [ ] Tijuana Bibles: Art and Wit in America's Forbidden Funnies, 1930s-1950s `Simon And Schuster`
+- [ ] Timeless (2021) `Jed Mackay, Mark Bagley & others`
+- [ ] Timeless (2022) `Jed Mackay, Salvador Larroca & others`
+- [ ] Transformers: Robots In Disguise ... `John Barber, Andrew Griffith`
+- [ ] Transformers: The IDW Collection `Various, Various`
+- [ ] Treehouse of Horror `Jeff Smith, Jeff Smith`
+- [ ] Two-Face: A Celebration of 75 Yea ... `Bill Finger, Bob Kane`
+- [ ] Ultimate Spider-Man (2000) `Brian Michael Bendis, Mark Bagley`
+- [ ] Uncanny Avengers [I] `Rick Remender, Daniel Acuna`
+- [ ] Uncanny X-Men (1963) `Stan Lee, Jack Kirby`
+- [ ] V for Vendetta `Alan Moore, David Lloyd`
+- [ ] Venom `Marvel`
+- [ ] Venom (2003) `Daniel Way, Francisco Herrera`
+- [ ] Venom (2018) `Donny Cates, Ryan Stegman`
+- [ ] Venom vs. Carnage `Peter Milligan, Clayton Crain`
+- [ ] Venom: Carnage Unleashed (1995) `Larry Hama, Andrew Wildman`
+- [ ] Venom: Lethal Protector (1993) `David Michelinie, Mark Bagley`
+- [ ] Venom/Deadpool: What If? `Rick Remender, Shawn Moll`
+- [ ] Venomverse `Cullen Bunn, Iban Coello`
+- [ ] Walt Disney's Comics and Stories `Homer Brightman, Al Taliaferro`
+- [ ] Watchmen (1986) `Alan Moore, Dave Gibbons`
+- [ ] Watchmen (2019 Edition) `Alan Moore, Dave Gibbons`
+- [ ] What If Dr. Doom Had Become the T ... `Karl Kesel, Paul Smith`
+- [ ] What If General Ross Had Become the ... `Peter David, Bart Sears`
+- [ ] What If Karen Page Had Lived? `Brian Michael Bendis, Michael Lark`
+- [ ] What If Magneto Had Formed the X-Men ... `Chris Claremont, Jim Cheung`
+- [ ] What If? (1977) `Roy Thomas, Jim Craig`
+- [ ] What If? (2015) `Fred Blanchard, Philippe Buchet`
+- [ ] What If? 200 `Marc Guggenheim, Dale Eaglesham`
+- [ ] What If? Age of Ultron `Joe Keatinge, Ming Doyle`
+- [ ] What If? Annihilation `David Hine, Rafael Kayanan`
+- [ ] What If? Astonishing X-Men `Matteo Casali, Mike Getty`
+- [ ] What If Aunt May Had Died Instead ... `Ed Brubaker, Andrea Di Vito`
+- [ ] What If? AvX `Jimmy Palmiotti, Jorge Molina`
+- [ ] What If? Civil War `Various, Marko Djurdjevic`
+- [ ] What If? Daredevil vs. Elektra `Karl Bollers, Rafael Kayanan`
+- [ ] What If? Dark Reign `Jason Henderson, Shawn Moll`
+- [ ] What If? Fallen Son `C.B. Cebulski, Trevor Goring`
+- [ ] What If? Fantastic Four `Mike Carey, Marshall Rogers`
+- [ ] What If? Featuring Avengers Disas ... `Jeff Parker, Aaron Lopresti`
+- [ ] What If? Ghost Rider `Sebastian Girner, Caspar Wijngaard`
+- [ ] What If? House of M `C.B. Cebulski, Paolo Pantalena`
+- [ ] What If? Infinity Dark Reign `Joshua Williamson, Goran Sudzuka`
+- [ ] What If? Infinity Guardians of the ... `Joshua Williamson, Jason Copland`
+- [ ] What If? Infinity Inhumans `Joshua Williamson, Riley Rossmo`
+- [ ] What If? Infinity Thanos `Joshua Williamson, Mike Henderson`
+- [ ] What If? Infinity X-Men `Joshua Williamson, Mike Norton`
+- [ ] What If? Iron Man: Demon in an Ar ... `Bob Layton, Graham Nolan`
+- [ ] What If Jessica Jones Had Joined the ... `Brian Michael Bendis, Michael Gaydos`
+- [ ] What If? Magik `Leah Williams, Filipe Andrade`
+- [ ] What If? Newer Fantastic Four `C.B. Cebulski, Pat Spaziante`
+- [ ] What If? Planet Hulk `Greg Pak, Rafa Sandoval`
+- [ ] What If? Secret Invasion `Chris Acosta, Dave Manak`
+- [ ] What If? Secret Wars `C.B. Cebulski, Jorge Molina`
+- [ ] What If? Special `Peter B. Gillis, Steve Ditko`
+- [ ] What If? Spider-Man (2011) `Mark Sable, Shawn Moll`
+- [ ] What If? Spider-Man (2018) `Gerry Conway, Diego Olortegui`
+- [ ] What If? Spider-Man Back in Black `C.B. Cebulski, Pat Spaziante`
+- [ ] What If? Spider-Man The Other `Peter David, Khoi Pham`
+- [ ] What If? Spider-Man vs. Wolverine `Jeff Parker, John Romita Jr.`
+- [ ] What If? Spider-Man: House of M `Michael Gallagher, Brian Haberlin`
+- [ ] What If? Sub-Mariner `Greg Pak, David Lopez`
+- [ ] What If? The Punisher `Carl Potts, Juanan Ramirez`
+- [ ] What If? Thor (2018) `Ethan Sacks, Michele Bandini`
+- [ ] What If? Wolverine Enemy of the S ... `Jimmie Robinson, Carmine Di Giandomenico`
+- [ ] What If? Wolverine: Father `Rob Williams, Greg Tocchini`
+- [ ] What If? World War Hulk `Michael Gallagher, Dave Manak`
+- [ ] What If? X-Men `Bryan Edward Hill, Neil Edwards`
+- [ ] What If? X-Men Age of Apocalypse `Rick Remender, Dave Wilkins`
+- [ ] What If? X-Men Deadly Genesis `David Hine, David Yardin`
+- [ ] What If? X-Men - Rise And Fall of ... `Christopher Yost, Larry Stroman`
+- [ ] What If...? (1989) `Roy Thomas, Keith Pollard`
+- [ ] What If...? Miles Morales `Cody Ziglar, Sara Pichelli`
+- [ ] What Is It That Disturbs You, Doctor Strange? `Various`
+- [ ] What If: Captain America `Tony Bedard, Carmine Di Giandomenico`
+- [ ] What If: Daredevil `Rick Veitch, Tommy Lee Edwards`
+- [ ] What If: Thor (2006) `Robert Kirkman, Michael Avon Oeming`
+- [ ] What If: Wolverine `Daniel Way, Jon Proctor`
+- [ ] What If This Were Heaven, Wouldn't ... `Dave Louapre, Dan Sweetman`
+- [ ] Who Is Kang: Infinity Comic `Mark Basso`
+- [ ] Wolverine `Marvel`
+- [ ] Wolverine: Old Man Logan `Mark Millar, Steve McNiven`
+- [ ] Wonder Woman: A Celebration of 75 ... `Brian Azzarello, Cliff Chiang`
+- [ ] World War Hulk `Greg Pak, Danny Miki`
+- [ ] World War Hulk Prologue: World Br ... `Peter David, Various`
+- [ ] X of Swords `Various, Various`
+- [ ] X Of Swords: Creation `Jonathan Hickman, Pepe Larraz`
+- [ ] X Of Swords: Destruction `Jonathan Hickman, Pepe Larraz`
+- [ ] X Of Swords: Stasis `Jonathan Hickman, Mahmud A. Asrar`
+- [ ] X-Force (2019) `Benjamin Percy, Various`
+- [ ] X-Men (2019) `Jonathan Hickman, Leinil Francis Yu`
+- [ ] X-Men: Days of Future Past `Chris Claremont, John Byrne`
+- [ ] X-Men: The Dark Phoenix Saga `Chris Claremont, John Buscema`
+- [ ] Young Hellboy `Mike Mignola, Craig Rousseau`
+- [ ] Young Hellboy: Assault on Castle ... `Mike Mignola, Matt Smith`
+- [ ] Young Marvelman `Various, Various`
+
+</div>
+
+</details>
+
+### Manga Viewers
+#### Desktop
+- [OpenComic](https://github.com/ollm/OpenComic) is an open-source manga reader for desktop.
+- [YacReader](https://www.yacreader.com/) is an open-source manga reader for desktop.
+
+#### Andorid
 - [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
 - [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
 
-#### Tachiyomi Repos
+#### iOS
+- [Tachimanga](https://github.com/keiyoushi/tachimanga) is an open-source manga reader for iOS.
+
+#### Repositories
+- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+##### Extensions
 - LectorManga
 - MangaDex
 - MangaLife
@@ -48,6 +955,15 @@ layout: default
 - ReadComicOnline
 - TuMangaOnline
 - WeebCentral
+- TCB Scans
+- Rawkuma
+- MyReadingManga
+- MangaHub
+- LectorManga.lat
+- KissLove
+- MangaSee
+- MangaFoxFull
+
 
 ## Pirate
 - [1337x.to](https://www.1377x.to/)

@@ -81,16 +81,8 @@ a:hover {
 
   // Hover (solo cuando no está deshabilitado, pero en markdown normalmente están disabled)
   &:not(:disabled):hover {
-    border-color: color.adjust(
-      $turquoise-neon-alt,
-      $lightness: 10%
-    );
-    box-shadow:
-      0 0 8px
-      color.adjust(
-        $turquoise-neon-alt,
-        $lightness:10%
-      );
+    border-color: lighten($turquoise-neon-alt, 10%);
+    box-shadow: 0 0 8px lighten($turquoise-neon-alt, 10%);
   }
 
   // Si quieres que el cursor sea pointer incluso estando disabled (es decorativo)

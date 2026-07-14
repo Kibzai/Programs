@@ -9,8 +9,8 @@ layout: default
 
 ## Navigation
 - [Readme](README)
-- [Lab: Code, Scripts & Prompts](/KIBZA)
-- [Setup: Hardware & Sofware](/KIBSAIM)
-- [Phone: Scripts & Apps](/PHONE)
-- [Art: Fun](/MAFIA)
-- [Help: ¡Ayuda!](/HELP)
+- [Lab: Code, Scripts & Prompts](KIBZA)
+- [Setup: Hardware & Sofware](KIBSAIM)
+- [Phone: Scripts & Apps](PHONE)
+- [Art: Fun](MAFIA)
+- [Help: ¡Ayuda!](HELP)

@@ -10,3 +10,5 @@ defaults:
       layout: default
 sass:
   quiet_deps: true
+  sass_dir: assets/css
+  style: compressed

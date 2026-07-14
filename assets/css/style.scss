@@ -1,0 +1,23 @@
+---
+---
+@import 'ghp-simple-dark';
+
+pre.highlight {
+  padding: 16px;
+  border-radius: 6px;
+  overflow: auto;
+  font-size: 14px;
+  line-height: 1.45;
+  min-height: 3rem;
+}
+.markdown-body pre {
+  padding: 16px;
+  border-radius: 6px;
+  overflow: auto;
+  font-size: 14px;
+  line-height: 1.45;
+  min-height: 3rem;
+}
+code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+}

@@ -1,10 +1,9 @@
 ---
 permalink: /HELP
-title: Página principal
+title: ¡Ayuda!
 layout: default
 ---
-# ¡Ayuda!
-## Code
+# Code
 Símbolos Útiles
 ```bash
 {[(<@\!/#$%&^>)]}
@@ -38,17 +37,18 @@ Start-Process "https://kibzai.github.io/Programas/"
 ## Github Links
 Cómo hacer links en Github: (HELP.md)
 ``` markdown
-[¡Ayuda!](https://kibzai.github.io/Programs/HELP): Webpage.
+[¡Ayuda!](HELP): Link interno.
+[¡Ayuda!- Link de Github](https://github.com/Kibzai/Programs/HELP): Github Page.
 [HELP.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): Github Code.
 ```
-- [¡Ayuda!](https://kibzai.github.io/Programs/HELP): Webpage.
+- [¡Ayuda!](HELP): Link interno.
+- [¡Ayuda!- Link de Github](https://github.com/Kibzai/Programs/HELP): Github Page.
 - [HELP.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): Github Code.
 
 ---
 
-## Thinking
-```bash
-### ¡Piensa?
+# Thinking
+True si ambos son verdaderos.
 ```typescript
 let yesBoth = (x,y) => { return ( x && y ) }
 ```

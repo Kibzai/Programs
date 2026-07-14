@@ -1,10 +1,9 @@
 ---
-title: Phone
+title: "Phone: Scripts & Apps"
 permalink: /PHONE
 layout: default
 ---
-# Devices
-
+# Mobile Devices
 ## Android
 ### Termux
 ```bash
@@ -48,32 +47,7 @@ Scripts varios
 `config`, `config -set font_size 10`
 ```
 
-## USB
-
-### Kingston: Black Sword
-```md
-- Kibza Music
-- Kibza Links
-### Setup: config files.
-- Voicemeter
-- Traktor
-- Ableton
-- Usaa
-- usbrubberducky
-- IRDB (Infrared Database)
-- Sub-GHz-Jamming
-- Sub-GHz
-- xMasterX unleashed-extra-pack main apps
-- Wallpapers
-### Programs: Install Executables
-- Ableton
-- qFlipperSetup
-- KMSpico?
-- Traktor
-### Geims
-- Undertale
-```
-# Móvil
+# Apps
 
 ### Tiendas
 
@@ -183,42 +157,35 @@ FAVS
 /ext/apps/WiFi/evil_portal.fap
 /ext/apps/WiFi/esp32_wifi_marauder.fap
 ```
-## Android
-
-Android
-```bash
-# Mostrar ayuda de comandos comunes (ls, cd, ping), realizar un ping a wikipedia.org, y listar archivos del directorio actual en formato largo.
-
-```
+## Android Apps
 ### Tasker
-
 #### Profiles
-
-- Daytime
-- Nighttime
-- Autoinput(Special Button)
-- Important call
-
-##### NFCs
+- [x] Autorotate Apps: Automatically rotates the screen based on the device's orientation.
+- [x] Autoinput (Moto edge): Rooted phones with custom button remapping.
+- [ ] Auto Silence(WIP): Automatically silences the phone when Calendar shows not available.
+- [ ] Headphones connected: Automatically adjusts the volume based on the headphones connected.
+- [ ] Daytime: Automatically adjusts the screen brightness based on the time of day.
+- [ ] Nighttime: Automatically adjusts the screen brightness based on the time of day.
+- [ ] Important call: Always full volume for incoming calls.
 
 #### Tasks
+- [ ] Hotspot
+- [ ] Full Brightness
+- [ ] Auto Brightness
+- [ ] Launch:
+	- [ ] Liife360
+- [ ] Volume Please
+- [ ] Autorotate Apps
 
-- Hotspot
-- Full Brightness
-- Auto Brightness
-- Launch:
-	- Liife360
-- Volume Please
-- Autorotate Apps
+### Titanium Backup
+Root required.
+- [Titanium Backup](https://play.google.com/store/apps/details?id=com.keramidas.TitaniumBackup): a backup app that allows you to backup your phone's data.
 
-
-### Apps
-
+### Non-Listed Apps
 Lista más completa de apps útiles!
 
-- Cámara: La cámara app incluída en tu celular.
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.
-- DroidScript: Desarrollo de aplicaciones móviles.
+- [DroidScript](https://droidscript.org/): Desarrollo de aplicaciones móviles.
 - [Snapchat](https://www.snapchat.com/): Comparte fotos y videos efímeros.
 - [Spotify](https://www.spotify.com/): Plataforma de streaming de música.
 - Artists: Aplicación para artistas.

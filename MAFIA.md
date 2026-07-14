@@ -27,12 +27,14 @@ layout: default
 ## Gaming
 ### Roms
 - [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
-- [Roms Megathread](https://r-roms.github.io/megathread/retro/): Go here Retro
+- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
 
 # Art
 ## Books & Manga
-### Tachiyomi
-#### Repos
+### Manga
+- [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
+- [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
+#### Tachiyomi Repos
 - LectorManga
 - MangaDex
 - MangaLife

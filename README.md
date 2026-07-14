@@ -35,7 +35,7 @@ bundle install
 rm -rf .jekyll-cache _site
 ```
 
-## Usage
+# Usage
 ``` bash
 bundle exec jekyll serve
 # Remove cache and site
@@ -43,7 +43,7 @@ rm -rf .jekyll-cache _site
 bundle exec jekyll serve
 ```
 
-### Github Links
+## Github Links
 - [Protocols, Programs & Tools](https://github.com/Kibzai/Programs/): Github Page.
 - [Readme.md](https://github.com/Kibzai/Programs/blob/main/README.md): Programs Readme.
 - [Kibza.md](https://github.com/Kibzai/Programs/blob/main/KIBZA.md): Kibza Lab.

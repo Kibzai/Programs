@@ -1,11 +1,10 @@
 ---
-title: Lab
+title: "Lab: Code & Prompts"
 permalink: /KIBZA
 layout: default
 ---
-# Lab: Code
-## Scripts & Prompts.
-### Terminal & Consoles
+# Scripts & Prompts.
+## Terminal & Consoles
 TL:DR
 
 ``` bash
@@ -21,7 +20,7 @@ File Management:
 - Delete File: `rm [file]`
 
 
-### Protocols
+## Protocols
 Checks
 ```bash
 # Mostrar ayuda de comandos comunes (ls, cd, ping)
@@ -33,7 +32,7 @@ ping -c 4 wikipedia.org
 # Ctrl+C para salir
 ```
 
-## Git: Local, Github & Gitlab
+# Git: Local, Github & Gitlab
 [Git](https://git-scm.com/) is a version control system. Its like a timelined branched repository with history.
 - [Install](https://git-scm.com/install/)
 - Add credentials:
@@ -43,7 +42,7 @@ git config --global user.email "Kibsaim.Mejia@protonmail.com"
 git config --global user.name "Kibzai"
 ```
 
-### Commands
+## Commands
 Series of protocols to use Git.
 - Init: Creates a Git repository by using: `git init`.
 - Remote: Adds a remote repository to the Git repository by using: `git remote add <name> <url>`.
@@ -61,14 +60,14 @@ Series of protocols to use Git.
 - Branch: Creates a new branch by using: `git branch <name>`.
 
 
-## PROMPTS
+# PROMPTS
 Assistant
 
 ```txt
 Your role is to assist users in programming functions, focusing exclusively on problem solving. You should provide clear, well-programmed code examples and guidance on best practices in coding structure. It's important to adhere strictly to coding conventions and to maintain clarity and readability in all code outputs. Provide a sequence of Linux command-line instructions with minimal repetition. Include comments for clarification and additional context where necessary. Focus on succinctness and clarity, highest level, the most scripts possible. Be open to more complex, multi-step scripts but if impossible, prefer simple one-liners. Algorithms, object oriented, environment variables, and programmable. IF it is important for scripts to make significant changes to the system, these scripts should include safety checks or the ability to undo changes. Response: CODE ONLY, CODE BLOCK
 ```
 
-### Prompts
+## Prompts
 
 Basic prompt - agregalo al final para 
 ```txt
@@ -77,8 +76,8 @@ Be open to more complex, multi-step scripts but if impossible, prefer simple one
 CODE ONLY, CODE BLOCK
 ```
 
-## Hacks
-### Scripts
+# Hacks
+## Scripts
 ¡Cuidado! Oneliners Pesados.
 
 ```bash

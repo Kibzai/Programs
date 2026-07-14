@@ -30,6 +30,54 @@ layout: default
 - [Roms Megathread](https://r-roms.github.io/): Go here for Retro
 
 # Art
+## Tools
+
+### Viewers
+#### Desktop
+- [OpenComic](https://github.com/ollm/OpenComic) is an open-source manga reader for desktop.
+- [YacReader](https://www.yacreader.com/) is an open-source manga reader for desktop.
+
+#### Andorid
+- [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
+- [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
+
+#### iOS
+- [Tachimanga](https://github.com/keiyoushi/tachimanga) is an open-source manga reader for iOS.
+
+#### Repositories
+- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+
+<details>
+  <summary>🎊 Extensions</summary>
+
+<div markdown="1">
+
+- [ ] LectorManga
+- [ ] MangaDex
+- [ ] MangaLife
+- [ ] MangaPark
+- [ ] MangaRaw
+- [ ] Mangabat
+- [ ] Mangafreak
+- [ ] Mangakakalot
+- [ ] ReadAllComics
+- [ ] ReadComicOnline
+- [ ] TuMangaOnline
+- [ ] WeebCentral
+- [ ] TCB Scans
+- [ ] Rawkuma
+- [ ] MyReadingManga
+- [ ] MangaHub
+- [ ] LectorManga.lat
+- [ ] KissLove
+- [ ] MangaSee
+- [ ] MangaFoxFull
+
+</div>
+
+</details>
+
+
 ## Books, Manga & Comics
 <details>
   <summary>📚 Books</summary>
@@ -37,14 +85,14 @@ layout: default
 <div markdown="1">
 
  - [ ] The Communist Manifesto: A Graphic... `Friedrich Engels, Karl Marx (adapt. Martin Rowson)`
- - [ ] The Perry Bible Fellowship Almanack: ... `Nicholas Gurewitch`
- - [ ] The Wolverton Bible `Basil Wolverton`
+ - [ ] The Perry Bible Fellowship Almanack (10th Anniversary Edition) `Nicholas Gurewitch`[reference:12][reference:13]
+ - [ ] The Wolverton Bible: The Old Testament & Book of Revelation `Basil Wolverton`[reference:14][reference:15]
  - [ ] The World of the Witcher `CD Projekt Red`
  - [ ] Tijuana Bibles: Art and Wit in America's Forbidden Funnies, 1930s-1950s `Simon And Schuster`
  - [ ] The Kingstone Bible `Ben Avery, Danny Bulanadi`
  - [ ] The Book of God: How We Got the Bible... `Ben Avery, Javier Saltares`
  - [ ] Marvel Chronicle `Tom DeFalco, Various`
- - [ ] Official Handbook of the Marvel Universe: ... `Various`
+ - [ ] Official Handbook of the Marvel Universe: Deluxe Edition `Mark Gruenwald, Peter Sanderson`
  - [ ] Marvel 70th Anniversary Poster Book `Various, Spring Hoteling`
  - [ ] The Art of Hellboy `Mike Mignola, Mike Mignola`
  - [ ] Jack Kirby: The Epic Life of the King ... `Tom Scioli`
@@ -71,27 +119,27 @@ layout: default
 - [ ] Akira `Otomo Katsuhiro`
 - [ ] Akira Toriyama's Lazy Manga Lab `Sakuma Akira, Toriyama Akira`
 - [ ] Akumajou Dracula: Yami no Juin `Sasakura Kou`
-- [ ] Ansatsu Kyoushitsu `Matsui Yuusei`
-- [ ] Ao no Exorcist `Katou Kazue`
-- [ ] Attack On Titan `Isayama Hajime`
+- [ ] Ansatsu Kyoushitsu `Matsui Yuusei` *Assassination Classroom*
+- [ ] Ao no Exorcist `Katou Kazue` *Blue Exorcist*
+- [ ] Attack On Titan `Isayama Hajime` **Shingeki no Kyojin** *(2009)* ❤
 - [ ] Battle Angel Alita `Kishiro Yukito`
-- [ ] Berserk `Kentaro Miura`
-- [ ] Berserk ( 1989 ) `Various`
-- [ ] Berserk (continuación) `Kentaro Miura, Mori Kouji`
-- [ ] Berserk: The Prototype `Kentaro Miura`
-- [ ] Bishoujo Senshi: Sailormoon `Takeuchi Naoko`
+- [x] Berserk: The Prototype `Kentaro Miura` *( 1988 )* ❤
+- [x] Berserk `Kentaro Miura` **ベルセルク** *( 1990-2021 )* 💖
+- [ ] Berserk (The Continuation) `Mori Kouji` *( 2023-~ )*
+- [ ] Bishoujo Senshi: Sailormoon `Takeuchi Naoko` *Pretty Guardian Sailor Moon*
 - [ ] BLAME! `NIHEI Tsutomu`
 - [ ] Blade of the Immortal `SAMURA Hiroaki`
 - [ ] Bleach `Kubo Tite`
-- [ ] Boku No Hero Academia `Horikoshi Kouhei`
-- [ ] Boku no Hero Academia (2014) `Horikoshi Kouhei`
+- [ ] My Hero Academia `Horikoshi Kouhei` **僕のヒーローアカデミア** Boku No Hero Academia ❤
 - [ ] Cardcaptor Sakura `Clamp, Ohkawa Ageha`
 - [ ] Chainsaw Man `Fujimoto Tatsuki`
 - [ ] Claymore `Yagi Norihiro`
 - [ ] Clannad `Key`
-- [ ] Cowboy Bebop `Nanten Yutaka`
-- [ ] Death Note `OBATA Takeshi`
-- [ ] Demon Slayer: Kimetsu no Yaiba (Official Colored) `Gotouge Koyoharu`
+- [x] Cowboy Bebop `Nanten Yutaka` 💖
+- [ ] Death Note `OBATA Takeshi` **デスノート** ❤
+- [ ] Demon Slayer `Gotouge Koyoharu` **鬼滅の刃** **Kimetsu no Yaiba**
+- [ ] Demon Slayer: Rengoku Kyoujurou Gaiden `Gotouge Koyoharu, Hirano Ryouji` **鬼滅の刃** **Kimetsu no Yaiba- Rengoku Kyoujurou Gaiden**
+- [ ] Demon Slayer: Tomioka Giyuu Gaiden `Hirano Ryouji, Gotouge Koyoharu` **鬼滅の刃** **Kimetsu no Yaiba- Tomioka Giyuu Gaiden**
 - [ ] Dengeki Pikachu `Ono Toshihiro`
 - [ ] Devil May Cry 3 `Capcom, Chayamachi Suguro`
 - [ ] Devil May Cry 5 – Visions of V – `Capcom, Ogata Tomio`
@@ -106,11 +154,11 @@ layout: default
 - [ ] Dragon Ball `Toriyama Akira`
 - [ ] Dragon Ball (Official Colored) `Toriyama Akira`
 - [ ] Duranki `Kentaro Miura, Studio Gaga`
-- [ ] Enen no Shouboutai (Fan Colored) `Atsushi Ookubo`
+- [ ] Enen no Shouboutai (Fan Colored) `Atsushi Ookubo` *Fire Force*
 - [ ] Fate/stay night: Heaven's Feel `Type-Moon`
 - [ ] Fire Punch `Fujimoto Tatsuki, Fujimoto Tatsuki`
 - [ ] Fist of the North Star `Buronson, Hara Tetsuo`
-- [ ] Fullmetal Alchemist `Arakawa Hiromu`
+- [ ] Fullmetal Alchemist `Arakawa Hiromu` **鋼の錬金術師**
 - [ ] Futatabi `Miura Kentaro`
 - [ ] Gantz `Oku Hiroya`
 - [ ] Ghost In The Shell: Global Neural Network `Shirow Masamune`
@@ -121,13 +169,13 @@ layout: default
 - [ ] Godzilla vs. King Ghidorah `Kazuki Omori, Sakai Takayuki`
 - [ ] Godzilla vs Mothra (CoroCoro) `Kazuki Omori, Sakai Takayuki`
 - [ ] Godzilla vs. Mothra (Kodansha) `Yasui Hisashi, Tetsuya Kawaishi`
-- [ ] GODZILLA - Planet of the Monsters `Urobuchi Gen, Kurahashi Youth`
+- [ ] GODZILLA- Planet of the Monsters `Urobuchi Gen, Kurahashi Youth`
 - [ ] Gon `Masashi Tanaka`
-- [ ] Gotoubun no Hanayome β `KosmosBeta`
+- [ ] Gotoubun no Hanayome β `KosmosBeta` *The Quintessential Quintuplets β*
 - [ ] Grappler Baki `Itagaki Keisuke`
 - [ ] Guin Saga `Kurimoto Kaoru, Sawada Hajime`
 - [ ] Haeniwa no Zigzag `Gotouge Koyoharu`
-- [ ] Hajime No Ippo `Morikawa, George`
+- [ ] Hajime No Ippo `Morikawa, George` *Fighting Spirit*
 - [ ] Hanma Baki `Itagaki Keisuke`
 - [ ] Hellstar Remina `Itou Junji`
 - [ ] Hellsing `Hirano Kouta`
@@ -147,23 +195,20 @@ layout: default
 - [ ] Jujutsu Kaisen `Akutami Gege`
 - [ ] Jujutsu Kaisen 0 `Akutami Gege`
 - [ ] Jujutsu Kaisen (Fan Colored) `Akutami Gege`
-- [ ] Kakegurui `Kawamoto Homura, Naomura Tooru`
+- [ ] Kakegurui `Kawamoto Homura, Naomura Tooru` **Compulsive Gambler** *Kakegurui*
 - [ ] Kentaro Miura Memorial Manga `Mori Kouji`
-- [ ] Kimetsu No Yaiba: Rengoku Kyoujurou Gaiden `Gotouge Koyoharu, Hirano Ryouji`
-- [ ] Kimetsu no Yaiba `Gotouge Koyoharu, Hirano Ryouji`
-- [ ] Kimetsu no Yaiba: Tomioka Giyuu Gaiden `Hirano Ryouji, Gotouge Koyoharu`
 - [ ] King of Wolves `Buronson, Kentaro Miura`
-- [ ] Koukaku Kidoutai `Shirow Masamune`
-- [ ] Koukaku Kidoutai 1.5: Human-Error Processor `Shirow Masamune`
-- [ ] Koukaku Kidoutai 2 `Shirow Masamune`
-- [ ] Kuroshitsuji `Toboso Yana`
+- [ ] Koukaku Kidoutai `Shirow Masamune` *Ghost in the Shell*
+- [ ] Koukaku Kidoutai 1.5: Human-Error Processor `Shirow Masamune` *Ghost in the Shell 1.5: Human-Error Processor*
+- [ ] Koukaku Kidoutai 2 `Shirow Masamune` *Ghost in the Shell 2: Man-Machine Interface*
+- [ ] Kuroshitsuji `Toboso Yana` *Black Butler*
 - [ ] Made in Abyss `Tsukushi Akihito, Tsukushi Akihito`
 - [ ] Maou Dante (2002) `Nagai Go`
 - [ ] Martial Peak `Momo, Pikapi (噼咔噼)`
 - [ ] Mob Psycho 100 `One`
 - [ ] Mononoke `Ninagawa Yaeko`
 - [ ] Monster `Urasawa Naoki`
-- [ ] Nanatsu no Taizai `Suzuki Nakaba`
+- [ ] Nanatsu no Taizai `Suzuki Nakaba` *The Seven Deadly Sins*
 - [ ] Naruto `Kishimoto Masashi`
 - [ ] Naruto - Full Color `Masashi Kishimoto`
 - [ ] Neon Genesis Evangelion
@@ -175,15 +220,14 @@ layout: default
 - [ ] ONE PIECE `Oda Eiichiro`
 - [ ] One Piece (Official Colored) `Oda Eiichiro`
 - [ ] ONE PIECE Full Color (2012) `Oda Eiichiro`
-- [ ] One Punch-Man `One, Murata Yuusuke`
-- [ ] Onepunch-Man `One, Murata Yuusuke`
-- [ ] Onepunch-Man (ONE) `One`
-- [ ] Oyasumi Punpun `Asano Inio`
+- [ ] One Punch-Man (Webcomic) `ONE` **ワンパンマン**
+- [ ] One Punch-Man `One, Murata Yuusuke` **ワンパンマン**
+- [ ] Oyasumi Punpun `Asano Inio` *Goodnight Punpun*
 - [ ] Perfect Half `Luv P`
-- [ ] Pocket Monster Special `Kusaka Hidenori`
-- [ ] Pocket Monster Zensho `Nakamura Satomi`
+- [ ] Pocket Monster Special `Kusaka Hidenori` *Pokémon Adventures*
+- [ ] Pocket Monster Zensho `Nakamura Satomi` *Pokémon Zensho*
 - [ ] Pocket Monsters `Anakubo Kousaku, Tajiri Satoshi`
-- [ ] Pokémon Special `Various`
+- [ ] Pokémon Special `Various` *Pokémon Adventures*
 - [ ] Rakujitsu no Pathos `Tsuyatsuya`
 - [ ] Record of Ragnarok `Umemura Shinya, Fukui Takumi`
 - [ ] Saint Seiya `KURUMADA Masami`
@@ -200,7 +244,6 @@ layout: default
 - [ ] Sailor Moon `Takeuchi Naoko`
 - [ ] Shigurui `Nanjou Norio, Yamaguchi Takayuki`
 - [ ] Shin Violence Jack `Nagai Go`
-- [ ] Shingeki no Kyojin (2009) `Isayama Hajime`
 - [ ] Slam Dunk `Inoue Takehiko`
 - [ ] Solo Leveling `h-goon (현군), Chugong (추공), Gi So-Ryeong (기소령)` / `REDICE Studio (레드아이스 스튜디오), Jang Sung-Rak (장성락)`
 - [ ] Soul Eater `Atsushi Ookubo`
@@ -216,20 +259,14 @@ layout: default
 - [ ] Vinland Saga `Yukimura Makoto, Yukimura Makoto`
 - [ ] Violence Jack `Nagai Go, Dynamic Pro`
 - [ ] Wanted! `Oda Eiichiro, Oda Eiichiro`
-- [ ] Yakusoku No Neverland `Kaiu Shirai, Demizu Posuka`
+- [ ] Yakusoku No Neverland `Kaiu Shirai, Demizu Posuka` *The Promised Neverland*
 - [ ] Yu-Gi-Oh! `Takahashi Kazuki`
 - [ ] Yu-Gi-Oh! - Digital Colored Comics `Takahashi Kazuki`
 - [ ] Yu-Gi-Oh! GX `Kageyama Naoyuki, Takahashi Kazuki`
-- [ ] Yu☆Gi☆Oh! The Movie (Anime Comic) `Takahashi Kazuki, Toei Animation`
-- [ ] アンゴルモア 元寇合戦記　【博多編】
-- [ ] デスノート
-- [ ] ベルセルク
-- [ ] チェンソーマン 第二部
-- [ ] 生意気ギャルの家庭教師、始めます `over.J, CTY` *Learning the Hard Way / Iljinnyeo Gwaoehagi (일진녀 과외하기)*
-- [ ] 鬼滅の刃
-- [ ] 僕のヒーローアカデミア
-- [ ] ワンパンマン
-- [ ] 鋼の錬金術師 `Arakawa Hiromu`
+- [ ] Yu-Gi-Oh! The Movie (Anime Comic) `Takahashi Kazuki, Toei Animation`
+- [ ]  Angolmois: Genkou Kassenki (Hakata-hen) `Various` **アンゴルモア 元寇合戦記　【博多編】**
+- [ ] チェンソーマン 第二部 *Chainsaw Man Part 2*
+- [ ] Learning the Hard Way `over.J, CTY` **生意気ギャルの家庭教師、始めます** *Iljinnyeo Gwaoehagi (**일진녀 과외하기**)*
 
 </div>
 
@@ -409,7 +446,7 @@ layout: default
 - [ ] Ghost Rider (2006) `Daniel Way, Javier Saltares`
 - [ ] Ghost Rider (2019) `Ed Brisson, Aaron Kuder`
 - [ ] Ghost Rider Epic Collection: Hell ... `Various, Various`
-- [ ] Ghost Rider: Danny Ketch Epic Collection: ... `Dann Thomas, Chris Marrinan`
+- [ ] Ghost Rider: Danny Ketch Epic Collection: Siege of Darkness `Howard Mackie, Adam Kubert, Dann Thomas, Chris Marrinan`
 - [ ] Ghost Rider: The War For Heaven `Jason Aaron, Roland Boschi`
 - [ ] Ghost Rider/Blaze: Spirits of Vengeance `Howard Mackie, Adam Kubert`
 - [ ] Ghost Riders: Heaven's on Fire `Jason Aaron, Roland Boschi`
@@ -697,9 +734,8 @@ layout: default
 - [ ] New Mutants Lethal Legion `Charlie Jane Anders, Enid Balám`
 - [ ] Nickelodeon Avatar: The Last Airbender ... `Faith Erin Hicks, Peter Wartman`
 - [ ] Night of the Living Deadpool `Cullen Bunn, Ramon Rosanas`
-- [ ] Official Handbook of the Marvel Universe: ... `Various`
+- [ ] Official Handbook of the Marvel Universe: Deluxe Edition `Mark Gruenwald, Peter Sanderson`
 - [ ] Old Man Logan (2016) `Jeff Lemire, Andrea Sorrentino`
-- [ ] One Punch-Man (Webcomic) `ONE, ONE`
 - [ ] Original Sin `Jason Aaron, Mike Deodato`
 - [ ] Painkiller Jane/Hellboy `Brian Augustyn, Rick Leonardi`
 - [ ] Planet Hulk `Greg Pak, Leonard Kirk`
@@ -749,7 +785,7 @@ layout: default
 - [ ] Spider-Man: Maximum Carnage `Tom DeFalco, Mark Bagley`
 - [ ] Spider-Man: Spider-Verse `Brian Michael Bendis, Keith Pollard`
 - [ ] Spider-Man: Spider-Verse - Spider ... `Jason LaTour, Robbi Rodriguez`
-- [ ] Spider-Man: The Vengeance of Venom `David Michelinie, Various`
+- [ ] Spider-Man: The Vengeance of Venom `David Michelinie, Mark Bagley`
 - [ ] Spider-Man/Deadpool `Joe Kelly, Ed McGuinness`
 - [ ] Spider-Man/Dr. Strange: "The Way to ..." `Gerry Conway, Michael Bair`
 - [ ] Spider-Verse (2015) `Dan Slott, Humberto Ramos`
@@ -805,7 +841,7 @@ layout: default
 - [ ] The Marvels `Kurt Busiek, Yildiray Cinar`
 - [ ] The Mask Omnibus `John Arcudi, Keith Williams`
 - [ ] The Official Handbook of the Marvel ... `Mark Gruenwald, Various`
-- [ ] The Perry Bible Fellowship Almanack: ... `Nicholas Gurewitch`
+- [ ] The Perry Bible Fellowship Almanack (10th Anniversary Edition) `Nicholas Gurewitch`
 - [ ] The Powerpuff Girls `Jennifer Keating Moore, Philip Moy`
 - [ ] The Punisher: Frank Castle MAX `Duane Swierczynski, Michel Lacombe`
 - [ ] The Rise Of Ultraman `Mat Groom, Michael Cho`
@@ -820,7 +856,7 @@ layout: default
 - [ ] The Walking Dead (2003) `Robert Kirkman, Tony Moore`
 - [ ] The Witcher Omnibus `Paul Tobin, Max Bertolini`
 - [ ] The Witcher: Curse of Crows `Travis Currit, Piotr Kowalski`
-- [ ] The Wolverton Bible `Basil Wolverton`
+- [ ] The Wolverton Bible: The Old Testament & Book of Revelation `Basil Wolverton`
 - [ ] The World of the Witcher `CD Projekt Red`
 - [ ] Thor (2014) `Jason Aaron, Russell Dauterman`
 - [ ] Thor: God of Thunder `Jason Aaron, Esad Ribic`
@@ -927,43 +963,6 @@ layout: default
 </div>
 
 </details>
-
-### Manga Viewers
-#### Desktop
-- [OpenComic](https://github.com/ollm/OpenComic) is an open-source manga reader for desktop.
-- [YacReader](https://www.yacreader.com/) is an open-source manga reader for desktop.
-
-#### Andorid
-- [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
-- [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
-
-#### iOS
-- [Tachimanga](https://github.com/keiyoushi/tachimanga) is an open-source manga reader for iOS.
-
-#### Repositories
-- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
-##### Extensions
-- LectorManga
-- MangaDex
-- MangaLife
-- MangaPark
-- MangaRaw
-- Mangabat
-- Mangafreak
-- Mangakakalot
-- ReadAllComics
-- ReadComicOnline
-- TuMangaOnline
-- WeebCentral
-- TCB Scans
-- Rawkuma
-- MyReadingManga
-- MangaHub
-- LectorManga.lat
-- KissLove
-- MangaSee
-- MangaFoxFull
-
 
 ## Pirate
 - [1337x.to](https://www.1377x.to/)

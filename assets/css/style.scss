@@ -33,18 +33,6 @@ a:hover {
   line-height: 1.6;
   text-shadow: 0 0 1px $turquoise-glow;
 }
-// ============================
-// Estilo "weeb" para checkboxes
-// ============================
-
-// Ajusta la variable de color a tu gusto
-
-
-// Asegúrate de que el selector coincida con el marcado de tu tema.
-// GitHub Pages / Jekyll (kramdown) suele renderizar las listas de tareas así:
-// <li class="task-list-item"><input type="checkbox" class="task-list-item-checkbox" disabled="disabled" /> texto...</li>
-// Si tu tema no incluye la clase, puedes usar simplemente:
-// input[type="checkbox"] que esté dentro de .markdown-body li
 
 .markdown-body .task-list-item input[type="checkbox"],
 .markdown-body li input[type="checkbox"] {

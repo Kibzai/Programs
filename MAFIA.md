@@ -132,7 +132,8 @@ layout: default
 - [ ] Bleach `Kubo Tite`
 - [ ] My Hero Academia `Horikoshi Kouhei` **僕のヒーローアカデミア** Boku No Hero Academia ❤
 - [ ] Cardcaptor Sakura `Clamp, Ohkawa Ageha`
-- [ ] Chainsaw Man `Fujimoto Tatsuki`
+- [ ] Chainsaw Man `Fujimoto Tatsuki` **チェンソーマン**
+- [ ] Chainsaw Man - Part 2 `Fujimoto Tatsuki` **チェンソーマン 第二部**
 - [ ] Claymore `Yagi Norihiro`
 - [ ] Clannad `Key`
 - [x] Cowboy Bebop `Nanten Yutaka` 💖
@@ -265,7 +266,6 @@ layout: default
 - [ ] Yu-Gi-Oh! GX `Kageyama Naoyuki, Takahashi Kazuki`
 - [ ] Yu-Gi-Oh! The Movie (Anime Comic) `Takahashi Kazuki, Toei Animation`
 - [ ]  Angolmois: Genkou Kassenki (Hakata-hen) `Various` **アンゴルモア 元寇合戦記　【博多編】**
-- [ ] チェンソーマン 第二部 *Chainsaw Man Part 2*
 - [ ] Learning the Hard Way `over.J, CTY` **生意気ギャルの家庭教師、始めます** *Iljinnyeo Gwaoehagi (**일진녀 과외하기**)*
 
 </div>

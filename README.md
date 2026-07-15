@@ -5,11 +5,19 @@ layout: default
 ---
 # Protocols, Programs & Tools
 ## Lets fucking go!
+### 🌎 [Web](https://kibzai.github.io/Programs/)
 
-## 🌎 [Web](https://kibzai.github.io/Programs/)
+---
 
 This is a protocol. It should run on any device. Perfect for the internet.
----
+
+# Usage
+``` bash
+bundle exec jekyll serve
+# Remove cache and site
+rm -rf .jekyll-cache _site
+bundle exec jekyll serve
+```
 
 ## Installation
 ``` bash
@@ -37,14 +45,6 @@ bundle install
 
 # Remove cache
 rm -rf .jekyll-cache _site
-```
-
-# Usage
-``` bash
-bundle exec jekyll serve
-# Remove cache and site
-rm -rf .jekyll-cache _site
-bundle exec jekyll serve
 ```
 
 ## Github Links

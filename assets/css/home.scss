@@ -167,9 +167,10 @@ body::before {
 
 .terminal-header::before {
   content: "● ● ● ";
-  color: var(--cyan);
+  color: var(--accent);
   letter-spacing: 0.3rem;
 }
+
 .terminal pre,
 .markdown-body pre,
 .markdown-body code,
@@ -185,55 +186,6 @@ body::before {
   font-size: 0.95rem;
   text-shadow: 0 0 8px var(--cyan);
   min-height: 10rem;
-}
-
-a {
-  color: var(--cyan);
-  transition: 0.2s;
-}
-
-a:hover {
-  color: var(--accent);
-  text-shadow: 0 0 5px rgba(255, 102, 170, 0.6);
-}
-
-hr {
-  border: none;
-  height: 1px;
-  background: var(--border);
-  margin: 3rem 0;
-  box-shadow: 0 0 8px var(--cyan);
-}
-.markdown-body hr{
-  background-color: var(--cyan);
-}
-.footer {
-  margin: 4rem 0 2rem;
-  text-align: center;
-  color: var(--muted);
-  font-size: 0.9rem;
-}
-
-::-webkit-scrollbar {
-  width: 10px;
-}
-
-::-webkit-scrollbar-track {
-  background: transparent;
-}
-
-::-webkit-scrollbar-thumb {
-  background: #1f2a33;
-  border-radius: 20px;
-}
-
-::-webkit-scrollbar-thumb:hover {
-  background: var(--turquoise);
-}
-
-::selection {
-  background: var(--turquoise);
-  color: #0a0c10;
 }
 
 @keyframes blink {

@@ -1,16 +1,72 @@
 ---
 ---
+
 @use "sass:color";
-@import 'ghp-simple-dark';
-@import url('https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&family=JetBrains+Mono&display=swap');
+@import "ghp-simple-dark";
+@import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&family=JetBrains+Mono&display=swap");
 // Paleta Turquesa Neón "Cian Ciberpunk"
-$turquoise-neon: #0ff;           // cian puro (#00ffff) – ojo, puede ser muy brillante
-$turquoise-neon-alt: #00e5ff;    // cian más legible, ideal para fondos
-$turquoise-light: #7bf1ff;       // cian pastel
-$turquoise-dark: #008b8b;        // darkcyan, elegante y profundo
-$turquoise-glow: rgba(0, 229, 255, 0.35); // glow semitransparente (sustituye a $turquoise-glow)
+$turquoise-neon: #0ff; // cian puro (#00ffff) – ojo, puede ser muy brillante
+$turquoise-neon-alt: #00e5ff; // cian más legible, ideal para fondos
+$turquoise-light: #7bf1ff; // cian pastel
+$turquoise-dark: #008b8b; // darkcyan, elegante y profundo
+$turquoise-glow: rgba(
+  0,
+  229,
+  255,
+  0.35
+); // glow semitransparente (sustituye a $turquoise-glow)
 $turquoise-glow-strong: rgba(0, 229, 255, 0.7);
 $accent: #ff66aa;
+
+
+a {
+  color: $turquoise-neon;
+  transition: 0.2s;
+}
+
+a:hover {
+  color: $accent;
+  text-shadow: 0 0 5px rgba(255, 102, 170, 0.6);
+}
+
+hr {
+  border: none;
+  height: 1px;
+  background: $turquoise-glow-strong;
+  margin: 3rem 0;
+  box-shadow: 0 0 8px $accent;
+}
+.markdown-body hr{
+  background-color: $accent;
+}
+.footer {
+  margin: 4rem 0 2rem;
+  text-align: center;
+  color: $turquoise-glow;
+  font-size: 0.9rem;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1f2a33;
+  border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: $turquoise-neon;
+}
+
+::selection {
+  background: $turquoise-neon;
+  color: #0a0c10;
+}
 
 a:hover {
   color: $accent;
@@ -28,7 +84,7 @@ a:hover {
 
 .markdown-body pre code,
 .markdown-body div.highlight code {
-  font-family: 'JetBrains Mono', 'Share Tech Mono', monospace;
+  font-family: "JetBrains Mono", "Share Tech Mono", monospace;
   font-size: 1.1em;
   line-height: 1.6;
   text-shadow: 0 0 1px $turquoise-glow;
@@ -44,7 +100,7 @@ a:hover {
   height: 1.2em;
   // Alineación vertical con el texto
   vertical-align: middle;
-  margin: 0 .5em .25em -1.6em;
+  margin: 0 0.5em 0.25em -1.6em;
   // Bordes y fondo base
   border: 2px solid $turquoise-neon-alt;
   border-radius: 0;
@@ -59,7 +115,9 @@ a:hover {
     background-color: $turquoise-neon-alt;
     border-color: $turquoise-neon-alt;
     // Glow intenso
-    box-shadow: 0 0 0.3rem $turquoise-neon-alt, 0 0 0.5rem rgba($turquoise-neon-alt, 0.5);
+    box-shadow:
+      0 0 0.3rem $turquoise-neon-alt,
+      0 0 0.5rem rgba($turquoise-neon-alt, 0.5);
     // Ícono de verificación (SVG inline como fondo)
     background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23000' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='20 6 9 17 4 12'%3E%3C/polyline%3E%3C/svg%3E");
     background-size: 80% 80%;
@@ -85,15 +143,15 @@ a:hover {
   padding: 0.5em 1em;
   margin: 1em 0;
   background: rgba(0, 0, 0, 0.6);
-  box-shadow: 0 0 8px $turquoise-glow;   // antes $glow no definida
+  box-shadow: 0 0 8px $turquoise-glow; // antes $glow no definida
 
   summary {
     color: $turquoise-neon-alt;
-    font-family: 'Share Tech Mono', monospace;
+    font-family: "Share Tech Mono", monospace;
     cursor: pointer;
     list-style: none; // oculta el triángulo nativo
     &::before {
-      content: '▼ ';
+      content: "▼ ";
       color: $turquoise-neon-alt;
       font-size: 0.8em;
       transition: transform 0.2s ease;
@@ -116,7 +174,7 @@ a:hover {
   }
 }
 
-ul.task-list{
+ul.task-list {
   padding-left: 0;
 }
 .task-list-header {
@@ -125,7 +183,7 @@ ul.task-list{
   border-radius: 0;
   padding: 0.5em 1em;
   margin: 1em 0 0.3em;
-  font-family: 'Share Tech Mono', monospace;
+  font-family: "Share Tech Mono", monospace;
   color: #00e5ff;
   cursor: pointer;
   display: flex;
@@ -139,4 +197,47 @@ ul.task-list{
   padding-left: 2.5em;
   background: rgba(0, 0, 0, 0.6);
   border-radius: 0;
+}
+
+.code-block-wrapper {
+  position: relative;
+  margin: 0; /* respeta márgenes originales del pre */
+}
+.code-block-wrapper .copy-button {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(4px);
+  border: 1px solid rgba(255, 255, 255, 0.25);
+  color: #e0e0e0;
+  padding: 0.3em 0.7em;
+  font-size: 0.75rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition:
+    background 0.2s,
+    border-color 0.2s;
+  line-height: 1;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.code-block-wrapper .copy-button:hover {
+  background: $turquoise-neon;
+  border-color: rgba(255, 255, 255, 0.5);
+  color: #000;
+}
+.code-block-wrapper .copy-button.copied {
+  background: $accent;
+  color: #fff;
+  border-color: $turquoise-neon;
+}
+/* Para que el botón no se superponga al scroll horizontal del código, si existiera */
+.code-block-wrapper pre {
+  position: relative;
+  z-index: 0;
 }

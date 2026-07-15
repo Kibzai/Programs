@@ -1,5 +1,5 @@
 ---
-title: Index
+title: ~/Index
 permalink: /
 layout: home
 ---
@@ -26,11 +26,6 @@ Expect experiments, automation, computing, web development, hardware hacks, rand
 | 📱 | [Phone: Scripts & Apps](PHONE) | Android, automation, Tasker, mobile development |
 | 🎨 | [Art: Fun & Pirates!](MAFIA) | Magic, games, design, music, experiments |
 | 🆘 | [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting |
-
----
-
-
-
 
 ---
 

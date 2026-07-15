@@ -1,39 +1,6 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="apple-mobile-web-app-status-bar-style"
-      content="black-translucent"
-    />
-
-    <!-- Estilos del tema -->
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/rouge.css' | relative_url }}"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/style.css' | relative_url }}"
-    />
-
-    <!-- Font Awesome (para iconos, si el tema los usa) -->
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
-      integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
-      crossorigin="anonymous"
-    />
-
-    <!-- Título dinámico -->
-    <title>{{ page.title | default: site.title | default: "Programs" }}</title>
-    <link rel="icon" href="{{ 'assets/favicon/favicon.ico' | relative_url }}" />
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/favicon/apple-touch-icon.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/favicon/favicon-32x32.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/favicon/favicon-16x16.png' | relative_url }}">
-    <link rel="manifest" href="{{ 'assets/favicon/site.webmanifest' | relative_url }}">
-  </head>
+  {% include head.html %}
   <body>
     <!-- Encabezado dinámico -->
     <div class="markdown-body">

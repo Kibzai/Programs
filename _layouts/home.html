@@ -1,65 +1,32 @@
 <!doctype html>
 <html lang="{{ page.lang | default: site.lang | default: 'en-US' }}">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta
-      name="apple-mobile-web-app-status-bar-style"
-      content="black-translucent"
-    />
 
-
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/rouge.css' | relative_url }}"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/style.css' | relative_url }}"
-    />
-    <link
-      rel="stylesheet"
-      href="{{ '/assets/css/home.css' | relative_url }}"
-    />
-
-    <link
-      rel="stylesheet"
-      href="https://use.fontawesome.com/releases/v5.2.0/css/all.css"
-      crossorigin="anonymous"
-    />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
-    />
-    <title>{{ page.title | default: site.title | default: "Programs" }}</title>
-    <link rel="icon" href="{{ 'assets/favicon/favicon.ico' | relative_url }}" />
-    <link rel="apple-touch-icon" sizes="180x180" href="{{ 'assets/favicon/apple-touch-icon.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ 'assets/favicon/favicon-32x32.png' | relative_url }}">
-    <link rel="icon" type="image/png" sizes="16x16" href="{{ 'assets/favicon/favicon-16x16.png' | relative_url }}">
-    <link rel="manifest" href="{{ 'assets/favicon/site.webmanifest' | relative_url }}">
-  </head>
-
+  {% include homeHead.html %}
   <body>
     <div class="markdown-body">
       <a href="{{ '/' | relative_url }}" style="text-decoration: none">
-        <h1 class="pageHeader animate__animated animate__fadeInDown">{{ page.title | default: site.title }}</h1>
+        <h1 class="pageHeader animate__animated animate__fadeInDown">
+          {{ page.title | default: site.title }}
+        </h1>
       </a>
 
-      <section class="hero animate__animated animate__fadeInDown animate__delay-1s">
+      <section
+        class="hero animate__animated animate__fadeInDown animate__delay-1s"
+      >
+        <h2 class="animate__animated animate__fadeInUp animate__delay-1s">
+          Everything is Programmable.
+        </h2>
 
-          <h2 class="animate__animated animate__fadeInUp animate__delay-1s">
-              Everything is Programmable.
-          </h2>
-
-          <p class="animate__animated animate__fadeInUp animate__delay-2s">
-              Linux • AI • Automation • Docker • Raspberry Pi • Experiments
-          </p>
-
+        <p class="animate__animated animate__fadeInUp animate__delay-2s">
+          Computing • Automation • Programming • Experiments
+        </p>
       </section>
 
       {{ content }}
 
-      <section class="terminal animate__animated animate__fadeInDown animate__delay-2s">
+      <section
+        class="terminal animate__animated animate__fadeInDown animate__delay-1s"
+      >
         <div class="terminal-header">~/Programs</div>
 
         <pre><code>$ whoami
@@ -81,7 +48,7 @@ $ █</code></pre>
 
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
     <script>
-    document.documentElement.classList.add("loaded");
+      document.documentElement.classList.add("loaded");
     </script>
   </body>
 </html>

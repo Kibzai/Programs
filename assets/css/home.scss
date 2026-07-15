@@ -74,8 +74,8 @@ body::before {
 
 .pageHeader::after {
   content: "▋";
-  color: var(--turquoise);
-  animation: blink 0.8s infinite;
+  color: var(--cyan);
+  animation: blink 0.68s infinite;
 }
 
 .hero {
@@ -166,23 +166,29 @@ body::before {
 }
 
 .terminal-header::before {
-  content: "● ● ●";
-  color: var(--turquoise);
+  content: "● ● ● ";
+  color: var(--cyan);
   letter-spacing: 0.3rem;
 }
-
-.terminal pre {
+.terminal pre,
+.markdown-body pre,
+.markdown-body code,
+.markdown-body pre code,
+.markdown-body .highlight pre,
+.markdown-body div.highlight pre,
+.markdown-body div.highlight code {
   margin: 0;
   padding: 1.5rem;
   overflow: auto;
-  color: var(--turquoise);
+  color: var(--cyan);
   font-family: "JetBrains Mono", monospace;
   font-size: 0.95rem;
-  text-shadow: 0 0 4px var(--turquoise-glow);
+  text-shadow: 0 0 8px var(--cyan);
+  min-height: 10rem;
 }
 
 a {
-  color: var(--turquoise);
+  color: var(--cyan);
   transition: 0.2s;
 }
 
@@ -196,9 +202,11 @@ hr {
   height: 1px;
   background: var(--border);
   margin: 3rem 0;
-  box-shadow: 0 0 8px var(--turquoise-glow);
+  box-shadow: 0 0 8px var(--cyan);
 }
-
+.markdown-body hr{
+  background-color: var(--cyan);
+}
 .footer {
   margin: 4rem 0 2rem;
   text-align: center;

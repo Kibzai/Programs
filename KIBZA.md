@@ -3,7 +3,7 @@ title: "Lab: Code & Prompts"
 permalink: /KIBZA
 layout: default
 ---
-# Scripts & Prompts.
+# Code
 ## Terminal & Consoles
 TL:DR
 

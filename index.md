@@ -17,7 +17,7 @@ Expect experiments, automation, computing, web development, hardware hacks, rand
 ---
 
 ## 🚀 Explore
-[Readme](README)
+### 🌐 [Readme](README)
 
 | 📁 | Section | Description |
 |:--|:--------|:------------|
@@ -29,15 +29,12 @@ Expect experiments, automation, computing, web development, hardware hacks, rand
 
 ---
 
-## 🌎 External
 
-- 🌐 [Programs Website](https://kibzai.github.io/Programs/)
+
 
 ---
 
-## ⚡ Fun
-
-### Current Philosophy
+## ⚡ Current Philosophy
 
 ```
 Automate everything.

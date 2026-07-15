@@ -6,14 +6,10 @@ layout: default
 # Protocols, Programs & Tools
 ## Lets fucking go!
 
-### [Web](https://kibzai.github.io/Programs/)
+## 🌎 [Web](https://kibzai.github.io/Programs/)
 
 This is a protocol. It should run on any device. Perfect for the internet.
 ---
-
-## 🌎 External
-
-- 🌐 [Programs Website](https://kibzai.github.io/Programs/)
 
 ## Installation
 ``` bash

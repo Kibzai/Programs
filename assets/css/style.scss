@@ -18,7 +18,6 @@ $turquoise-glow: rgba(
 $turquoise-glow-strong: rgba(0, 229, 255, 0.7);
 $accent: #ff66aa;
 
-
 a {
   color: $turquoise-neon;
   transition: 0.2s;
@@ -36,7 +35,7 @@ hr {
   margin: 3rem 0;
   box-shadow: 0 0 8px $accent;
 }
-.markdown-body hr{
+.markdown-body hr {
   background-color: $accent;
 }
 .footer {
@@ -201,7 +200,7 @@ ul.task-list {
 
 .code-block-wrapper {
   position: relative;
-  margin: 0; /* respeta márgenes originales del pre */
+  margin: 0;
 }
 .code-block-wrapper .copy-button {
   position: absolute;
@@ -210,33 +209,49 @@ ul.task-list {
   z-index: 10;
   display: flex;
   align-items: center;
-  gap: 0.3em;
+  gap: 0.5em;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(4px);
   border: 1px solid rgba(255, 255, 255, 0.25);
   color: #e0e0e0;
-  padding: 0.3em 0.7em;
+  padding: 0.5em;
   font-size: 0.75rem;
   border-radius: 4px;
   cursor: pointer;
   transition:
+    opacity 0.2s,
     background 0.2s,
-    border-color 0.2s;
+    border-color 0.2s,
+    box-shadow 0.2s;
   line-height: 1;
   font-family: inherit;
   white-space: nowrap;
+  will-change: transform, opacity;
+}
+/* Estado sticky: fijado a la ventana */
+.code-block-wrapper .copy-button.copy-button--sticky {
+  position: fixed;
+  top: 0.5rem;
+  right: 4rem;
+  background: rgba(0, 0, 0, 0.8);
+  border-color: rgba(255, 255, 255, 0.4);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+  opacity: 0.95;
+}
+/* Cuando el botón está sticky pero el bloque ya salió completamente de la vista, ocultarlo */
+.code-block-wrapper .copy-button.copy-button--hidden {
+  opacity: 0;
+  pointer-events: none;
 }
 .code-block-wrapper .copy-button:hover {
-  background: $turquoise-neon;
+  background: rgba(255, 255, 255, 0.25);
   border-color: rgba(255, 255, 255, 0.5);
-  color: #000;
+  color: #fff;
 }
 .code-block-wrapper .copy-button.copied {
-  background: $accent;
-  color: #fff;
-  border-color: $turquoise-neon;
+  background: rgba(0, 200, 0, 0.2);
+  border-color: rgba(0, 200, 0, 0.6);
 }
-/* Para que el botón no se superponga al scroll horizontal del código, si existiera */
 .code-block-wrapper pre {
   position: relative;
   z-index: 0;

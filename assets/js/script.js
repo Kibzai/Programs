@@ -1,19 +1,14 @@
-// Abrir enlaces externos en nueva pestaña (intento de segundo plano) y añadir botón de copiar en bloques de código
-document.addEventListener('DOMContentLoaded', function() {
+// Abrir enlaces externos (intento segundo plano) + botón copiar con sticky inteligente
+document.addEventListener('DOMContentLoaded', () => {
   'use strict';
 
-  // ========================
-  // 1. Enlaces externos
-  // ========================
-  const links = document.querySelectorAll('a[href^="http://"], a[href^="https://"]');
-  const currentHost = window.location.hostname;
+  // ============ ENLACES EXTERNOS ============
+  const host = window.location.hostname;
+  document.querySelectorAll('a[href^="http://"], a[href^="https://"]').forEach(link => {
+    if (link.hostname === host || link.dataset.ext === 'true') return;
+    link.dataset.ext = 'true';
 
-  links.forEach(function(link) {
-    if (link.hostname === currentHost) return;
-    if (link.dataset.externoProcesado === 'true') return;
-    link.dataset.externoProcesado = 'true';
-
-    // Icono externo (usa Font Awesome, que ya cargas en el head)
+    // Icono externo
     const icon = document.createElement('span');
     icon.innerHTML = ' <i class="fas fa-external-link-alt fa-xs"></i> ';
     icon.setAttribute('aria-hidden', 'true');
@@ -23,118 +18,117 @@ document.addEventListener('DOMContentLoaded', function() {
     link.setAttribute('rel', 'noopener noreferrer');
 
     link.addEventListener('click', function(e) {
-      if (link.dataset.clickProgramado === 'true') {
-        delete link.dataset.clickProgramado;
+      if (this.dataset.autoClick === 'true') {
+        delete this.dataset.autoClick;
         return;
       }
-
       e.preventDefault();
-      const url = this.href;
-
-      const newWindow = window.open(url, '_blank');
+      const newWindow = window.open(this.href, '_blank');
       if (newWindow) {
-        try { newWindow.blur(); } catch(e) {}
+        try { newWindow.blur(); } catch(_) {}
         window.focus();
-        // Insistir un par de veces en recuperar el foco
         setTimeout(() => window.focus(), 0);
         setTimeout(() => window.focus(), 50);
       } else {
-        // Fallback si el popup es bloqueado: clic programático sobre el enlace
-        link.dataset.clickProgramado = 'true';
-        link.click();
+        // Fallback: clic programático sin perder la app
+        this.dataset.autoClick = 'true';
+        this.click();
       }
     });
   });
 
-  // ========================
-  // 2. Botón de copiar en bloques de código
-  // ========================
-  function injectStyles() {
-    if (document.getElementById('copy-button-styles')) return;
-    const style = document.createElement('style');
-    style.className = 'copy-button-styles';
-    document.head.appendChild(style);
-  }
-
-  function createCopyButton(blockWrapper) {
-    const button = document.createElement('button');
-    button.className = 'copy-button';
-    button.innerHTML = '<i class="fas fa-copy"></i> <span>Copy</span>';
-    button.setAttribute('aria-label', 'Copy code to clipboard');
-    blockWrapper.appendChild(button);
-
-    button.addEventListener('click', function() {
-      const codeElement = blockWrapper.querySelector('code');
-      if (!codeElement) return;
-
-      const textToCopy = codeElement.textContent || '';
-
-      navigator.clipboard.writeText(textToCopy).then(() => {
-        // Feedback visual
-        button.classList.add('copied');
-        const icon = button.querySelector('i');
-        if (icon) {
-          icon.className = 'fas fa-check';
-        }
-        const span = button.querySelector('span');
-        if (span) span.textContent = 'Copied!';
-
-        setTimeout(() => {
-          button.classList.remove('copied');
-          if (icon) {
-            icon.className = 'fas fa-copy';
-          }
-          if (span) span.textContent = 'Copy';
-        }, 2000);
-      }).catch(() => {
-        // Fallback para navegadores antiguos o contextos no seguros
-        const textarea = document.createElement('textarea');
-        textarea.value = textToCopy;
-        textarea.style.position = 'fixed';
-        textarea.style.opacity = '0';
-        document.body.appendChild(textarea);
-        textarea.select();
-        try {
-          document.execCommand('copy');
-          button.classList.add('copied');
-          const icon = button.querySelector('i');
-          if (icon) icon.className = 'fas fa-check';
-          const span = button.querySelector('span');
-          if (span) span.textContent = 'Copied!';
-          setTimeout(() => {
-            button.classList.remove('copied');
-            if (icon) icon.className = 'fas fa-copy';
-            if (span) span.textContent = 'Copy';
-          }, 2000);
-        } catch (err) {
-          alert('Failed to copy code');
-        }
-        document.body.removeChild(textarea);
-      });
-    });
-  }
-
+  // ============ BOTÓN COPIAR EN BLOQUES DE CÓDIGO ============
   function wrapCodeBlocks() {
-    // Selector para bloques de código generados por Rouge (Jekyll)
-    const codeBlocks = document.querySelectorAll('div.highlight pre, pre.highlight, pre:has(> code)');
-    codeBlocks.forEach(function(pre) {
-      // Evitar procesar dos veces
-      if (pre.parentNode && pre.parentNode.classList.contains('code-block-wrapper')) return;
-
-      // Crear wrapper
+    const selectors = 'div.highlight pre, pre.highlight, pre:has(> code)';
+    document.querySelectorAll(selectors).forEach(pre => {
+      if (pre.parentNode?.classList.contains('code-block-wrapper')) return;
       const wrapper = document.createElement('div');
       wrapper.className = 'code-block-wrapper';
-
-      // Insertar wrapper antes del pre y mover pre dentro
       pre.parentNode.insertBefore(wrapper, pre);
       wrapper.appendChild(pre);
-
-      // Crear botón de copiar
       createCopyButton(wrapper);
     });
   }
 
-  // Inicializar todo
-  injectStyles();
+  function createCopyButton(wrapper) {
+    const btn = document.createElement('button');
+    btn.className = 'copy-button';
+    btn.innerHTML = '<i class="fas fa-copy"></i> <span>Copy</span>';
+    btn.setAttribute('aria-label', 'Copy code to clipboard');
+    wrapper.appendChild(btn);
+
+    btn.addEventListener('click', async () => {
+      const code = wrapper.querySelector('code');
+      if (!code) return;
+      const text = code.textContent || '';
+      try {
+        await navigator.clipboard.writeText(text);
+      } catch {
+        // Fallback para HTTP o navegadores antiguos
+        const textarea = document.createElement('textarea');
+        textarea.value = text;
+        textarea.style.position = 'fixed';
+        textarea.style.opacity = '0';
+        document.body.appendChild(textarea);
+        textarea.select();
+        document.execCommand('copy');
+        document.body.removeChild(textarea);
+      }
+      // Feedback visual
+      btn.classList.add('copied');
+      const icon = btn.querySelector('i');
+      if (icon) icon.className = 'fas fa-check';
+      const span = btn.querySelector('span');
+      if (span) span.textContent = 'Copied!';
+      setTimeout(() => {
+        btn.classList.remove('copied');
+        if (icon) icon.className = 'fas fa-copy';
+        if (span) span.textContent = 'Copy';
+      }, 2000);
+    });
+  }
+
+  // ============ STICKY INTELIGENTE ============
+  function setupSticky() {
+    const wrappers = [...document.querySelectorAll('.code-block-wrapper')]
+      .map(w => ({ wrapper: w, button: w.querySelector('.copy-button') }))
+      .filter(x => x.button);
+
+    const update = () => {
+      const scrollY = window.scrollY;
+      const windowH = window.innerHeight;
+
+      wrappers.forEach(({ wrapper, button }) => {
+        const rect = wrapper.getBoundingClientRect();
+        const topOff = rect.top;
+        const bottomOff = rect.bottom;
+
+        if (topOff <= 0 && bottomOff > 0) {
+          // Sticky
+          button.classList.add('copy-button--sticky');
+          button.classList.remove('copy-button--hidden');
+        } else if (bottomOff <= 0) {
+          // Oculto
+          button.classList.add('copy-button--hidden');
+          button.classList.remove('copy-button--sticky');
+        } else {
+          // Normal
+          button.classList.remove('copy-button--sticky', 'copy-button--hidden');
+        }
+      });
+    };
+
+    let ticking = false;
+    window.addEventListener('scroll', () => {
+      if (!ticking) {
+        requestAnimationFrame(() => { update(); ticking = false; });
+        ticking = true;
+      }
+    });
+    window.addEventListener('resize', update);
+    update();
+  }
+
   wrapCodeBlocks();
+  setupSticky();
 });

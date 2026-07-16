@@ -5,6 +5,7 @@ layout: default
 ---
 # Protocols, Programs & Tools
 ## Lets fucking go!
+> Crear: Hacer una versión de lo que amas.
 ### 🌎 [Web](https://kibzai.github.io/Programs/)
 
 ---

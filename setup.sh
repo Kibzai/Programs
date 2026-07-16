@@ -9,3 +9,4 @@ bundle install
 
 # Build and serve
 bundle exec jekyll serve
+start localhost:4000

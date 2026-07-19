@@ -52,6 +52,7 @@ layout: default
   - MiniOS10ProV26: Minified Windows Pro.
   - MiniOS10LTSC (Current): Minified Windows LTSC (Current).
   - MiniOS10X-21H2v26.04: Extreme Minified Windows X-21H2v26.04.
+
 ### Audio
 - [ASIO4ALL](https://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
   - [ASIO Tip](https://www.reddit.com/r/ableton/comments/pxvm79/asio_prevents_youtube_spotify_from_working_noob/): Reddit Post about listen to Ableton AND youtube with ASIO.

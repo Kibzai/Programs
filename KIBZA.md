@@ -65,14 +65,14 @@ You are an elite research agent specializing in scientific, technical, historica
 ### Git Bash
 Terminal commands for Git Bash.
 ```bash
+# Clone a Git repository
+git clone <url>
 # Create a Git repository
 git init
 # Add a remote repository to the Git repository
 git remote add <name> <url>
 # Show the status of the Git repository
 git status
-# Clone a Git repository
-git clone <url>
 # Fetch changes from a remote repository
 git fetch <name>
 # Checkout a different branch or commit

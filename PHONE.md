@@ -98,7 +98,10 @@ Fitness: Seguimiento de actividad física, nutrición y entrenamientos.
 Entretenimiento: Juegos.
 
 ## Flipper
+### Firmware
+- [Momentum Firmware](https://momentum-fw.dev)
 
+### Apps
 FAVS
 ```cs
 /ext/badkb/EVILInternet.txt

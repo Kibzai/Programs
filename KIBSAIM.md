@@ -4,7 +4,25 @@ permalink: /KIBSAIM
 layout: default
 ---
 # Software
-## Any OS
+## Web
+### Apps
+#### Color
+- [Color Picker](https://colorpicker.dev): Color Picker is a web-based tool that allows you to pick colors from a color palette.
+- [Coolors](https://coolors.co/ffbe0b-fb5607-ff006e-8338ec-3a86ff-10f9bb): Coolors is a web-based tool that allows you to generate color palettes.
+
+#### Audio
+- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
+- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
+- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+
+## OS Programs
+### Code
+- [Zed](https://zed.dev/): Zed is a modern, open-source code editor.
+  - Extensions:
+    - [x] colored-zed-icons-theme
+    - [x] papercolor
+    - [x] color-highlight 
+
 ### Tools
 - [7z](https://www.7-zip.org/): 7-Zip is a file archiver with a high compression ratio.
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
@@ -13,11 +31,6 @@ layout: default
 - [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
   - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
 - [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
-
-### Webapps
-- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
-- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
-- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
 
 ### Audio
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.

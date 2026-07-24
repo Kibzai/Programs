@@ -3,7 +3,7 @@ title: "Lab: Code & Prompts"
 permalink: /KIBZA
 layout: default
 ---
-# Code
+# Laboratory
 Open terminal:
 ```bash
 # Realizar un ping a la web
@@ -11,7 +11,27 @@ ping wikipedia.org
 ping kibzai.github.io
 ```
 
+´´´
+
+´´´
+
 ---
+
+# Intelligence
+## IA: Agent Scientist
+- [Ollama](https://ollama.com/): Run Local!
+  - [x] ´qwen2.5-coder:3b´
+  - [ ] ´qwen2.5:7b-instruct-q4_K_M´
+
+```bash
+# Realizar un ping a ollama
+ping 192.168.1.96:11434
+```
+
+### IA Agents Providers
+- [Deepseek](https://chat.deepseek.com): Deepseek is an IA Provider
+- [ChatGpt](https://chat.openai.com): ChatGpt is an IA Provider
+- [ ] 
 
 # PROMPTS
 ## Assistant

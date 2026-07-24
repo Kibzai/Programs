@@ -28,6 +28,12 @@ layout: default
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
 - [Proton Pass](https://proton.me/pass): Proton Pass is a password manager that encrypts your passwords and stores them securely in the cloud.
+
+### Media
+- [Freetube](https://freetubeapp.io/#download): Freetube is a free and open-source YouTube client.
+- [Whisper.cpp](https://github.com/ggml-org/whisper.cpp): Whisper.cpp is a C++ implementation of the Whisper model for speech recognition.
+- [Buzz](https://github.com/chidiwilliams/buzz/): Buzz is a voice to text converter.
+- [Jellyfin](http://[server-url]:8096): Jellyfin es tu propio servidor de media.
 - [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
   - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
 - [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.

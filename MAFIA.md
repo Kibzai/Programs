@@ -6,6 +6,7 @@ layout: default
 # Diversión
 ## Web
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
+- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
 
 ## Learn
 ### Videos

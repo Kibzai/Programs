@@ -168,14 +168,9 @@ a:hover {
   // Añade un borde izquierdo para los items
   ul {
     border-left: 2px solid $turquoise-neon-alt;
-    margin-left: 0.5em;
-    padding-left: 2.5em;
   }
 }
 
-ul.task-list {
-  padding-left: 0;
-}
 .task-list-header {
   background: rgba(0, 0, 0, 0.6);
   border: 1px solid #00e5ff;

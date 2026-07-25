@@ -1,23 +1,11 @@
 ---
-title: ~/Index
+title: "~/Programs/Index"
 permalink: /
 layout: home
 ---
 
 # 🧪 Kib's Laboratory
-
-> *"Everything is programmable."*
-
-Welcome to my digital laboratory.
-
-This repository is notebook, toolbox and playground.
-
-Expect experiments, automation, computing, web development, hardware hacks, random ideas, and the occasional cursed script.
-
----
-
-## 🚀 Explore
-### 🌐 [Readme](README)
+### 🔍 [Readme: Instrucciones](README)
 
 | 📁 | Section | Description |
 |:--|:--------|:------------|
@@ -28,6 +16,19 @@ Expect experiments, automation, computing, web development, hardware hacks, rand
 | 🆘 | [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting |
 
 ---
+
+## 🚀 Explore
+
+Welcome to my digital laboratory.
+
+This repository is notebook, toolbox and playground.
+
+Expect experiments, automation, computing, web development, hardware hacks, random ideas, and the occasional cursed script.
+
+> *"Everything is programmable."*
+
+---
+
 
 ## ⚡ Current Philosophy
 
@@ -52,4 +53,4 @@ Repeat.
 
 ---
 
-Made with Love❤️, Music🎶, Coffee☕ and Curiosity🌠.
+Made with Love❤️, Music🎶, & Curiosity🌠.

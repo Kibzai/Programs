@@ -2,7 +2,7 @@
 ---
 
 @use "sass:color";
-@import "ghp-simple-dark";
+@use "ghp-simple-dark" as *;
 @import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&family=JetBrains+Mono&display=swap");
 // Paleta Turquesa Neón "Cian Ciberpunk"
 $turquoise-neon: #0ff; // cian puro (#00ffff) – ojo, puede ser muy brillante
@@ -126,8 +126,8 @@ a:hover {
 
   // Hover (solo cuando no está deshabilitado, pero en markdown normalmente están disabled)
   &:not(:disabled):hover {
-    border-color: lighten($turquoise-neon-alt, 10%);
-    box-shadow: 0 0 8px lighten($turquoise-neon-alt, 10%);
+    border-color: color.adjust($turquoise-neon-alt, $lightness: 10%);
+    box-shadow: 0 0 8px color.adjust($turquoise-neon-alt, $lightness: 10%);
   }
 
   // Si quieres que el cursor sea pointer incluso estando disabled (es decorativo)
@@ -150,11 +150,12 @@ a:hover {
     cursor: pointer;
     list-style: none; // oculta el triángulo nativo
     &::before {
-      content: "▼ ";
+      content: "▶";
       color: $turquoise-neon-alt;
       font-size: 0.8em;
       transition: transform 0.2s ease;
       display: inline-block;
+      margin-right: 0.5rem;
     }
     &::-webkit-details-marker {
       display: none; // oculta en Chrome/Safari
@@ -162,7 +163,7 @@ a:hover {
   }
 
   &[open] summary::before {
-    transform: rotate(-90deg);
+    transform: rotate(90deg);
   }
 
   // Añade un borde izquierdo para los items

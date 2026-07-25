@@ -36,28 +36,6 @@ sfc /scannow
 Dism /Online /Cleanup-Image /RestoreHealth
 ```
 
-## Github Links
-Cómo hacer links en Github: (HELP.md)
-``` markdown
-[¡Ayuda!](HELP): Link interno.
-[¡Ayuda!- Link de Github](https://github.com/Kibzai/Programs/HELP): Github Page.
-[HELP.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): Github Code.
-```
-- [¡Ayuda!](HELP): Link interno.
-- [¡Ayuda!- Link de Github](https://github.com/Kibzai/Programs/HELP): Github Page.
-- [HELP.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): Github Code.
-
-## Programs: Collapsable Div!
-```markdown
-# Books, Manga & Comics
-<details>
-  <summary>📚 Books</summary>
-<div markdown="1">
-Inside Collapsible Div
-</div>
-</details>
-```
-
 ---
 
 # Thinking

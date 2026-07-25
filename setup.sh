@@ -1,12 +1,6 @@
 #!/bin/bash
-# Protocolos: Setup & Checks
-start https://kibzai.github.io/Programs/
-
-
-# Install dependencies
+git clone https://github.com/Kibzai/Programs.git
+cd Programs
 gem install bundler
 bundle install
-
-# Build and serve
-bundle exec jekyll serve
-start localhost:4000
+echo "✅ Listo. Ejecuta ./serve.sh para iniciar."

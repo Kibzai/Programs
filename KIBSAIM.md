@@ -17,11 +17,12 @@ layout: default
 
 ## OS Programs
 ### Code
-- [Zed](https://zed.dev/): Zed is a modern, open-source code editor.
-  - Extensions:
-    - [x] colored-zed-icons-theme
-    - [x] papercolor
-    - [x] color-highlight 
+#### Zed
+[Zed](https://zed.dev/): Zed is a modern, open-source code editor.
+- Extensions:
+  - [x] `colored-zed-icons-theme`
+  - [x] `papercolor`
+  - [x] `color-highlight`
 
 ### Tools
 - [7z](https://www.7-zip.org/): 7-Zip is a file archiver with a high compression ratio.
@@ -42,12 +43,20 @@ layout: default
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
 
+### Streaming
+#### OBS
+[OBS Studio](https://obsproject.com/): Open Broadcaster Software Studio.
+
+- [Lua](https://www.lua.org/): Scripting language used by OBS Studio.
+  - [x] [Advanced Timer](https://obsproject.com/forum/resources/advanced-timer.109/): Plugin for OBS Studio that provides advanced timer functionality.
+  - [x] [Date Time](https://obsproject.com/forum/resources/date-time.110/): Plugin for OBS Studio that provides date and time functionality.
+
 ## Windows
 ### OS
 - [MiniOS](https://minios.org/): Minified Windows.
-  - MiniOS10ProV26: Minified Windows Pro.
-  - MiniOS10LTSC (Current): Minified Windows LTSC (Current).
-  - MiniOS10X-21H2v26.04: Extreme Minified Windows X-21H2v26.04.
+  - `MiniOS10ProV26`: Minified Windows Pro.
+  - `MiniOS10LTSC (Current)`: Minified Windows LTSC (Current).
+  - `MiniOS10X-21H2v26.04`: Extreme Minified Windows X-21H2v26.04.
 
 ### Audio
 - [ASIO4ALL](https://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
@@ -126,6 +135,9 @@ TP-Link AC1900
 #### Live
 [Ableton Live](https://www.ableton.com)
 > Ableton Live is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+
+- [Max](https://cycling74.com/products/max): Max is a visual programming language for creating audio effects and synthesizers.
+
 **Settings**
 - Look & Feel
   - Theme: Dark
@@ -137,31 +149,29 @@ TP-Link AC1900
   - Auto-Warp Long Samples: Off
   - Default Warp Mode: Complex
 
-	- [Max](https://cycling74.com/products/max): Max is a visual programming language for creating audio effects and synthesizers.
-
 #### Novation
-- [Novation Components](https://www.novation.com/): Novation Components are hardware devices that provide additional audio input and output options for Ableton Live.
+[Novation Components](https://www.novation.com/): Novation Components are hardware devices that provide additional audio input and output options for Ableton Live.
 
 #### Traktor
-- [Traktor Pro 3](https://www.native-instruments.com/en/products/traktor-pro-3/): Traktor Pro 3 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+[Traktor Pro 3](https://www.native-instruments.com/en/products/traktor-pro-3/): Traktor Pro 3 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
 
 #### Rekorbox
-- [Rekorbox](https://www.rekorbox.com/): Rekorbox is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+[Rekorbox](https://www.rekorbox.com/): Rekorbox is a digital audio workstation (DAW) that allows you to create, edit, and play music.
 
 ### Vsts
-- [Waves](https://www.waves.com/): Waves is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-- [Komplete](https://www.steinberg.net/en/products/komplete/): Komplete is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-  - [Kontakt 5.5](https://www.steinberg.net/en/products/komplete/kontakt-5-5/): Kontakt 5.5 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-  - [Battery 4.1](https://www.steinberg.net/en/products/komplete/battery-4-1/): Battery 4.1 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-  - [Guitar Rig 5](https://www.steinberg.net/en/products/komplete/guitar-rig-5/): Guitar Rig 5 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-  - [Guitar Rig 6](https://www.steinberg.net/en/products/komplete/guitar-rig-6/): Guitar Rig 6 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-  - [Reaktor 5](https://www.steinberg.net/en/products/komplete/reaktor-5/): Reaktor 5 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-  - [Reaktor 6](https://www.steinberg.net/en/products/komplete/reaktor-6/): Reaktor 6 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-- [Omnisphere](https://www.steinberg.net/en/products/omnisphere/): Omnisphere is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-- [Izotope](https://www.izotope.com/): Izotope is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-- [Sausage Fattener](https://www.sausagefattener.com/): Sausage Fattener is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-- [FabFilter](https://www.fabfilter.com/): FabFilter is a digital audio workstation (DAW) that allows you to create, edit, and play music.
-- [SoundToys](https://www.soundtoys.com/): SoundToys is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [Waves](https://www.waves.com/): Waves is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [Komplete](https://www.steinberg.net/en/products/komplete/): Komplete is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+- [Kontakt 5.5](https://www.steinberg.net/en/products/komplete/kontakt-5-5/): Kontakt 5.5 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+- [Battery 4.1](https://www.steinberg.net/en/products/komplete/battery-4-1/): Battery 4.1 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+- [Guitar Rig 5](https://www.steinberg.net/en/products/komplete/guitar-rig-5/): Guitar Rig 5 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+- [Guitar Rig 6](https://www.steinberg.net/en/products/komplete/guitar-rig-6/): Guitar Rig 6 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+- [Reaktor 5](https://www.steinberg.net/en/products/komplete/reaktor-5/): Reaktor 5 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+- [Reaktor 6](https://www.steinberg.net/en/products/komplete/reaktor-6/): Reaktor 6 is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [Omnisphere](https://www.steinberg.net/en/products/omnisphere/): Omnisphere is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [Izotope](https://www.izotope.com/): Izotope is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [Sausage Fattener](https://www.sausagefattener.com/): Sausage Fattener is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [FabFilter](https://www.fabfilter.com/): FabFilter is a digital audio workstation (DAW) that allows you to create, edit, and play music.
+#### [SoundToys](https://www.soundtoys.com/): SoundToys is a digital audio workstation (DAW) that allows you to create, edit, and play music.
 
 ## Instruments
 ### Electric Piano - Yamaha

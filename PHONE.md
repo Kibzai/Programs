@@ -102,64 +102,69 @@ Entretenimiento: Juegos.
 - [Momentum Firmware](https://momentum-fw.dev)
 
 ### Apps
-FAVS
-```cs
-/ext/badkb/EVILInternet.txt
-/ext/badkb/wrk.txt
-/ext/badkb/The_Matrix-Wake_Up.txt
-/ext/subghz/g_trunk.sub
-/ext/subghz/g_open.sub
-/ext/subghz/g_close.sub
-/ext/subghz/remote/Tesla_Remote.txt
-/ext/apps/Bluetooth/ble_spam.fap
-/ext/apps/Bluetooth/hid_ble.fap
-/ext/apps/Games/game_2048.fap
-/ext/apps/Games/4inrow.fap
-/ext/apps/Games/chess.fap
-/ext/apps/Games/doom.fap
-/ext/apps/Games/gameoflife.fap
-/ext/apps/Games/minesweeper_redux.fap
-/ext/apps/Games/multi_dice.fap
-/ext/apps/Games/flipper_pong.fap
-/ext/apps/Games/RM_Dice.fap
-/ext/apps/Games/roots_of_life.fap
-/ext/apps/Games/slotmachine.fap
-/ext/apps/Games/tama_p1.fap
-/ext/apps/Games/tetris.fap
-/ext/apps/Games/tictactoe.fap
-/ext/apps/GPIO/unitemp.fap
-/ext/apps/GPIO/gpio.fap
-/ext/apps/Infrared/ir_remote.fap
-/ext/apps/Infrared/infrared.fap
-/ext/apps/Media/bpm_tapper.fap
-/ext/apps/Media/metronome.fap
-/ext/apps/Media/morse_code.fap
-/ext/apps/Media/text2sam.fap
-/ext/apps/Media/tuning_fork.fap
-/ext/apps/Misc/barcode_app.fap
-/ext/apps/Misc/fbs.fap
-/ext/apps/Misc/Calculator.fap
-/ext/apps/Misc/cli_gui.fap
-/ext/apps/Misc/cntdown_tim.fap
-/ext/apps/Misc/counter.fap
-/ext/apps/Misc/flipp_pomodoro.fap
-/ext/apps/Misc/fbp.fap
-/ext/apps/NFC/nfc_maker.fap
-/ext/apps/Sub-GHz/esubghz_chat.fap
-/ext/apps/Sub-GHz/protoview.fap
-/ext/apps/Sub-GHz/rolling_flaws.fap
-/ext/apps/Sub-GHz/spectrum_analyzer.fap
-/ext/apps/Sub-GHz/subghz_bruteforcer.fap
-/ext/apps/Tools/totp.fap
-/ext/apps/Tools/passgen.fap
-/ext/apps/Tools/text_viewer.fap
-/ext/apps/USB/mass_storage.fap
-/ext/apps/USB/u2f.fap
-/ext/apps/USB/usb_ccb.fap
-/ext/apps/USB/hid_usb.fap
-/ext/apps/WiFi/evil_portal.fap
-/ext/apps/WiFi/esp32_wifi_marauder.fap
-```
+<details>
+  <summary>Favorites</summary>
+<div markdown="1">
+  ```cs
+  /ext/badkb/EVILInternet.txt
+  /ext/badkb/wrk.txt
+  /ext/badkb/The_Matrix-Wake_Up.txt
+  /ext/subghz/g_trunk.sub
+  /ext/subghz/g_open.sub
+  /ext/subghz/g_close.sub
+  /ext/subghz/remote/Tesla_Remote.txt
+  /ext/apps/Bluetooth/ble_spam.fap
+  /ext/apps/Bluetooth/hid_ble.fap
+  /ext/apps/Games/game_2048.fap
+  /ext/apps/Games/4inrow.fap
+  /ext/apps/Games/chess.fap
+  /ext/apps/Games/doom.fap
+  /ext/apps/Games/gameoflife.fap
+  /ext/apps/Games/minesweeper_redux.fap
+  /ext/apps/Games/multi_dice.fap
+  /ext/apps/Games/flipper_pong.fap
+  /ext/apps/Games/RM_Dice.fap
+  /ext/apps/Games/roots_of_life.fap
+  /ext/apps/Games/slotmachine.fap
+  /ext/apps/Games/tama_p1.fap
+  /ext/apps/Games/tetris.fap
+  /ext/apps/Games/tictactoe.fap
+  /ext/apps/GPIO/unitemp.fap
+  /ext/apps/GPIO/gpio.fap
+  /ext/apps/Infrared/ir_remote.fap
+  /ext/apps/Infrared/infrared.fap
+  /ext/apps/Media/bpm_tapper.fap
+  /ext/apps/Media/metronome.fap
+  /ext/apps/Media/morse_code.fap
+  /ext/apps/Media/text2sam.fap
+  /ext/apps/Media/tuning_fork.fap
+  /ext/apps/Misc/barcode_app.fap
+  /ext/apps/Misc/fbs.fap
+  /ext/apps/Misc/Calculator.fap
+  /ext/apps/Misc/cli_gui.fap
+  /ext/apps/Misc/cntdown_tim.fap
+  /ext/apps/Misc/counter.fap
+  /ext/apps/Misc/flipp_pomodoro.fap
+  /ext/apps/Misc/fbp.fap
+  /ext/apps/NFC/nfc_maker.fap
+  /ext/apps/Sub-GHz/esubghz_chat.fap
+  /ext/apps/Sub-GHz/protoview.fap
+  /ext/apps/Sub-GHz/rolling_flaws.fap
+  /ext/apps/Sub-GHz/spectrum_analyzer.fap
+  /ext/apps/Sub-GHz/subghz_bruteforcer.fap
+  /ext/apps/Tools/totp.fap
+  /ext/apps/Tools/passgen.fap
+  /ext/apps/Tools/text_viewer.fap
+  /ext/apps/USB/mass_storage.fap
+  /ext/apps/USB/u2f.fap
+  /ext/apps/USB/usb_ccb.fap
+  /ext/apps/USB/hid_usb.fap
+  /ext/apps/WiFi/evil_portal.fap
+  /ext/apps/WiFi/esp32_wifi_marauder.fap
+  ```
+</div>
+</details>
+
 ## Android Apps
 ### Tasker
 #### Profiles

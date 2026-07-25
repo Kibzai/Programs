@@ -1,5 +1,5 @@
 ---
-title: Arte
+title: "Art, Fun & Pirates!"
 permalink: /MAFIA
 layout: default
 ---

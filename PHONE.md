@@ -191,7 +191,9 @@ Root required.
 
 ### Non-Listed Apps
 Lista más completa de apps útiles!
-
+<details>
+  <summary>📱 Apps</summary>
+<div markdown="1">
 - [Shazam](https://www.shazam.com/): Identifica música en segundos.
 - [DroidScript](https://droidscript.org/): Desarrollo de aplicaciones móviles.
 - [Snapchat](https://www.snapchat.com/): Comparte fotos y videos efímeros.
@@ -754,3 +756,5 @@ Lista más completa de apps útiles!
 - [Pinterest](https://www.pinterest.com/): Red social de imágenes.
 - brain:code: Juego de programación.
 - [Roblox](https://www.roblox.com/): Plataforma de juegos y creación.
+</div>
+</details>

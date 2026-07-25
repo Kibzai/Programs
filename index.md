@@ -22,9 +22,9 @@ Expect experiments, automation, computing, web development, hardware hacks, rand
 | 📁 | Section | Description |
 |:--|:--------|:------------|
 | 🧠 | [Lab: Code & Prompts](KIBZA) | AI prompts, coding notes, research, algorithms |
-| 💻 | [Setup: Hardware & Software](KIBSAIM) | Linux, servers, Docker, Raspberry Pi, networking |
+| 💻 | [Setup: Hardware, Software & Studio](KIBSAIM) | Linux, servers, Docker, Raspberry Pi, networking |
 | 📱 | [Phone: Scripts & Apps](PHONE) | Android, automation, Tasker, mobile development |
-| 🎨 | [Art: Fun & Pirates!](MAFIA) | Magic, games, design, music, experiments |
+| 🎨 | [Art!](MAFIA) | Magic, games, design, music, experiments |
 | 🆘 | [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting |
 
 ---

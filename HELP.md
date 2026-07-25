@@ -1,6 +1,6 @@
 ---
 permalink: /HELP
-title: ¡Ayuda!
+title: "Help: ¡Ayuda!"
 layout: default
 ---
 # Code

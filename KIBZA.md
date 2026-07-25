@@ -25,13 +25,13 @@ ping kibzai.github.io
 
 ```bash
 # Realizar un ping a ollama
-ping 192.168.1.96:11434
+ping [ip]:11434
 ```
 
 ### IA Agents Providers
-- [Deepseek](https://chat.deepseek.com): Deepseek is an IA Provider
-- [ChatGpt](https://chat.openai.com): ChatGpt is an IA Provider
-- [ ] 
+- [Deepseek](https://chat.deepseek.com)
+- [ChatGpt](https://chat.openai.com)
+- [Kimi](https://www.kimi.com/)
 
 # PROMPTS
 ## Assistant

@@ -9,10 +9,20 @@ Símbolos Útiles
 {[(<@\!/#$%&^>)]}
 ´`'"
 ```
-WWW - World Wide Web
+
+## WWW - World Wide Web
+
 ```bash
 http(s):// # (s) para conecciones seguras
 `%20` # para escribir espacios en urls.
+```
+``` bash
+# Open Browser
+start https://kibzai.github.io/Programs/
+```
+``` bash
+# Open Browser
+Start-Process "https://kibzai.github.io/Programas/"
 ```
 
 ## Console Help.
@@ -25,14 +35,6 @@ sfc /scannow
 # System scan.
 Dism /Online /Cleanup-Image /RestoreHealth
 ```
-``` bash
-# Open Browser
-start https://kibzai.github.io/Programs/
-```
-``` bash
-# Open Browser
-Start-Process "https://kibzai.github.io/Programas/"
-```
 
 ## Github Links
 Cómo hacer links en Github: (HELP.md)
@@ -44,6 +46,17 @@ Cómo hacer links en Github: (HELP.md)
 - [¡Ayuda!](HELP): Link interno.
 - [¡Ayuda!- Link de Github](https://github.com/Kibzai/Programs/HELP): Github Page.
 - [HELP.md](https://github.com/Kibzai/Programs/blob/main/HELP.md): Github Code.
+
+## Programs: Collapsable Div!
+```markdown
+# Books, Manga & Comics
+<details>
+  <summary>📚 Books</summary>
+<div markdown="1">
+Inside Collapsible Div
+</div>
+</details>
+```
 
 ---
 

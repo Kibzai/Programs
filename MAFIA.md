@@ -51,6 +51,16 @@ layout: default
 - [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
 
 ## Gaming
+### RaspberryPi
+[More info on RaspberryPi setup](KIBSAIM#raspberrypi)
+- [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi
+- [RetroArch](https://www.retroarch.com/): RetroArch is a portable, lightweight, and open-source emulator framework.
+- [RetroPI](https://retropie.org.uk/): RetroPI is a lightweight Linux distribution for running retro video game emulators.
+
+### Powkiddy RGB 20S
+- [Local Games Repositories](http://192.168.0.ip/files/console)
+  - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
+
 ### Roms
 - [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
 - [Roms Megathread](https://r-roms.github.io/): Go here for Retro

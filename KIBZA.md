@@ -11,9 +11,12 @@ ping wikipedia.org
 ping kibzai.github.io
 ```
 
-´´´
+## Technologies
+### Js - Javascript
+- [PixiJS](https://pixijs.com/): A fast, lightweight 2D rendering engine for the web.
+- [p5js](https://p5js.org/): A JavaScript library for creative coding.
+- [Three.js](https://threejs.org/): A JavaScript library for 3D graphics.
 
-´´´
 
 ---
 

@@ -3,116 +3,19 @@ title: "Art, Fun & Pirates!"
 permalink: /MAFIA
 layout: default
 ---
-# Diversión
-## Web
-- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
-- [The Useless Web](https://theuselessweb.com/): The Useless Web.
-- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [Zen Garden](https://paint.toys/zen-garden/): by Paint Toys
-- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
-- [Sand in a Bottle](https://paint.toys/sand/): by Paint Toys
-- [Jackson Pollock by Miltos Manetas](https://jacksonpollock.org/): by Miltos Manetas
-- [drawing.garden](https://drawing.garden/): by drawing.garden
-- [Symmetry Painter](https://paint.toys/symmetry/): by Paint Toys
-- [Paint Toys](https://paint.toys/): by Paint Toys
-- [The Zen Zone](https://thezen.zone/): by The Zen Zone
-- [Calligram Creator](https://paint.toys/calligram/): by Paint Toys
-- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
-- [Thatcher Effect](https://optical.toys/thatcher-effect/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [Troxler Fade](https://optical.toys/troxler-fade/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [River of Reverence](https://poetic.toys/poems/river-of-reverence/): by Poetic Toys
-- [Moog One](https://www.moogmusic.com/products/moog-one): by Moog Music
-- [Colossal](https://www.thisiscolossal.com/): by Colossal
-- [Behance](https://www.behance.net/): by Behance
-- [Archillect](https://twitter.com/archillect): by Archillect
-- [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
-- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
-- [Wanderers - a short film by Erik Wernquist [Official Version]](https://www.youtube.com/watch?v=YH3c1QZzRK4): by Wanderers
-- [Gigapixels of Andromeda [4K]](https://www.youtube.com/watch?v=udAL48P5NJU): by Gigapixels
-- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Case for Realism
-- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
-- [Title not available (video not found)](https://www.youtube.com/watch?v=mnr4tL6bTLA): by Title not available
-
-## Learn
-### Videos
-- [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
-  - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
-
-## Assets
-### Generate
-- [spacetypegenerator](https://spacetypegenerator.com/)
-
-### Codepen
-- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
-- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
-- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
-- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
-- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
-- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
-
-## Gaming
-### RaspberryPi
-[More info on RaspberryPi setup](KIBSAIM#raspberrypi)
-- [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi
-- [RetroArch](https://www.retroarch.com/): RetroArch is a portable, lightweight, and open-source emulator framework.
-- [RetroPI](https://retropie.org.uk/): RetroPI is a lightweight Linux distribution for running retro video game emulators.
-
-### Powkiddy RGB 20S
-- [Local Games Repositories](http://192.168.0.ip/files/console)
-  - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
-
-### Roms
-- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
-- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
-
 # Art
-## Tools
-
-### Viewers
-#### Desktop
-- [OpenComic](https://github.com/ollm/OpenComic) is an open-source manga reader for desktop.
-- [YacReader](https://www.yacreader.com/) is an open-source manga reader for desktop.
-
-#### Andorid
-- [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
-- [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
-
-#### iOS
-- [Tachimanga](https://github.com/keiyoushi/tachimanga) is an open-source manga reader for iOS.
-
-#### Repositories
-- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
-
+## 🎵 Music
 <details>
-  <summary>🎊 Extensions</summary>
+  <summary>🎵 Playlists</summary>
 
 <div markdown="1">
 
-- [ ] LectorManga
-- [ ] MangaDex
-- [ ] MangaLife
-- [ ] MangaPark
-- [ ] MangaRaw
-- [ ] Mangabat
-- [ ] Mangafreak
-- [ ] Mangakakalot
-- [ ] ReadAllComics
-- [ ] ReadComicOnline
-- [ ] TuMangaOnline
-- [ ] WeebCentral
-- [ ] TCB Scans
-- [ ] Rawkuma
-- [ ] MyReadingManga
-- [ ] MangaHub
-- [ ] LectorManga.lat
-- [ ] KissLove
-- [ ] MangaSee
-- [ ] MangaFoxFull
+- [ ] [Magic](https://music.youtube.com/playlist?list=PLbw96DBFTlT-Zmoa5PqEuniQBJluVck6u&si=5kF9a05rPjSqwdIw): `Playing Music.`
+- [ ] [Iglesia](https://music.youtube.com/playlist?list=PLbw96DBFTlT-u01EOUvraMMfSRBVTFfmY&si=oRsrHD4Buv4ume__): `Background Music.`
+- [ ] [Churcha](https://music.youtube.com/playlist?list=PLbw96DBFTlT9Fp9yun9z3NxOFWivxk2QL&si=1pfZ1fQ47gZgboRh): `Atrio Music.`
 
 </div>
-
 </details>
-
 
 ## Books, Manga & Comics
 <details>
@@ -999,6 +902,119 @@ layout: default
 </div>
 
 </details>
+
+---
+
+# Diversión
+## Web
+- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
+- [The Useless Web](https://theuselessweb.com/): The Useless Web.
+- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+- [Zen Garden](https://paint.toys/zen-garden/): by Paint Toys
+- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
+- [Sand in a Bottle](https://paint.toys/sand/): by Paint Toys
+- [Jackson Pollock by Miltos Manetas](https://jacksonpollock.org/): by Miltos Manetas
+- [drawing.garden](https://drawing.garden/): by drawing.garden
+- [Symmetry Painter](https://paint.toys/symmetry/): by Paint Toys
+- [Paint Toys](https://paint.toys/): by Paint Toys
+- [The Zen Zone](https://thezen.zone/): by The Zen Zone
+- [Calligram Creator](https://paint.toys/calligram/): by Paint Toys
+- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
+- [Thatcher Effect](https://optical.toys/thatcher-effect/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+- [Troxler Fade](https://optical.toys/troxler-fade/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+- [River of Reverence](https://poetic.toys/poems/river-of-reverence/): by Poetic Toys
+- [Moog One](https://www.moogmusic.com/products/moog-one): by Moog Music
+- [Colossal](https://www.thisiscolossal.com/): by Colossal
+- [Behance](https://www.behance.net/): by Behance
+- [Archillect](https://twitter.com/archillect): by Archillect
+- [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
+- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
+- [Wanderers - a short film by Erik Wernquist [Official Version]](https://www.youtube.com/watch?v=YH3c1QZzRK4): by Wanderers
+- [Gigapixels of Andromeda [4K]](https://www.youtube.com/watch?v=udAL48P5NJU): by Gigapixels
+- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Case for Realism
+- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
+- [Title not available (video not found)](https://www.youtube.com/watch?v=mnr4tL6bTLA): by Title not available
+
+## Learn
+### Videos
+- [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
+  - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+
+## Assets
+### Generate
+- [spacetypegenerator](https://spacetypegenerator.com/)
+
+### Codepen
+- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
+- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
+- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
+- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
+- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
+- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
+
+## Gaming
+### RaspberryPi
+[More info on RaspberryPi setup](KIBSAIM#raspberrypi)
+- [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi
+- [RetroArch](https://www.retroarch.com/): RetroArch is a portable, lightweight, and open-source emulator framework.
+- [RetroPI](https://retropie.org.uk/): RetroPI is a lightweight Linux distribution for running retro video game emulators.
+
+### Powkiddy RGB 20S
+- [Local Games Repositories](http://192.168.0.ip/files/console)
+  - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
+
+### Roms
+- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
+- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
+
+# Art
+## Tools
+
+### Viewers
+#### Desktop
+- [OpenComic](https://github.com/ollm/OpenComic) is an open-source manga reader for desktop.
+- [YacReader](https://www.yacreader.com/) is an open-source manga reader for desktop.
+
+#### Andorid
+- [SYTachiyomi](https://github.com/jobobby04/tachiyomisy) is a fork of Tachiyomi with additional features and improvements.
+- [Tachiyomi (Deprecated)](https://en.wikipedia.org/wiki/Tachiyomi) is an open-source manga reader for Android.
+
+#### iOS
+- [Tachimanga](https://github.com/keiyoushi/tachimanga) is an open-source manga reader for iOS.
+
+#### Repositories
+- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+
+<details>
+  <summary>🎊 Extensions</summary>
+
+<div markdown="1">
+
+- [ ] LectorManga
+- [ ] MangaDex
+- [ ] MangaLife
+- [ ] MangaPark
+- [ ] MangaRaw
+- [ ] Mangabat
+- [ ] Mangafreak
+- [ ] Mangakakalot
+- [ ] ReadAllComics
+- [ ] ReadComicOnline
+- [ ] TuMangaOnline
+- [ ] WeebCentral
+- [ ] TCB Scans
+- [ ] Rawkuma
+- [ ] MyReadingManga
+- [ ] MangaHub
+- [ ] LectorManga.lat
+- [ ] KissLove
+- [ ] MangaSee
+- [ ] MangaFoxFull
+
+</div>
+
+</details>
+
 
 ## Pirate
 - [1337x.to](https://www.1377x.to/)

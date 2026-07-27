@@ -1,9 +1,11 @@
 ---
 ---
+
 @use "sass:color" as *;
-@use "ghp-simple-dark" as *;
+@use 'ghp-simple-dark' as dark;
 
 @import url("https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=VT323&family=JetBrains+Mono&display=swap");
+
 // Paleta Turquesa Neón "Cian Ciberpunk"
 $turquoise-neon: #0ff; // cian puro (#00ffff) – ojo, puede ser muy brillante
 $turquoise-neon-alt: #00e5ff; // cian más legible, ideal para fondos

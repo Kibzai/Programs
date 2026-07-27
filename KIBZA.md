@@ -1,5 +1,5 @@
 ---
-title: "Lab: Code & Prompts"
+title: "Lab: Code, Prompts & Assets"
 permalink: /KIBZA
 layout: default
 ---
@@ -16,7 +16,6 @@ ping kibzai.github.io
 - [PixiJS](https://pixijs.com/): A fast, lightweight 2D rendering engine for the web.
 - [p5js](https://p5js.org/): A JavaScript library for creative coding.
 - [Three.js](https://threejs.org/): A JavaScript library for 3D graphics.
-
 
 ---
 
@@ -72,6 +71,18 @@ You are an elite research agent specializing in scientific, technical, historica
 ```
 
 ---
+
+# Assets
+## Generate
+- [spacetypegenerator](https://spacetypegenerator.com/)
+
+### Codepen
+- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
+- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
+- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
+- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
+- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
+- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
 
 # Protocols
 # Git: Local, Github & Gitlab

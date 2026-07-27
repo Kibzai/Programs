@@ -1,5 +1,5 @@
 ---
-title: "Art, Fun & Pirates!"
+title: "Art, Fun & Games!"
 permalink: /MAFIA
 layout: default
 ---
@@ -935,23 +935,6 @@ layout: default
 - [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
 - [Title not available (video not found)](https://www.youtube.com/watch?v=mnr4tL6bTLA): by Title not available
 
-## Learn
-### Videos
-- [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
-  - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
-
-## Assets
-### Generate
-- [spacetypegenerator](https://spacetypegenerator.com/)
-
-### Codepen
-- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
-- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
-- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
-- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
-- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
-- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
-
 ## Gaming
 ### RaspberryPi
 [More info on RaspberryPi setup](KIBSAIM#raspberrypi)
@@ -967,7 +950,6 @@ layout: default
 - [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
 - [Roms Megathread](https://r-roms.github.io/): Go here for Retro
 
-# Art
 ## Tools
 
 ### Viewers
@@ -983,7 +965,7 @@ layout: default
 - [Tachimanga](https://github.com/keiyoushi/tachimanga) is an open-source manga reader for iOS.
 
 #### Repositories
-- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json)
+- [Extensions Repository](https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json): `https://raw.githubusercontent.com/keiyoushi/extensions/repo/index.min.json`
 
 <details>
   <summary>🎊 Extensions</summary>

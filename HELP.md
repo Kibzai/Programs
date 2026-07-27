@@ -39,6 +39,12 @@ Dism /Online /Cleanup-Image /RestoreHealth
 ---
 
 # Thinking
+
+## Learn
+### Videos
+- [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
+  - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+
 True si ambos son verdaderos.
 ```typescript
 let yesBoth = (x,y) => { return ( x && y ) }

@@ -104,8 +104,8 @@ layout: default
 - Logitech G HUB
 
 ### Audio
-- UMC Behringer
-- Edifier 
+- [UCA222](https://www.bhphotovideo.com/lit_files/61860.pdf): Behringer U-Control is an ultra-low latency, 2-input/2-output USB audio interface featuring RCA connectivity, a headphone output, and S/PDIF optical output
+- Edifier Speakers & Subwoofer
 
 ### Video
 - AVerMedia RECentral: Capturadora de Video

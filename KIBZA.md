@@ -95,6 +95,7 @@ You are an elite research agent specializing in scientific, technical, historica
 
 ## Web
 - [spacetypegenerator](https://spacetypegenerator.com/)
+- [Quite a Playlist](https://quiteaplaylist.com/): Title of Deleted Youtube Videos
 
 ### Codepen
 - [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)

@@ -3,19 +3,78 @@ title: "Art, Fun & Games!"
 permalink: /MAFIA
 layout: default
 ---
+# Web Art
+- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
+- [The Useless Web](https://theuselessweb.com/): The Useless Web.
+- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+  - [Thatcher Effect](https://optical.toys/thatcher-effect/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+  - [Troxler Fade](https://optical.toys/troxler-fade/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+- [Paint Toys](https://paint.toys/): by Paint Toys
+  - [Zen Garden](https://paint.toys/zen-garden/): by Paint Toys
+  - [Sand in a Bottle](https://paint.toys/sand/): by Paint Toys
+  - [Symmetry Painter](https://paint.toys/symmetry/): by Paint Toys
+  - [Calligram Creator](https://paint.toys/calligram/): by Paint Toys
+  - [Jackson Pollock by Miltos Manetas](https://jacksonpollock.org/): by Miltos Manetas
+- [Colossal](https://www.thisiscolossal.com/): by Colossal
+- [Behance](https://www.behance.net/): by Behance
+- [Archillect](https://twitter.com/archillect): by Archillect
+- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
+- [drawing.garden](https://drawing.garden/): by drawing.garden
+- [The Zen Zone](https://thezen.zone/): by The Zen Zone
+- [River of Reverence](https://poetic.toys/poems/river-of-reverence/): by Poetic Toys
+- [Moog One](https://www.moogmusic.com/synthesizers/moog-one/): by Moog Music
+- [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
+
 # Art
-## 🎵 Music
 <details>
-  <summary>🎵 Playlists</summary>
+  <summary>🎵 Music Playlists</summary>
 
 <div markdown="1">
 
-- [ ] [Magic](https://music.youtube.com/playlist?list=PLbw96DBFTlT-Zmoa5PqEuniQBJluVck6u&si=5kF9a05rPjSqwdIw): `Playing Music.`
-- [ ] [Iglesia](https://music.youtube.com/playlist?list=PLbw96DBFTlT-u01EOUvraMMfSRBVTFfmY&si=oRsrHD4Buv4ume__): `Background Music.`
-- [ ] [Churcha](https://music.youtube.com/playlist?list=PLbw96DBFTlT9Fp9yun9z3NxOFWivxk2QL&si=1pfZ1fQ47gZgboRh): `Atrio Music.`
+- [ ] [RPG (Magic: The Gathering)](https://music.youtube.com/playlist?list=PLbw96DBFTlT-Zmoa5PqEuniQBJluVck6u&si=5kF9a05rPjSqwdIw): `RPG Youtube Music.`
+- [ ] [Iglesia](https://music.youtube.com/playlist?list=PLbw96DBFTlT-u01EOUvraMMfSRBVTFfmY&si=oRsrHD4Buv4ume__): `Background Youtube Music.`
+- [ ] [Churcha](https://music.youtube.com/playlist?list=PLbw96DBFTlT9Fp9yun9z3NxOFWivxk2QL&si=1pfZ1fQ47gZgboRh): `Chill Youtube Music.`
 
 </div>
 </details>
+
+## Film
+- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
+- [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)(Official Version)
+- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU)(4K)
+- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by 
+The Art Assignment
+- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
+
+
+### Concerts & Shows
+- [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
+- [Harmonic Symmetry](https://www.youtube.com/watch?v=o791hgNvGIg): by Richard Devine
+- [Gorillaz - Stylo](https://www.youtube.com/watch?v=nhPaWIeULKk)(Official Video)
+- [Mark Ronson - Feel Right ft. Mystikal](https://www.youtube.com/watch?v=ognnZ3r2qyQ)(Official Video)
+- [Matt and Kim - Let's Run Away - Official Music Video](https://www.youtube.com/watch?v=4KA1eXUKZJ4)(Official Video)
+- [Kaskade & Skrillex - Lick It](https://www.youtube.com/watch?v=DrZhmr_0Wpo)(Official Video)
+- [Ronald Reggae - Jamaican Rhapsody](https://www.youtube.com/watch?v=WHho3_ZRKZ0)
+- [Caravan Palace - Wonderland](https://www.youtube.com/watch?v=vCXsRoyFRQE)
+- [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
+- [The Ballad of Beaker: The Muppets](https://www.youtube.com/watch?v=EAtBki0PsC0)(Music Video)
+- [Toxicity - System Of A Down / Without Drums](https://www.youtube.com/watch?v=VWEO3IixNgg)(Drumless Track)
+- [Beethoven - Moonlight Sonata](https://www.youtube.com/watch?v=sbTVZMJ9Z2I)(1st Movement)
+- [Driven to Tears - Robert Downey Jr Sings With Sting](https://www.youtube.com/watch?v=1crxmBTxRlM)
+- [John Mayer's Passionfruit Cover](https://www.youtube.com/watch?v=EiOGR8WkHHk) Is BETTER Than Drake's?
+- [San Juan Project -Tu hombre ideal ft. Gera MXM](https://www.youtube.com/watch?v=VzZ8XB-uiuw)(Official Video)
+- [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
+- [Masego "Lavish Lullaby": Open Mic](https://www.youtube.com/watch?v=3VSlj34f2aQ)(Live Performance)
+- [Sheku Kanneh-Mason - No Woman No Cry](https://www.youtube.com/watch?v=UiwamfDAYJo)(Cello Version)
+- [Eric Clapton - I Shot The Sheriff (Crossroads 2010)](https://www.youtube.com/watch?v=APWhx97QvxE)Official Live Video
+
+
+### Content
+
+- [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
+- [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0)(MALCOLM IN THE MIDDLE) Español
+- [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
+- [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
 
 ## Books, Manga & Comics
 <details>
@@ -903,56 +962,7 @@ layout: default
 
 </details>
 
----
-
-# Diversión
-## Web
-- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
-- [The Useless Web](https://theuselessweb.com/): The Useless Web.
-- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [Zen Garden](https://paint.toys/zen-garden/): by Paint Toys
-- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
-- [Sand in a Bottle](https://paint.toys/sand/): by Paint Toys
-- [Jackson Pollock by Miltos Manetas](https://jacksonpollock.org/): by Miltos Manetas
-- [drawing.garden](https://drawing.garden/): by drawing.garden
-- [Symmetry Painter](https://paint.toys/symmetry/): by Paint Toys
-- [Paint Toys](https://paint.toys/): by Paint Toys
-- [The Zen Zone](https://thezen.zone/): by The Zen Zone
-- [Calligram Creator](https://paint.toys/calligram/): by Paint Toys
-- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
-- [Thatcher Effect](https://optical.toys/thatcher-effect/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [Troxler Fade](https://optical.toys/troxler-fade/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [River of Reverence](https://poetic.toys/poems/river-of-reverence/): by Poetic Toys
-- [Moog One](https://www.moogmusic.com/products/moog-one): by Moog Music
-- [Colossal](https://www.thisiscolossal.com/): by Colossal
-- [Behance](https://www.behance.net/): by Behance
-- [Archillect](https://twitter.com/archillect): by Archillect
-- [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
-- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
-- [Wanderers - a short film by Erik Wernquist [Official Version]](https://www.youtube.com/watch?v=YH3c1QZzRK4): by Wanderers
-- [Gigapixels of Andromeda [4K]](https://www.youtube.com/watch?v=udAL48P5NJU): by Gigapixels
-- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Case for Realism
-- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
-- [Title not available (video not found)](https://www.youtube.com/watch?v=mnr4tL6bTLA): by Title not available
-
-## Gaming
-### RaspberryPi
-[More info on RaspberryPi setup](KIBSAIM#raspberrypi)
-- [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi
-- [RetroArch](https://www.retroarch.com/): RetroArch is a portable, lightweight, and open-source emulator framework.
-- [RetroPI](https://retropie.org.uk/): RetroPI is a lightweight Linux distribution for running retro video game emulators.
-
-### Powkiddy RGB 20S
-- [Local Games Repositories](http://192.168.0.ip/files/console)
-  - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
-
-### Roms
-- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
-- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
-
-## Tools
-
-### Viewers
+### Tools & Viewers
 #### Desktop
 - [OpenComic](https://github.com/ollm/OpenComic) is an open-source manga reader for desktop.
 - [YacReader](https://www.yacreader.com/) is an open-source manga reader for desktop.
@@ -996,6 +1006,24 @@ layout: default
 </div>
 
 </details>
+
+---
+
+# Diversión
+## Gaming
+### RaspberryPi
+[More info on RaspberryPi setup](KIBSAIM#raspberrypi)
+- [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi
+- [RetroArch](https://www.retroarch.com/): RetroArch is a portable, lightweight, and open-source emulator framework.
+- [RetroPI](https://retropie.org.uk/): RetroPI is a lightweight Linux distribution for running retro video game emulators.
+
+### Powkiddy RGB 20S
+- [Local Games Repositories](http://192.168.0.ip/files/console)
+  - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
+
+### Roms
+- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
+- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
 
 
 ## Pirate

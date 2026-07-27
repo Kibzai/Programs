@@ -16,41 +16,46 @@ layout: default
 - [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
 - [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
 
-## OS Programs
-### Code
-#### Zed
+# Programs
+## Browsers
+### Firefox
+[Firefox](https://www.mozilla.org/en-US/firefox/) is a free and open-source web browser.
+
+#### Extensions
+- [x] [ProtonPass](https://protonpass.com/): ProtonPass is a web-based password manager that uses end-to-end encryption.
+- [x] [uBlock Origin](https://ublockorigin.com/): UBlock Origin is a web browser extension that blocks ads and trackers.
+- [x] [Tree Style Tab](https://piro.sakura.ne.jp/xul/_treestyletab.html.en): Tree Style Tab is a web browser extension that organizes tabs in a tree-like structure.
+
+#### Versions
+- [Zen](https://zen-browser.app/): Zen is a version of Firefox that is designed for privacy and security.
+- [Firefox developer edition](https://www.mozilla.org/en-US/firefox/developer/): Firefox Developer Edition is a version of Firefox that is designed for developers.
+
+### Brave
+[Brave](https://brave.com/) is a web browser that focuses on privacy and security.
+
+## Code
+### Zed
 [Zed](https://zed.dev/): Zed is a modern, open-source code editor.
 - Extensions:
   - [x] `colored-zed-icons-theme`
   - [x] `papercolor`
   - [x] `color-highlight`
 
-### Tools
+## Tools
 - [7z](https://www.7-zip.org/): 7-Zip is a file archiver with a high compression ratio.
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
-- [Proton Pass](https://proton.me/pass): Proton Pass is a password manager that encrypts your passwords and stores them securely in the cloud.
 
 ### Media
 - [Freetube](https://freetubeapp.io/#download): Freetube is a free and open-source YouTube client.
 - [Whisper.cpp](https://github.com/ggml-org/whisper.cpp): Whisper.cpp is a C++ implementation of the Whisper model for speech recognition.
 - [Buzz](https://github.com/chidiwilliams/buzz/): Buzz is a voice to text converter.
 - [Jellyfin](http://[server-url]:8096): Jellyfin es tu propio servidor de media.
-- [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
-  - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
-- [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
+
 
 ### Audio
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
-
-### Streaming
-#### OBS
-[OBS Studio](https://obsproject.com/): Open Broadcaster Software Studio.
-
-- [Lua](https://www.lua.org/): Scripting language used by OBS Studio.
-  - [x] [Advanced Timer](https://obsproject.com/forum/resources/advanced-timer.109/): Plugin for OBS Studio that provides advanced timer functionality.
-  - [x] [Date Time](https://obsproject.com/forum/resources/date-time.110/): Plugin for OBS Studio that provides date and time functionality.
 
 ## Windows
 ### OS
@@ -60,11 +65,7 @@ layout: default
   - `MiniOS10X-21H2v26.04`: Extreme Minified Windows X-21H2v26.04.
 
 ### Audio
-- [ASIO4ALL](https://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
-  - [ASIO Tip](https://www.reddit.com/r/ableton/comments/pxvm79/asio_prevents_youtube_spotify_from_working_noob/): Reddit Post about listen to Ableton AND youtube with ASIO.
-- [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html): Create virtual loopback MIDI-ports to interconnect applications on Windows that want to open hardware-MIDI-ports for communication.
-- [GN MIDI](https://www.gnmidi.com/): GNMIDI 3 Professional (MIDI Tools for Windows) is a Karaoke MIDI song player, batch converter and editor. It inserts and synchronises lyrics into MIDI and mp3 songs.
-
+- Voicemeter
 ## Linux OS
 - [Fedora](http://fedoraproject.org): OS for developers.
   - Fedora WS-Live43
@@ -103,6 +104,7 @@ layout: default
 - Logitech G HUB
 
 ### Audio
+- UMC Behringer
 - Edifier 
 
 ### Video
@@ -113,56 +115,3 @@ layout: default
 TP-Link AC1900
 #### Wireguard
 [Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
-
----
-
-# Studio
-## Production
-### Equipment
-- UMC Behringer
-- ZOOM U-44: Interfaz de Audio
-	- [Drivers](https://zoomcorp.com/en/us/audio-interface/audio-interfaces/u-44/u-44-support/)
-- Midi Mixer
-
-## Music
-### Audio Workstation
-#### [Ableton Live](https://www.ableton.com)
-- [Max](https://cycling74.com/products/max): Max is a visual programming language for creating audio effects and synthesizers.
-
-**Settings:**
-- Look & Feel
-  - Theme: Dark
-  - Brightness: 200%
-  - Color Intensity: 100%
-  - Color Hue: 290° (Púrpura)
-  - Grid Line Intensity: 200%
-- Record, Warp & Launch
-  - Auto-Warp Long Samples: Off
-  - Default Warp Mode: Complex
-
-#### [Novation](https://www.novation.com/)
-- [Novation Components](https://www.novation.com/components)
-
-#### [Traktor Pro 3](https://www.native-instruments.com/en/products/traktor-pro-3/)
-
-#### [Rekorbox](https://www.rekorbox.com/)
-### Vsts
-#### [Waves](https://www.waves.com/)
-#### [Komplete](https://www.steinberg.net/en/products/komplete/)
-- [Kontakt 5.5](https://www.steinberg.net/en/products/komplete/kontakt-5-5/)
-- [Battery 4.1](https://www.steinberg.net/en/products/komplete/battery-4-1/)
-- [Guitar Rig 5](https://www.steinberg.net/en/products/komplete/guitar-rig-5/)
-- [Guitar Rig 6](https://www.steinberg.net/en/products/komplete/guitar-rig-6/)
-- [Reaktor 5](https://www.steinberg.net/en/products/komplete/reaktor-5/)
-- [Reaktor 6](https://www.steinberg.net/en/products/komplete/reaktor-6/)
-
-#### [Omnisphere](https://www.steinberg.net/en/products/omnisphere/)
-#### [Izotope](https://www.izotope.com/)
-#### [Sausage Fattener](https://www.sausagefattener.com/)
-#### [FabFilter](https://www.fabfilter.com/)
-#### [SoundToys](https://www.soundtoys.com/)
-
-## Instruments
-### Electric Piano - Yamaha
-#### Settings
-- `something to copy`

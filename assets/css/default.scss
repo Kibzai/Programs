@@ -137,6 +137,12 @@ a:hover {
     cursor: pointer;
   }
 }
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  border-bottom: 1px solid transparent; // reserva el espacio y define el estilo
+  border-image: linear-gradient(to right, $accent 0%, $turquoise-neon-alt 100%) 1;
+}
 // <details> personalizado para listas de tareas
 .markdown-body details {
   border: 1px solid $turquoise-neon-alt;

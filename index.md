@@ -9,7 +9,7 @@ layout: home
 
 | 📁 | Section | Description |
 |:--|:--------|:------------|
-| 🧠 | [Lab: Code & Prompts](KIBZA) | AI prompts, coding notes, research, algorithms |
+| 🧠 | [Lab: Code, Prompts & Assets](KIBZA) | AI prompts, coding notes, research, algorithms, Assets |
 | 💻 | [Setup: Hardware, Software & Studio](KIBSAIM) | Linux, servers, Docker, Raspberry Pi, networking |
 | 📱 | [Phone: Scripts & Apps](PHONE) | Android, automation, Tasker, mobile development |
 | 🎨 | [Art!](MAFIA) | Magic, games, design, music, experiments |

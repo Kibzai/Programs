@@ -1,6 +1,7 @@
 const CACHE_NAME = "mi-app-v1";
 const urlsToCache = [
   "/Programs/",
+  "/Programs/README.html",
   "/Programs/assets/css/home.css",
   "/Programs/assets/css/rouge.css",
   "/Programs/assets/css/style.css",

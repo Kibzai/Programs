@@ -12,7 +12,9 @@
       {{ content }}
     </div>
 
-    <!-- Scripts adicionales (si los necesita el tema) -->
     <script src="{{ '/assets/js/script.js' | relative_url }}"></script>
+    <script>
+      document.documentElement.classList.add("loaded");
+    </script>
   </body>
 </html>

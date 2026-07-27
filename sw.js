@@ -1,15 +1,18 @@
 const CACHE_NAME = "mi-app-v1";
 const urlsToCache = [
-  "./",
-  "./index.html",
-  "./assets/css/styles.css",
-  "./assets/css/style.css",
-  "./assets/js/script.js",
+  "/index.html",
+  "/assets/css/home.css",
+  "/assets/css/rouge.css",
+  "/assets/css/style.css",
+  "/assets/js/script.js",
 ];
 
-self.addEventListener("install", (event) => {
+self.addEventListener('install', event => {
+  console.log('Intentando cachear:', urlsToCache); // <-- Mira esto en la consola
   event.waitUntil(
-    caches.open(CACHE_NAME).then((cache) => cache.addAll(urlsToCache)),
+    caches.open(CACHE_NAME)
+      .then(cache => cache.addAll(urlsToCache))
+      .then(() => self.skipWaiting()) // <-- Activa el SW al instante
   );
 });
 

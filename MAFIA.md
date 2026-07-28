@@ -5,8 +5,14 @@ layout: default
 ---
 
 # Art
+## Music
+- [Who Sampled](https://www.whosampled.com)
+- [Genius](https://genius.com)
+- 
+
+### Playlists
 <details>
-  <summary>🎵 Music Playlists</summary>
+  <summary>🎵 Youtube Music</summary>
 
 <div markdown="1">
 
@@ -18,15 +24,27 @@ layout: default
 </details>
 
 ## Film
-- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
-- [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)(Official Version)
-- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU)(4K)
-- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by 
-The Art Assignment
-- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
+### Movies
+- [Letterboxed](https://letterboxed.com)
 
+### Anime
+<details>
+  <summary>📺 Anime</summary>
 
-### Concerts & Shows
+<div markdown="1">
+
+- [ ] Berserk (1997 TV series) `Kentaro Miura, produced by Nippon Television and VAP, animated by Oriental Light and Magic and directed by Naohito Takahashi` **剣風伝奇ベルセルク** (Kenpū Denki Berserk) ✨
+- [x] [Avatar: The Last Airbender](): (ATLA)`Nickelodeon` ✨
+- [ ] Mob Psycho 100 `One` **モブサイコ100**(Mobu Saiko Hyaku)
+- [ ] [Samurai Champloo]() `Manglobe` **サムライチャンプルー** (Samurai Chanpurū)
+- [ ] HUNTER x HUNTER `Togashi Yoshihiro`
+
+</div>
+</details>
+
+### Shorts, Concerts & Shows
+- [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
+- [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
 - [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
 - [Harmonic Symmetry](https://www.youtube.com/watch?v=o791hgNvGIg): by Richard Devine
 - [Gorillaz - Stylo](https://www.youtube.com/watch?v=nhPaWIeULKk)(Official Video)
@@ -49,8 +67,12 @@ The Art Assignment
 
 
 ### Content
-- [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
-- [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
+- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
+- [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)(Official Version)
+- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU)(4K)
+- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by 
+The Art Assignment
+- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
 - [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
 - [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0)(MALCOLM IN THE MIDDLE) Español
 - [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
@@ -206,7 +228,7 @@ The Art Assignment
 - [ ] Made in Abyss `Tsukushi Akihito, Tsukushi Akihito`
 - [ ] Maou Dante (2002) `Nagai Go`
 - [ ] Martial Peak `Momo, Pikapi (噼咔噼)`
-- [ ] Mob Psycho 100 `One`
+- [ ] Mob Psycho 100 `One` **モブサイコ100**(Mobu Saiko Hyaku)
 - [ ] Mononoke `Ninagawa Yaeko`
 - [ ] Monster `Urasawa Naoki`
 - [ ] Nanatsu no Taizai `Suzuki Nakaba` *The Seven Deadly Sins*
@@ -267,6 +289,7 @@ The Art Assignment
 - [ ] Yu-Gi-Oh! The Movie (Anime Comic) `Takahashi Kazuki, Toei Animation`
 - [ ]  Angolmois: Genkou Kassenki (Hakata-hen) `Various` **アンゴルモア 元寇合戦記　【博多編】**
 - [ ] Learning the Hard Way `over.J, CTY` **生意気ギャルの家庭教師、始めます** *Iljinnyeo Gwaoehagi (**일진녀 과외하기**)*
+- [ ] Samurai Champloo `Masaru Gotsubo` **サムライチャンプルー** (Samurai Chanpurū)
 
 </div>
 

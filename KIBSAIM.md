@@ -45,6 +45,7 @@ layout: default
 - [7z](https://www.7-zip.org/): 7-Zip is a file archiver with a high compression ratio.
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
+- [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 
 ### Media
 - [Freetube](https://freetubeapp.io/#download): Freetube is a free and open-source YouTube client.
@@ -76,7 +77,8 @@ layout: default
 # Hardware
 ## Computing
 ### RaspberryPi
-- [PINN](https://github.com/procount/PINN): OS installer for Raspberry Pi
+- [PINN](https://github.com/procount/pinn): OS installer for Raspberry Pi
+  - [SourceForge](https://sourceforge.net/projects/pinn/)
 - [Raspberry Pi Imager](https://www.raspberrypi.org/software/): OS installer for Raspberry Pi
 
 

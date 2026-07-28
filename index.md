@@ -4,15 +4,16 @@ permalink: /
 layout: home
 ---
 
-# 🧪 Kib's Laboratory
-### 🔍 [Readme: Instrucciones](README)
+# 🧪 Laboratory
+## 🔍 Programs
 
 | 📁 | Section | Description |
 |:--|:--------|:------------|
+| 📝 | [Readme: Instrucciones](README) | Readme.md |
 | 🧠 | [Lab: Code, Prompts & Assets](KIBZA) | AI prompts, coding notes, research, algorithms, Assets |
 | 💻 | [Setup: Hardware, Software & Studio](KIBSAIM) | Linux, servers, Docker, Raspberry Pi, networking |
 | 📱 | [Phone: Scripts & Apps](PHONE) | Android, automation, Tasker, mobile development |
-| 🎨 | [Art!](MAFIA) | Magic, games, design, music, experiments |
+| 🎨 | [Fun!](MAFIA) | Fun, games, design, music, experiments |
 | 🆘 | [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting |
 
 ---
@@ -30,7 +31,7 @@ Expect experiments, automation, computing, web development, hardware hacks, rand
 ---
 
 
-## ⚡ Current Philosophy
+## ⚡ Code Wisdom Philosophy
 
 ```
 Automate everything.
@@ -43,14 +44,8 @@ Repeat.
 
 ---
 
-### ☕ Unix Wisdom
-
 > Small programs.
 >
 > Connected together.
 >
 > Solve one problem well.
-
----
-
-Made with Love❤️, Music🎶, & Curiosity🌠.

@@ -96,6 +96,9 @@ You are an elite research agent specializing in scientific, technical, historica
 ## Web
 - [spacetypegenerator](https://spacetypegenerator.com/)
 - [Quite a Playlist](https://quiteaplaylist.com/): Title of Deleted Youtube Videos
+- [Favicon Generator](https://realfavicongenerator.net/): 
+- [Favicon.io](https://favicon.io/)
+  - [Converter](https://favicon.io/favicon-converter/)
 
 ### Codepen
 - [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)

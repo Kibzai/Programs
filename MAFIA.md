@@ -3,27 +3,6 @@ title: "Art, Fun & Games!"
 permalink: /MAFIA
 layout: default
 ---
-# Web Art
-- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
-- [The Useless Web](https://theuselessweb.com/): The Useless Web.
-- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-  - [Thatcher Effect](https://optical.toys/thatcher-effect/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-  - [Troxler Fade](https://optical.toys/troxler-fade/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
-- [Paint Toys](https://paint.toys/): by Paint Toys
-  - [Zen Garden](https://paint.toys/zen-garden/): by Paint Toys
-  - [Sand in a Bottle](https://paint.toys/sand/): by Paint Toys
-  - [Symmetry Painter](https://paint.toys/symmetry/): by Paint Toys
-  - [Calligram Creator](https://paint.toys/calligram/): by Paint Toys
-  - [Jackson Pollock by Miltos Manetas](https://jacksonpollock.org/): by Miltos Manetas
-- [Colossal](https://www.thisiscolossal.com/): by Colossal
-- [Behance](https://www.behance.net/): by Behance
-- [Archillect](https://twitter.com/archillect): by Archillect
-- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
-- [drawing.garden](https://drawing.garden/): by drawing.garden
-- [The Zen Zone](https://thezen.zone/): by The Zen Zone
-- [River of Reverence](https://poetic.toys/poems/river-of-reverence/): by Poetic Toys
-- [Moog One](https://www.moogmusic.com/synthesizers/moog-one/): by Moog Music
-- [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
 
 # Art
 <details>
@@ -70,11 +49,34 @@ The Art Assignment
 
 
 ### Content
-
+- [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
+- [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
 - [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
 - [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0)(MALCOLM IN THE MIDDLE) Español
 - [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
 - [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
+
+## Web
+- [Random Tools](https://kibzai.github.io/Random): by Kibzai!
+- [The Useless Web](https://theuselessweb.com/): The Useless Web.
+- [OPTICAL ILLUSIONS & BRAIN BENDING TOYS](https://optical.toys): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+  - [Thatcher Effect](https://optical.toys/thatcher-effect/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+  - [Troxler Fade](https://optical.toys/troxler-fade/): by OPTICAL ILLUSIONS & BRAIN BENDING TOYS
+- [Paint Toys](https://paint.toys/): by Paint Toys
+  - [Zen Garden](https://paint.toys/zen-garden/): by Paint Toys
+  - [Sand in a Bottle](https://paint.toys/sand/): by Paint Toys
+  - [Symmetry Painter](https://paint.toys/symmetry/): by Paint Toys
+  - [Calligram Creator](https://paint.toys/calligram/): by Paint Toys
+  - [Jackson Pollock by Miltos Manetas](https://jacksonpollock.org/): by Miltos Manetas
+- [Colossal](https://www.thisiscolossal.com/): by Colossal
+- [Behance](https://www.behance.net/): by Behance
+- [Archillect](https://twitter.com/archillect): by Archillect
+- [Mondrian And Me](https://mondrianandme.com/): by Mondrian And Me
+- [drawing.garden](https://drawing.garden/): by drawing.garden
+- [The Zen Zone](https://thezen.zone/): by The Zen Zone
+- [River of Reverence](https://poetic.toys/poems/river-of-reverence/): by Poetic Toys
+- [Moog One](https://www.moogmusic.com/synthesizers/moog-one/): by Moog Music
+- [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
 
 ## Books, Manga & Comics
 <details>

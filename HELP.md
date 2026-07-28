@@ -17,11 +17,11 @@ http(s):// # (s) para conecciones seguras
 `%20` # para escribir espacios en urls.
 ```
 ``` bash
-# Open Browser
+# Open Browser Bash
 start https://kibzai.github.io/Programs/
 ```
 ``` bash
-# Open Browser
+# Open Browser Power Shell
 Start-Process "https://kibzai.github.io/Programas/"
 ```
 

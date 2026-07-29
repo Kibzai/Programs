@@ -7,14 +7,14 @@ layout: home
 # 🧪 Laboratory
 ## 🔍 Programs
 
-| 📁 | Section | Description |
-|:--|:--------|:------------|
-| 📝 | [Readme: Instrucciones](README) | Readme.md |
-| 🧠 | [Lab: Code, Prompts & Assets](KIBZA) | AI prompts, coding notes, research, algorithms, Assets |
-| 💻 | [Setup: Hardware, Software & Studio](KIBSAIM) | Linux, servers, Docker, Raspberry Pi, networking |
-| 📱 | [Phone: Scripts & Apps](PHONE) | Android, automation, Tasker, mobile development |
-| 🎨 | [Fun!](MAFIA) | Fun, games, design, music, experiments |
-| 🆘 | [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting |
+| 📁Section | Description |
+|:--------|:------------|
+| [📝 Readme](README) | Instrucciones |
+| [🧠 Laboratory](KIBZA) | Code, Research, Algorithms |
+| [💻 Setup](KIBSAIM) | Hardware, Software & Studio |
+| [📱 Phone](PHONE) | Devices, Scripts & Apps |
+| [🎨 Fun!](MAFIA) | Art, Design, Music, Experiments |
+| [🆘 Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting |
 
 ---
 

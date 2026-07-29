@@ -1,9 +1,8 @@
 ---
-title: "Art, Fun & Games!"
+title: "Fun!"
 permalink: /MAFIA
 layout: default
 ---
-
 # Art
 ## Music
 - [Who Sampled](https://www.whosampled.com)
@@ -25,7 +24,8 @@ layout: default
 
 ## Film
 ### Movies
-- [Letterboxed](https://letterboxed.com)
+- [Letterboxd](https://letterboxd.com/)
+  - [Kibza's Library](https://letterboxd.com/kibza777/)
 
 ### Anime
 <details>
@@ -42,7 +42,13 @@ layout: default
 </div>
 </details>
 
-### Shorts, Concerts & Shows
+### Videos, Concerts & Shows
+
+<details>
+  <summary>💢 Music Videos</summary>
+
+<div markdown="1">
+
 - [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
 - [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
 - [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
@@ -65,19 +71,38 @@ layout: default
 - [Sheku Kanneh-Mason - No Woman No Cry](https://www.youtube.com/watch?v=UiwamfDAYJo)(Cello Version)
 - [Eric Clapton - I Shot The Sheriff (Crossroads 2010)](https://www.youtube.com/watch?v=APWhx97QvxE)Official Live Video
 
+</div>
 
-### Content
+</details>
+
+<details>
+  <summary>🗜 Content</summary>
+
+<div markdown="1">
+
 - [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
 - [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)(Official Version)
 - [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU)(4K)
 - [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by 
 The Art Assignment
 - [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
-- [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
 - [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0)(MALCOLM IN THE MIDDLE) Español
 - [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
 - [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
 
+</div>
+
+</details>
+<details>
+  <summary>🎥 Shows</summary>
+
+<div markdown="1">
+
+- [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
+
+</div>
+
+</details>
 ## Web
 - [Random Tools](https://kibzai.github.io/Random): by Kibzai!
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.
@@ -101,37 +126,9 @@ The Art Assignment
 - [beeple_crap](https://www.instagram.com/beeple_crap/?hl=en): by beeple_crap
 
 ## Books, Manga & Comics
-<details>
-  <summary>📚 Books</summary>
+- [Goodreads](https://www.goodreads.com/): by Goodreads
+  - [Kibza](https://www.goodreads.com/user/show/93496918-kibzaim-mejia)
 
-<div markdown="1">
-
- - [ ] The Communist Manifesto: A Graphic... `Friedrich Engels, Karl Marx (adapt. Martin Rowson)`
- - [ ] The Perry Bible Fellowship Almanack (10th Anniversary Edition) `Nicholas Gurewitch`[reference:12][reference:13]
- - [ ] The Wolverton Bible: The Old Testament & Book of Revelation `Basil Wolverton`[reference:14][reference:15]
- - [ ] The World of the Witcher `CD Projekt Red`
- - [ ] Tijuana Bibles: Art and Wit in America's Forbidden Funnies, 1930s-1950s `Simon And Schuster`
- - [ ] The Kingstone Bible `Ben Avery, Danny Bulanadi`
- - [ ] The Book of God: How We Got the Bible... `Ben Avery, Javier Saltares`
- - [ ] Marvel Chronicle `Tom DeFalco, Various`
- - [ ] Official Handbook of the Marvel Universe: Deluxe Edition `Mark Gruenwald, Peter Sanderson`
- - [ ] Marvel 70th Anniversary Poster Book `Various, Spring Hoteling`
- - [ ] The Art of Hellboy `Mike Mignola, Mike Mignola`
- - [ ] Jack Kirby: The Epic Life of the King ... `Tom Scioli`
- - [ ] Hip Hop Family Tree (2013) `Ed Piskor, Ed Piskor`
- - [ ] Hip Hop Family Tree (2015) `Ed Piskor, Ed Piskor`
- - [ ] Comic Book History of Comics `Fred Van Lente, Ryan Dunlavey`
- - [ ] Kimota!: The Miracleman Companion `Alan Moore, Various`
- - [ ] Hellboy: 25 Years of Covers `Mike Mignola, Mike Mignola`
- - [ ] Marvels Annotated `Kurt Busiek, Alex Ross`
- - [ ] Marvels Epilogue `Kurt Busiek, Alex Ross`
- - [ ] The Complete Peanuts `Charles Schulz, Charles Schulz`
- - [ ] Avatar: The Last Airbender - The Art ... `Various, Various`
- - [ ] Spawn Bible `Beau Smith, Greg Capullo`
-
-</div>
-
-</details>
 <details>
   <summary>🤯 Manga</summary>
 
@@ -299,6 +296,30 @@ The Art Assignment
 
 <div markdown="1">
 
+ <!-- Books -->
+ - [ ] The Communist Manifesto: A Graphic... `Friedrich Engels, Karl Marx (adapt. Martin Rowson)`
+ - [ ] The Perry Bible Fellowship Almanack (10th Anniversary Edition) `Nicholas Gurewitch`[reference:12][reference:13]
+ - [ ] The Wolverton Bible: The Old Testament & Book of Revelation `Basil Wolverton`[reference:14][reference:15]
+ - [ ] The World of the Witcher `CD Projekt Red`
+ - [ ] Tijuana Bibles: Art and Wit in America's Forbidden Funnies, 1930s-1950s `Simon And Schuster`
+ - [ ] The Kingstone Bible `Ben Avery, Danny Bulanadi`
+ - [ ] The Book of God: How We Got the Bible... `Ben Avery, Javier Saltares`
+ - [ ] Marvel Chronicle `Tom DeFalco, Various`
+ - [ ] Official Handbook of the Marvel Universe: Deluxe Edition `Mark Gruenwald, Peter Sanderson`
+ - [ ] Marvel 70th Anniversary Poster Book `Various, Spring Hoteling`
+ - [ ] The Art of Hellboy `Mike Mignola, Mike Mignola`
+ - [ ] Jack Kirby: The Epic Life of the King ... `Tom Scioli`
+ - [ ] Hip Hop Family Tree (2013) `Ed Piskor, Ed Piskor`
+ - [ ] Hip Hop Family Tree (2015) `Ed Piskor, Ed Piskor`
+ - [ ] Comic Book History of Comics `Fred Van Lente, Ryan Dunlavey`
+ - [ ] Kimota!: The Miracleman Companion `Alan Moore, Various`
+ - [ ] Hellboy: 25 Years of Covers `Mike Mignola, Mike Mignola`
+ - [ ] Marvels Annotated `Kurt Busiek, Alex Ross`
+ - [ ] Marvels Epilogue `Kurt Busiek, Alex Ross`
+ - [ ] The Complete Peanuts `Charles Schulz, Charles Schulz`
+ - [ ] Avatar: The Last Airbender - The Art ... `Various, Various`
+ - [ ] Spawn Bible `Beau Smith, Greg Capullo`
+<!-- Comics -->
 - [ ] 100th Anniversary Special: Avengers `James Stokoe, James Stokoe`
 - [ ] 300 (1998) `Frank Miller, Frank Miller`
 - [ ] Absolute Carnage `Donny Cates, Ryan Stegman`
@@ -1054,3 +1075,6 @@ The Art Assignment
 ## Pirate
 - [1337x.to](https://www.1377x.to/)
 - [PirateBay](https://thepiratebay.org/)
+
+### Password Recovery for BIOS Laptops
+- [Clear unknown BIOS passwords](https://bios-pw.org/)

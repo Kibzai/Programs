@@ -116,4 +116,4 @@ Warning: It needs the spacing!
 
 ---
 
-Made with Love❤️, Music🎶, & Curiosity🌠.
+Made with Love❤️, Music🎶 & Curiosity🌠.

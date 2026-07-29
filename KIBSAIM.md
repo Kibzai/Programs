@@ -47,6 +47,9 @@ layout: default
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 
+### Projection
+- [Open LP](https://openlp.org/): Worship presentation software.
+
 ### Media
 - [Freetube](https://freetubeapp.io/#download): Freetube is a free and open-source YouTube client.
 - [Whisper.cpp](https://github.com/ggml-org/whisper.cpp): Whisper.cpp is a C++ implementation of the Whisper model for speech recognition.
@@ -114,6 +117,64 @@ layout: default
 
 ## Networking
 ### Mikrotik
-TP-Link AC1900
-#### Wireguard
-[Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
+#### [TP-Link AC1900](https://www.tp-link.com/us/products/details/cat-56_tp-link-ac1900)
+#### Settings
+- [Wireguard Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
+
+---
+
+# Studio
+## Music
+### Audio Workstation
+#### [Ableton Live](https://www.ableton.com)
+- [Max](https://cycling74.com/products/max): Max is a visual programming language for creating audio effects and synthesizers.
+
+**Settings:**
+- Look & Feel
+  - Theme: Dark
+  - Brightness: 200%
+  - Color Intensity: 100%
+  - Color Hue: 290° (Púrpura)
+  - Grid Line Intensity: 200%
+- Record, Warp & Launch
+  - Auto-Warp Long Samples: Off
+  - Default Warp Mode: Complex
+
+#### [Novation](https://www.novation.com/)
+- [Novation Components](https://www.novation.com/components)
+
+#### [Traktor Pro 3](https://www.native-instruments.com/en/products/traktor-pro-3/)
+
+#### [Rekorbox](https://www.rekorbox.com/)
+### Vsts
+#### [Waves](https://www.waves.com/)
+#### [Komplete](https://www.steinberg.net/en/products/komplete/)
+- [Kontakt 5.5](https://www.steinberg.net/en/products/komplete/kontakt-5-5/)
+- [Battery 4.1](https://www.steinberg.net/en/products/komplete/battery-4-1/)
+- [Guitar Rig 5](https://www.steinberg.net/en/products/komplete/guitar-rig-5/)
+- [Guitar Rig 6](https://www.steinberg.net/en/products/komplete/guitar-rig-6/)
+- [Reaktor 5](https://www.steinberg.net/en/products/komplete/reaktor-5/)
+- [Reaktor 6](https://www.steinberg.net/en/products/komplete/reaktor-6/)
+
+#### [Omnisphere](https://www.steinberg.net/en/products/omnisphere/)
+#### [Izotope](https://www.izotope.com/)
+#### [Sausage Fattener](https://www.sausagefattener.com/)
+#### [FabFilter](https://www.fabfilter.com/)
+#### [SoundToys](https://www.soundtoys.com/)
+
+## Production
+### Instruments
+#### Electric Piano - Yamaha
+##### Settings
+- `something to copy`
+
+### Equipment
+- ZOOM U-44: Interfaz de Audio
+	- [Drivers](https://zoomcorp.com/en/us/audio-interface/audio-interfaces/u-44/u-44-support/)
+- Midi Mixer
+
+### Audio Software
+- [ASIO4ALL](https://www.asio4all.org/): Controlador ASIO universal para audio WDM, mejora la latencia y el rendimiento del audio en software de producción musical.
+  - [ASIO Tip](https://www.reddit.com/r/ableton/comments/pxvm79/asio_prevents_youtube_spotify_from_working_noob/): Reddit Post about listen to Ableton AND youtube with ASIO.
+- [loopMIDI](https://www.tobias-erichsen.de/software/loopmidi.html): Create virtual loopback MIDI-ports to interconnect applications on Windows that want to open hardware-MIDI-ports for communication.
+- [GN MIDI](https://www.gnmidi.com/): GNMIDI 3 Professional (MIDI Tools for Windows) is a Karaoke MIDI song player, batch converter and editor. It inserts and synchronises lyrics into MIDI and mp3 songs.

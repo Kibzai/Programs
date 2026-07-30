@@ -11,6 +11,9 @@ layout: default
 - [Coolors](https://coolors.co/ffbe0b-fb5607-ff006e-8338ec-3a86ff-10f9bb): Coolors is a web-based tool that allows you to generate color palettes.
 - [CSS Gradient](https://cssgradient.io/): CSS Gradient is a web-based tool that allows you to create and customize gradients.
 
+#### 3D
+- [Blender](https://www.blender.org/): Blender is a free and open-source 3D modeling and animation software.
+
 #### Audio
 - [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
 - [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
@@ -45,6 +48,10 @@ layout: default
 - [7z](https://www.7-zip.org/): 7-Zip is a file archiver with a high compression ratio.
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
+- [Obsidian](https://obsidian.md/): Obsidian is a note-taking and knowledge management app.
+- [Libre Office](https://www.libreoffice.org/): Libre Office is a free and open-source office suite.
+- [HandBrake](https://handbrake.fr/): HandBrake is a free and open-source video transcoder.
+- [Notion](https://www.notion.so/): Notion is a workspace for organizing and collaborating on projects.
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 
 ### Projection
@@ -56,8 +63,8 @@ layout: default
 - [Buzz](https://github.com/chidiwilliams/buzz/): Buzz is a voice to text converter.
 - [Jellyfin](http://[server-url]:8096): Jellyfin es tu propio servidor de media.
 
-
 ### Audio
+- [Audacity](https://www.audacityteam.org/): Audacity is a free and open-source audio editor.
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
 

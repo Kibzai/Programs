@@ -3,6 +3,16 @@ permalink: /HELP
 title: "Help: ¡Ayuda!"
 layout: default
 ---
+# Help
+## People that need help:
+### Palestine
+- [Genocide Database](https://law4palestine.org/law-for-palestine-releases-database-with-500-instances-of-israeli-incitement-to-genocide-continuously-updated/)
+
+## Find Help
+
+## Give Help
+- [ ] Somehow
+
 # Code
 Símbolos Útiles
 ```bash
@@ -88,6 +98,20 @@ rm [file]
 
 ---
 
+# Science
+## Learning
+### Videos
+- [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
+  - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
+
+## Thinking
+True si ambos son verdaderos.
+```typescript
+let yesBoth = (x,y) => { return ( x && y ) }
+```
+
+---
+
 # Hacks
 ## Scripts
 ¡Cuidado! Oneliners Pesados.
@@ -137,17 +161,4 @@ sfc /scannow
 ```bash
 # System scan.
 Dism /Online /Cleanup-Image /RestoreHealth
-```
-
----
-
-# Thinking
-### Videos
-- [TwoMinutePapers](https://www.youtube.com/@TwoMinutePapers): Scientific Papers.
-  - [OpenAI Plays Hide and Seek…and Breaks The Game](https://www.youtube.com/watch?v=Lu56xVlZ40M)
-
-## Learn
-True si ambos son verdaderos.
-```typescript
-let yesBoth = (x,y) => { return ( x && y ) }
 ```

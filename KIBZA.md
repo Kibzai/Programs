@@ -7,11 +7,29 @@ layout: default
 - [Internet Archive](https://archive.org/): Internet Archive is a digital library that preserves the web.
 - [Quite a Playlist](https://quiteaplaylist.com/): Title of Deleted Youtube Videos
 
+## Coding
+- [Scratch](https://scratch.mit.edu/): Scratch is a free, block-based programming language for computational thinking.
+
+## Game Development
+- [Godot](https://godotengine.org/): Godot is a free and open-source game engine.
+- [Unreal Engine](https://www.unrealengine.com/): Unreal Engine is a professional game engine.
+- [Unity](https://unity.com/): Unity is a cross-platform game engine.
+
 ## Create Media
+## Video
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): DaVinci Resolve is a professional video editing software.
+
 ### Streaming
 #### OBS
 [OBS Studio](https://obsproject.com/): Open Broadcaster Software Studio.
+##### Scenes
+- [x] Dark
+- [ ] Light
+- [ ] Talk
+- [ ] Studio
+- [ ] Magic
 
+##### Scripts
 - [Lua](https://www.lua.org/): Scripting language used by OBS Studio.
   - [x] [Advanced Timer](https://obsproject.com/forum/resources/advanced-timer.109/): Plugin for OBS Studio that provides advanced timer functionality.
   - [x] [Date Time](https://obsproject.com/forum/resources/date-time.110/): Plugin for OBS Studio that provides date and time functionality.

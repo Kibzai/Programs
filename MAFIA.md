@@ -1055,33 +1055,73 @@ The Art Assignment
 
 ---
 
-# Diversión
-## Gaming
-### Magic: The Gathering
+# Fun
+## Magic: The Gathering
+
+### Rules
+- [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules)
+This document is the ultimate authority for Magic: The Gathering® competitive game play.
+
+### Illustrations
+- [Art of MTG](https://www.artofmtg.com/)
+- [Illustrations](https://mtgpics.com)
+
+### Magic: The Game
+>0 es gratis, es lo mejor.
+>1 es millones de veces más que 0.
+>2 es el el doble de 1.
+>3 es el triple de 1.
+>0 a 1 no es lo mismo que 1 a 2 y menos que 2 a 3.
+
+- [Time Walk]()
+
+### Searching Cards
+- [Scryfall](https://scryfall.com/)
+
+### Decks
+- [Moxfield](https://moxfield.com/)
+
+### Cubes
+- [Cube Cobra](https://www.cubecobra.com/)
+
+### Computing
+- [Magic: The Gathering is Turing Complete](https://arxiv.org/pdf/1904.09828): "We have presented a methodology for embedding Ro-
+gozhin’s (2, 18) universal Turing machine in a two-player
+game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
+
+### Non-Physic
+#### Arena
+[Magic: The Gathering Arena](https://arena.magicthegathering.com/)
+  - [MTG Arena Tool](https://mtgatool.com/)
+
 #### Forge
 [Forge: The Magic: The Gathering Rules Engine](https://card-forge.github.io/forge/)
 - [Android APK](https://github.com/Card-Forge/forge/releases/tag/daily-snapshots): 
 - [Latest Desktop Release](https://github.com/Card-Forge/forge/releases/latest)
 - [Windows Java Requirement](https://www.oracle.com/java/technologies/downloads/#jdk26-windows): Ensure you have Java 17 or later installed.
 
-### RaspberryPi
+---
+
+## Pirate
+### Roms
+- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
+- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
+
+### Devices
+#### RaspberryPi
 [More info on RaspberryPi setup](KIBSAIM#raspberrypi)
 - [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi
 - [RetroArch](https://www.retroarch.com/): RetroArch is a portable, lightweight, and open-source emulator framework.
 - [RetroPI](https://retropie.org.uk/): RetroPI is a lightweight Linux distribution for running retro video game emulators.
 
-### Powkiddy RGB 20S
-- [Local Games Repositories](http://192.168.0.ip/files/console)
+#### Powkiddy RGB 20S
+- [Local Games Repositories](http://192.168.0.[ip]/files/console)
   - Depende la consola ej: [Local N64 Games Repositories](192.168.0.101/files/n64)
 
-### Roms
-- [Reddit Roms Megathread 4.0 HTML Edition](https://www.reddit.com/r/Roms/comments/m59zx3/roms_megathread_40_html_edition_2021/?rdt=54521&onetap_auto=true&show_am=true): Go here for Roms
-- [Roms Megathread](https://r-roms.github.io/): Go here for Retro
-
-
-## Pirate
+### Torrents
 - [1337x.to](https://www.1377x.to/)
 - [PirateBay](https://thepiratebay.org/)
 
-### Password Recovery for BIOS Laptops
+### Hacks
+#### Password Recovery for BIOS Laptops
 - [Clear unknown BIOS passwords](https://bios-pw.org/)

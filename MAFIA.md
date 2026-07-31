@@ -1057,6 +1057,13 @@ The Art Assignment
 
 # Diversión
 ## Gaming
+### Magic: The Gathering
+#### Forge
+[Forge: The Magic: The Gathering Rules Engine](https://card-forge.github.io/forge/)
+- [Android APK](https://github.com/Card-Forge/forge/releases/tag/daily-snapshots): 
+- [Latest Desktop Release](https://github.com/Card-Forge/forge/releases/latest)
+- [Windows Java Requirement](https://www.oracle.com/java/technologies/downloads/#jdk26-windows): Ensure you have Java 17 or later installed.
+
 ### RaspberryPi
 [More info on RaspberryPi setup](KIBSAIM#raspberrypi)
 - [ARKos](https://retrogamecorps.com/2023/03/27/arkos-starter-guide/): Gaming OS for Raspberry Pi

@@ -3,6 +3,56 @@ title: "Fun!"
 permalink: /MAFIA
 layout: default
 ---
+
+# Fun
+## Magic: The Gathering
+
+### Rules
+- [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules)
+This document is the ultimate authority for Magic: The Gathering® competitive game play.
+
+### Illustrations
+- [Art of MTG](https://www.artofmtg.com/)
+- [Illustrations](https://mtgpics.com)
+
+### Magic: The Game
+>0 es gratis, es lo mejor.
+>1 es millones de veces más que 0.
+>2 es el el doble de 1.
+>3 es el triple de 1.
+>0 a 1 no es lo mismo que 1 a 2 y mucho menos que 2 a 3.
+
+- ["Time Walk"](): En teoría la mejor carta de Magic: The Gathering. Puedes comparar casi cualquier carta en referencia a Time Walk.
+- ["Black Lotus"](): La carta más poderosa de Magic: The Gathering.
+- ["Sol Ring"](): Realmente la carta más poderosa de Magic: The Gathering.
+
+### Searching Cards
+- [Scryfall](https://scryfall.com/)
+
+### Decks
+- [Moxfield](https://moxfield.com/)
+
+### Cubes
+- [Cube Cobra](https://www.cubecobra.com/)
+
+### Computing
+- [Magic: The Gathering is Turing Complete](https://arxiv.org/pdf/1904.09828): "We have presented a methodology for embedding Ro-
+gozhin’s (2, 18) universal Turing machine in a two-player
+game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
+
+### Non-Physic
+#### Arena
+[Magic: The Gathering Arena](https://arena.magicthegathering.com/)
+  - [MTG Arena Tool](https://mtgatool.com/)
+
+#### Forge
+[Forge: The Magic: The Gathering Rules Engine](https://card-forge.github.io/forge/)
+- [Android APK](https://github.com/Card-Forge/forge/releases/tag/daily-snapshots): 
+- [Latest Desktop Release](https://github.com/Card-Forge/forge/releases/latest)
+- [Windows Java Requirement](https://www.oracle.com/java/technologies/downloads/#jdk26-windows): Ensure you have Java 17 or later installed.
+
+---
+
 # Art
 ## Music
 - [Who Sampled](https://www.whosampled.com)
@@ -1052,53 +1102,6 @@ The Art Assignment
 </div>
 
 </details>
-
----
-
-# Fun
-## Magic: The Gathering
-
-### Rules
-- [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules)
-This document is the ultimate authority for Magic: The Gathering® competitive game play.
-
-### Illustrations
-- [Art of MTG](https://www.artofmtg.com/)
-- [Illustrations](https://mtgpics.com)
-
-### Magic: The Game
->0 es gratis, es lo mejor.
->1 es millones de veces más que 0.
->2 es el el doble de 1.
->3 es el triple de 1.
->0 a 1 no es lo mismo que 1 a 2 y menos que 2 a 3.
-
-- [Time Walk]()
-
-### Searching Cards
-- [Scryfall](https://scryfall.com/)
-
-### Decks
-- [Moxfield](https://moxfield.com/)
-
-### Cubes
-- [Cube Cobra](https://www.cubecobra.com/)
-
-### Computing
-- [Magic: The Gathering is Turing Complete](https://arxiv.org/pdf/1904.09828): "We have presented a methodology for embedding Ro-
-gozhin’s (2, 18) universal Turing machine in a two-player
-game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
-
-### Non-Physic
-#### Arena
-[Magic: The Gathering Arena](https://arena.magicthegathering.com/)
-  - [MTG Arena Tool](https://mtgatool.com/)
-
-#### Forge
-[Forge: The Magic: The Gathering Rules Engine](https://card-forge.github.io/forge/)
-- [Android APK](https://github.com/Card-Forge/forge/releases/tag/daily-snapshots): 
-- [Latest Desktop Release](https://github.com/Card-Forge/forge/releases/latest)
-- [Windows Java Requirement](https://www.oracle.com/java/technologies/downloads/#jdk26-windows): Ensure you have Java 17 or later installed.
 
 ---
 

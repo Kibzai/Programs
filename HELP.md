@@ -40,12 +40,19 @@ Start-Process "https://kibzai.github.io/Programas/"
 [Git](https://git-scm.com/) is a version control system. Its like a timelined branched repository with history.
 - [Install](https://git-scm.com/install/)
 
+
 ## Commands
 - Credentials:
-  - Set Email: `git config --global user.email "user@service.com"`.
-  - Set Name: `git config --global user.name "User"`.
+  - Set Email
+  - Set Name
 - Permissions:
-  - Set SSH Key: `ssh-keygen -t rsa -b 4096 -C "user@service.com"`.
+  - Set SSH Key
+
+``` bash
+git config --global user.email "user@service.com"
+git config --global user.name "User"
+ssh-keygen -t rsa -b 4096 -C "user@service.com"
+```
 
 ### Git Bash
 Terminal commands for Git Bash.

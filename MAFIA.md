@@ -18,13 +18,15 @@ This document is the ultimate authority for Magic: The Gathering® competitive g
 - ["Black Lotus"](): La carta más poderosa de Magic: The Gathering.
 - ["Sol Ring"](): Realmente la carta más poderosa de Magic: The Gathering.
 
->0 es gratis, es lo mejor.
+>0 es gratis, inmejorable.
 
 >1 es millones de veces más que 0.
 
->2 es el el doble de 1.
+>2 es el doble de 1.
 
->3 es el triple de 1.
+>3 es el doble de 1 más 1.
+
+>3 es también el triple de 1.
 
 >0 a 1 no es lo mismo que 1 a 2 y mucho menos que 2 a 3.
 

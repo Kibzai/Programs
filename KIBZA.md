@@ -16,6 +16,9 @@ layout: default
 - [Unity](https://unity.com/): Unity is a cross-platform game engine.
 
 ## Create Media
+### LUTS
+- [OBS LUTs Pack](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
+
 ## Video
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): DaVinci Resolve is a professional video editing software.
 

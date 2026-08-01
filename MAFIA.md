@@ -16,10 +16,15 @@ This document is the ultimate authority for Magic: The Gathering® competitive g
 - [Illustrations](https://mtgpics.com)
 
 ### Magic: The Game
+
 >0 es gratis, es lo mejor.
+
 >1 es millones de veces más que 0.
+
 >2 es el el doble de 1.
+
 >3 es el triple de 1.
+
 >0 a 1 no es lo mismo que 1 a 2 y mucho menos que 2 a 3.
 
 - ["Time Walk"](): En teoría la mejor carta de Magic: The Gathering. Puedes comparar casi cualquier carta en referencia a Time Walk.

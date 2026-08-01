@@ -33,6 +33,7 @@ layout: default
 - [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
 - [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
 - [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+
 ### Browsers
 #### Firefox
 [Firefox](https://www.mozilla.org/en-US/firefox/) is a free and open-source web browser.

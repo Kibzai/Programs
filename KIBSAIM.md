@@ -151,7 +151,7 @@ layout: default
   - Default Warp Mode: Complex
 
 #### [Novation](https://www.novation.com/)
-- [Novation Components](https://www.novation.com/components)
+- [Novation Components](https://novationmusic.com/components)
 
 #### [Traktor Pro 3](https://www.native-instruments.com/en/products/traktor-pro-3/)
 

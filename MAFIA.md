@@ -100,34 +100,39 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 </div>
 </details>
 
-### Videos, Concerts & Shows
+### Music Videos, Concerts & Shows
 
 <details>
-  <summary>💢 Music Videos</summary>
+  <summary>💢 Music (Television) Videos</summary>
 
 <div markdown="1">
 
+**NPR**
+- [Milton Nascimento & esperanza spalding](https://youtu.be/jFUhTmOSdGQ?list=LM): Tiny Desk (Home) Concert
+
+**Music Videos**
+- [Harmonic Symmetry](https://www.youtube.com/watch?v=o791hgNvGIg): by Richard Devine
+- [Gorillaz - Stylo](https://www.youtube.com/watch?v=nhPaWIeULKk) (Official Video)
+- [Mark Ronson - Feel Right ft. Mystikal](https://www.youtube.com/watch?v=ognnZ3r2qyQ) (Official Video)
+- [Pet Shop Boys - West End Girls](https://youtu.be/p3j2NYZ8FKs)
+- [Matt and Kim - Let's Run Away - Official Music Video](https://www.youtube.com/watch?v=4KA1eXUKZJ4) (Official Video)
+- [Kaskade & Skrillex - Lick It](https://www.youtube.com/watch?v=DrZhmr_0Wpo) (Official Video)
+- [Ronald Reggae - Jamaican Rhapsody](https://www.youtube.com/watch?v=WHho3_ZRKZ0)
+- [Caravan Palace - Wonderland](https://www.youtube.com/watch?v=vCXsRoyFRQE)
+- [The Ballad of Beaker: The Muppets](https://www.youtube.com/watch?v=EAtBki0PsC0) (Music Video)
+- [Toxicity - System Of A Down / Without Drums](https://www.youtube.com/watch?v=VWEO3IixNgg) (Drumless Track)
+- [Beethoven - Moonlight Sonata](https://www.youtube.com/watch?v=sbTVZMJ9Z2I) (1st Movement)
+- [Driven to Tears - Robert Downey Jr Sings With Sting](https://www.youtube.com/watch?v=1crxmBTxRlM)
+- [John Mayer's Passionfruit Cover](https://www.youtube.com/watch?v=EiOGR8WkHHk) Is BETTER Than Drake's?
+- [San Juan Project - Tu hombre ideal ft. Gera MXM](https://www.youtube.com/watch?v=VzZ8XB-uiuw) (Official Video)
+- [Masego "Lavish Lullaby": Open Mic](https://www.youtube.com/watch?v=3VSlj34f2aQ) (Live Performance)
+- [Sheku Kanneh-Mason - No Woman No Cry](https://www.youtube.com/watch?v=UiwamfDAYJo) (Cello Version)
+- [Eric Clapton - I Shot The Sheriff (Crossroads 2010)](https://www.youtube.com/watch?v=APWhx97QvxE) Official Live Video
+
+**Production**
 - [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
 - [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
 - [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
-- [Harmonic Symmetry](https://www.youtube.com/watch?v=o791hgNvGIg): by Richard Devine
-- [Gorillaz - Stylo](https://www.youtube.com/watch?v=nhPaWIeULKk)(Official Video)
-- [Mark Ronson - Feel Right ft. Mystikal](https://www.youtube.com/watch?v=ognnZ3r2qyQ)(Official Video)
-- [Matt and Kim - Let's Run Away - Official Music Video](https://www.youtube.com/watch?v=4KA1eXUKZJ4)(Official Video)
-- [Kaskade & Skrillex - Lick It](https://www.youtube.com/watch?v=DrZhmr_0Wpo)(Official Video)
-- [Ronald Reggae - Jamaican Rhapsody](https://www.youtube.com/watch?v=WHho3_ZRKZ0)
-- [Caravan Palace - Wonderland](https://www.youtube.com/watch?v=vCXsRoyFRQE)
-- [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
-- [The Ballad of Beaker: The Muppets](https://www.youtube.com/watch?v=EAtBki0PsC0)(Music Video)
-- [Toxicity - System Of A Down / Without Drums](https://www.youtube.com/watch?v=VWEO3IixNgg)(Drumless Track)
-- [Beethoven - Moonlight Sonata](https://www.youtube.com/watch?v=sbTVZMJ9Z2I)(1st Movement)
-- [Driven to Tears - Robert Downey Jr Sings With Sting](https://www.youtube.com/watch?v=1crxmBTxRlM)
-- [John Mayer's Passionfruit Cover](https://www.youtube.com/watch?v=EiOGR8WkHHk) Is BETTER Than Drake's?
-- [San Juan Project -Tu hombre ideal ft. Gera MXM](https://www.youtube.com/watch?v=VzZ8XB-uiuw)(Official Video)
-- [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
-- [Masego "Lavish Lullaby": Open Mic](https://www.youtube.com/watch?v=3VSlj34f2aQ)(Live Performance)
-- [Sheku Kanneh-Mason - No Woman No Cry](https://www.youtube.com/watch?v=UiwamfDAYJo)(Cello Version)
-- [Eric Clapton - I Shot The Sheriff (Crossroads 2010)](https://www.youtube.com/watch?v=APWhx97QvxE)Official Live Video
 
 </div>
 
@@ -139,28 +144,32 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 <div markdown="1">
 
 - [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
-- [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4)(Official Version)
-- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU)(4K)
-- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by 
-The Art Assignment
+- [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4) (Official Version)
+- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU) (4K)
+- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Art Assignment
 - [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
-- [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0)(MALCOLM IN THE MIDDLE) Español
 - [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
 - [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
+- [The Bible Lore Iceberg](https://www.youtube.com/watch?v=7UXr791jBD4)
+- [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
 
 </div>
 
 </details>
+
 <details>
   <summary>🎥 Shows</summary>
 
 <div markdown="1">
 
 - [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
+- [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
+- [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0) (MALCOLM IN THE MIDDLE) Español
 
 </div>
 
 </details>
+
 ## Web
 - [Random Tools](https://kibzai.github.io/Random): by Kibzai!
 - [The Useless Web](https://theuselessweb.com/): The Useless Web.

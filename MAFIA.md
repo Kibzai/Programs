@@ -69,7 +69,7 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 ## Music
 - [Who Sampled](https://www.whosampled.com)
 - [Genius](https://genius.com)
-- 
+- [Last FM](https://www.last.fm/)
 
 ### Playlists
 <details>

@@ -4,7 +4,11 @@ permalink: /MAFIA
 layout: default
 ---
 # Magic: The Gathering
-
+# Videos
+- [Enter the Battlefield: The Alpha Playtesters](https://youtu.be/cV_t6-awPkU): Magic: The Gathering
+- [Enter the Battlefield - Life on the Magic: The Gathering Pro Tour](https://youtu.be/tCm-rRUwNGk)
+- [How It All Began – The Undocumented History of Magic: The Gathering](https://youtu.be/1qpU9K0Nu8U)
+ 
 ## Rules
 - [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules)
 This document is the ultimate authority for Magic: The Gathering® competitive game play.

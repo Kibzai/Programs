@@ -9,12 +9,12 @@ layout: home
 
 |📁|  Section | Description | Route |
 |:--------|:--------|:------------|:------------|
-|📝| [Readme](README) | Instrucciones | [/README](/README) |
-|🧠| [Laboratory](KIBZA) | Code, Research, Algorithms | [/KIBZA](/KIBZA) |
-|💻| [Setup](KIBSAIM) | Hardware, Software & Studio | [/KIBSAIM](/KIBSAIM) |
-|📱| [Phone](PHONE) | Devices, Scripts & Apps | [/PHONE](/PHONE) |
-|🎨| [Fun!](MAFIA) | Art, Design, Music, Experiments | [/MAFIA](/MAFIA) |
-|🆘| [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting | [/HELP](/HELP) |
+|📝| [Readme](README) | Instrucciones | [/README](README) |
+|🧠| [Laboratory](KIBZA) | Code, Research, Algorithms | [/KIBZA](KIBZA) |
+|💻| [Setup](KIBSAIM) | Hardware, Software & Studio | [/KIBSAIM](KIBSAIM) |
+|📱| [Phone](PHONE) | Devices, Scripts & Apps | [/PHONE](PHONE) |
+|🎨| [Fun!](MAFIA) | Art, Design, Music, Experiments | [/MAFIA](MAFIA) |
+|🆘| [Help: ¡Ayuda!](HELP) | Guides, fixes, troubleshooting | [/HELP](HELP) |
 
 ---
 

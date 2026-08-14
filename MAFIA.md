@@ -30,7 +30,7 @@ layout: default
 > - 0 es gratis, inmejorable.
 > - 1 es millones de veces más que 0.
 > - 2 es el doble de 1.
-> - 3 es el doble de 1 más 1 (es decir, 2×1 + 1 = 3).
+> - 3 es el doble de 1 más 1.
 > - 3 también es el triple de 1.
 > 
 > La diferencia de 0 a 1 no es lo mismo que de 1 a 2, y mucho menos que de 2 a 3.

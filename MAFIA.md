@@ -4,36 +4,32 @@ permalink: /MAFIA
 layout: default
 ---
 # Magic: The Gathering
-# Videos
-- [Enter the Battlefield: The Alpha Playtesters](https://youtu.be/cV_t6-awPkU): Magic: The Gathering
+
+## Videos
+- [Enter the Battlefield: The Alpha Playtesters](https://youtu.be/cV_t6-awPkU)
 - [Enter the Battlefield - Life on the Magic: The Gathering Pro Tour](https://youtu.be/tCm-rRUwNGk)
 - [How It All Began – The Undocumented History of Magic: The Gathering](https://youtu.be/1qpU9K0Nu8U)
- 
+
 ## Rules
-- [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules)
-This document is the ultimate authority for Magic: The Gathering® competitive game play.
+- [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules) — Este documento es la autoridad definitiva para el juego competitivo de Magic: The Gathering®.
 
 ## Illustrations
 - [Art of MTG](https://www.artofmtg.com/)
 - [Illustrations](https://mtgpics.com)
 
-## Magic: The Game
-- ["Time Walk"](): En teoría la mejor carta de Magic: The Gathering. Puedes comparar casi cualquier carta en referencia a Time Walk.
-- ["Black Lotus"](): La carta más poderosa de Magic: The Gathering.
-- ["Sol Ring"](): Realmente la carta más poderosa de Magic: The Gathering.
+## Best Cards
+- ["Time Walk"](https://scryfall.com/search?q=Time+Walk) — En teoría, la mejor carta de Magic. Puedes comparar casi cualquier carta con referencia a Time Walk.
+- ["Black Lotus"](https://scryfall.com/search?q=Black+Lotus) — La carta más poderosa de Magic.
+- ["Sol Ring"](https://scryfall.com/search?q=Sol+Ring) — Realmente, la carta más poderosa de Magic.
 
->0 es gratis, inmejorable.
-
->1 es millones de veces más que 0.
-
->2 es el doble de 1.
-
->3 es el doble de 1 más 1.
-
->3 es también el triple de 1.
-
->0 a 1 no es lo mismo que 1 a 2 y mucho menos que 2 a 3.
-
+> Notas:
+> - 0 es gratis, inmejorable.
+> - 1 es millones de veces más que 0.
+> - 2 es el doble de 1.
+> - 3 es el doble de 1 más 1 (es decir, 2×1 + 1 = 3).
+> - 3 también es el triple de 1.
+> 
+> La diferencia de 0 a 1 no es lo mismo que de 1 a 2, y mucho menos que de 2 a 3.
 ## Searching Cards
 
 - [Scryfall](https://scryfall.com/)

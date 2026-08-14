@@ -35,16 +35,20 @@ This document is the ultimate authority for Magic: The Gathering® competitive g
 >0 a 1 no es lo mismo que 1 a 2 y mucho menos que 2 a 3.
 
 ## Searching Cards
+
 - [Scryfall](https://scryfall.com/)
   - [Advanced Search](https://scryfall.com/advanced)
   - Random
-    - https://scryfall.com/card/inv/177/turf-wound?random=%28type%3Ainstant+or+type%3Asorcery%29+cmc%3C%3D3+rarity%3Ac+color%3Auscryfall.com%2Fdocs%2Fapi&unique=cards
-    - (https://scryfall.com/card/clb/240/majestic-genesis?random=%2A&unique=cards)
+    - [Random Card](https://scryfall.com/random)
+    - [Random Instant](https://scryfall.com/random?q=type%3Ainstant)
+    - [Random Commander](https://scryfall.com/random?q=is%3Acommander)[reference:1]
   - [API Documentation](https://scryfall.com/docs/api/cards)
+    - [GET /cards/random](https://scryfall.com/docs/api/cards/random)[reference:2]
   - [API Images](https://scryfall.com/docs/api/images)
   - [API Bulk Data](https://scryfall.com/docs/api/bulk-data)
   - [API Rate Limits](https://scryfall.com/docs/api/rate-limits)
   - [API Reference](https://scryfall.com/docs/api/reference)
+
 
 ## Decks
 - [Moxfield](https://moxfield.com/)

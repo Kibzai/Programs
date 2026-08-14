@@ -43,9 +43,9 @@ layout: default
   - Random
     - [Random Card](https://scryfall.com/random)
     - [Random Instant](https://scryfall.com/random?q=type%3Ainstant)
-    - [Random Commander](https://scryfall.com/random?q=is%3Acommander)[reference:1]
+    - [Random Commander](https://scryfall.com/random?q=is%3Acommander)
   - [API Documentation](https://scryfall.com/docs/api/cards)
-    - [GET /cards/random](https://scryfall.com/docs/api/cards/random)[reference:2]
+    - [GET /cards/random](https://scryfall.com/docs/api/cards/random)
   - [API Images](https://scryfall.com/docs/api/images)
   - [API Bulk Data](https://scryfall.com/docs/api/bulk-data)
   - [API Rate Limits](https://scryfall.com/docs/api/rate-limits)

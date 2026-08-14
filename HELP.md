@@ -4,6 +4,10 @@ title: "Help: ¡Ayuda!"
 layout: default
 ---
 # Help
+## Bible
+### Versions
+- [Amplified]()
+
 ## People that need help:
 ### Palestine
 - [Genocide Database](https://law4palestine.org/law-for-palestine-releases-database-with-500-instances-of-israeli-incitement-to-genocide-continuously-updated/)

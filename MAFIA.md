@@ -3,7 +3,11 @@ title: "Fun!"
 permalink: /MAFIA
 layout: default
 ---
-# Magic: The Gathering
+# Magic
+<details>
+  <summary>The Gathering</summary>
+
+<div markdown="1">
 
 ## Videos
 - [Enter the Battlefield: The Alpha Playtesters](https://youtu.be/cV_t6-awPkU)
@@ -71,6 +75,9 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 - [Android APK](https://github.com/Card-Forge/forge/releases/tag/daily-snapshots): 
 - [Latest Desktop Release](https://github.com/Card-Forge/forge/releases/latest)
 - [Windows Java Requirement](https://www.oracle.com/java/technologies/downloads/#jdk26-windows): Ensure you have Java 17 or later installed.
+
+</div>
+</details>
 
 ---
 

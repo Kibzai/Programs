@@ -34,6 +34,8 @@ layout: default
 > - 3 también es el triple de 1.
 > 
 > La diferencia de 0 a 1 no es lo mismo que de 1 a 2, y mucho menos que de 2 a 3.
+
+
 ## Searching Cards
 
 - [Scryfall](https://scryfall.com/)

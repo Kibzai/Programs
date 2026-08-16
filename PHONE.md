@@ -46,9 +46,12 @@ Scripts varios
 `alias gm='open -n com.google.android.apps.maps'`
 `config`, `config -set font_size 10`
 ```
+# OS
+- [Android-x86](https://www.android-x86.org/documentation/virtualbox.html)
+- [Anbox](https://anbox.io/)
+- [MEmu](https://www.memuplay.com/)
 
-# Apps
-
+## Apps
 ### Tiendas
 
 - **Google Play Store** - `https://play.google.com/store`

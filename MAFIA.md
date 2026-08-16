@@ -155,6 +155,8 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 - [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
 - [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
 - [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
+- [Music for People Who Are Tired of Being Distracted](https://www.youtube.com/watch?v=dQ1R_-EaNyE): by Caught In Joy.
+- [The Art of Listening - Music Documentary (2021)](https://www.youtube.com/watch?v=Xnt-c5i5prM)
 
 </div>
 

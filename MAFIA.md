@@ -1119,24 +1119,25 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 
 <div markdown="1">
 
-- [ ] LectorManga
-- [ ] MangaDex
-- [ ] MangaLife
-- [ ] MangaPark
-- [ ] MangaRaw
 - [ ] Mangabat
+- [ ] MangaDex
 - [ ] Mangafreak
 - [ ] Mangakakalot
 - [ ] ReadAllComics
 - [ ] ReadComicOnline
-- [ ] TuMangaOnline
 - [ ] WeebCentral
 - [ ] TCB Scans
 - [ ] Rawkuma
 - [ ] MyReadingManga
-- [ ] MangaHub
 - [ ] LectorManga.lat
 - [ ] KissLove
+- [ ] 
+- [ ] LectorManga
+- [ ] MangaLife
+- [ ] MangaPark
+- [ ] MangaRaw
+- [ ] TuMangaOnline
+- [ ] MangaHub
 - [ ] MangaSee
 - [ ] MangaFoxFull
 

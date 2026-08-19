@@ -4,27 +4,29 @@ permalink: /MUSIC
 layout: default
 ---
 # Streets of the World & REVOLUTION NOW OR DIE | REVELATIONS: México
+- [Gospel in the Streets of the Wolrd - LiveSet](https://www.youtube.com/watch?v=)
 # Setlist
-## Inspiration
-### Songs
-#### La noche de ronda
-"Noche de ronda" is a waltz written by Mexican songwriter and composer Agustín Lara
+## La noche de ronda
+"Noche de ronda" por Agustín Lara es la original idea de salir de noche a tocar rondear la ciudad. Músicos en la noche de ronda.
 - Noche de ronda - Agustin Lara [Yotube](https://youtu.be/9hAN7LuRYr4?si=3AzgUCNVFZbVta7R)
 - La Última Noche - Larry Harlow [Spotify](https://open.spotify.com/track/5jZ3yVzuTagT3VjxtVOaBQ?si=b6c3d599bebf43ac)
 - Lamento de Un Guajiro - Larry Harlow [Spotify](https://open.spotify.com/track/78E1CCxSaqJMFvjB4Wub2z?si=e2f7695a14d0492d): Live
+
+### Inspiration
+#### Songs
 - Bo Bunham (https://music.youtube.com/watch?v=EsCZUqiYRRo&si=6AuOfWI9SQs-QdGF)
 - Bandera Rosa (https://music.youtube.com/watch?v=n_M9VhsrbYU&si=0moEHr4U2yS5CbTo)
 - [Classical](https://music.youtube.com/watch?v=PCx8Xcm9l7U&si=CsiB5nVvXgm1nVxj)
 
-### Mixes
+#### Mixes
 - [i by Kendrick Lamar but it will change your life](https://www.youtube.com/watch?v=1TW8wKapzG8) by Miles DeSantis.
 - [Kanye West & Kendrick Lamar - GOOD KID TWISTED FANTASY](https://youtube.com/watch?v=2_oks8eX5zg&si=YK7yLHvK8HoShQrF): (full mixtape)
 - [Kanye West - Can't Tell Me Nothing](https://youtu.be/7UZXxSbv8JQ): (Full Mixtape)
 
 ### Samples
-- Mira Puñetas no me quites el perreo!
-- Yo lo que quieroe perréo
-- Como cuando tu me perriabas
+- ´Mira Puñetas no me quites el perreo!´
+- ´Yo lo que quieroe perréo´
+- ´Como cuando tu me perriabas´
 
 ---
 

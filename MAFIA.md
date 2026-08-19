@@ -84,8 +84,7 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 ---
 
 # Art
-## Production
-### [Gospel in the Streets of the Wolrd - LiveSet](MUSIC)
+## [Music Production](MUSIC)
 ## Music Tools
 - [Who Sampled](https://www.whosampled.com)
 - [Genius](https://genius.com)

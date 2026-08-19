@@ -152,7 +152,10 @@ layout: default
 - 150th Psalm – The Family Tree
 - Promised Land – Joe Smooth
 - 
+
+### House & BREAKS
 - Amen Brother (Amen Break) – The Winstons
+- Street Player - Chicago
 - 
 - I Get Lifted – Barbara Tucker
   - (Go To Church)[Spotify](https://open.spotify.com/track/1qqQgLfVysNaiX6wF96lML?si=37efb7648b994c3d)
@@ -161,23 +164,9 @@ layout: default
 - We Magnify His Name – Floorplan
 - Never Grow Old – Floorplan
 
-
-
-### House
-
 - Funkier Than a Mosquito's Tweeter (Jazzeem's All Styles Remix) – Nina Simone
 - CZR & J Paul Getto - House Sensation (Original Mix)
-- Alan Fitzpatrick, Patrice Rushen - Haven't You Heard - Fitzy's Half Charged Mix
-- Alan Fitzpatrick vs. Patrice Rushen - Haven’t You Heard (Fully Charged Mix)
-- Devotion – Ten City
-- The Black Madonna - A Jealous Heart Never Rests (Original Mix) && He Is The Voice I Hear
-- Moodymann - I'm Doing Fine (feat. Amp Dog Knight)
-- Against All Logic - Some Kind Of Game
-- Against All Logic - This Old House Is All I Have
-- Against All Logic - Now U Got Me Hooked
-- Against All Logic - You Are the One
-- DJ Boring - Winona
-- Moodymann - Ulooklykicecreaminthesummertyme
+
 - Waze & Odyssey - Down With Tha
 - 
 - Terrence Parker - Somethin' Here (Original Mix)
@@ -200,9 +189,7 @@ layout: default
 - Bell Biv DeVoe - Poison
 - Diplo, Nicky Da B - Express Yourself (feat. Nicky Da B)
 
----
-
-### BREAKS
+- The Bucketheads - The Bomb [These Sounds Fall Into My Mind] 
 - Incredible Bongo Band, Seiji - When the Bed Breaks Down I'll Meet You In the Spring - Seiji Remix
 - The Incredible Bongo Band - When the bed breaks down I'll meet you in the spring
 - The Incredible Bongo Band - Apache (Grandmaster Flash Mix)
@@ -233,7 +220,7 @@ layout: default
 - Harry Belafonte - Banana Boat (Day-O)
 - 
 
-### HOUSE & TECHNO (Revolución 909)
+### TECHNO (Revolución 909)
 - Daft Punk - Revolution 909 (Revolution A Cappella)
 - Fingers Inc. - My House Acapella (Jack Had a Groove) [1988]
 - (Varios) - Daft Punk Chicago Mix
@@ -264,6 +251,17 @@ layout: default
 - Daft Punk - Teachers (Extended Mix)
 - Daft Punk, Basement Jaxx - Phoenix (Basement Jaxx Remix)
 - Floorplan a.k.a. Robert Hood - Never Grow Old (Re-Plant) [M-PLANT][Youtube](https://www.youtube.com/watch?v=iC6sOXnBglE)
+- Alan Fitzpatrick, Patrice Rushen - Haven't You Heard - Fitzy's Half Charged Mix
+- Alan Fitzpatrick vs. Patrice Rushen - Haven’t You Heard (Fully Charged Mix)
+- Devotion – Ten City
+- The Black Madonna - A Jealous Heart Never Rests (Original Mix) && He Is The Voice I Hear
+- Moodymann - I'm Doing Fine (feat. Amp Dog Knight)
+- Against All Logic - Some Kind Of Game
+- Against All Logic - This Old House Is All I Have
+- Against All Logic - Now U Got Me Hooked
+- Against All Logic - You Are the One
+- DJ Boring - Winona
+- Moodymann - Ulooklykicecreaminthesummertyme
 - Justice
 - Justice - Let There Be Light
 
@@ -275,14 +273,6 @@ layout: default
 
 - Black Eyed Peas - Don’t Stop The Party
 - Black Eyed Peas - Let's get retarded
-
-### SOUL & FUNK
-- Metronomy - The Look
-- Shinobi - Dead Wrong Ft Biggie Smalls (slowed)
-- Buck 65 - The Centaur (Instrumental)
-- Biggie Ebm - Come On (feat. Sadat X) (2005 Remaster)
-
-- David Bowie - Let´s dance
 
 ---
 
@@ -320,6 +310,14 @@ layout: default
 - The Upsetters · Lee "Scratch" Perry - Bird In Hand (2022 Remaster)
 - Conspiracy on Neptune – Prince Jammy
 
+### SOUL & FUNK
+- Metronomy - The Look
+- Shinobi - Dead Wrong Ft Biggie Smalls (slowed)
+- Buck 65 - The Centaur (Instrumental)
+- Biggie Ebm - Come On (feat. Sadat X) (2005 Remaster)
+
+- David Bowie - Let´s dance
+
 ### ROCK, METAL
 - David Bowie, Queen - Under Pressure
   - 1rst Takef
@@ -336,7 +334,6 @@ layout: default
 - Rage Against The Machine - Wake Up
 - SOAD
 - System Of A Down - Soil
-
 
 # MÉXICO: Revelaciones
 - Young Folks

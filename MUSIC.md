@@ -5,6 +5,7 @@ layout: default
 ---
 # Streets of the World & REVOLUTION NOW OR DIE | REVELATIONS: México
 - [Gospel in the Streets of the Wolrd - LiveSet](https://www.youtube.com/watch?v=)
+
 # Setlist
 ## La noche de ronda
 "Noche de ronda" por Agustín Lara es la original idea de salir de noche a tocar rondear la ciudad. Músicos en la noche de ronda.
@@ -60,16 +61,15 @@ layout: default
 
 ### LATIN
 
-- Bad Bunny - Safaera
-- Bad Bunny, J Balvin - LA CANCIÓN
-- Bad Bunny - CALLAÍTA
-- Bad Bunny - Solo de Mi
-- Bad Bunny - Cuando Perriabas
-- Bad Bunny - Después de la Playa
-- Bad Bunny - Tarot **(Sample: al final)**
-
 - Treat - Santana
 - Aguanile (DJ Jose Marquez Remix)
+- Jamiroquai - Main Vein
+- Jamiroquai - Feel So Good
+- Outkast - Hey Ya
+- 
+- The Black Eyed Peas - CONSTANT pt.2
+- The Black Eyed Peas - RING THE ALARM pt.1 pt.3
+- Black Eyed Peas - WINGS
 
 ### HIP-HOP
 - Dead Prez - Hip Hop
@@ -108,7 +108,15 @@ layout: default
 - 
 - Kanye West - Hell Of A Life
 - Kanye West - F+L (Synths) [Flashing Lights]
-- 
+
+- Bad Bunny - Safaera
+- Bad Bunny, J Balvin - LA CANCIÓN
+- Bad Bunny - CALLAÍTA
+- Bad Bunny - Solo de Mi
+- Bad Bunny - Cuando Perriabas
+- Bad Bunny - Después de la Playa
+- Bad Bunny - Tarot **(Sample: al final)**
+
 
 # Predi
 ## REVOLUTION NOW OR DIE
@@ -141,10 +149,10 @@ layout: default
 - No Other Love (Peace) – Messiahs of Glory [Youtube](https://www.youtube.com/watch?v=aVzkCqqwTa4)
 - I'm Drunk & I'm Real High (In the Spirit of God) – Ada Richards
 - Jesus Is on the Mainline – Mr. Jesse R. McGuire
-- 
-- Amen Brother (Amen Break) – The Winstons
 - 150th Psalm – The Family Tree
 - Promised Land – Joe Smooth
+- 
+- Amen Brother (Amen Break) – The Winstons
 - 
 - I Get Lifted – Barbara Tucker
   - (Go To Church)[Spotify](https://open.spotify.com/track/1qqQgLfVysNaiX6wF96lML?si=37efb7648b994c3d)
@@ -172,7 +180,7 @@ layout: default
 - Moodymann - Ulooklykicecreaminthesummertyme
 - Waze & Odyssey - Down With Tha
 - 
-- (Artista por confirmar) - Somethin' Here (Original Mix)
+- Terrence Parker - Somethin' Here (Original Mix)
 - Rick Wade - Can't You See
 - Jodeci, Mark Kinchen - Freek'n You (MK Dub)
 
@@ -265,25 +273,16 @@ layout: default
 - Gorillaz - Andromeda (DRAM Special)
 - Gorillaz - We Got The Power (Claptone Remix)
 
+- Black Eyed Peas - Don’t Stop The Party
+- Black Eyed Peas - Let's get retarded
 
 ### SOUL & FUNK
 - Metronomy - The Look
 - Shinobi - Dead Wrong Ft Biggie Smalls (slowed)
 - Buck 65 - The Centaur (Instrumental)
 - Biggie Ebm - Come On (feat. Sadat X) (2005 Remaster)
-- Jamie Cullum - Don’t Stop The Music (Oak Room)
 
-- BADBADNOTGOOD - Time Moves Slow feat. Sam Herring
 - David Bowie - Let´s dance
-- Jamiroquai - Main Vein
-- Jamiroquai - Feel So Good
-- Outkast - Hey Ya
-
-- The Black Eyed Peas - CONSTANT pt.2
-- The Black Eyed Peas - RING THE ALARM pt.1 pt.3
-- Black Eyed Peas - WINGS
-- 
-- Black Eyed Peas - Don’t Stop The Party
 
 ---
 
@@ -299,6 +298,9 @@ layout: default
 - Victor Wooten - Good People
 - Victor Wooten - Words of Wisdom
 - Victor Wooten - Classical Thump
+- Jamie Cullum - Don’t Stop The Music (Oak Room)
+
+- BADBADNOTGOOD - Time Moves Slow feat. Sam Herring
 
 ### Reggae & Concerence
 - Bob Marley & The Wailers - Could you be loved - Errol Brown and alex sadkin remix /Bonus Track (12" Version?)

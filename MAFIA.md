@@ -88,7 +88,7 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 ### Streets
 
 <details>
-  <summary>🎵 Youtube Music Playlists</summary>
+  <summary>🎵 Streets of the World</summary>
 
 <div markdown="1">
 

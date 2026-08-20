@@ -16,23 +16,9 @@ layout: default
   - Fedora WS-Live43
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
-## Web-Apps
-### Fonts
-- [Font Awesome](https://fontawesome.com/v4/icons/): Font Awesome is a web-based icon library.
-
-### Color
-- [Color Picker](https://colorpicker.dev): Color Picker is a web-based tool that allows you to pick colors from a color palette.
-- [Coolors](https://coolors.co/ffbe0b-fb5607-ff006e-8338ec-3a86ff-10f9bb): Coolors is a web-based tool that allows you to generate color palettes.
-- [CSS Gradient](https://cssgradient.io/): CSS Gradient is a web-based tool that allows you to create and customize gradients.
-
 ## Programs
-### 3D
-- [Blender](https://www.blender.org/): Blender is a free and open-source 3D modeling and animation software.
-
-### Audio
-- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
-- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
-- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+### Drivers
+- [SDI](https://sdi-tool.org/): Snappy Driver Installer 
 
 ### Browsers
 #### Firefox
@@ -49,6 +35,9 @@ layout: default
 
 #### Brave
 [Brave](https://brave.com/) is a web browser that focuses on privacy and security.
+
+### Chrome
+[Chrome](https://www.google.com/chrome/): Chrome is the best/worst web browser developed by Google.
 
 ### Code
 #### Zed

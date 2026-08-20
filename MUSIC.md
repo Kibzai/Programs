@@ -7,14 +7,20 @@ layout: default
 - [Gospel in the Streets of the Wolrd - LiveSet](https://www.youtube.com/watch?v=)
 
 # Setlist
-## La noche de ronda
+## La Noche de Ronda
 "Noche de ronda" por Agustín Lara es la original idea de salir de noche a tocar rondear la ciudad. Músicos en la noche de ronda.
+
+>"Otra, noche otra."
+
 - Noche de ronda - Agustin Lara [Yotube](https://youtu.be/9hAN7LuRYr4?si=3AzgUCNVFZbVta7R)
-- La Última Noche - Larry Harlow [Spotify](https://open.spotify.com/track/5jZ3yVzuTagT3VjxtVOaBQ?si=b6c3d599bebf43ac)
+- La Noche - Joe Arroyo [Youtube](https://www.youtube.com/watch?v=B-VBhgh_G8Q)
+- La Última Noche - Larry Harlow [Spotify](https://open.spotify.com/track/5jZ3yVzuTagT3VjxtVOaBQ?si=b6c3d599bebf43ac), [Youtube](https://www.youtube.com/watch?v=VZpymw3icVM&t=9s)
 - Lamento de Un Guajiro - Larry Harlow [Spotify](https://open.spotify.com/track/78E1CCxSaqJMFvjB4Wub2z?si=e2f7695a14d0492d): Live
 
 ### Inspiration
 #### Songs
+- LARRY HARLOW : EL PASO DE ENCARNACION [Youtube](https://www.youtube.com/watch?v=GWn00m6xtfU)
+- 
 - Bo Bunham (https://music.youtube.com/watch?v=EsCZUqiYRRo&si=6AuOfWI9SQs-QdGF)
 - Bandera Rosa (https://music.youtube.com/watch?v=n_M9VhsrbYU&si=0moEHr4U2yS5CbTo)
 - [Classical](https://music.youtube.com/watch?v=PCx8Xcm9l7U&si=CsiB5nVvXgm1nVxj)
@@ -376,7 +382,6 @@ layout: default
 - Tokyo Ska Paradise Orchestra - **Eres**
 - Ska-P - **Vals del Obrero**
 - New York Ska-Jazz Ensemble - Boogie Stop Shuffle
--
 
 ### Reinicio: Salsa
 - Jimmy Bosch

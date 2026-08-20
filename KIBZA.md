@@ -37,13 +37,28 @@ layout: default
   - [x] [Advanced Timer](https://obsproject.com/forum/resources/advanced-timer.109/): Plugin for OBS Studio that provides advanced timer functionality.
   - [x] [Date Time](https://obsproject.com/forum/resources/date-time.110/): Plugin for OBS Studio that provides date and time functionality.
 
+### 3D
+- [Blender](https://www.blender.org/): Blender is a free and open-source 3D modeling and animation software.
+
+### Audio
+- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
+- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
+- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+
 ### Image
 - [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
   - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
 - [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
 
+## Web-Apps
 ### Fonts
+- [Font Awesome](https://fontawesome.com/v4/icons/): Font Awesome is a web-based icon library.
 - [spacetypegenerator](https://spacetypegenerator.com/)
+
+### Color
+- [Color Picker](https://colorpicker.dev): Color Picker is a web-based tool that allows you to pick colors from a color palette.
+- [Coolors](https://coolors.co/ffbe0b-fb5607-ff006e-8338ec-3a86ff-10f9bb): Coolors is a web-based tool that allows you to generate color palettes.
+- [CSS Gradient](https://cssgradient.io/): CSS Gradient is a web-based tool that allows you to create and customize gradients.
 
 ### Web
 - [Favicon Generator](https://realfavicongenerator.net/): 

@@ -16,6 +16,9 @@ layout: default
 - La Noche - Joe Arroyo [Youtube](https://www.youtube.com/watch?v=B-VBhgh_G8Q)
 - La Última Noche - Larry Harlow [Spotify](https://open.spotify.com/track/5jZ3yVzuTagT3VjxtVOaBQ?si=b6c3d599bebf43ac), [Youtube](https://www.youtube.com/watch?v=VZpymw3icVM&t=9s)
 - Lamento de Un Guajiro - Larry Harlow [Spotify](https://open.spotify.com/track/78E1CCxSaqJMFvjB4Wub2z?si=e2f7695a14d0492d): Live
+- Aguanile (DJ Jose Marquez Remix)[Youtube](https://www.youtube.com/watch?v=uRphiltmM3Y): 10min~
+  - Aguanile (Jose Marquez Remix)[Youtube](https://www.youtube.com/watch?v=hahb7oilK5U): 5min~
+
 
 ### Inspiration
 #### Songs
@@ -39,12 +42,10 @@ layout: default
 
 ## Streets of the World
 ### Rítmo
-- Richie Ray & Bobby Cruz - Sonido Bestial
-- Joe Arroyo, La Verdad - La Noche
-- Marc Anthony - Aguanile
-- Eddie Palmieri - Vámonos Pa'l Monte
+- Oh que será - Willie Colón
 - Willie Colón, Héctor Lavoe - El Día De Mi Suerte
-- Willie Colón, Héctor LavoeFmonte - El Cantante
+- Willie Colón, Héctor Lavoe - Murga
+- Willie Colón, Héctor Lavoe - El Cantante
 - Willie Colón, Héctor Lavoe - Todo Tiene Su Final
 - Joe Arroyo, La Verdad - Rebelión
 - Joe Arroyo, La Verdad - Pal' Bailador
@@ -62,13 +63,53 @@ layout: default
 - Larry Harlow - La cartera
 - Brujería
 - Virgen
-- Oh que será
+
+### Casa de Báile 
+- Aguanile - Willie Colón, Héctor Lavoe
+- Marc Anthony - Aguanile
+- Richie Ray & Bobby Cruz - Sonido Bestial
+- Eddie Palmieri - Vámonos Pa'l Monte
+- Joe Arroyo, La Verdad - La Noche
+
+---
+
+# Wake Up
+- [Feelings - Dis-lui - Pour toi](https://youtube.com/watch?v=UXZrQhuC6Gs&si=Oe4rH6eUjYjxJc3r) - Loulou Gasté
+- NINA SIMONE
+- [Cory Henry - JamJam](https://www.youtube.com/watch?v=t34rVX-svBI)
+- [Jammcard Presents: Cory Henry and the Funk Apostles LIVE at the JammJam - Trade It All](https://youtube.com/watch?v=EsCZUqiYRRo&si=6AuOfWI9SQs-QdGF)
+- Victor Wooten - What Did He Say
+- Victor Wooten - Hormones In The Headphones
+- Victor Wooten - The Jam Man
+- Victor Wooten - If You Want Me To Stay
+- Victor Wooten - Good People
+- Victor Wooten - Words of Wisdom
+- Victor Wooten - Classical Thump
+- Jamie Cullum - Don’t Stop The Music (Oak Room)
+
+- BADBADNOTGOOD - Time Moves Slow feat. Sam Herring
+
+### Reggae & Concerence
+- Bob Marley & The Wailers - Could you be loved - Errol Brown and alex sadkin remix /Bonus Track (12" Version?)
+- Bob Marley & The Wailers - Jamming (Dub)
+- Bob Marley & The Wailers - Jamming (Long Version Dub/12")
+- Bob Marley & The Wailers - Punky Reggae Party
+- Bob Marley & The Wailers - Punky Reggae Party (Jamaican 12" Version)
+- Bob Marley & The Wailers - Exodus (Live at the Rainbow)
+- Bob Marley & The Wailers - Exodus (Eric “E.T.” Thorngren Remix)
+- Bob Marley & The Wailers - Exodus (B-Side / Single Version)
+- Bob Marley & The Wailers - Exodus (versión del álbum Legend)
+- Bob Marley & The Wailers - War (Live at the Rainbow)
+- We Shall Overcome – Toots & The Maytals
 - 
+- Sister Nancy - Bam Bam
+- Lee “Scratch” Perry - Having A Party
+- The Upsetters · Lee "Scratch" Perry - Bird In Hand (2022 Remaster)
+- Conspiracy on Neptune – Prince Jammy
 
 ### LATIN
 
 - Treat - Santana
-- Aguanile (DJ Jose Marquez Remix)
 - Jamiroquai - Main Vein
 - Jamiroquai - Feel So Good
 - Outkast - Hey Ya
@@ -280,68 +321,10 @@ layout: default
 - Black Eyed Peas - Don’t Stop The Party
 - Black Eyed Peas - Let's get retarded
 
----
-
-# Wake Up
-- [Feelings - Dis-lui - Pour toi](https://youtube.com/watch?v=UXZrQhuC6Gs&si=Oe4rH6eUjYjxJc3r) - Loulou Gasté
-- NINA SIMONE
-- [Cory Henry - JamJam](https://www.youtube.com/watch?v=t34rVX-svBI)
-- [Jammcard Presents: Cory Henry and the Funk Apostles LIVE at the JammJam - Trade It All](https://youtube.com/watch?v=EsCZUqiYRRo&si=6AuOfWI9SQs-QdGF)
-- Victor Wooten - What Did He Say
-- Victor Wooten - Hormones In The Headphones
-- Victor Wooten - The Jam Man
-- Victor Wooten - If You Want Me To Stay
-- Victor Wooten - Good People
-- Victor Wooten - Words of Wisdom
-- Victor Wooten - Classical Thump
-- Jamie Cullum - Don’t Stop The Music (Oak Room)
-
-- BADBADNOTGOOD - Time Moves Slow feat. Sam Herring
-
-### Reggae & Concerence
-- Bob Marley & The Wailers - Could you be loved - Errol Brown and alex sadkin remix /Bonus Track (12" Version?)
-- Bob Marley & The Wailers - Jamming (Dub)
-- Bob Marley & The Wailers - Jamming (Long Version Dub/12")
-- Bob Marley & The Wailers - Punky Reggae Party
-- Bob Marley & The Wailers - Punky Reggae Party (Jamaican 12" Version)
-- Bob Marley & The Wailers - Exodus (Live at the Rainbow)
-- Bob Marley & The Wailers - Exodus (Eric “E.T.” Thorngren Remix)
-- Bob Marley & The Wailers - Exodus (B-Side / Single Version)
-- Bob Marley & The Wailers - Exodus (versión del álbum Legend)
-- Bob Marley & The Wailers - War (Live at the Rainbow)
-- We Shall Overcome – Toots & The Maytals
-- 
-- Sister Nancy - Bam Bam
-- Lee “Scratch” Perry - Having A Party
-- The Upsetters · Lee "Scratch" Perry - Bird In Hand (2022 Remaster)
-- Conspiracy on Neptune – Prince Jammy
-
-### SOUL & FUNK
-- Metronomy - The Look
-- Shinobi - Dead Wrong Ft Biggie Smalls (slowed)
-- Buck 65 - The Centaur (Instrumental)
-- Biggie Ebm - Come On (feat. Sadat X) (2005 Remaster)
-
-- David Bowie - Let´s dance
-
-### ROCK, METAL
-- David Bowie, Queen - Under Pressure
-  - 1rst Takef
-- [The Rolling Stones - Miss You](https://www.youtube.com/watch?v=cAB39cpisiE): (Em Vee Edit)
-- Mark Ronson Ft Mystikal - Feel Right (Explicit)
-
-- Medeski, Martin & Wood - Last Chance to Dance Trance (Perhaps)
-- Herbie Hancock - スパンク・ア・リー Spank a Lee: [Tokyo Live](https://open.spotify.com/track/19oX6v1jf1x2RykfRn9tCk?si=e05f22e1287340fb)
-- Herbie Hancock - Spank-A-Lee: [Live in Bremen](https://youtu.be/8fIimwo42_c)
-- Styx - The Message
-- The Beatles - Revolution 9
-- Akira Ishikawa - Love is the answer
-- RHCP?
-- Rage Against The Machine - Wake Up
-- SOAD
-- System Of A Down - Soil
-
 # MÉXICO: Revelaciones
+- Young Folks
+- Pick Up Folks
+
 ## Final en Repeat
 - **SAMPLES:**
 - El trapo y el pan
@@ -367,8 +350,6 @@ layout: default
 
 ### RAÍCES: Se prendió esta madre!
 - ÁMAME [Youtube](https://youtube.com/watch?v=aGpEBxazyq4&si=uEBbrDvL0cHGstad)
-- Young Folks
-- Pick Up Folks
 - Himno Nacional Mexicano (Versión Estremecedora - Mundiales: 68, 2018, 2026)
 - Organillero "Al despertar la mañana..."
 - Ratón Vaquero

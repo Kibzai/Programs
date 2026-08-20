@@ -342,8 +342,18 @@ layout: default
 - System Of A Down - Soil
 
 # MÉXICO: Revelaciones
-- Young Folks
-- Pick Up Folks
+## Final en Repeat
+- **SAMPLES:**
+- El trapo y el pan
+- 68 Asamblea de SITATYR
+- "¡Viva México!" (grito de independencia)
+- "Pinche Gobierno puto…" (sample de abuelita)
+- LOS TRABAJADORES DE LA TELEVISIÓN
+- Calle Mexico 1
+- Así suena México, pasele...
+
+---
+
 
 ## Perreo
 - C. Tangana - Comerte Entera (y cover de Leonel García)
@@ -355,17 +365,10 @@ layout: default
 - Don Omar - Dile
 - Vico C, Gilberto Santa Rosa - Lo grande que es perdonar
 
-## Final en Repeat
-- **SAMPLES:**
-- El trapo y el pan
-- 68 Asamblea de SITATYR
-- "¡Viva México!" (grito de independencia)
-- "Pinche Gobierno puto…" (sample de abuelita)
-- LOS TRABAJADORES DE LA TELEVISIÓN
-- Calle Mexico 1
-- Así suena México, pasele...
-
 ### RAÍCES: Se prendió esta madre!
+- ÁMAME [Youtube](https://youtube.com/watch?v=aGpEBxazyq4&si=uEBbrDvL0cHGstad)
+- Young Folks
+- Pick Up Folks
 - Himno Nacional Mexicano (Versión Estremecedora - Mundiales: 68, 2018, 2026)
 - Organillero "Al despertar la mañana..."
 - Ratón Vaquero

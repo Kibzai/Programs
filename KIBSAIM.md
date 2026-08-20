@@ -17,6 +17,9 @@ layout: default
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
 ## Programs
+### Disk
+- [WinDirStat](https://windirstat.net/): WinDirStat is a free and open-source disk usage analyzer.
+
 ### Drivers
 - [SDI](https://sdi-tool.org/): Snappy Driver Installer 
 
@@ -87,6 +90,7 @@ layout: default
 - [Lenovo Official Software](https://pcsupport.lenovo.com/mx/es/products/laptops-and-netbooks/legion-series/legion-y720-15ikb/downloads/driver-list/): Official Software
 - [Lenovo Nerve Center](https://store.rg-adguard.net/): Lights and Fans!
     - Require [Reddit Instructions](https://www.reddit.com/r/Lenovo/comments/ltq987/lenovo_nerve_center_download/) y/o [Microsoft Store Link](https://www.microsoft.com/en-us/p/lenovo-nerve-center/9n69gq0x4v00)
+- `powercfg /h off`: Run CMD as admin to disable hibernate and save space.
 
 ## Dispositivos
 ### NFCs

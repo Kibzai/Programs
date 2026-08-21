@@ -22,11 +22,11 @@ layout: default
 
 ### Inspiration
 #### Songs
-- LARRY HARLOW : EL PASO DE ENCARNACION [Youtube](https://www.youtube.com/watch?v=GWn00m6xtfU)
-- 
-- Bo Bunham (https://music.youtube.com/watch?v=EsCZUqiYRRo&si=6AuOfWI9SQs-QdGF)
-- Bandera Rosa (https://music.youtube.com/watch?v=n_M9VhsrbYU&si=0moEHr4U2yS5CbTo)
+- Bandera Rosa [Youtube](https://youtube.com/watch?v=n_M9VhsrbYU&si=0moEHr4U2yS5CbTo)
+-  Berserk - "Hill of Swords" [Youtube](https://www.youtube.com/watch?v=WWH_DjrmqfQ) Music Video by SKNETgriffith
+- Bo Bunham
 - [Classical](https://music.youtube.com/watch?v=PCx8Xcm9l7U&si=CsiB5nVvXgm1nVxj)
+- LARRY HARLOW : EL PASO DE ENCARNACION [Youtube](https://www.youtube.com/watch?v=GWn00m6xtfU)
 
 #### Mixes
 - [i by Kendrick Lamar but it will change your life](https://www.youtube.com/watch?v=1TW8wKapzG8) by Miles DeSantis.
@@ -41,6 +41,35 @@ layout: default
 ---
 
 ## Streets of the World
+
+### SOUL & FUNK
+- Metronomy - The Look
+- Buttercup - Jack Stauber
+- Shinobi - Dead Wrong Ft Biggie Smalls (slowed)
+- Buck 65 - The Centaur (Instrumental)
+- Biggie Ebm - Come On (feat. Sadat X) (2005 Remaster)
+- Mark Ronson Ft Mystikal - Feel Right (Explicit)
+
+- Flight of the Bumblebee with Bongó (meets Bobby McFerrin & Yo‑Yo Ma) – The Bongo Project
+
+- Herbie Hancock - スパンク・ア・リー Spank a Lee: [Tokyo Live](https://open.spotify.com/track/19oX6v1jf1x2RykfRn9tCk?si=e05f22e1287340fb)
+- Herbie Hancock - Spank-A-Lee: [Live in Bremen](https://youtu.be/8fIimwo42_c)
+- David Bowie - Let´s dance
+- David Bowie, Queen - Under Pressure
+  - Alternate Take
+- The Rolling Stones - Miss You[Youtube](https://www.youtube.com/watch?v=cAB39cpisiE): (Em Vee Edit)
+- Akira Ishikawa - Love is the answer
+
+### NU-HOUSE & ELECTRO
+- Gorillaz - Andromeda
+- Gorillaz - Andromeda (DRAM Special)
+- Gorillaz - We Got The Power (Claptone Remix)
+
+- Black Eyed Peas - Let's get retarded
+- Black Eyed Peas - Don’t Stop The Party
+
+---
+
 ### Rítmo
 - Oh que será - Willie Colón
 - Willie Colón, Héctor Lavoe - El Día De Mi Suerte
@@ -167,11 +196,11 @@ layout: default
 
 # Predi
 ## REVOLUTION NOW OR DIE
+- Basie Boogie – Count Basie [YouTube](https://www.youtube.com/watch?v=OByckZIxtCE)
+- New York Ska-Jazz Ensemble - Boogie Stop Shuffle
 - Giant Steps - Alternate take - John Coltrane
 - Impressions - John Coltrane
-- Basie Boogie – Count Basie [YouTube](https://www.youtube.com/watch?v=OByckZIxtCE)
-- Flight of the Bumblebee with Bongó (meets Bobby McFerrin & Yo‑Yo Ma) – The Bongo Project
-- 
+- Medeski, Martin & Wood - Last Chance to Dance Trance (Perhaps)
 
 ## Gospel
 - Take My Hand, Precious Lord – Thomas A. Dorsey
@@ -207,7 +236,7 @@ layout: default
 - I Get Lifted – Barbara Tucker
   - (Go To Church)[Spotify](https://open.spotify.com/track/1qqQgLfVysNaiX6wF96lML?si=37efb7648b994c3d)
 - Beautiful People – Barbara Tucker
-- 
+- Warm the room - Vales
 - We Magnify His Name – Floorplan
 - Never Grow Old – Floorplan
 
@@ -254,6 +283,7 @@ layout: default
 - Wild Cherry - Play That Funky Music
 - M.A.R.R.S. - Pump Up The Volume
 - M/A/R/R/S - Pump Up The Volume (7")
+
 - Kool & The Gang - Summer Madness
 - Bebu Silvetti - Spring Rain 1976
 - The Avalanches - Frankie Sinatra (Extended Mix)
@@ -268,6 +298,8 @@ layout: default
 - 
 
 ### TECHNO (Revolución 909)
+- Styx - The Message
+- The Beatles - Revolution 9
 - Daft Punk - Revolution 909 (Revolution A Cappella)
 - Fingers Inc. - My House Acapella (Jack Had a Groove) [1988]
 - (Varios) - Daft Punk Chicago Mix
@@ -311,15 +343,18 @@ layout: default
 - Moodymann - Ulooklykicecreaminthesummertyme
 - Justice
 - Justice - Let There Be Light
-
-### NU-HOUSE & ELECTRO
 - Metronomy - Love Letters (Soulwax Remix)
-- Gorillaz - Andromeda
-- Gorillaz - Andromeda (DRAM Special)
-- Gorillaz - We Got The Power (Claptone Remix)
 
-- Black Eyed Peas - Don’t Stop The Party
-- Black Eyed Peas - Let's get retarded
+
+
+### ROCK & METAL
+
+- RHCP?
+- Rage Against The Machine - Wake Up
+- SOAD
+- System Of A Down - Soil
+
+---
 
 # MÉXICO: Revelaciones
 - Young Folks
@@ -335,25 +370,13 @@ layout: default
 - Calle Mexico 1
 - Así suena México, pasele...
 
----
-
-
-## Perreo
-- C. Tangana - Comerte Entera (y cover de Leonel García)
-- C. Tangana!
-- Rawayana!
-- Bomba Estéreo - To My Love (Tainy Remix)
-- Tainy, Bad Bunny, Julieta Venegas - Lo Siento BB:/
-- 
-- Don Omar - Dile
-- Vico C, Gilberto Santa Rosa - Lo grande que es perdonar
-
 ### RAÍCES: Se prendió esta madre!
-- ÁMAME [Youtube](https://youtube.com/watch?v=aGpEBxazyq4&si=uEBbrDvL0cHGstad)
+- "Amorfoda" pero lo canta Totakeke
 - Himno Nacional Mexicano (Versión Estremecedora - Mundiales: 68, 2018, 2026)
 - Organillero "Al despertar la mañana..."
 - Ratón Vaquero
 - México Lindo y Querido (Organillero)
+- ÁMAME [Youtube](https://youtube.com/watch?v=aGpEBxazyq4&si=uEBbrDvL0cHGstad)
 - Jorge Negrete - México Lindo
 - Tlen Huicani, Lino Chavez - La Bamba
 - 31 Minutos - Guantesillo
@@ -365,9 +388,18 @@ layout: default
 - Tokyo Ska Paradise Orchestra - **Cielito Lindo**
 - Tokyo Ska Paradise Orchestra - **Eres**
 - Ska-P - **Vals del Obrero**
-- New York Ska-Jazz Ensemble - Boogie Stop Shuffle
 
-### Reinicio: Salsa
+### Reinicio: Ton&Salsa
+#### Perreo
+- C. Tangana - Comerte Entera (y cover de Leonel García)
+- C. Tangana!
+- Rawayana!
+- Bomba Estéreo - To My Love (Tainy Remix)
+- Tainy, Bad Bunny, Julieta Venegas - Lo Siento BB:/
+- 
+- Don Omar - Dile
+- Vico C, Gilberto Santa Rosa - Lo grande que es perdonar
+#### Salsa
 - Jimmy Bosch
   - Salsa Dura [Spotify](https://open.spotify.com/album/59PnbMufOlbNoxotzhM2hl?si=QRjhxK8_Q3Wk14DltuXupQ)
     - La Cacharra

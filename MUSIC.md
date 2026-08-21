@@ -45,10 +45,11 @@ layout: default
 ### SOUL & FUNK
 - Metronomy - The Look
 - Buttercup - Jack Stauber
+- Mark Ronson Ft Mystikal - Feel Right (Explicit)
+- 
 - Shinobi - Dead Wrong Ft Biggie Smalls (slowed)
 - Buck 65 - The Centaur (Instrumental)
 - Biggie Ebm - Come On (feat. Sadat X) (2005 Remaster)
-- Mark Ronson Ft Mystikal - Feel Right (Explicit)
 
 - Flight of the Bumblebee with Bongó (meets Bobby McFerrin & Yo‑Yo Ma) – The Bongo Project
 
@@ -117,8 +118,10 @@ layout: default
 - Jamie Cullum - Don’t Stop The Music (Oak Room)
 
 - BADBADNOTGOOD - Time Moves Slow feat. Sam Herring
+- Frits Wentink, Malin Genie - You Be the Seaside (A1)[Youtube](https://www.youtube.com/watch?v=LBpbpiuLK0g)
 
 ### Reggae & Concerence
+- Lil’ Dub Chefin - Space Monkeys (Gorillaz)
 - Bob Marley & The Wailers - Could you be loved - Errol Brown and alex sadkin remix /Bonus Track (12" Version?)
 - Bob Marley & The Wailers - Jamming (Dub)
 - Bob Marley & The Wailers - Jamming (Long Version Dub/12")
@@ -135,6 +138,7 @@ layout: default
 - Lee “Scratch” Perry - Having A Party
 - The Upsetters · Lee "Scratch" Perry - Bird In Hand (2022 Remaster)
 - Conspiracy on Neptune – Prince Jammy
+
 
 ### LATIN
 
@@ -172,7 +176,9 @@ layout: default
 - Kendrick Lamar - Humble (Skrillex Remix)
 - Kendrick Lamar - For Free? (Interlude)
 - Kendrick Lamar - Alright
-- - 
+
+- DJ Casper - Cha Cha Slide - Original Live Platinum Band Mix
+- 
 - [Kanye West - Can't Tell Me Nothing](https://youtu.be/7UZXxSbv8JQ): (Full Mixtape)
 - Kanye West & Kendrick Lamar - GOOD KID TWISTED FANTASY (full mixtape)
 - GET MUCH HIGHER: coro de "Dark Fantasy" (Kanye).
@@ -203,23 +209,27 @@ layout: default
 - Medeski, Martin & Wood - Last Chance to Dance Trance (Perhaps)
 
 ## Gospel
-- Take My Hand, Precious Lord – Thomas A. Dorsey
 - Strange Things Happening Every Day – Sister Rosetta Tharpe
-- (There'll Be) Peace in the Valley – Thomas A. Dorsey
 - Amazing Grace – Aretha Franklin
+- 
+- Father I Stretch My Hands - T.L Barret
+- Nobody Knows - T.L Barret
+- Like a Ship… (Without a Sail) – Pastor T.L. Barrett
+- Pray a Little Longer – Lucy "Sister Soul" Rodgers
+- 
 - The Revolution Will Not Be Televised – Gil Scott‑Heron [Spotify](https://open.spotify.com/track/7ni78Vjslqo2VxiDOahYlV?si=49b5b71ea1104385)
 - Lady Day and John Coltrane – Gil Scott‑Heron [Spotify](https://open.spotify.com/track/7aLn70gMnbTCVGoIro42Kd?si=74ed0df740db4887)
 - Whitey on the Moon – Gil Scott‑Heron [Spotify](https://open.spotify.com/track/6JoIOSqc999EcCUtTGSi3Y?si=1eaaefee386b49fd)
+- 
 - Inner City Blues (Make Me Wanna Holler) [Detroit Mix] – Marvin Gaye & David Van dePitte
 - Mercy Mercy Me (The Ecology) [Detroit Mix] – Marvin Gaye
 - Wholy Holy [Detroit Mix] – Marvin Gaye
+
 - A Message from the Ghetto – The Sons of Truth
   - Son of the Deacon
 - I'll Take You There – The Staple Singers
-- Like a Ship… (Without a Sail) – Pastor T.L. Barrett
 - O Yes My Lord – Voices of Conquest
 - 
-- Pray a Little Longer – Lucy "Sister Soul" Rodgers
 - I Don't Want to Be Alone – Allen Gauff Jr.
 - If You See Me Doing Wrong – The Wearyland Singers
 - No Other Love (Peace) – Messiahs of Glory [Youtube](https://www.youtube.com/watch?v=aVzkCqqwTa4)
@@ -227,18 +237,22 @@ layout: default
 - Jesus Is on the Mainline – Mr. Jesse R. McGuire
 - 150th Psalm – The Family Tree
 - Promised Land – Joe Smooth
-- 
 
-### House & BREAKS
+### Hymns 
+- (There'll Be) Peace in the Valley – Thomas A. Dorsey
+- Precious Lord, Take My Hand – Thomas A. Dorsey
+
+## House
+### BREAKS
 - Amen Brother (Amen Break) – The Winstons
 - Street Player - Chicago
 - 
 - I Get Lifted – Barbara Tucker
   - (Go To Church)[Spotify](https://open.spotify.com/track/1qqQgLfVysNaiX6wF96lML?si=37efb7648b994c3d)
 - Beautiful People – Barbara Tucker
-- Warm the room - Vales
 - We Magnify His Name – Floorplan
 - Never Grow Old – Floorplan
+- Tell You No Lie – Floorplan
 
 - Funkier Than a Mosquito's Tweeter (Jazzeem's All Styles Remix) – Nina Simone
 - CZR & J Paul Getto - House Sensation (Original Mix)
@@ -258,9 +272,9 @@ layout: default
 - Armando - Pleasure Dome
 - Oliver Dollar - Doin' Ya Thang - Dub
 - Oliver Dollar - Doin Ya Thang
-- DJ Casper - Cha Cha Slide - Original Live Platinum Band Mix
-- LA Priest - Party Zute / Learning To Love
-- Frits Wentink, Malin Genie - You Be the Seaside (A1)
+- Warm the room - Vales
+
+
 - Klaus Veen - Poison
 - Bell Biv DeVoe - Poison
 - Diplo, Nicky Da B - Express Yourself (feat. Nicky Da B)
@@ -273,7 +287,23 @@ layout: default
 - Incredible Bongo Band - Hang Down Your Head Tom Dooley Your Tie's Caught In Your Zipper 
 - Danilo Plessow, Motor City Drum Ensemble - Raw Cuts #2
 - Guti - We Shall Overcome
-- 
+
+- Floorplan a.k.a. Robert Hood - Never Grow Old (Re-Plant) [M-PLANT][Youtube](https://www.youtube.com/watch?v=iC6sOXnBglE)
+- Alan Fitzpatrick, Patrice Rushen - Haven't You Heard - Fitzy's Half Charged Mix
+- Alan Fitzpatrick vs. Patrice Rushen - Haven’t You Heard (Fully Charged Mix)
+- Devotion – Ten City
+- The Black Madonna - A Jealous Heart Never Rests (Original Mix) && He Is The Voice I Hear
+- Moodymann - I'm Doing Fine (feat. Amp Dog Knight)
+- Against All Logic - Some Kind Of Game
+- Against All Logic - This Old House Is All I Have
+- Against All Logic - Now U Got Me Hooked
+- Against All Logic - You Are the One
+- DJ Boring - Winona
+- Moodymann - Ulooklykicecreaminthesummertyme
+
+
+
+
 - Naughty By Nature - Hip Hop Hooray
 - Public Enemy - Bring The Noise (Instrumental)
 - Public Enemy - Rebel Without A Pause (Instrumental)
@@ -329,26 +359,16 @@ layout: default
 - Daft Punk - Teachers
 - Daft Punk - Teachers (Extended Mix)
 - Daft Punk, Basement Jaxx - Phoenix (Basement Jaxx Remix)
-- Floorplan a.k.a. Robert Hood - Never Grow Old (Re-Plant) [M-PLANT][Youtube](https://www.youtube.com/watch?v=iC6sOXnBglE)
-- Alan Fitzpatrick, Patrice Rushen - Haven't You Heard - Fitzy's Half Charged Mix
-- Alan Fitzpatrick vs. Patrice Rushen - Haven’t You Heard (Fully Charged Mix)
-- Devotion – Ten City
-- The Black Madonna - A Jealous Heart Never Rests (Original Mix) && He Is The Voice I Hear
-- Moodymann - I'm Doing Fine (feat. Amp Dog Knight)
-- Against All Logic - Some Kind Of Game
-- Against All Logic - This Old House Is All I Have
-- Against All Logic - Now U Got Me Hooked
-- Against All Logic - You Are the One
-- DJ Boring - Winona
-- Moodymann - Ulooklykicecreaminthesummertyme
+
 - Justice
 - Justice - Let There Be Light
 - Metronomy - Love Letters (Soulwax Remix)
 
+- LA Priest - Party Zute / Learning To Love
 
 
 ### ROCK & METAL
-
+- M1A1 - Gorillaz
 - RHCP?
 - Rage Against The Machine - Wake Up
 - SOAD

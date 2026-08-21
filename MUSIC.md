@@ -29,9 +29,10 @@ layout: default
 - LARRY HARLOW : EL PASO DE ENCARNACION [Youtube](https://www.youtube.com/watch?v=GWn00m6xtfU)
 
 #### Mixes
-- [i by Kendrick Lamar but it will change your life](https://www.youtube.com/watch?v=1TW8wKapzG8) by Miles DeSantis.
-- [Kanye West & Kendrick Lamar - GOOD KID TWISTED FANTASY](https://youtube.com/watch?v=2_oks8eX5zg&si=YK7yLHvK8HoShQrF): (full mixtape)
-- [Kanye West - Can't Tell Me Nothing](https://youtu.be/7UZXxSbv8JQ): (Full Mixtape)
+- Kanye West - Can't Tell Me Nothing [Youtube](https://youtu.be/7UZXxSbv8JQ): (Full Mixtape)
+- i by Kendrick Lamar but it will change your life [Youtube](https://www.youtube.com/watch?v=1TW8wKapzG8) by `Miles DeSantis`.
+- Kanye West & Kendrick Lamar - GOOD KID TWISTED FANTASY [Youtube](https://youtube.com/watch?v=2_oks8eX5zg&si=YK7yLHvK8HoShQrF): `toasty digital` (full mixtape)
+- Kanye West - 2049 [Youtube](https://www.youtube.com/watch?v=Iu37OXZ6cHk): `toasty digital` (full mixtape)
 
 ### Samples
 - ´Mira Puñetas no me quites el perreo!´

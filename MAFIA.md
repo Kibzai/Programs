@@ -178,7 +178,9 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 - [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
 - [The Bible Lore Iceberg](https://www.youtube.com/watch?v=7UXr791jBD4)
 - [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
-- "Amorfoda" pero lo canta Totakeke[Youtube](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL)
+- "Amorfoda" pero lo canta Totakeke [Youtube](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL)
+- Lord of The Rings but it's lofi beats | No AI [Youtube](https://youtu.be/fnVlN327sn0) by bits & hits
+- "Christmas in Middle Earth" 3 Hours of Cheerful Christmas Lord of the Rings Hobbit Music [Youtube](https://youtu.be/rVE7Q38SY5g) by Shield and Sword
 
 </div>
 
@@ -189,6 +191,7 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 
 <div markdown="1">
 
+- [Our Planet (Netflix)](https://www.netflix.com/title/80049832)
 - [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
 - [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
 - [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0) (MALCOLM IN THE MIDDLE) Español

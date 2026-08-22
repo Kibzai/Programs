@@ -21,14 +21,23 @@ layout: default
 
 
 ### Inspiration
+### Albums
+- Special Herbs - MF DOOM[Spotify](https://open.spotify.com/album/3QiZaIVgSMuznmUNLPMG8t?si=AXYycO1JRxerPdfEyREe9A)
+
 #### Songs
-- Bandera Rosa [Youtube](https://youtube.com/watch?v=n_M9VhsrbYU&si=0moEHr4U2yS5CbTo)
 -  Berserk - "Hill of Swords" [Youtube](https://www.youtube.com/watch?v=WWH_DjrmqfQ) Music Video by SKNETgriffith
+  - Skullnight Download: 
 - Bo Bunham
 - [Classical](https://music.youtube.com/watch?v=PCx8Xcm9l7U&si=CsiB5nVvXgm1nVxj)
 - LARRY HARLOW : EL PASO DE ENCARNACION [Youtube](https://www.youtube.com/watch?v=GWn00m6xtfU)
 
 #### Mixes
+- Christmas with Doom [Youtube](https://www.youtube.com/watch?v=k2XqK_rc3ww) by Stones Throw
+- MF DOOM x Cookin Soul - DOOM XMAS [Yotube](https://youtube.com/watch?v=EwzBjBHfDIs&si=RfCleFVwEE1kDWqB) (full tape) by Cookin Soul
+- Lord of The Rings but it's lofi beats | No AI [Youtube](https://youtu.be/fnVlN327sn0) by bits & hits
+- "Christmas in Middle Earth" 3 Hours of Cheerful Christmas Lord of the Rings Hobbit Music [Youtube](https://youtu.be/rVE7Q38SY5g) by Shield and Sword
+- 
+- Sonido la Changa [Youtube](https://www.youtube.com/watch?v=TZ8yVWkSeug): (Boiler Room)
 - Kanye West - Can't Tell Me Nothing [Youtube](https://youtu.be/7UZXxSbv8JQ): (Full Mixtape)
 - i by Kendrick Lamar but it will change your life [Youtube](https://www.youtube.com/watch?v=1TW8wKapzG8) by `Miles DeSantis`.
 - Kanye West & Kendrick Lamar - GOOD KID TWISTED FANTASY [Youtube](https://youtube.com/watch?v=2_oks8eX5zg&si=YK7yLHvK8HoShQrF): `toasty digital` (full mixtape)
@@ -38,10 +47,35 @@ layout: default
 - ´Mira Puñetas no me quites el perreo!´
 - ´Yo lo que quieroe perréo´
 - ´Como cuando tu me perriabas´
+- **SAMPLES:**
+- El trapo y el pan
+- 68 Asamblea de SITATYR
+- "¡Viva México!" (grito de independencia)
+- "Pinche Gobierno puto…" (sample de abuelita)
+- LOS TRABAJADORES DE LA TELEVISIÓN
+- Calle Mexico 1
+- Así suena México, pasele...
 
 ---
 
-## Streets of the World
+## El Barrio
+### RAÍCES: Se prendió esta madre!
+- Himno Nacional Mexicano (Versión Estremecedora - Mundiales: 68, 2018, 2026)
+- Organillero "Al despertar la mañana..."
+- Ratón Vaquero
+- México Lindo y Querido (Organillero)
+- Jorge Negrete - México Lindo
+- Tlen Huicani, Lino Chavez - La Bamba
+- Joe Arroyo, La Verdad - Mundo Cruel
+- José Alfredo Jimenez - Un Mundo Raro
+- 31 Minutos - Guantesillo
+- 31 Minutos - Freddy Turbina
+
+### Ska
+- Tokyo Ska Paradise Orchestra - **Cielito Lindo**
+- Tokyo Ska Paradise Orchestra - **Eres**
+- Ska-P - **Vals del Obrero**
+- Bandera Rosa [Youtube](https://youtube.com/watch?v=n_M9VhsrbYU&si=0moEHr4U2yS5CbTo)
 
 ### SOUL & FUNK
 - Metronomy - The Look
@@ -380,39 +414,17 @@ layout: default
 
 # MÉXICO: Revelaciones
 - Young Folks
-- Pick Up Folks
-
 ## Final en Repeat
-- **SAMPLES:**
-- El trapo y el pan
-- 68 Asamblea de SITATYR
-- "¡Viva México!" (grito de independencia)
-- "Pinche Gobierno puto…" (sample de abuelita)
-- LOS TRABAJADORES DE LA TELEVISIÓN
-- Calle Mexico 1
-- Así suena México, pasele...
+- Pick Up Folks
+### SONIDERO: Se prendió esta madre!
 
-### RAÍCES: Se prendió esta madre!
-- "Amorfoda" pero lo canta Totakeke
-- Himno Nacional Mexicano (Versión Estremecedora - Mundiales: 68, 2018, 2026)
-- Organillero "Al despertar la mañana..."
-- Ratón Vaquero
-- México Lindo y Querido (Organillero)
+- Sonido la Changa [Youtube](https://www.youtube.com/watch?v=TZ8yVWkSeug): (Boiler Room)
 - ÁMAME [Youtube](https://youtube.com/watch?v=aGpEBxazyq4&si=uEBbrDvL0cHGstad)
-- Jorge Negrete - México Lindo
-- Tlen Huicani, Lino Chavez - La Bamba
-- 31 Minutos - Guantesillo
-- 31 Minutos - Freddy Turbina
-- Joe Arroyo, La Verdad - Mundo Cruel
-- José Alfredo Jimenez - Un Mundo Raro
-
-### Ska
-- Tokyo Ska Paradise Orchestra - **Cielito Lindo**
-- Tokyo Ska Paradise Orchestra - **Eres**
-- Ska-P - **Vals del Obrero**
+- 
 
 ### Reinicio: Ton&Salsa
 #### Perreo
+- "Amorfoda" pero lo canta Totakeke
 - C. Tangana - Comerte Entera (y cover de Leonel García)
 - C. Tangana!
 - Rawayana!
@@ -421,6 +433,7 @@ layout: default
 - 
 - Don Omar - Dile
 - Vico C, Gilberto Santa Rosa - Lo grande que es perdonar
+
 #### Salsa
 - Jimmy Bosch
   - Salsa Dura [Spotify](https://open.spotify.com/album/59PnbMufOlbNoxotzhM2hl?si=QRjhxK8_Q3Wk14DltuXupQ)

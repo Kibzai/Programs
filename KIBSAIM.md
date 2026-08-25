@@ -28,9 +28,9 @@ layout: default
 [Firefox](https://www.mozilla.org/en-US/firefox/) is a free and open-source web browser.
 
 ##### Extensions
-- [x] [ProtonPass](https://protonpass.com/): ProtonPass is a web-based password manager that uses end-to-end encryption.
-- [x] [uBlock Origin](https://ublockorigin.com/): UBlock Origin is a web browser extension that blocks ads and trackers.
-- [x] [Tree Style Tab](https://piro.sakura.ne.jp/xul/_treestyletab.html.en): Tree Style Tab is a web browser extension that organizes tabs in a tree-like structure.
+- [x] [ProtonPass](https://addons.mozilla.org/en-US/firefox/addon/proton-pass/): ProtonPass is a web-based password manager that uses end-to-end encryption.
+- [x] [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): UBlock Origin is a web browser extension that blocks ads and trackers.
+- [x] [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/): Tree Style Tab is a web browser extension that organizes tabs in a tree-like structure.
 
 ##### Versions
 - [Zen](https://zen-browser.app/): Zen is a version of Firefox that is designed for privacy and security.

@@ -37,10 +37,16 @@ sh uninstall.sh
 ---
 
 ## Install
-Install from scratch
+Prerequisites: 
+  - [Git](https://git-scm.com/): Version control system.
+  - [Ruby](https://www.ruby-lang.org/): Programming language.
+  - [Bundler](https://bundler.io/): Ruby gem manager.
 
+Install from scratch:
 ``` bash
-# Clone the repository ()
+# Global Login
+git config --global user.email "you@example.com" 
+# Clone the repository
 git clone https://github.com/Kibzai/Programs.git
 cd Programs
 # Dependencies
@@ -53,11 +59,6 @@ bundle install
 rm -rf .jekyll-cache _site
 bundle exec jekyll serve
 ```
-
-Prerequisites: 
-  - [Git](https://git-scm.com/): Version control system.
-  - [Ruby](https://www.ruby-lang.org/): Programming language.
-  - [Bundler](https://bundler.io/): Ruby gem manager.
 
 ### Ruby Troubleshooting
 ``` bash

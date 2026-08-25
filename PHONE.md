@@ -5,6 +5,8 @@ layout: default
 ---
 # Mobile Devices
 ## Android
+- [Scrcpy](https://scrcpy.dev/#download): Remote Android Access.
+
 ### Termux
 ```bash
 history # Console History!

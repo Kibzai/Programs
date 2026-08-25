@@ -45,6 +45,112 @@ layout: default
 ### Code
 #### Zed
 [Zed](https://zed.dev/): Zed is a modern, open-source code editor.
+
+Settings
+```json
+// 🔧 Installation:
+// 1. Copy this file to ~/.config/zed/settings.json (Linux/macOS)
+//    or %USERPROFILE%\.config\zed\settings.json (Windows)
+// 2. Restart Zed or run "zed: reload settings"
+//
+// 📚 Documentation: https://zed.dev/docs/configuring-zed
+// 🎨 Themes: https://zed.dev/docs/themes
+// 🔤 Icon themes: https://zed.dev/docs/icon-themes
+{
+  // ============ LAYOUT & UI ============
+  "outline_panel": {
+    "dock": "right"
+  },
+  "project_panel": {
+    "dock": "right"
+  },
+  "restore_on_startup": "last_workspace",
+  "on_last_window_closed": "quit_app",
+  "when_closing_with_no_tabs": "keep_window_open",
+  "cli_default_open_behavior": "existing_window",
+
+  // ============ APPEARANCE ============
+  "theme": {
+    "mode": "dark",
+    "light": "Ayu Light",
+    "dark": "Gruvbox Dark Hard"
+  },
+  "icon_theme": {
+    "mode": "light",
+    "light": "Colored Zed Icons Theme Dark",
+    "dark": "Colored Zed Icons Theme Dark"
+  },
+  "minimap": {
+    "show": "always"
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  "soft_wrap": "editor_width",
+  "tab_size": 2,
+
+  // ============ EDITOR BEHAVIOR ============
+  "vim_mode": false,
+  "base_keymap": "VSCode",
+  "multi_cursor_modifier": "cmd_or_ctrl",
+  "autosave": "off",
+  "auto_indent_on_paste": true,
+  "semantic_tokens": "combined",
+
+  // ============ TITLE BAR ============
+  "title_bar": {
+    "show_menus": true
+  },
+
+  // ============ AI & LLM ============
+  // Requires Ollama running locally or on your network
+  // Install Ollama: https://ollama.ai
+  // Default port: 11434
+  "language_models": {
+    "ollama": {
+      "api_url": "http://localhost:11434"
+    }
+  },
+  "edit_predictions": {
+    "ollama": {
+      "max_output_tokens": 64,
+      "api_url": "http://localhost:11434",
+      "prompt_format": "code_llama",
+      "model": "qwen2.5-coder:7b-base"
+    },
+    "provider": "zed"
+  },
+  "agent": {
+    "default_profile": "write",
+    "default_model": {
+      "provider": "ollama",
+      "model": "qwen2.5-coder:3b",
+      "enable_thinking": false
+    },
+    "play_sound_when_agent_done": "when_hidden"
+  },
+
+  // ============ PRIVACY ============
+  "telemetry": {
+    "diagnostics": false,
+    "metrics": false,
+    "anthropic_retention": false
+  },
+
+  // ============ SYNTAX HIGHLIGHTING ============
+  "global_lsp_settings": {
+    "semantic_token_rules": [
+      {
+        "token_type": "heading",
+        "foreground_color": "#ff8c00"
+      },
+      {
+        "token_type": "strikethrough",
+        "foreground_color": "#ff0000"
+      }
+    ]
+  }
+}
+```
 - Extensions:
   - [x] `colored-zed-icons-theme`
   - [x] `papercolor`

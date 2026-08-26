@@ -39,7 +39,6 @@ Scripts varios
 `ip`
 `netstat`
 `ping [address]`, `ping -c 4 www.google.com`
-`tasker [task_name]`
 `rss [add/remove] [url]`
 `music [play/pause/next/previous]`
 `flash`
@@ -48,6 +47,7 @@ Scripts varios
 `alias gm='open -n com.google.android.apps.maps'`
 `config`, `config -set font_size 10`
 ```
+
 # OS
 - [Android-x86](https://www.android-x86.org/documentation/virtualbox.html)
 - [Anbox](https://anbox.io/)
@@ -106,7 +106,7 @@ Entretenimiento: Juegos.
 ### Tasker
 #### Profiles
 - [x] Autorotate Apps: Automatically rotates the screen based on the device's orientation.
-- [x] Autoinput (Moto edge): Rooted phones with custom button remapping.
+- [x] Autoinput (Moto edge): Rooted phones with custom button remapping: `Search Manual Codes: 84`
 - [ ] Auto Silence(WIP): Automatically silences the phone when Calendar shows not available.
 - [ ] Headphones connected: Automatically adjusts the volume based on the headphones connected.
 - [ ] Daytime: Automatically adjusts the screen brightness based on the time of day.
@@ -118,9 +118,16 @@ Entretenimiento: Juegos.
 - [ ] Full Brightness
 - [ ] Auto Brightness
 - [ ] Launch:
-	- [ ] Liife360
+	- [ ] Life360
 - [ ] Volume Please
 - [ ] Autorotate Apps
+
+#### Variables
+- %Awake
+- %OpenedApp
+
+#### Code
+- `tasker [task_name]`
 
 ### Titanium Backup
 Root required.

@@ -48,14 +48,6 @@ layout: default
 
 Settings
 ```json
-// 🔧 Installation:
-// 1. Copy this file to ~/.config/zed/settings.json (Linux/macOS)
-//    or %USERPROFILE%\.config\zed\settings.json (Windows)
-// 2. Restart Zed or run "zed: reload settings"
-//
-// 📚 Documentation: https://zed.dev/docs/configuring-zed
-// 🎨 Themes: https://zed.dev/docs/themes
-// 🔤 Icon themes: https://zed.dev/docs/icon-themes
 {
   // ============ LAYOUT & UI ============
   "outline_panel": {

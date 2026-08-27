@@ -124,12 +124,21 @@ ping kibzai.github.io
 # Intelligence
 ## IA: Agent Scientist
 - [Ollama](https://ollama.com/): Run Local!
-  - [x] ´qwen2.5-coder:3b´
+  - [x] ´deepseek-r1:7b´
+  - [ ] ´qwen2.5-coder:3b´
   - [ ] ´qwen2.5:7b-instruct-q4_K_M´
 
 ```bash
-# Realizar un ping a ollama
+# Ping
 ping [ip]:11434
+# List Models
+ollama list
+# Pull 
+ollama pull [model]
+# Run
+ollama run [model]
+# Remover
+ollama rm [model]
 ```
 
 ### IA Agents Providers

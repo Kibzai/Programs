@@ -19,6 +19,12 @@ layout: default
 - Aguanile (DJ Jose Marquez Remix)[Youtube](https://www.youtube.com/watch?v=uRphiltmM3Y): 10min~
   - Aguanile (Jose Marquez Remix)[Youtube](https://www.youtube.com/watch?v=hahb7oilK5U): 5min~
 
+# To Organize
+```markdown
+- Blue Monday - New Order
+- Marble (2022) - Cruise Tape
+- 
+```
 
 ### Inspiration
 ### Albums

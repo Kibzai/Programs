@@ -14,6 +14,20 @@ layout: default
 - [Enter the Battlefield - Life on the Magic: The Gathering Pro Tour](https://youtu.be/tCm-rRUwNGk)
 - [How It All Began – The Undocumented History of Magic: The Gathering](https://youtu.be/1qpU9K0Nu8U)
 
+## Set's
+### [Magic the Gathering: All Sets](https://scryfall.com/sets)
+#### [Alpha - Beta - Unlimited (ABU)](https://scryfall.com/sets/30a#classic-frames): [Paginated](https://scryfall.com/search?q=s%3A30a+is%3Aold&order=set&as=grid&unique=cards)
+#### [LEA](https://scryfall.com/sets/lea)
+- Left out: Volcanic Island, Circle of Protection: Black
+
+#### [LEB](https://scryfall.com/sets/leb)
+#### [2ED](https://scryfall.com/sets/2ed)
+
+- [Collector's Edition](https://scryfall.com/sets/ced)
+- [Intl. Collectors' Edition](https://scryfall.com/sets/cei)
+
+- [Alpha + Beta + Unlimited | The Resleevables #1](https://www.youtube.com/watch?v=S1MOoAT-iZo) Magic: The Gathering History MTG
+
 ## Rules
 - [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules) — Este documento es la autoridad definitiva para el juego competitivo de Magic: The Gathering®.
 
@@ -179,6 +193,7 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 - [The Bible Lore Iceberg](https://www.youtube.com/watch?v=7UXr791jBD4)
 - [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
 - "Amorfoda" pero lo canta Totakeke [Youtube](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL)
+- [Critical Thinking Part 5: The Gambler's Fallacy](https://youtu.be/K8SkCh-n4rw)
 
 </div>
 

@@ -194,6 +194,10 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
 - [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
 - "Amorfoda" pero lo canta Totakeke [Youtube](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL)
 - [Critical Thinking Part 5: The Gambler's Fallacy](https://youtu.be/K8SkCh-n4rw)
+- [German Shepherd suddenly realizes he is at the vet](https://www.youtube.com/watch?v=g49HOqVTbB4)
+- [Honest Trailers | Batman: Mask of the Phantasm](youtu.be/ODMt1-Qg7kY)
+- [How America can leave fossil fuels behind, in one chart | 2020 Election](https://www.youtube.com/watch?v=QfAXbGInwno)
+- [Bounce your Woes Away](https://www.tiktok.com/@bearandburrow/video/6990400681911799046)
 
 </div>
 

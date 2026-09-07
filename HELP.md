@@ -127,6 +127,8 @@ let yesBoth = (x,y) => { return ( x && y ) }
 ---
 
 # Hacks
+- [Check Tor Project](check.torproject.org)
+
 ## Scripts
 ¡Cuidado! Oneliners Pesados.
 ```bash

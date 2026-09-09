@@ -159,6 +159,7 @@ Settings
 - [Notion](https://www.notion.so/): Notion is a workspace for organizing and collaborating on projects.
 - [SD Memory Card Formatter](https://www.sdcard.org/downloads/formatter/)
 - [Filezilla](https://filezilla-project.org): Filezilla is a free and open-source FTP client.
+- [Qalculate](https://qalculate.github.io/downloads.html)
 
 ### Forms
 - [Formspree](https://formspree.io/)

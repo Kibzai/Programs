@@ -73,9 +73,8 @@ layout: default
 - [Cube Cobra](https://www.cubecobra.com/)
 
 ## Computing
-- [Magic: The Gathering is Turing Complete](https://arxiv.org/pdf/1904.09828): "We have presented a methodology for embedding Ro-
-gozhin’s (2, 18) universal Turing machine in a two-player
-game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
+- [Magic: The Gathering is Turing Complete](https://arxiv.org/pdf/1904.09828): "We have presented a methodology for embedding Rogozhin’s (2, 18) universal Turing machine in a two-player game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
+- [Magic Tools](https://scrollvault.net)
 
 ## Formats
 ### Highlander
@@ -1244,6 +1243,10 @@ game of Magic: The Gathering."-Alex Churchill, Stella Biderman, Austin Herrick.
   ```
 </div>
 </details>
+
+### Games
+- [Undertale](https://undertale.com/)
+  - [Español](https://undertale-spanish.com/index.html)
 
 #### RaspberryPi
 [More info on RaspberryPi setup](KIBSAIM#raspberrypi)

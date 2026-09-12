@@ -109,6 +109,10 @@ mv [source] [destination]
 # Delete File: rm cifrado.txt
 rm [file]
 ```
+# Protocolos
+- Reiniciar
+- Apagar
+- Reiniciar
 
 ---
 

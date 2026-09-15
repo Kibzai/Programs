@@ -254,6 +254,10 @@ Settings
 
 #### [Rekorbox](https://www.rekorbox.com/)
 ### Vsts
+#### Open Source
+- [Neural Amp Modeler](https://www.neuralampmodeler.com)
+- [TONE3000](https://www.tone3000.com)
+
 #### [Waves](https://www.waves.com/)
 #### [Komplete](https://www.steinberg.net/en/products/komplete/)
 - [Kontakt 5.5](https://www.steinberg.net/en/products/komplete/kontakt-5-5/)
@@ -263,7 +267,7 @@ Settings
 - [Reaktor 5](https://www.steinberg.net/en/products/komplete/reaktor-5/)
 - [Reaktor 6](https://www.steinberg.net/en/products/komplete/reaktor-6/)
 
-#### [SoundToys](https://www.soundtoys.com/)
+#### [x] [SoundToys](https://www.soundtoys.com/)
 #### [Omnisphere](https://www.steinberg.net/en/products/omnisphere/)
 #### [Izotope](https://www.izotope.com/)
 #### [Sausage Fattener](https://www.sausagefattener.com/)

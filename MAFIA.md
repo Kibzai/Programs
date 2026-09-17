@@ -95,56 +95,40 @@ layout: default
 </details>
 
 ---
-
 # Art
-## [Music Production](MUSIC)
-## Music Tools
+
+## Música
+
+### Herramientas de Música
 - [Who Sampled](https://www.whosampled.com)
 - [Genius](https://genius.com)
 - [Last FM](https://www.last.fm/)
 
 ### Playlists
 <details>
-  <summary>🎵 Youtube Music</summary>
+  <summary>🎵 YouTube Music</summary>
 
 <div markdown="1">
 
 - [ ] [RPG (Magic: The Gathering)](https://music.youtube.com/playlist?list=PLbw96DBFTlT-Zmoa5PqEuniQBJluVck6u&si=5kF9a05rPjSqwdIw): `RPG Youtube Music.`
 - [ ] [Iglesia](https://music.youtube.com/playlist?list=PLbw96DBFTlT-u01EOUvraMMfSRBVTFfmY&si=oRsrHD4Buv4ume__): `Background Youtube Music.`
 - [ ] [Churcha](https://music.youtube.com/playlist?list=PLbw96DBFTlT9Fp9yun9z3NxOFWivxk2QL&si=1pfZ1fQ47gZgboRh): `Chill Youtube Music.`
+- [ ] [mexican lofi beats](https://youtu.be/nyPGHMKg6xc)
+
+- [**NPR**](https://www.npr.org/music/)
+  - [Milton Nascimento & esperanza spalding](https://youtu.be/jFUhTmOSdGQ?list=LM): Tiny Desk (Home) Concert
+  - [Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo): NPR Music Tiny Desk Concert
+  - [Anderson .Paak & The Free Nationals Concert](https://www.youtube.com/watch?v=ferZnZ0_rSM): NPR Music Tiny Desk
+  - [The Isley Brothers](https://www.youtube.com/watch?v=uQvdcfosF5A): Tiny Desk (Home) Concert
 
 </div>
 </details>
 
-## Film
-### Movies
-- [Letterboxd](https://letterboxd.com/)
-  - [Kibza's Library](https://letterboxd.com/kibza777/)
-
-### Anime
-<details>
-  <summary>📺 Anime</summary>
-
-<div markdown="1">
-
-- [ ] Berserk (1997 TV series) `Kentaro Miura, produced by Nippon Television and VAP, animated by Oriental Light and Magic and directed by Naohito Takahashi` **剣風伝奇ベルセルク** (Kenpū Denki Berserk) ✨
-- [x] [Avatar: The Last Airbender](): (ATLA)`Nickelodeon` ✨
-- [ ] Mob Psycho 100 `One` **モブサイコ100**(Mobu Saiko Hyaku)
-- [ ] [Samurai Champloo]() `Manglobe` **サムライチャンプルー** (Samurai Chanpurū)
-- [ ] HUNTER x HUNTER `Togashi Yoshihiro`
-
-</div>
-</details>
-
-### Music Videos, Concerts & Shows
-
+### Videos Musicales y Producción
 <details>
   <summary>💢 Music (Television) Videos</summary>
 
 <div markdown="1">
-
-**NPR**
-- [Milton Nascimento & esperanza spalding](https://youtu.be/jFUhTmOSdGQ?list=LM): Tiny Desk (Home) Concert
 
 **Music Videos**
 - [Harmonic Symmetry](https://www.youtube.com/watch?v=o791hgNvGIg): by Richard Devine
@@ -176,6 +160,7 @@ layout: default
 
 </details>
 
+## Contenido
 <details>
   <summary>🗜 Content</summary>
 
@@ -194,7 +179,7 @@ layout: default
 - "Amorfoda" pero lo canta Totakeke [Youtube](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL)
 - [Critical Thinking Part 5: The Gambler's Fallacy](https://youtu.be/K8SkCh-n4rw)
 - [German Shepherd suddenly realizes he is at the vet](https://www.youtube.com/watch?v=g49HOqVTbB4)
-- [Honest Trailers | Batman: Mask of the Phantasm](youtu.be/ODMt1-Qg7kY)
+- [Honest Trailers | Batman: Mask of the Phantasm](https://youtu.be/ODMt1-Qg7kY)
 - [How America can leave fossil fuels behind, in one chart | 2020 Election](https://www.youtube.com/watch?v=QfAXbGInwno)
 - [Bounce your Woes Away](https://www.tiktok.com/@bearandburrow/video/6990400681911799046)
 
@@ -202,6 +187,13 @@ layout: default
 
 </details>
 
+## Videos
+
+### Películas
+- [Letterboxd](https://letterboxd.com/)
+  - [Kibza's Library](https://letterboxd.com/kibza777/)
+
+### Shows
 <details>
   <summary>🎥 Shows</summary>
 
@@ -213,7 +205,21 @@ layout: default
 - [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0) (MALCOLM IN THE MIDDLE) Español
 
 </div>
+</details>
 
+## Anime
+<details>
+  <summary>📺 Anime</summary>
+
+<div markdown="1">
+
+- [ ] Berserk (1997 TV series) `Kentaro Miura, produced by Nippon Television and VAP, animated by Oriental Light and Magic and directed by Naohito Takahashi` **剣風伝奇ベルセルク** (Kenpū Denki Berserk) ✨
+- [x] Avatar: The Last Airbender (ATLA) `Nickelodeon` ✨
+- [ ] Mob Psycho 100 `One` **モブサイコ100**(Mobu Saiko Hyaku)
+- [ ] Samurai Champloo `Manglobe` **サムライチャンプルー** (Samurai Chanpurū)
+- [ ] HUNTER x HUNTER `Togashi Yoshihiro`
+
+</div>
 </details>
 
 ## Web

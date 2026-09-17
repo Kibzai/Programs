@@ -116,9 +116,10 @@ layout: default
 - [ ] [mexican lofi beats](https://youtu.be/nyPGHMKg6xc)
 - [ ] [**NPR**](https://www.npr.org/music/)
   - [Milton Nascimento & esperanza spalding](https://youtu.be/jFUhTmOSdGQ?list=LM): Tiny Desk (Home) Concert
-  - [Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo): NPR Music Tiny Desk Concert
-  - [Anderson .Paak & The Free Nationals Concert](https://www.youtube.com/watch?v=ferZnZ0_rSM): NPR Music Tiny Desk
+  - [Nile Rodgers & CHIC](https://youtu.be/pRERgcQe-fQ): Tiny Desk Concert
   - [The Isley Brothers](https://www.youtube.com/watch?v=uQvdcfosF5A): Tiny Desk (Home) Concert
+  - [Anderson .Paak & The Free Nationals Concert](https://www.youtube.com/watch?v=ferZnZ0_rSM): NPR Music Tiny Desk
+  - [Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo): NPR Music Tiny Desk Concert
 
 </div>
 </details>

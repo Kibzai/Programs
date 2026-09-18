@@ -113,12 +113,13 @@ layout: default
 - [ ] [RPG (Magic: The Gathering)](https://music.youtube.com/playlist?list=PLbw96DBFTlT-Zmoa5PqEuniQBJluVck6u&si=5kF9a05rPjSqwdIw): `RPG Youtube Music.`
 - [ ] [Iglesia](https://music.youtube.com/playlist?list=PLbw96DBFTlT-u01EOUvraMMfSRBVTFfmY&si=oRsrHD4Buv4ume__): `Background Youtube Music.`
 - [ ] [Churcha](https://music.youtube.com/playlist?list=PLbw96DBFTlT9Fp9yun9z3NxOFWivxk2QL&si=1pfZ1fQ47gZgboRh): `Chill Youtube Music.`
+- [Music for People Who Are Tired of Being Distracted](https://www.youtube.com/watch?v=dQ1R_-EaNyE): by Caught In Joy.
 - [ ] [mexican lofi beats](https://youtu.be/nyPGHMKg6xc)
-- [ ] [**NPR**](https://www.npr.org/music/)
-  - [Milton Nascimento & esperanza spalding](https://youtu.be/jFUhTmOSdGQ?list=LM): Tiny Desk (Home) Concert
-  - [Nile Rodgers & CHIC](https://youtu.be/pRERgcQe-fQ): Tiny Desk Concert
-  - [The Isley Brothers](https://www.youtube.com/watch?v=uQvdcfosF5A): Tiny Desk (Home) Concert
-  - [Anderson .Paak & The Free Nationals Concert](https://www.youtube.com/watch?v=ferZnZ0_rSM): NPR Music Tiny Desk
+- [ ] [**NPR**](https://www.npr.org/music/): [NPR: Best PLaylist]()
+  - [ ] [Milton Nascimento & esperanza spalding](https://youtu.be/jFUhTmOSdGQ?list=LM): Tiny Desk (Home) Concert
+  - [ ] [Nile Rodgers & CHIC](https://youtu.be/pRERgcQe-fQ): Tiny Desk Concert
+  - [ ] [The Isley Brothers](https://www.youtube.com/watch?v=uQvdcfosF5A): Tiny Desk (Home) Concert
+  - [ ] [Anderson .Paak & The Free Nationals Concert](https://www.youtube.com/watch?v=ferZnZ0_rSM): NPR Music Tiny Desk
   - [Mac Miller](https://www.youtube.com/watch?v=QrR_gm6RqCo): NPR Music Tiny Desk Concert
 
 </div>
@@ -148,13 +149,7 @@ layout: default
 - [Masego "Lavish Lullaby": Open Mic](https://www.youtube.com/watch?v=3VSlj34f2aQ) (Live Performance)
 - [Sheku Kanneh-Mason - No Woman No Cry](https://www.youtube.com/watch?v=UiwamfDAYJo) (Cello Version)
 - [Eric Clapton - I Shot The Sheriff (Crossroads 2010)](https://www.youtube.com/watch?v=APWhx97QvxE) Official Live Video
-
-**Production**
-- [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
-- [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
-- [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
-- [Music for People Who Are Tired of Being Distracted](https://www.youtube.com/watch?v=dQ1R_-EaNyE): by Caught In Joy.
-- [The Art of Listening - Music Documentary (2021)](https://www.youtube.com/watch?v=Xnt-c5i5prM)
+- [Amorfoda](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL) pero lo canta Totakeke
 
 </div>
 
@@ -166,21 +161,30 @@ layout: default
 
 <div markdown="1">
 
-- [The Archaeology Iceberg Explained](https://www.youtube.com/watch?v=1o2fnTNxE_Q): 
-- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
+**Production**
+- [Star Wars DJ Imperial March (Full Set) - Skratch Bastid](https://www.youtube.com/watch?v=ekgpZag6xyQ)
+- [Polymoog](https://www.youtube.com/watch?v=2Feat39SqXI): 1976 Polymoog Film
+- [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
+- [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
+- [The Art of Listening - Music Documentary (2021)](https://www.youtube.com/watch?v=Xnt-c5i5prM)
+- [Gear Goggles | Kendrick Lamar's BAND: Wesley Theory | GRAMMY rehearsal](https://www.youtube.com/watch?v=d5mkAkluRIQ)
+**Interesting**
 - [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4) (Official Version)
-- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU) (4K)
-- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Art Assignment
-- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
-- [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
-- [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
 - [The Bible Lore Iceberg](https://www.youtube.com/watch?v=7UXr791jBD4)
-- [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
-- "Amorfoda" pero lo canta Totakeke [Youtube](https://www.youtube.com/watch?v=PWiuaKXjt7Q&si=HS7y_mzfNp0loutL)
+- [The Archaeology Iceberg Explained](https://www.youtube.com/watch?v=1o2fnTNxE_Q): 
+- [The Non-capitalist Solution to the Housing Crisis](https://www.youtube.com/watch?v=sKudSeqHSJk)
+- [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Art Assignment
 - [Critical Thinking Part 5: The Gambler's Fallacy](https://youtu.be/K8SkCh-n4rw)
-- [German Shepherd suddenly realizes he is at the vet](https://www.youtube.com/watch?v=g49HOqVTbB4)
+- [How America can leave fossil fuels behind, in one chart | 2020 Election](https://www.youtube.com/watch?v=QfAXbGInwno) "Could Have"
+- [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
+**Slop**
+- [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
+- [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
 - [Honest Trailers | Batman: Mask of the Phantasm](https://youtu.be/ODMt1-Qg7kY)
-- [How America can leave fossil fuels behind, in one chart | 2020 Election](https://www.youtube.com/watch?v=QfAXbGInwno)
+- [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
+- [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
+- [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0) (MALCOLM IN THE MIDDLE) Español
+- [German Shepherd suddenly realizes he is at the vet](https://www.youtube.com/watch?v=g49HOqVTbB4)
 - [Bounce your Woes Away](https://www.tiktok.com/@bearandburrow/video/6990400681911799046)
 
 </div>
@@ -193,16 +197,16 @@ layout: default
 - [Letterboxd](https://letterboxd.com/)
   - [Kibza's Library](https://letterboxd.com/kibza777/)
 
-### Shows
+### Documentals
 <details>
-  <summary>🎥 Shows</summary>
+  <summary>🎥 Documentals</summary>
 
 <div markdown="1">
 
 - [Our Planet (Netflix)](https://www.netflix.com/title/80049832)
-- [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
-- [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
-- [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0) (MALCOLM IN THE MIDDLE) Español
+- [Gigapixels of Andromeda](https://www.youtube.com/watch?v=udAL48P5NJU) (4K)
+- [THROUGH A BIRDS EYE - THE FAROE ISLANDS 4K](https://www.youtube.com/watch?v=0PikhFKyQqU): by THROUGH A BIRDS EYE
+- [Deep Field: The Impossible Magnitude of our Universe](https://www.youtube.com/watch?v=yDiD8F9ItX0): by Deep Field
 
 </div>
 </details>

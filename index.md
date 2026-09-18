@@ -45,4 +45,4 @@ Repeat.
 ---
 
 > We are the music makers,
-> And we are the dreamers of dreams,
+> And we are the dreamers of dreams. *Arthur O'Shaughnessy*

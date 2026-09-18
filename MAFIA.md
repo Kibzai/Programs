@@ -28,6 +28,11 @@ layout: default
 
 - [Alpha + Beta + Unlimited | The Resleevables #1](https://www.youtube.com/watch?v=S1MOoAT-iZo) Magic: The Gathering History MTG
 
+### Magic: Spectral Chaos
+- [Spectral Chaos Set](https://thechaosorb.com/)
+  - [Spectral Chaos Set Images](https://thechaosorb.com/spectralchaos-set-images/)
+- [The Light Before the Glass | A History of Spectral Chaos](https://youtu.be/gco_njeerfE): Rhystic Studies.
+
 ## Rules
 - [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules) — Este documento es la autoridad definitiva para el juego competitivo de Magic: The Gathering®.
 

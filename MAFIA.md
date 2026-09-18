@@ -26,12 +26,12 @@ layout: default
 - [Collector's Edition](https://scryfall.com/sets/ced)
 - [Intl. Collectors' Edition](https://scryfall.com/sets/cei)
 
-- [Alpha + Beta + Unlimited | The Resleevables #1](https://www.youtube.com/watch?v=S1MOoAT-iZo) Magic: The Gathering History MTG
+- [Alpha + Beta + Unlimited - The Resleevables #1](https://www.youtube.com/watch?v=S1MOoAT-iZo) Magic: The Gathering History MTG
 
 ### Magic: Spectral Chaos
 - [Spectral Chaos Set](https://thechaosorb.com/)
   - [Spectral Chaos Set Images](https://thechaosorb.com/spectralchaos-set-images/)
-- [The Light Before the Glass | A History of Spectral Chaos](https://youtu.be/gco_njeerfE): Rhystic Studies.
+- [The Light Before the Glass - A History of Spectral Chaos](https://youtu.be/gco_njeerfE): Rhystic Studies.
 
 ## Rules
 - [Comprehensive Rules](https://mtg.fandom.com/wiki/Module:CR/rules) — Este documento es la autoridad definitiva para el juego competitivo de Magic: The Gathering®.
@@ -172,7 +172,7 @@ layout: default
 - [Moog One: A Meditation On Listening](https://youtu.be/wdhzVFZlKsM): Shot on both Super 8mm film and contemporary digital video, the film is a modern re-imagining of the original 1976 demo video for the Polymoog, Moog's first polyphonic synthesizer
 - [KORG DS-10 PLUS: 'Live Mixing (Artist Showcase)'](https://www.youtube.com/watch?time_continue=381&v=TXTyMxM5vuY): by Anthony Seeha
 - [The Art of Listening - Music Documentary (2021)](https://www.youtube.com/watch?v=Xnt-c5i5prM)
-- [Gear Goggles | Kendrick Lamar's BAND: Wesley Theory | GRAMMY rehearsal](https://www.youtube.com/watch?v=d5mkAkluRIQ)
+- [Gear Goggles - Kendrick Lamar's BAND: Wesley Theory - GRAMMY rehearsal](https://www.youtube.com/watch?v=d5mkAkluRIQ)
 **Interesting**
 - [Wanderers - a short film by Erik Wernquist](https://www.youtube.com/watch?v=YH3c1QZzRK4) (Official Version)
 - [The Bible Lore Iceberg](https://www.youtube.com/watch?v=7UXr791jBD4)
@@ -180,12 +180,12 @@ layout: default
 - [The Non-capitalist Solution to the Housing Crisis](https://www.youtube.com/watch?v=sKudSeqHSJk)
 - [The Case for Realism](https://www.youtube.com/watch?v=Os6i6fneV-E): by The Art Assignment
 - [Critical Thinking Part 5: The Gambler's Fallacy](https://youtu.be/K8SkCh-n4rw)
-- [How America can leave fossil fuels behind, in one chart | 2020 Election](https://www.youtube.com/watch?v=QfAXbGInwno) "Could Have"
+- [How America can leave fossil fuels behind, in one chart - 2020 Election](https://www.youtube.com/watch?v=QfAXbGInwno) "Could Have"
 - [ONE OF THE MOST DETAILED ISS TOUR!!!](https://www.youtube.com/watch?v=QvTmdIhYnes)
 **Slop**
 - [QnA with future Wifey](https://www.youtube.com/watch?v=78IfMhVFBLk) PewDiePie
 - [100 People Perform a Striptease: Keep it 100](https://www.youtube.com/watch?v=rbyrig1a0UA) by Cut
-- [Honest Trailers | Batman: Mask of the Phantasm](https://youtu.be/ODMt1-Qg7kY)
+- [Honest Trailers - Batman: Mask of the Phantasm](https://youtu.be/ODMt1-Qg7kY)
 - [Stephen Colbert Connects Chance the Rapper with "Lord of the Rings"](https://www.youtube.com/watch?v=kmr_CtN1K3g)
 - [Jeff Goldblum Says He Likes to Be Called Daddy While Eating Spicy Wings](https://www.youtube.com/watch?v=TMfVEkfXEV8) by Hot Ones
 - [Lois & Hal Love: "Moriríamos de hambre"](https://www.youtube.com/watch?v=l-jgYPQK_H0) (MALCOLM IN THE MIDDLE) Español

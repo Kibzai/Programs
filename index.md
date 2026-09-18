@@ -44,8 +44,5 @@ Repeat.
 
 ---
 
-> Small programs.
->
-> Connected together.
->
-> Solve one problem well.
+> We are the music makers,
+> And we are the dreamers of dreams,

@@ -69,6 +69,9 @@ Scripts varios
 Las apps más principales!
 Personalización: Lanzadores, temas, fondos de pantalla y widgets.
 
+- [FUTO Keyboard](https://keyboard.futo.tech/): Best Keyboard.
+- [FUTO Voice](https://voiceinput.futo.tech/): Best voice to text.
+
 ### 2.-Want to be (Productivity)
 
 ¿Dónde quieres estar?

@@ -168,9 +168,8 @@ Settings
 - [Open LP](https://openlp.org/): Worship presentation software.
 
 ### Media
-- [Freetube](https://freetubeapp.io/#download): Freetube is a free and open-source YouTube client.
-- [Whisper.cpp](https://github.com/ggml-org/whisper.cpp): Whisper.cpp is a C++ implementation of the Whisper model for speech recognition.
-- [Buzz](https://github.com/chidiwilliams/buzz/): Buzz is a voice to text converter.
+- [Freetube](https://freetubeapp.io/): Freetube is a free and open-source YouTube client.
+- [Whisper](https://whisperflow.org/): Whisper is a voice to text converter.
 - [Jellyfin](http://[server-url]:8096): Jellyfin es tu propio servidor de media.
 - [TransparentWebM](https://transparentwebm.com/): TransparentWebM is a Client-side converter with Transparency.
 

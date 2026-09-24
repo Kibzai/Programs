@@ -123,13 +123,14 @@ ping kibzai.github.io
 
 # Intelligence
 ## IA: Agent Scientist
-- [Ollama](https://ollama.com/): Run Local!
-  - [x] ´deepseek-r1:7b´
+- [Ollama](https://ollama.com/): Run Local! (10~20Gb RAM)
+  - [x] ´qwen3:8b´
+  - [ ] ´deepseek-r1:7b´
   - [ ] ´qwen2.5-coder:3b´
   - [ ] ´qwen2.5:7b-instruct-q4_K_M´
 
 ```bash
-# Ping
+# Ping Default IP
 ping [ip]:11434
 # List Models
 ollama list
@@ -137,6 +138,8 @@ ollama list
 ollama pull [model]
 # Run
 ollama run [model]
+# Stop
+ollama stop [model]
 # Remover
 ollama rm [model]
 ```

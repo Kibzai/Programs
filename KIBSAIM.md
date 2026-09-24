@@ -17,6 +17,9 @@ layout: default
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
 ## Programs
+### Terminal
+- [WezTerm](wezterm.org): Terminal
+
 ### Disk
 - [WinDirStat](https://windirstat.net/): WinDirStat is a free and open-source disk usage analyzer.
 
@@ -222,7 +225,7 @@ Settings
 
 ## Networking
 ### Mikrotik
-#### [TP-Link AC1900](https://www.tp-link.com/us/products/details/cat-56_tp-link-ac1900)
+#### [L009UiGS-2HaxD]()
 #### Settings
 - [Wireguard Documentation](https://help.mikrotik.com/docs/spaces/ROS/pages/69664792/WireGuard)
 

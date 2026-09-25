@@ -3,152 +3,31 @@ title: "Laboratory"
 permalink: /KIBZA
 layout: default
 ---
-# Tools
-- [Internet Archive](https://archive.org/): Internet Archive is a digital library that preserves the web.
-- [Quite a Playlist](https://quiteaplaylist.com/): Title of Deleted Youtube Videos
-
-## Coding
-- [Scratch](https://scratch.mit.edu/): Scratch is a free, block-based programming language for computational thinking.
-
-## Game Development
-- [Godot](https://godotengine.org/): Godot is a free and open-source game engine.
-- [Unreal Engine](https://www.unrealengine.com/): Unreal Engine is a professional game engine.
-- [Unity](https://unity.com/): Unity is a cross-platform game engine.
-
-## Create Media
-### Alpha Video
-- [VideoAlpha](https://simpl.info/videoalpha/): Test Alpha Video
-
-### LUTS
-- [OBS LUTs Pack](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
-
-## Video
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): DaVinci Resolve is a professional video editing software.
-
-### Streaming
-#### OBS
-[OBS Studio](https://obsproject.com/): Open Broadcaster Software Studio.
-##### Scenes
-- [x] Dark
-- [ ] Light
-- [ ] Talk
-- [ ] Studio
-- [ ] Magic
-
-##### Scripts
-- [Lua](https://www.lua.org/): Scripting language used by OBS Studio.
-  - [x] [Advanced Timer](https://obsproject.com/forum/resources/advanced-timer.109/): Plugin for OBS Studio that provides advanced timer functionality.
-  - [x] [Date Time](https://obsproject.com/forum/resources/date-time.110/): Plugin for OBS Studio that provides date and time functionality.
-
-### 3D
-- [Blender](https://www.blender.org/): Blender is a free and open-source 3D modeling and animation software.
-
-### Audio
-- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
-- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
-- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
-
-### Image
-- [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
-  - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
-- [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
-
-## Web-Apps
-### Fonts
-- [Font Awesome](https://fontawesome.com/v4/icons/): Font Awesome is a web-based icon library.
-- [spacetypegenerator](https://spacetypegenerator.com/)
-
-### Color
-- [Color Picker](https://colorpicker.dev): Color Picker is a web-based tool that allows you to pick colors from a color palette.
-- [Coolors](https://coolors.co/ffbe0b-fb5607-ff006e-8338ec-3a86ff-10f9bb): Coolors is a web-based tool that allows you to generate color palettes.
-- [CSS Gradient](https://cssgradient.io/): CSS Gradient is a web-based tool that allows you to create and customize gradients.
-
-### Web
-- [Favicon Generator](https://realfavicongenerator.net/): 
-- [Favicon.io](https://favicon.io/)
-  - [Converter](https://favicon.io/favicon-converter/)
-
-### Codepen
-- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
-- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
-- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
-- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
-- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
-- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
-
----
-
 # Code
 Open terminal:
 ```bash
-# Realizar un ping a la WWW
-ping archive.org
-ping wikipedia.org
-ping kibzai.github.io
+# Hosts públicos
+ping -c 3 archive.org
+ping -c 3 wikipedia.org
+ping -c 3 kibzai.github.io
+# Red local
+ping -c 3 192.168.1.64      # Mikrotik RouterOS
+ping -c 3 192.168.88.30     # Home Assistant → https://192.168.88.30:8123
+ping -c 3 172.18.0.2        # Pi-Hole → https://172.18.0.2/admin/
+# Evil
+ping -c 3 192.168.216.5
 ```
 
-## Technologies
-### Browser
-- [W3Schools](https://www.w3schools.com/): W3Schools is a website that provides tutorials and references for web development.
-- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5): HTML5 is the latest version of HTML.
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): CSS is the language for styling HTML elements.
-
-### HTML
-- [Templates](https://html5up.net): HTML5 templates are pre-built HTML layouts that can be customized.
-
-### SCSS
-- [SCSS](https://sass-lang.com/): SCSS is a preprocessor scripting language that is compiled into CSS.
-- [Sass](https://sass-lang.com/): Sass is a preprocessor scripting language that is compiled into CSS.
-
-### Js - Javascript
-- [node](https://nodejs.org/): Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [deno](https://deno.com/): Deno is a secure runtime for JavaScript and TypeScript.
-- [bun](https://bun.sh/): Bun is a fast, all-in-one JavaScript runtime.
-- [npm](https://www.npmjs.com/): npm is the package manager for Node.js.
-- [pnpm](https://pnpm.io/): pnpm is a fast, disk space efficient package manager.
-
-#### Libraries
-- [Quill](https://quilljs.com/): Quill is a modern rich text editor.
-- [Three.js](https://threejs.org/): A JavaScript library for 3D graphics.
-- [PixiJS](https://pixijs.com/): A fast, lightweight 2D rendering engine for the web.
-- [p5js](https://p5js.org/): A JavaScript library for creative coding.
-
-#### Frameworks
-- [Angular](https://angular.dev/): Angular is a platform for building web applications.
-- [Vue](https://vuejs.org/): Vue is a progressive JavaScript framework.
-- [React](https://react.dev/): React is a JavaScript library for building user interfaces.
-- [Svelte](https://svelte.dev/): Svelte is a modern JavaScript framework.
-
----
-
-# Intelligence
-## IA: Agent Scientist
-- [Ollama](https://ollama.com/): Run Local! (10~20Gb RAM)
-  - [x] ´qwen3:8b´
-  - [ ] ´deepseek-r1:7b´
-  - [ ] ´qwen2.5-coder:3b´
-  - [ ] ´qwen2.5:7b-instruct-q4_K_M´
-
-```bash
-# Ping Default IP
-ping [ip]:11434
-# List Models
-ollama list
-# Pull 
-ollama pull [model]
-# Run
-ollama run [model]
-# Stop
-ollama stop [model]
-# Remover
-ollama rm [model]
-```
-
-### IA Agents Providers
-- [Deepseek](https://chat.deepseek.com)
-- [ChatGpt](https://chat.openai.com)
-- [Kimi](https://www.kimi.com/)
-- [OpenClaw ZeroToken](https://github.com/linuxhsj/openclaw-zero-token)
+# Evil
+## [Mikrotik RouterOS](http://192.168.1.64)
+## [Ollama](https://192.168.216.5:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
+## [OpenCode](http://192.168.216.5:50702)
+## [T3](http://192.168.216.5:3773)
+## [Jellyfin](http://192.168.216.5:8096): Media Server
+# Lab
+# [Programas](https://kibzai.github.io/Programs/)
+## [CV](https://kibzai.github.io/CV): CV
+## [Maps](http://192.168.216.5:5173): Maps WIP
 
 # PROMPTS
 Copy/Paste Prompts:
@@ -187,3 +66,94 @@ CODE ONLY, CODE BLOCK
 ```txt
 You are an elite research agent specializing in scientific, technical, historical, legal, engineering, software, and interdisciplinary investigation. MISSION: Discover the best-supported answer possible through systematic investigation instead of generating the first plausible response. Think like: researcher, scientist, detective, engineer, reviewer, architect, investigator. OBJECTIVES: Maximize correctness. Minimize hallucinations. Separate facts from assumptions. Identify uncertainty. Find hidden constraints. Compare competing explanations. Optimize for reproducibility. RESEARCH PROCESS: 1. Understand the objective. 2. Decompose the problem. 3. Identify missing information. 4. Build hypotheses. 5. Test each hypothesis against available evidence. 6. Search for contradictory evidence. 7. Compare alternatives. 8. Evaluate tradeoffs. 9. Rank confidence. 10. Produce the best-supported conclusion. REASONING FRAMEWORK: Apply whenever relevant: First Principles, Systems Thinking, Bayesian Reasoning, Root Cause Analysis, Pareto Analysis, Decision Trees, Cost-Benefit Analysis, Risk Assessment, Failure Mode Analysis (FMEA), Sensitivity Analysis, Opportunity Cost, Complexity Analysis, Information Theory, Statistical Thinking, Causal Inference, Algorithmic Thinking. VERIFY EVERYTHING: Question: assumptions, definitions, terminology, dates, versions, compatibility, dependencies, measurements, benchmarks, documentation, sources. LOOK FOR: edge cases, exceptions, hidden variables, biases, conflicting evidence, historical context, implementation details, practical limitations. PROGRAMMING: When software is involved: Prefer official documentation. Prefer production-ready solutions. Explain tradeoffs. Analyze complexity. Consider portability. Consider maintainability. Consider security. Consider scalability. Consider performance. Consider memory usage. Consider concurrency. Consider rollback procedures. LINUX: When shell commands are needed: Prefer Bash. Prefer POSIX compatibility. Prefer one-liners when practical. Minimize repetition. Use variables. Use functions. Use pipelines. Add comments only when valuable. Add safety checks before destructive operations. Include rollback mechanisms whenever possible. SCIENTIFIC STANDARDS: Differentiate: FACT LIKELY POSSIBLE SPECULATION UNKNOWN Never present uncertainty as certainty. SOURCES Prioritize: 1. Official documentation 2. Standards 3. RFCs 4. Academic papers 5. Technical books 6. Vendor documentation 7. Source code 8. Reputable engineering blogs Avoid relying solely on opinions. OUTPUT FORMAT, Executive Summary, Key Findings, Evidence, Alternative Explanations, Tradeoffs, Risks, Limitations, Final Recommendation, Confidence Level (0–100%) STYLE Dense. Technical. Objective. Evidence-driven. Minimal fluff. Never expose internal reasoning. If information is missing, explicitly state what additional information would increase confidence. If multiple valid answers exist, compare them objectively instead of selecting one arbitrarily. If the request involves code, OUTPUT: ```txt CODE ONLY CODE BLOCK ONLY ``` If the request involves scripts: production-ready, safe, idempotent when possible, configurable through environment variables, minimal dependencies, documented only where necessary
 ```
+---
+
+# Local Agent
+- [Ollama](https://ollama.com/): Run Local! (10~20Gb RAM)
+  - [x] ´qwen3:8b´
+  - [ ] ´deepseek-r1:7b´
+  - [ ] ´qwen2.5-coder:3b´
+  - [ ] ´qwen2.5:7b-instruct-q4_K_M´
+
+```bash
+# List Models
+ollama list
+# Pull 
+ollama pull [model]
+# Run
+ollama run [model]
+# Stop
+ollama stop [model]
+# Remover
+ollama rm [model]
+```
+
+### IA Agents Providers
+- [Deepseek](https://chat.deepseek.com)
+- [ChatGpt](https://chat.openai.com)
+- [Kimi](https://www.kimi.com/)
+- [OpenClaw ZeroToken](https://github.com/linuxhsj/openclaw-zero-token)
+
+# Tools
+- [Internet Archive](https://archive.org/): Internet Archive is a digital library that preserves the web.
+- [Quite a Playlist](https://quiteaplaylist.com/): Title of Deleted Youtube Videos
+
+## Coding
+- [Scratch](https://scratch.mit.edu/): Scratch is a free, block-based programming language for computational thinking.
+
+## Web-Apps
+### Fonts
+- [Font Awesome](https://fontawesome.com/v4/icons/): Font Awesome is a web-based icon library.
+- [spacetypegenerator](https://spacetypegenerator.com/)
+
+### Color
+- [Color Picker](https://colorpicker.dev): Color Picker is a web-based tool that allows you to pick colors from a color palette.
+- [Coolors](https://coolors.co/ffbe0b-fb5607-ff006e-8338ec-3a86ff-10f9bb): Coolors is a web-based tool that allows you to generate color palettes.
+- [CSS Gradient](https://cssgradient.io/): CSS Gradient is a web-based tool that allows you to create and customize gradients.
+
+### Web
+- [Favicon Generator](https://realfavicongenerator.net/): 
+- [Favicon.io](https://favicon.io/)
+  - [Converter](https://favicon.io/favicon-converter/)
+
+### Codepen
+- [AnimatedMeshLines](https://tympanus.net/Development/AnimatedMeshLines/demo2.html)
+- [SVG Gradient Wave Generator](https://codepen.io/supah/pen/prVVOx)
+- [How Many Steps Does It Take To Get From Me To You?](https://codepen.io/jasesmith/pen/rZmKQG)
+- [Changing background-color while scrolling version 2](https://codepen.io/Funsella/pen/dpRPYe)
+- [Color Changin'](https://codepen.io/alexzaworski/pen/mEZvrG)
+- [Elastic stroke CSS + SVG](https://codepen.io/yoksel/pen/XJbzrO)
+
+---
+
+## Technologies
+### Browser
+- [W3Schools](https://www.w3schools.com/): W3Schools is a website that provides tutorials and references for web development.
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML/HTML5): HTML5 is the latest version of HTML.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS): CSS is the language for styling HTML elements.
+
+### HTML
+- [Templates](https://html5up.net): HTML5 templates are pre-built HTML layouts that can be customized.
+
+### SCSS
+- [SCSS](https://sass-lang.com/): SCSS is a preprocessor scripting language that is compiled into CSS.
+- [Sass](https://sass-lang.com/): Sass is a preprocessor scripting language that is compiled into CSS.
+
+### Js - Javascript
+- [node](https://nodejs.org/): Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [deno](https://deno.com/): Deno is a secure runtime for JavaScript and TypeScript.
+- [bun](https://bun.sh/): Bun is a fast, all-in-one JavaScript runtime.
+- [npm](https://www.npmjs.com/): npm is the package manager for Node.js.
+- [pnpm](https://pnpm.io/): pnpm is a fast, disk space efficient package manager.
+
+#### Libraries
+- [Quill](https://quilljs.com/): Quill is a modern rich text editor.
+- [Three.js](https://threejs.org/): A JavaScript library for 3D graphics.
+- [PixiJS](https://pixijs.com/): A fast, lightweight 2D rendering engine for the web.
+- [p5js](https://p5js.org/): A JavaScript library for creative coding.
+
+#### Frameworks
+- [Angular](https://angular.dev/): Angular is a platform for building web applications.
+- [Vue](https://vuejs.org/): Vue is a progressive JavaScript framework.
+- [React](https://react.dev/): React is a JavaScript library for building user interfaces.
+- [Svelte](https://svelte.dev/): Svelte is a modern JavaScript framework.

@@ -20,16 +20,16 @@ ping -c 3 192.168.216.5
 
 # Evil
 ## [Mikrotik RouterOS](http://192.168.1.64)
-## [OpenCode](http://192.168.216.5:50702)
-## [Home Assistant](http://192.168.88.30:8123)
-## [Pi-Hole](https://172.18.0.2/admin/)
-## [Ollama](http://192.168.216.5:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
-## [T3](http://192.168.216.5:3773)
-## [Jellyfin](http://192.168.216.5:8096): Media Server
+### [OpenCode](http://192.168.216.5:50702)
+### [Home Assistant](http://192.168.88.30:8123)
+### [Pi-Hole](https://172.18.0.2/admin/)
+### [Ollama](http://192.168.216.5:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
+### [T3](http://192.168.216.5:3773)
+### [Jellyfin](http://192.168.216.5:8096): Media Server
 # Lab
-# [Programas](https://kibzai.github.io/Programs/)
-## [CV](https://kibzai.github.io/CV): CV
-## [Maps](http://192.168.216.5:5173): Maps (WIP)
+## [Programas](https://kibzai.github.io/Programs/)
+### [CV](https://kibzai.github.io/CV): CV
+### [Maps](http://192.168.216.5:5173): Maps (WIP)
 
 # PROMPTS
 Copy/Paste Prompts:

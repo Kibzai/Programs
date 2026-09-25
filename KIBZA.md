@@ -3,33 +3,31 @@ title: "Laboratory"
 permalink: /KIBZA
 layout: default
 ---
-# Code
-Open terminal:
+Terminal:
 ```bash
-# Hosts públicos
+# Ping Hosts públicos
 ping -c 3 archive.org
 ping -c 3 wikipedia.org
 ping -c 3 kibzai.github.io
-# Red local
+# Ping Red local
 ping -c 3 192.168.1.64      # Mikrotik RouterOS
 ping -c 3 192.168.88.30     # Home Assistant → https://192.168.88.30:8123
 ping -c 3 172.18.0.2        # Pi-Hole → https://172.18.0.2/admin/
-# Evil
-ping -c 3 192.168.216.5
+ping -c 3 192.168.216.5     # Evil
 ```
 
-# Evil
-## [Mikrotik RouterOS](http://192.168.1.64)
-### [OpenCode](http://192.168.216.5:50702)
-### [Home Assistant](http://192.168.88.30:8123)
-### [Pi-Hole](https://172.18.0.2/admin/)
-### [Ollama](http://192.168.216.5:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
-### [T3](http://192.168.216.5:3773)
-### [Jellyfin](http://192.168.216.5:8096): Media Server
-# Lab
-## [Programas](https://kibzai.github.io/Programs/)
-### [CV](https://kibzai.github.io/CV): CV
-### [Maps](http://192.168.216.5:5173): Maps (WIP)
+## Network
+- [Mikrotik RouterOS](http://192.168.1.64)
+- [Home Assistant](http://192.168.88.30:8123)
+- [Pi-Hole](https://172.18.0.2/admin/)
+## Evil
+- [Ollama](http://192.168.216.5:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
+- [T3](http://192.168.216.5:3773)
+- [Jellyfin](http://192.168.216.5:8096): Media Server
+## Lab
+- [Programas](https://kibzai.github.io/Programs/)
+- [CV](https://kibzai.github.io/CV): CV
+- [Maps](http://192.168.216.5:5173): Maps (WIP)
 
 # PROMPTS
 Copy/Paste Prompts:

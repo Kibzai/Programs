@@ -11,11 +11,31 @@ ping -c 3 wikipedia.org
 ping -c 3 kibzai.github.io
 # Ping Red local
 ping -c 3 192.168.1.64      # Mikrotik RouterOS
-ping -c 3 192.168.88.30     # Home Assistant → https://192.168.88.30:8123
-ping -c 3 172.18.0.2        # Pi-Hole → https://172.18.0.2/admin/
+ping -c 3 192.168.88.30     # Home Assistant
+ping -c 3 172.18.0.2        # Pi-Hole
 ping -c 3 192.168.216.5     # Evil
 ```
+# World Wide Web
+# Programs
+- [Programs](https://kibzai.github.io/Programs/)
+## CV
+- [CV](https://kibzai.github.io/CV): CV
+## Tools
+- [Phi](https://kibzai.github.io/Phi/)
+- [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
+- [Playlist Cover Generator](https://kibzai.github.io/PlaylistCover/)
+- [Steganography](https://kibzai.github.io/Steganography/)
+- [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
+- [HypergeometricCalculator](https://kibzai.github.io/HypergeometricCalculator/)
+## Magic
+- [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
+- [MagicASCII](https://github.com/Kibzai/MagicASCII): Readme
+## Random
+- [Random Web](https://kibzai.github.io/Random/)
 
+---
+
+# Laboratory & Studio
 ## Network
 - [Mikrotik RouterOS](http://192.168.1.64)
 - [Home Assistant](http://192.168.88.30:8123)
@@ -25,8 +45,6 @@ ping -c 3 192.168.216.5     # Evil
 - [T3](http://192.168.216.5:3773)
 - [Jellyfin](http://192.168.216.5:8096): Media Server
 ## Lab
-- [Programas](https://kibzai.github.io/Programs/)
-- [CV](https://kibzai.github.io/CV): CV
 - [Maps](http://192.168.216.5:5173): Maps (WIP)
 
 # PROMPTS

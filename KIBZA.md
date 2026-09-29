@@ -16,10 +16,6 @@ ping -c 3 172.18.0.2        # Pi-Hole
 ping -c 3 192.168.216.5     # Evil
 ```
 # World Wide Web
-# Programs
-- [Programs](https://kibzai.github.io/Programs/)
-## CV
-- [CV](https://kibzai.github.io/CV): CV
 ## Tools
 - [Phi](https://kibzai.github.io/Phi/)
 - [BinauralBeats](https://kibzai.github.io/BinauralBeats/)
@@ -27,13 +23,27 @@ ping -c 3 192.168.216.5     # Evil
 - [Steganography](https://kibzai.github.io/Steganography/)
 - [RandomGenerator](https://kibzai.github.io/RandomGenerator/)
 - [HypergeometricCalculator](https://kibzai.github.io/HypergeometricCalculator/)
+
 ## Magic
 - [ScryfallResearcher](https://kibzai.github.io/ScryfallResearcher/)
 - [MagicASCII](https://github.com/Kibzai/MagicASCII): Readme
+
 ## Random
 - [Random Web](https://kibzai.github.io/Random/)
 
 ---
+
+# Server protocols
+```bash
+# Ping Program
+ping -c 3 kibzai.github.io
+```
+
+# Programs
+- [Programs](https://kibzai.github.io/Programs/)
+
+## CV
+- [CV](https://kibzai.github.io/CV): CV
 
 # Laboratory & Studio
 ## Network
@@ -46,6 +56,8 @@ ping -c 3 192.168.216.5     # Evil
 - [Jellyfin](http://192.168.216.5:8096): Media Server
 ## Lab
 - [Maps](http://192.168.216.5:5173): Maps (WIP)
+
+---
 
 # PROMPTS
 Copy/Paste Prompts:
@@ -111,7 +123,7 @@ ollama rm [model]
 - [Deepseek](https://chat.deepseek.com)
 - [ChatGpt](https://chat.openai.com)
 - [Kimi](https://www.kimi.com/)
-- [OpenClaw ZeroToken](https://github.com/linuxhsj/openclaw-zero-token)
+- [LiteLLM](https://www.litellm.ai/)
 
 # Tools
 - [Internet Archive](https://archive.org/): Internet Archive is a digital library that preserves the web.

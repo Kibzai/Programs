@@ -11,8 +11,8 @@ layout: default
 ```bash
 adb devices
 adb shell
-# Show installed packages
-adb shell pm list packages | grep "app-name" 
+# Show installed packages = package:android.jonas.fakestandby
+adb shell pm list packages | grep "standby" 
 # Uninstall app (Fake Standby)
 adb shell pm uninstall --user 0 android.jonas.fakestandby
 ```

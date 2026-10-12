@@ -52,12 +52,12 @@ ping -c 3 kibzai.github.io
 - [Pi-Hole](https://172.18.0.2/admin/)
 
 ## Evil
-- [Ollama](http://192.168.216.5:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
-- [T3](http://192.168.216.5:3773)
-- [Jellyfin](http://192.168.216.5:8096): Media Server
+- [Ollama](http://192.168.88.17:11434/v1/models): [Local Agent](KIBZA.md#local-agent)
+- [T3](http://192.168.88.17:3773)
+- [Jellyfin](http://192.168.88.17:8096): Media Server
 
 ## Lab
-- [Maps](http://192.168.216.5:5173): Maps (WIP)
+- [Maps](http://192.168.88.17:5173): Maps (WIP)
 
 ---
 

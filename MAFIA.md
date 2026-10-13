@@ -1263,6 +1263,57 @@ layout: default
 ### Games
 - [Undertale](https://undertale.com/)
   - [Español](https://undertale-spanish.com/index.html)
+- [Arcade Games](https://youtu.be/JgVDPXgC5To): TechDweeb Video
+  - Metal Slug X – SNK – Neo Geo
+  - Puzzle Bobble 2 – Taito – Taito F3
+  - D&D: Shadow over Mystara – Capcom – CPS-2
+  - Galaga – Namco – Namco Galaga hardware
+  - Strider – Capcom – CPS-1
+  - Windjammers – Data East – Neo Geo
+  - DoDonPachi – Cave (Atlus license) – Cave hardware
+  - TMNT: Turtles in Time – Konami – Konami 68000 board
+  - Spin Master – Data East – Neo Geo
+  - Garou: Mark of the Wolves – SNK – Neo Geo
+  - Dungeon Magic – Taito – Taito F3
+  - Sunset Riders – Konami – Konami 68000 board
+  - Puyo Puyo 2 – Compile (Sega license) – Sega System C2
+  - WWF WrestleFest – Technos Japan – Technos Double Dragon 3 board
+  - Golden Axe: Revenge of Death Adder – Sega – Sega System 32
+  - OutRun – Sega – Sega OutRun hardware
+  - Cadash – Taito – Taito Asuka & Asuka hardware
+  - ESP Rade – Cave (Atlus license) – Cave hardware
+  - Elevator Action Returns – Taito – Taito F3
+  - Pac-Man – Midway / General Computer – Namco Pac-Man hardware
+  - Warriors of Fate – Capcom – CPS-1
+  - Fantasy Zone – Sega – Sega System 16A
+  - Neo Turf Masters – Nazca – Neo Geo
+  - King of Fighters '98 – SNK – Neo Geo
+  - Tumble Pop – Data East – DE-0343 board
+  - Shock Troopers: 2nd Squad – Saurus – Neo Geo
+  - Solomon's Key – Tecmo – standalone Tecmo board
+  - Ghouls 'n Ghosts – Capcom – CPS-1
+  - 1944: The Loop Master – Eighting/Raizing (Capcom license) – CPS-2
+  - Predator – Capcom – CPS-2
+  - Willow – Capcom – CPS-1
+  - Neo Bomberman – Hudson Soft – Neo Geo
+  - Battle Circuit – Capcom – CPS-2
+  - Bubble Bobble – Taito – Taito Bubble Bobble hardware
+  - Street Fighter Alpha 3 – Capcom – CPS-2
+  - The Simpsons – Konami – Konami GX072 board
+  - Outzone – Toaplan – Toaplan Version 1
+  - Boogie Wings – Data East – DE-0379-1 PCB
+  - Asteroids – Atari – Atari vector hardware
+  - Ninja Baseball Bat Man – Irem – Irem M92
+  - Baseball Stars 2 – SNK – Neo Geo
+  - Blazing Star – Yumekobo – Neo Geo
+  - Wizard Fire – Data East – Data East Rohga hardware
+  - Contra – Konami – Konami Contra board
+  - Gunbird 2 – Psikyo – Psikyo SH-2 (PS5) 
+  - NBA Jam Tournament Edition – Midway – Midway T-Unit
+  - Knights of the Round – Capcom – CPS-1
+  - Pulstar – Aicom – Neo Geo
+  - Neo Drift Out – Visco – Neo Geo
+  - Armored Warriors – Capcom – CPS-2
 
 #### RaspberryPi
 [More info on RaspberryPi setup](KIBSAIM#raspberrypi)

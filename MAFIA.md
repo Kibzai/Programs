@@ -42,6 +42,7 @@ layout: default
 
 ## Best Cards
 - ["Time Walk"](https://scryfall.com/search?q=Time+Walk) — En teoría, la mejor carta de Magic. Puedes comparar casi cualquier carta con referencia a Time Walk.
+  - [Story of the Card: Time Walk](https://youtu.be/6TqPdLM1PNE): Video Analysis by Something On. 
 - ["Black Lotus"](https://scryfall.com/search?q=Black+Lotus) — La carta más poderosa de Magic.
 - ["Sol Ring"](https://scryfall.com/search?q=Sol+Ring) — Realmente, la carta más poderosa de Magic.
 
@@ -1193,6 +1194,8 @@ layout: default
 ### Devices
 
 #### Flipper
+- [Flipper Lab](https://lab.flipper.net/)
+
 ##### Firmware
 - [Momentum Firmware](https://momentum-fw.dev)
 

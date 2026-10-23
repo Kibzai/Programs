@@ -190,3 +190,4 @@ ollama rm [model]
 - [Vue](https://vuejs.org/): Vue is a progressive JavaScript framework.
 - [React](https://react.dev/): React is a JavaScript library for building user interfaces.
 - [Svelte](https://svelte.dev/): Svelte is a modern JavaScript framework.
+  - [SvelteKit Tauri](https://v2.tauri.app/start/frontend/sveltekit/)

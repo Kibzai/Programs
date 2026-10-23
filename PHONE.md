@@ -68,18 +68,29 @@ Scripts varios
 
 - **Google Play Store** - `https://play.google.com/store`
 - **F-Droid** - `https://f-droid.org/`
+- 
 - **APKMirror** (no es exactamente una tienda, pero es un repositorio popular de APKs) - `https://www.apkmirror.com/`
 - **Amazon Appstore** - `https://www.amazon.com/mobile-apps/b?node=2350149011`
 
-## Home's
+## Casa
 
 ### 1.- Hogar
 
 Las apps más principales!
 Personalización: Lanzadores, temas, fondos de pantalla y widgets.
 
-*Esenciales (pendiente de integrar el Home actual):*
+*Esenciales*
+- [F-Droid](https://f-droid.org/): Free Store.
+- [Play Store](https://play.google.com/store): Google account and gapps needed.
+- [Proton Pass](https://protonmail.com/): Servicio de .
+- [Proton Drive](https://protonmail.com/): Servicio de correo electrónico seguro.
+- 
 - *(placeholder)*
+
+#### Navegadores
+- [Firefox](https://www.mozilla.org/firefox/): Navegador web Firefox.
+- [Firefox Nightly](https://www.mozilla.org/firefox/channel/desktop/): Navegador web nocturno de Firefox.
+- [DuckDuckGo](https://duckduckgo.com/): Motor de búsqueda privado.
 
 #### Teclados y entrada
 - [FUTO Keyboard](https://keyboard.futo.tech/): Best Keyboard.
@@ -100,7 +111,34 @@ Personalización: Lanzadores, temas, fondos de pantalla y widgets.
 - [Zedge](https://www.zedge.net/): Fondos de pantalla y tonos.
 - TickTock Video Wallpaper by TikTok: Fondos de pantalla en video.
 
-> Los **lanzadores** están agrupados aparte en la sección **Launchers**.
+#### Correo
+- [Gmail](https://mail.google.com/): Correo electrónico de Google.- [Proton Mail](https://protonmail.com/): Servicio de correo electrónico seguro.
+- Temp Mail: Correo temporal.
+
+## Launchers
+
+- [Kvaesitso](https://f-droid.org/en/packages/de.mm20.launcher2.release/)
+- T-UI: Interfaz de usuario de terminal.
+- Nova Launcher
+- Smart Launcher: Launcher personalizado.
+- Lens Launcher: Lanzador de aplicaciones.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2.-Want to be (Productivity)
 
@@ -164,10 +202,6 @@ Fotografía y Creación de Contenidos: Editores de fotos y videos, dibujo y dise
 - Zello: Comunicación por voz en tiempo real.
 - [Meet](https://meet.google.com/): Videoconferencias de Google.
 
-#### Correo
-- [Gmail](https://mail.google.com/): Correo electrónico de Google.
-- [Proton Mail](https://protonmail.com/): Servicio de correo electrónico seguro.
-- Temp Mail: Correo temporal.
 
 #### Redes sociales
 - [Instagram](https://www.instagram.com/): Red social de fotos y videos.
@@ -457,17 +491,9 @@ Compras: Aplicaciones de tiendas, comparación de precios y listas de compras.
 - Termius: Cliente SSH y Telnet.
 - [BOINC](https://boinc.berkeley.edu/): Computación distribuida.
 - EtchDroid: Aplicación de grabado.
-- [F-Droid](https://f-droid.org/): Tienda de aplicaciones de código abierto.
 - F-Droid Build Status: Estado de construcción de F-Droid.
 - TorrServe MatriX: Servidor y cliente BitTorrent.
 - BitTorrent: Cliente de torrent.
-
-#### Navegadores
-- [Firefox](https://www.mozilla.org/firefox/): Navegador web Firefox.
-- [Firefox Nightly](https://www.mozilla.org/firefox/channel/desktop/): Navegador web nocturno de Firefox.
-- [DuckDuckGo](https://duckduckgo.com/): Motor de búsqueda privado.
-- [Bing](https://www.bing.com/): Motor de búsqueda de Microsoft.
-- Browser: Navegador web.
 
 ### 5.-Learn investigate (weather)
 
@@ -716,15 +742,6 @@ Entretenimiento: Juegos.
 - Fifth Edition Character Sheet: Hoja de personaje D&D 5E.
 - Reroll: Generador de personajes para juegos de rol.
 - Dice: Lanza dados virtuales.
-
-## Launchers
-
-- Smart Launcher: Launcher personalizado.
-- Home: Launcher de Android.
-- Lens Launcher: Lanzador de aplicaciones.
-- T-UI: Interfaz de usuario de terminal.
-- Kvaesitso: *(en la lista original figura como "Juego de puzles"; en realidad es un launcher)*
-- Nova7: *(figura como "Aplicación de utilidades"; probablemente Nova Launcher — dudoso)*
 
 ## Configuración
 

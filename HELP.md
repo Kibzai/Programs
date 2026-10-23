@@ -109,10 +109,6 @@ mv [source] [destination]
 # Delete File: rm cifrado.txt
 rm [file]
 ```
-# Protocolos
-- Reiniciar
-- Apagar
-- Reiniciar
 
 ---
 
@@ -182,3 +178,30 @@ sfc /scannow
 # System scan.
 Dism /Online /Cleanup-Image /RestoreHealth
 ```
+
+# Work
+- (occ.com.mx)
+- (computrabajo.com)
+- (indeed.com)
+- (indeed.com)
+
+# Parental
+- https://www.bark.us/
+- https://www.qustodio.com
+
+# Search
+- [Pentester](pentester.com)
+- [OSINT Framework](https://osintframework.com/)
+- [OSINT Pilot](https://osintpilot.com/)
+
+# Protocolos
+- Reiniciar
+- Apagar
+- Reiniciar
+
+# Order
+- Check saved messages
+
+# Drugs
+- ¿Cuánto tiempo tiene que tomaste?
+- You can always take more but you can never take less so be gentle!

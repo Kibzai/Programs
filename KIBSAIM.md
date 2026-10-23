@@ -171,22 +171,25 @@ Settings
 - [Open LP](https://openlp.org/): Worship presentation software.
 
 ### Media
-- [Freetube](https://freetubeapp.io/): Freetube is a free and open-source YouTube client.
+#### Voice Dictation
 - [Whisper](https://whisperflow.org/): Whisper is a voice to text converter.
+- 
+
+#### Image
+- [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
+  - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
+- [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
+
+#### Serve
 - [Jellyfin](http://[server-url]:8096): Jellyfin es tu propio servidor de media.
-- [TransparentWebM](https://transparentwebm.com/): TransparentWebM is a Client-side converter with Transparency.
 
-## Game Development
-- [Godot](https://godotengine.org/): Godot is a free and open-source game engine.
-- [Unreal Engine](https://www.unrealengine.com/): Unreal Engine is a professional game engine.
-- [Unity](https://unity.com/): Unity is a cross-platform game engine.
+#### Content
+- [Freetube](https://freetubeapp.io/): Freetube is a free and open-source YouTube client.
 
-## Create Media
-### Alpha Video
-- [VideoAlpha](https://simpl.info/videoalpha/): Test Alpha Video
-
-### LUTS
+#### Edit
 - [OBS LUTs Pack](https://obsproject.com/forum/resources/free-lut-filter-pack.594/)
+- [VideoAlpha](https://simpl.info/videoalpha/): Test Alpha Video
+- [TransparentWebM](https://transparentwebm.com/): TransparentWebM is a Client-side converter with Transparency.
 
 ## Video
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): DaVinci Resolve is a professional video editing software.
@@ -210,20 +213,18 @@ Settings
 - [Blender](https://www.blender.org/): Blender is a free and open-source 3D modeling and animation software.
 
 ### Audio
-- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
-- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
-- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
-
-### Image
-- [Gimp](https://www.gimp.org/): GIMP is a free and open-source image editor.
-  - [PhotoGimp](https://github.com/Diolinux/Photogimp): PhotoGimp is a GIMP plugin that looks like Photoshop.
-- [SumatraPDF](https://www.sumatrapdfreader.org/): Es open source, un lector de PDFs.
-
-### Audio
 - [Voicemeter](https://vb-audio.com/Voicemeeter/): Voicemeter is a virtual audio mixer.
 - [Audacity](https://www.audacityteam.org/): Audacity is a free and open-source audio editor.
 - [Spytify](https://github.com/jwallet/spy-spotify): Aplicación para grabar canciones de Spotify sin anuncios y con la misma calidad de sonido.
 - [Spotdl](https://github.com/spotDL/spotify-downloader): Descargador de música de Spotify que utiliza YouTube como fuente de audio.
+- [Silence Remover](https://www.silenceremover.com/): Silence Remover is a web-based tool that allows you to remove silence from audio files.
+- [Webcam recorder](https://www.webcamrecorder.com/): Webcam Recorder is a web-based tool that allows you to record your webcam.
+- [BandLab](https://www.bandlab.com/): Plataforma de creación musical en línea que ofrece herramientas de grabación, edición y colaboración.
+
+## Game Development
+- [Godot](https://godotengine.org/): Godot is a free and open-source game engine.
+- [Unreal Engine](https://www.unrealengine.com/): Unreal Engine is a professional game engine.
+- [Unity](https://unity.com/): Unity is a cross-platform game engine.
 
 ---
 

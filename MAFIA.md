@@ -70,7 +70,8 @@ layout: default
   - [API Bulk Data](https://scryfall.com/docs/api/bulk-data)
   - [API Rate Limits](https://scryfall.com/docs/api/rate-limits)
   - [API Reference](https://scryfall.com/docs/api/reference)
-
+  -
+  -[Primeras Cartas en Español en Scryfall](https://scryfall.com/search?as=grid&dir=asc&order=released&page=137&q=lang%3Aspa&unique=cards)
 
 ## Decks
 - [Moxfield](https://moxfield.com/)

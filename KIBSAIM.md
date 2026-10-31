@@ -17,6 +17,8 @@ layout: default
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
 
 ## Programs
+- [FancyWM](https://apps.microsoft.com/detail/9p1741lkhqs9?hl=en-US&gl=MX): Dynamic Tiling Window Manager
+
 ### Terminal
 - [WezTerm](wezterm.org): Terminal
 
@@ -152,6 +154,11 @@ Settings
   - [x] `color-highlight`
 
 ### Tools
+#### Git: Local, Github & Gitlab
+[Git](https://git-scm.com/) is a version control system. Its like a timelined branched repository with history.
+- [Install](https://git-scm.com/install/)
+
+#### Essential
 - [7z](https://www.7-zip.org/): 7-Zip is a file archiver with a high compression ratio.
 - [VLC](https://www.videolan.org/vlc/): VLC is a free and open-source media player.
 - [Parsec](https://parsec.app/): Parsec is a remote desktop software that allows you to control your computer from anywhere.
@@ -195,6 +202,8 @@ Settings
 - [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve): DaVinci Resolve is a professional video editing software.
 
 ### Streaming
+- [BetterTTV](https://betterttv.com/) The emotes and chat features Twitch left out. Free and open source.
+
 #### OBS
 [OBS Studio](https://obsproject.com/): Open Broadcaster Software Studio.
 ##### Scenes

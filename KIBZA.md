@@ -127,6 +127,11 @@ ollama rm [model]
 - [Kimi](https://www.kimi.com/)
 - [LiteLLM](https://www.litellm.ai/)
 
+## Email
+- [Proton](https://proton.me/)
+  - Signature
+- [Ksuite](https://infomaniak.com)
+
 # Tools
 - [Internet Archive](https://archive.org/): Internet Archive is a digital library that preserves the web.
 - [Quite a Playlist](https://quiteaplaylist.com/): Title of Deleted Youtube Videos

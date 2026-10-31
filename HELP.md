@@ -23,7 +23,10 @@ Símbolos Útiles
 {[(<@\!/#$%&^>)]}
 ´`'"
 ```
-
+```bash
+# Wsl: Linux  in Windows Subsystem.
+wsl
+```
 ## WWW - World Wide Web
 
 ```bash
@@ -34,21 +37,26 @@ http(s):// # (s) para conecciones seguras
 # Open Browser Bash
 start https://kibzai.github.io/Programs/
 ```
-``` bash
-# Open Browser Power Shell
+```sh
+# Open Browser in Power Shell
 Start-Process "https://kibzai.github.io/Programas/"
 ```
 
 # Protocols
-## Email
-- Signature
-  - [Proton](https://proton.me/support/display-name-email-signature)
-# Git: Local, Github & Gitlab
-[Git](https://git-scm.com/) is a version control system. Its like a timelined branched repository with history.
-- [Install](https://git-scm.com/install/)
+## Terminal
+```bash
+# Updates the package lists and upgrades packages
+sudo apt update && sudo apt upgrade -y
+# Install openCode
+sudo curl -fsSL https://opencode.ai/install | bash
+```
 
+## Git
+```bash
+sudo apt install git -y
+```
 
-## Commands
+### Commands
 - Credentials:
   - Set Email
   - Set Name
@@ -61,7 +69,7 @@ git config --global user.name "User"
 ssh-keygen -t rsa -b 4096 -C "user@service.com"
 ```
 
-### Git Bash
+### Bash
 Terminal commands for Git Bash.
 ```bash
 # Clone a Git repository
@@ -132,8 +140,8 @@ let yesBoth = (x,y) => { return ( x && y ) }
 ## Scripts
 ¡Cuidado! Oneliners Pesados.
 ```bash
-# Updates the package lists and upgrades packages
-sudo apt update && sudo apt upgrade -y
+# Visual monitors
+htop
 # Continuously monitors system performance
 top
 # Displays disk usage of each file/folder in the current directory

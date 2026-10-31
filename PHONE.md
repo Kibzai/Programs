@@ -270,11 +270,13 @@ Fotografía y Creación de Contenidos: Editores de fotos y videos, dibujo y dise
 - [GIPHY](https://giphy.com/): Plataforma de GIFs animados.
 - Kaomoji: Generador de emoticonos japoneses.
 
-#### Streaming y medios
+#### Streaming
 - [Twitch](https://www.twitch.tv/): Plataforma de transmisión en vivo.
 - Streamlabs: Herramientas para transmisión en vivo.
 - Streamlabs Controller: Controla las transmisiones en vivo.
 - OBS Blade: Herramienta de retransmisión en vivo.
+
+#### Media
 - [Prime Video](https://www.primevideo.com/): Servicio de streaming de video.
 - [YouTube](https://www.youtube.com/): Plataforma de videos en línea.
 - [YT Studio](https://studio.youtube.com/): Gestión de canal de YouTube.

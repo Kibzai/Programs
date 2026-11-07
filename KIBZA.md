@@ -130,7 +130,7 @@ ollama rm [model]
 ## Email
 - [Proton](https://proton.me/)
   - Signature
-- [Ksuite](https://infomaniak.com)
+- [Infomaniak - Ksuite](https://infomaniak.com)
 
 # Tools
 - [Internet Archive](https://archive.org/): Internet Archive is a digital library that preserves the web.

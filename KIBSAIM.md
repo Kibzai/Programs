@@ -4,17 +4,22 @@ permalink: /KIBSAIM
 layout: default
 ---
 # Software
-## OS
+## OS (Operating Systems)
 ### Windows
 - [MiniOS](https://minios.org/): Minified Windows.
   - `MiniOS10ProV26`: Minified Windows Pro.
   - `MiniOS10LTSC (Current)`: Minified Windows LTSC (Current).
   - `MiniOS10X-21H2v26.04`: Extreme Minified Windows X-21H2v26.04.
+- [Windows](): Original
 
 ### Linux OS
+- [Debian](https://)
+- [Ubuntu](https://)
 - [Fedora](http://fedoraproject.org): OS for developers.
   - Fedora WS-Live43
+- [Omarchy](https://omarchy.org)
 - [Tails OS](http://tails.os): tails es la única forma de comenzar a viajar el Internet de manera anónima.
+- Mint
 
 ## Programs
 - [FancyWM](https://apps.microsoft.com/detail/9p1741lkhqs9?hl=en-US&gl=MX): Dynamic Tiling Window Manager

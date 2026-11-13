@@ -451,6 +451,12 @@ layout: default
  - [ ] Avatar: The Last Airbender - The Art ... `Various, Various`
  - [ ] Spawn Bible `Beau Smith, Greg Capullo`
 <!-- Comics -->
+- [TODO] Pax Romana `Jonathan Hickman`
+- [TODO] The Manhattan Projects `Jonathan Hickman`
+- [TODO] A Red Mass for Mars `Jonathan Hickman`
+- [ ] East Of West `Jonathan Hickman, Nick Dragotta`
+- [ ] East of West: The World `Jonathan Hickman, Nick Dragotta`
+- [ ] God Is Dead `Jonathan Hickman, Di Amorim`
 - [ ] 100th Anniversary Special: Avengers `James Stokoe, James Stokoe`
 - [ ] 300 (1998) `Frank Miller, Frank Miller`
 - [ ] Absolute Carnage `Donny Cates, Ryan Stegman`
@@ -593,8 +599,6 @@ layout: default
 - [ ] Doomsday Clock `Geoff Johns, Gary Frank`
 - [ ] Dr. Strange `Mark Waid, Kev Walker`
 - [ ] DUNE: The Graphic Novel `Frank Herbert, Raul Allen`
-- [ ] East Of West `Jonathan Hickman, Nick Dragotta`
-- [ ] East of West: The World `Jonathan Hickman, Nick Dragotta`
 - [ ] Edge of Spider-Verse (2014) `David Hine, Richard Isanove`
 - [ ] Edge of Spider-Verse (2022) `Alex Segura, Caio Majado`
 - [ ] Edge of Spider-Verse (2023) `Karla Pacheco, Pere Perez`
@@ -628,7 +632,6 @@ layout: default
 - [ ] Ghost/Hellboy Special `Mike Mignola, Mike Mignola`
 - [ ] Giant Robot Hellboy `Mike Mignola, Duncan Fegredo`
 - [ ] Giant-Size Kung Fu Bible Stories `Erik Larsen, Art Adams`
-- [ ] God Is Dead `Jonathan Hickman, Di Amorim`
 - [ ] Godzilla (1977) `Doug Moench, Herb Trimpe`
 - [ ] Godzilla (1988) `Kazuhisa Iwata`
 - [ ] Godzilla (1995) `Kevin Maguire, Arthur Adams`

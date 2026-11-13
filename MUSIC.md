@@ -435,8 +435,11 @@ layout: default
 - C. Tangana - Comerte Entera (y cover de Leonel García)
 - C. Tangana!
 - Rawayana!
-- Bomba Estéreo - To My Love (Tainy Remix)
+- Me Rehúso
+- 
+- Daniel, Me Estás Matando - Me Rehúso
 - Tainy, Bad Bunny, Julieta Venegas - Lo Siento BB:/
+- Bomba Estéreo - To My Love (Tainy Remix)
 - 
 - Don Omar - Dile
 - Vico C, Gilberto Santa Rosa - Lo grande que es perdonar

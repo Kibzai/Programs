@@ -17,6 +17,17 @@ layout: default
 
 ## Find Help
 
+### Política
+- Marcella María Althaus-Reid
+- Karl Marx
+- Malcolm X
+- Martin Luther King Jr
+- Norman Finkelstein
+- Richard D. Wolff
+- Cornel West
+- Yanis Varoufakis: `Economista` 
+
+
 Para pedir ayuda en situaciones de emergencia usando dispositivos móviles, hay varias aplicaciones que pueden ser útiles. Algunas de estas aplicaciones incluyen:
 
 Life360: Permite crear grupos con amigos o familiares y compartir tu ubicación en tiempo real. Incluye una función de pánico para alertar a tus contactos en caso de emergencia.

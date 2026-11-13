@@ -22,6 +22,9 @@ layout: default
 - Mint
 
 ## Programs
+### Clean
+- [Bleachbit](https://www.bleachbit.org/download): El mejor "cleaner".
+
 - [FancyWM](https://apps.microsoft.com/detail/9p1741lkhqs9?hl=en-US&gl=MX): Dynamic Tiling Window Manager
 
 ### Terminal

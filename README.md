@@ -6,6 +6,14 @@ layout: default
 # Programs
 ## 🌎 [Protocols, Programs & Tools](https://kibzai.github.io/Programs/)
 > Crear: Hacer una versión de lo que amas.
+## Color
+```css
+--amber-gold: #ffbe0bff;
+--blaze-orange: #fb5607ff;
+--neon-pink: #ff006eff;
+--blue-violet: #8338ecff;
+--azure-blue: #3a86ffff;
+```
 
 ## Usage
 ``` bash
